@@ -1,0 +1,1239 @@
+{
+  "metadata": {
+    "customer_id": "8531896842",
+    "date_range": {
+      "start": "2025-11-05",
+      "end": "2026-02-03"
+    },
+    "total_rows": 77,
+    "active_search_campaigns": 15,
+    "generated_at": "2026-02-04T13:09:17.798748",
+    "note": "Per-competitor domain data requires Standard API access. Rank Lost IS is used as a proxy for competitive pressure."
+  },
+  "account_level_by_day": {
+    "MONDAY": {
+      "impressions": 38641,
+      "clicks": 2039,
+      "cost": 17152.6,
+      "avg_search_is": 0.476896,
+      "avg_rank_lost_is": 0.192171,
+      "avg_budget_lost_is": 0.381845,
+      "avg_top_is": 0.337092,
+      "avg_rank_lost_top_is": 0.294713,
+      "avg_budget_lost_top_is": 0.395697,
+      "avg_abs_top_is": 0.208285,
+      "avg_rank_lost_abs_top_is": 0.43985,
+      "avg_budget_lost_abs_top_is": 0.395697
+    },
+    "TUESDAY": {
+      "impressions": 44899,
+      "clicks": 2514,
+      "cost": 21776.24,
+      "avg_search_is": 0.467021,
+      "avg_rank_lost_is": 0.159409,
+      "avg_budget_lost_is": 0.466963,
+      "avg_top_is": 0.347336,
+      "avg_rank_lost_top_is": 0.235346,
+      "avg_budget_lost_top_is": 0.482346,
+      "avg_abs_top_is": 0.223313,
+      "avg_rank_lost_abs_top_is": 0.378833,
+      "avg_budget_lost_abs_top_is": 0.482346
+    },
+    "WEDNESDAY": {
+      "impressions": 44576,
+      "clicks": 2281,
+      "cost": 20725.19,
+      "avg_search_is": 0.501522,
+      "avg_rank_lost_is": 0.204018,
+      "avg_budget_lost_is": 0.385078,
+      "avg_top_is": 0.372106,
+      "avg_rank_lost_top_is": 0.2855,
+      "avg_budget_lost_top_is": 0.427992,
+      "avg_abs_top_is": 0.245872,
+      "avg_rank_lost_abs_top_is": 0.430682,
+      "avg_budget_lost_abs_top_is": 0.427992
+    },
+    "THURSDAY": {
+      "impressions": 41845,
+      "clicks": 2167,
+      "cost": 16711.73,
+      "avg_search_is": 0.468001,
+      "avg_rank_lost_is": 0.196914,
+      "avg_budget_lost_is": 0.418857,
+      "avg_top_is": 0.351024,
+      "avg_rank_lost_top_is": 0.28778,
+      "avg_budget_lost_top_is": 0.451725,
+      "avg_abs_top_is": 0.248745,
+      "avg_rank_lost_abs_top_is": 0.412443,
+      "avg_budget_lost_abs_top_is": 0.451725
+    },
+    "FRIDAY": {
+      "impressions": 32223,
+      "clicks": 1574,
+      "cost": 14865.92,
+      "avg_search_is": 0.48284,
+      "avg_rank_lost_is": 0.336995,
+      "avg_budget_lost_is": 0.300276,
+      "avg_top_is": 0.355666,
+      "avg_rank_lost_top_is": 0.451631,
+      "avg_budget_lost_top_is": 0.321264,
+      "avg_abs_top_is": 0.212651,
+      "avg_rank_lost_abs_top_is": 0.604975,
+      "avg_budget_lost_abs_top_is": 0.321264
+    },
+    "SATURDAY": {
+      "impressions": 561,
+      "clicks": 51,
+      "cost": 210.39,
+      "avg_search_is": 0.463325,
+      "avg_rank_lost_is": 0.233496,
+      "avg_budget_lost_is": 0.303178,
+      "avg_top_is": 0.308824,
+      "avg_rank_lost_top_is": 0.38848,
+      "avg_budget_lost_top_is": 0.302696,
+      "avg_abs_top_is": 0.140931,
+      "avg_rank_lost_abs_top_is": 0.556373,
+      "avg_budget_lost_abs_top_is": 0.302696
+    },
+    "SUNDAY": {
+      "impressions": 531,
+      "clicks": 45,
+      "cost": 142.53,
+      "avg_search_is": 0.423958,
+      "avg_rank_lost_is": 0.576042,
+      "avg_budget_lost_is": 0.0,
+      "avg_top_is": 0.23125,
+      "avg_rank_lost_top_is": 0.76875,
+      "avg_budget_lost_top_is": 0.0,
+      "avg_abs_top_is": 0.0999,
+      "avg_rank_lost_abs_top_is": 0.9001,
+      "avg_budget_lost_abs_top_is": 0.0
+    }
+  },
+  "account_weekday_vs_weekend": {
+    "weekday": {
+      "avg_impressions_per_day": 40436,
+      "avg_cost_per_day": 18246.34,
+      "avg_search_impression_share": 0.479256,
+      "avg_rank_lost_impression_share": 0.217901,
+      "avg_budget_lost_impression_share": 0.390604,
+      "avg_top_impression_share": 0.352645,
+      "avg_abs_top_impression_share": 0.227773
+    },
+    "weekend": {
+      "avg_impressions_per_day": 546,
+      "avg_cost_per_day": 176.46,
+      "avg_search_impression_share": 0.443642,
+      "avg_rank_lost_impression_share": 0.404769,
+      "avg_budget_lost_impression_share": 0.303178,
+      "avg_top_impression_share": 0.270037,
+      "avg_abs_top_impression_share": 0.120416
+    },
+    "differences": {
+      "search_is_diff": -0.035614,
+      "rank_lost_is_diff": 0.186868,
+      "budget_lost_is_diff": -0.087426,
+      "top_is_diff": -0.082608,
+      "abs_top_is_diff": -0.107357
+    }
+  },
+  "per_campaign_weekend_analysis": {
+    "Search-Demand-Boom-Lifts": {
+      "weekday_search_is": 0.196554,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.541549,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 110286
+    },
+    "DSA-AllPages-Tier1-New-US-2": {
+      "weekday_search_is": 0.152498,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.125794,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 52697
+    },
+    "Search-Excavator-Core-Geos-US": {
+      "weekday_search_is": 0.311059,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.388642,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 6990
+    },
+    "Search-Scissor-Lift-Core-Geos-US": {
+      "weekday_search_is": 0.453203,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.184523,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 6680
+    },
+    "Search-Loader-Core-Geos-US": {
+      "weekday_search_is": 0.349318,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.353321,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 6106
+    },
+    "Search-Dozers-Core-Geos-US-V3": {
+      "weekday_search_is": 0.341049,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.19018,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 4294
+    },
+    "Search-Forklift-Core-Geos-US": {
+      "weekday_search_is": 0.368857,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.278148,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 4004
+    },
+    "Search-Telehandler-Core-Geos-US": {
+      "weekday_search_is": 0.454201,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.229418,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 3706
+    },
+    "Search-Backhoe-Core-Geos-US": {
+      "weekday_search_is": 0.468394,
+      "weekend_search_is": 0.443642,
+      "diff": -0.024751999999999996,
+      "weekday_rank_lost": 0.192458,
+      "weekend_rank_lost": 0.404769,
+      "total_impressions": 3501
+    },
+    "Search-Excavator-Core-Geos-CA": {
+      "weekday_search_is": 0.540578,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.281564,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 1234
+    },
+    "Search-Scissor-Lift-Core-Geos-CA": {
+      "weekday_search_is": 0.427226,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.0872,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 1168
+    },
+    "Search-Loader-Core-Geos-CA": {
+      "weekday_search_is": 0.49975,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.040619,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 944
+    },
+    "Search-Telehandler-Core-Geos-CA": {
+      "weekday_search_is": 0.837907,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.127808,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 858
+    },
+    "Search-Demand-Brand-US": {
+      "weekday_search_is": 0.845993,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.154007,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 457
+    },
+    "Search-Demand-Brand-CA": {
+      "weekday_search_is": 0.942251,
+      "weekend_search_is": 0.0,
+      "diff": 0,
+      "weekday_rank_lost": 0.065607,
+      "weekend_rank_lost": 0.0,
+      "total_impressions": 351
+    }
+  },
+  "per_campaign_by_day": {
+    "Search-Demand-Boom-Lifts": {
+      "MONDAY": {
+        "impressions": 20528,
+        "clicks": 863,
+        "cost": 8338.89,
+        "avg_search_is": 0.195623,
+        "avg_rank_lost_is": 0.46183,
+        "avg_top_is": 0.110115,
+        "avg_abs_top_is": 0.0999
+      },
+      "TUESDAY": {
+        "impressions": 25642,
+        "clicks": 1146,
+        "cost": 11110.19,
+        "avg_search_is": 0.192702,
+        "avg_rank_lost_is": 0.530873,
+        "avg_top_is": 0.11294,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 22296,
+        "clicks": 912,
+        "cost": 7392.75,
+        "avg_search_is": 0.211576,
+        "avg_rank_lost_is": 0.539761,
+        "avg_top_is": 0.119794,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 23143,
+        "clicks": 1020,
+        "cost": 8289.21,
+        "avg_search_is": 0.211543,
+        "avg_rank_lost_is": 0.477604,
+        "avg_top_is": 0.116641,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 18677,
+        "clicks": 766,
+        "cost": 6889.73,
+        "avg_search_is": 0.171327,
+        "avg_rank_lost_is": 0.697679,
+        "avg_top_is": 0.103475,
+        "avg_abs_top_is": 0.0999
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "DSA-AllPages-Tier1-New-US-2": {
+      "MONDAY": {
+        "impressions": 7826,
+        "clicks": 402,
+        "cost": 3099.82,
+        "avg_search_is": 0.137513,
+        "avg_rank_lost_is": 0.089929,
+        "avg_top_is": 0.0999,
+        "avg_abs_top_is": 0.0999
+      },
+      "TUESDAY": {
+        "impressions": 10264,
+        "clicks": 589,
+        "cost": 4561.98,
+        "avg_search_is": 0.145149,
+        "avg_rank_lost_is": 0.096023,
+        "avg_top_is": 0.0999,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 15423,
+        "clicks": 854,
+        "cost": 9599.23,
+        "avg_search_is": 0.181961,
+        "avg_rank_lost_is": 0.061432,
+        "avg_top_is": 0.12333,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 12042,
+        "clicks": 631,
+        "cost": 4372.31,
+        "avg_search_is": 0.153847,
+        "avg_rank_lost_is": 0.109201,
+        "avg_top_is": 0.0999,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 7142,
+        "clicks": 395,
+        "cost": 4330.67,
+        "avg_search_is": 0.144019,
+        "avg_rank_lost_is": 0.272385,
+        "avg_top_is": 0.0999,
+        "avg_abs_top_is": 0.0999
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Excavator-Core-Geos-US": {
+      "MONDAY": {
+        "impressions": 1891,
+        "clicks": 131,
+        "cost": 659.8,
+        "avg_search_is": 0.295466,
+        "avg_rank_lost_is": 0.269211,
+        "avg_top_is": 0.122267,
+        "avg_abs_top_is": 0.0999
+      },
+      "TUESDAY": {
+        "impressions": 1493,
+        "clicks": 138,
+        "cost": 662.98,
+        "avg_search_is": 0.299512,
+        "avg_rank_lost_is": 0.146808,
+        "avg_top_is": 0.152539,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 1307,
+        "clicks": 76,
+        "cost": 340.19,
+        "avg_search_is": 0.348085,
+        "avg_rank_lost_is": 0.400816,
+        "avg_top_is": 0.164859,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 1075,
+        "clicks": 79,
+        "cost": 403.0,
+        "avg_search_is": 0.323914,
+        "avg_rank_lost_is": 0.414694,
+        "avg_top_is": 0.150508,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 1224,
+        "clicks": 66,
+        "cost": 415.12,
+        "avg_search_is": 0.288319,
+        "avg_rank_lost_is": 0.711681,
+        "avg_top_is": 0.153664,
+        "avg_abs_top_is": 0.0999
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Scissor-Lift-Core-Geos-US": {
+      "MONDAY": {
+        "impressions": 1656,
+        "clicks": 117,
+        "cost": 872.94,
+        "avg_search_is": 0.495766,
+        "avg_rank_lost_is": 0.12597,
+        "avg_top_is": 0.265342,
+        "avg_abs_top_is": 0.106346
+      },
+      "TUESDAY": {
+        "impressions": 1490,
+        "clicks": 113,
+        "cost": 1054.95,
+        "avg_search_is": 0.415323,
+        "avg_rank_lost_is": 0.021601,
+        "avg_top_is": 0.222577,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 991,
+        "clicks": 70,
+        "cost": 719.42,
+        "avg_search_is": 0.414697,
+        "avg_rank_lost_is": 0.095832,
+        "avg_top_is": 0.2226,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 1334,
+        "clicks": 75,
+        "cost": 714.4,
+        "avg_search_is": 0.432099,
+        "avg_rank_lost_is": 0.21142,
+        "avg_top_is": 0.250097,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 1209,
+        "clicks": 63,
+        "cost": 592.43,
+        "avg_search_is": 0.508128,
+        "avg_rank_lost_is": 0.46779,
+        "avg_top_is": 0.306442,
+        "avg_abs_top_is": 0.104154
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Loader-Core-Geos-US": {
+      "MONDAY": {
+        "impressions": 1760,
+        "clicks": 99,
+        "cost": 550.61,
+        "avg_search_is": 0.346658,
+        "avg_rank_lost_is": 0.230957,
+        "avg_top_is": 0.180546,
+        "avg_abs_top_is": 0.0999
+      },
+      "TUESDAY": {
+        "impressions": 1350,
+        "clicks": 93,
+        "cost": 467.16,
+        "avg_search_is": 0.303696,
+        "avg_rank_lost_is": 0.189311,
+        "avg_top_is": 0.156055,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 1139,
+        "clicks": 68,
+        "cost": 306.54,
+        "avg_search_is": 0.334503,
+        "avg_rank_lost_is": 0.365115,
+        "avg_top_is": 0.16417,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 989,
+        "clicks": 63,
+        "cost": 283.35,
+        "avg_search_is": 0.343869,
+        "avg_rank_lost_is": 0.399086,
+        "avg_top_is": 0.172506,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 868,
+        "clicks": 37,
+        "cost": 147.68,
+        "avg_search_is": 0.417864,
+        "avg_rank_lost_is": 0.582136,
+        "avg_top_is": 0.206121,
+        "avg_abs_top_is": 0.0999
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Dozers-Core-Geos-US-V3": {
+      "MONDAY": {
+        "impressions": 1073,
+        "clicks": 110,
+        "cost": 459.22,
+        "avg_search_is": 0.334904,
+        "avg_rank_lost_is": 0.142805,
+        "avg_top_is": 0.205597,
+        "avg_abs_top_is": 0.0999
+      },
+      "TUESDAY": {
+        "impressions": 1190,
+        "clicks": 108,
+        "cost": 457.02,
+        "avg_search_is": 0.316584,
+        "avg_rank_lost_is": 0.098461,
+        "avg_top_is": 0.192597,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 541,
+        "clicks": 51,
+        "cost": 245.56,
+        "avg_search_is": 0.307286,
+        "avg_rank_lost_is": 0.108108,
+        "avg_top_is": 0.167052,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 728,
+        "clicks": 77,
+        "cost": 246.38,
+        "avg_search_is": 0.341171,
+        "avg_rank_lost_is": 0.186093,
+        "avg_top_is": 0.184874,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 762,
+        "clicks": 55,
+        "cost": 249.38,
+        "avg_search_is": 0.4053,
+        "avg_rank_lost_is": 0.415433,
+        "avg_top_is": 0.258769,
+        "avg_abs_top_is": 0.0999
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Forklift-Core-Geos-US": {
+      "MONDAY": {
+        "impressions": 1146,
+        "clicks": 72,
+        "cost": 1144.86,
+        "avg_search_is": 0.415806,
+        "avg_rank_lost_is": 0.466426,
+        "avg_top_is": 0.303719,
+        "avg_abs_top_is": 0.110021
+      },
+      "TUESDAY": {
+        "impressions": 950,
+        "clicks": 75,
+        "cost": 1177.25,
+        "avg_search_is": 0.342399,
+        "avg_rank_lost_is": 0.300936,
+        "avg_top_is": 0.257691,
+        "avg_abs_top_is": 0.100758
+      },
+      "WEDNESDAY": {
+        "impressions": 488,
+        "clicks": 47,
+        "cost": 785.79,
+        "avg_search_is": 0.308036,
+        "avg_rank_lost_is": 0.05102,
+        "avg_top_is": 0.219371,
+        "avg_abs_top_is": 0.0999
+      },
+      "THURSDAY": {
+        "impressions": 488,
+        "clicks": 45,
+        "cost": 786.62,
+        "avg_search_is": 0.270193,
+        "avg_rank_lost_is": 0.080205,
+        "avg_top_is": 0.190205,
+        "avg_abs_top_is": 0.0999
+      },
+      "FRIDAY": {
+        "impressions": 932,
+        "clicks": 54,
+        "cost": 721.75,
+        "avg_search_is": 0.507849,
+        "avg_rank_lost_is": 0.492151,
+        "avg_top_is": 0.397174,
+        "avg_abs_top_is": 0.146782
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Telehandler-Core-Geos-US": {
+      "MONDAY": {
+        "impressions": 950,
+        "clicks": 43,
+        "cost": 404.16,
+        "avg_search_is": 0.483204,
+        "avg_rank_lost_is": 0.232558,
+        "avg_top_is": 0.258801,
+        "avg_abs_top_is": 0.111473
+      },
+      "TUESDAY": {
+        "impressions": 681,
+        "clicks": 42,
+        "cost": 629.48,
+        "avg_search_is": 0.325682,
+        "avg_rank_lost_is": 0.085608,
+        "avg_top_is": 0.192025,
+        "avg_abs_top_is": 0.0999
+      },
+      "WEDNESDAY": {
+        "impressions": 897,
+        "clicks": 31,
+        "cost": 260.28,
+        "avg_search_is": 0.559348,
+        "avg_rank_lost_is": 0.249806,
+        "avg_top_is": 0.302003,
+        "avg_abs_top_is": 0.12943
+      },
+      "THURSDAY": {
+        "impressions": 611,
+        "clicks": 28,
+        "cost": 289.14,
+        "avg_search_is": 0.454313,
+        "avg_rank_lost_is": 0.130658,
+        "avg_top_is": 0.228099,
+        "avg_abs_top_is": 0.103306
+      },
+      "FRIDAY": {
+        "impressions": 567,
+        "clicks": 20,
+        "cost": 279.51,
+        "avg_search_is": 0.448459,
+        "avg_rank_lost_is": 0.448459,
+        "avg_top_is": 0.235919,
+        "avg_abs_top_is": 0.110521
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Backhoe-Core-Geos-US": {
+      "MONDAY": {
+        "impressions": 585,
+        "clicks": 68,
+        "cost": 232.23,
+        "avg_search_is": 0.498389,
+        "avg_rank_lost_is": 0.184748,
+        "avg_top_is": 0.271293,
+        "avg_abs_top_is": 0.103049
+      },
+      "TUESDAY": {
+        "impressions": 540,
+        "clicks": 54,
+        "cost": 228.95,
+        "avg_search_is": 0.510012,
+        "avg_rank_lost_is": 0.228504,
+        "avg_top_is": 0.308305,
+        "avg_abs_top_is": 0.112628
+      },
+      "WEDNESDAY": {
+        "impressions": 518,
+        "clicks": 49,
+        "cost": 182.63,
+        "avg_search_is": 0.487211,
+        "avg_rank_lost_is": 0.295981,
+        "avg_top_is": 0.258824,
+        "avg_abs_top_is": 0.109412
+      },
+      "THURSDAY": {
+        "impressions": 540,
+        "clicks": 42,
+        "cost": 181.09,
+        "avg_search_is": 0.5,
+        "avg_rank_lost_is": 0.203325,
+        "avg_top_is": 0.324808,
+        "avg_abs_top_is": 0.162404
+      },
+      "FRIDAY": {
+        "impressions": 226,
+        "clicks": 26,
+        "cost": 259.76,
+        "avg_search_is": 0.346359,
+        "avg_rank_lost_is": 0.049734,
+        "avg_top_is": 0.245779,
+        "avg_abs_top_is": 0.103189
+      },
+      "SATURDAY": {
+        "impressions": 561,
+        "clicks": 51,
+        "cost": 210.39,
+        "avg_search_is": 0.463325,
+        "avg_rank_lost_is": 0.233496,
+        "avg_top_is": 0.308824,
+        "avg_abs_top_is": 0.140931
+      },
+      "SUNDAY": {
+        "impressions": 531,
+        "clicks": 45,
+        "cost": 142.53,
+        "avg_search_is": 0.423958,
+        "avg_rank_lost_is": 0.576042,
+        "avg_top_is": 0.23125,
+        "avg_abs_top_is": 0.0999
+      }
+    },
+    "Search-Excavator-Core-Geos-CA": {
+      "MONDAY": {
+        "impressions": 326,
+        "clicks": 22,
+        "cost": 347.06,
+        "avg_search_is": 0.577626,
+        "avg_rank_lost_is": 0.237443,
+        "avg_top_is": 0.363014,
+        "avg_abs_top_is": 0.257991
+      },
+      "TUESDAY": {
+        "impressions": 246,
+        "clicks": 15,
+        "cost": 300.26,
+        "avg_search_is": 0.493404,
+        "avg_rank_lost_is": 0.195251,
+        "avg_top_is": 0.341837,
+        "avg_abs_top_is": 0.206633
+      },
+      "WEDNESDAY": {
+        "impressions": 244,
+        "clicks": 17,
+        "cost": 145.26,
+        "avg_search_is": 0.496124,
+        "avg_rank_lost_is": 0.281654,
+        "avg_top_is": 0.363171,
+        "avg_abs_top_is": 0.253197
+      },
+      "THURSDAY": {
+        "impressions": 266,
+        "clicks": 28,
+        "cost": 303.0,
+        "avg_search_is": 0.55198,
+        "avg_rank_lost_is": 0.277228,
+        "avg_top_is": 0.412736,
+        "avg_abs_top_is": 0.323113
+      },
+      "FRIDAY": {
+        "impressions": 152,
+        "clicks": 16,
+        "cost": 110.41,
+        "avg_search_is": 0.583756,
+        "avg_rank_lost_is": 0.416244,
+        "avg_top_is": 0.35533,
+        "avg_abs_top_is": 0.19797
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Scissor-Lift-Core-Geos-CA": {
+      "MONDAY": {
+        "impressions": 398,
+        "clicks": 33,
+        "cost": 508.33,
+        "avg_search_is": 0.431062,
+        "avg_rank_lost_is": 0.07607,
+        "avg_top_is": 0.353035,
+        "avg_abs_top_is": 0.250799
+      },
+      "TUESDAY": {
+        "impressions": 237,
+        "clicks": 24,
+        "cost": 339.34,
+        "avg_search_is": 0.405714,
+        "avg_rank_lost_is": 0.099048,
+        "avg_top_is": 0.29222,
+        "avg_abs_top_is": 0.155598
+      },
+      "WEDNESDAY": {
+        "impressions": 188,
+        "clicks": 23,
+        "cost": 168.91,
+        "avg_search_is": 0.48366,
+        "avg_rank_lost_is": 0.147059,
+        "avg_top_is": 0.401961,
+        "avg_abs_top_is": 0.238562
+      },
+      "THURSDAY": {
+        "impressions": 181,
+        "clicks": 15,
+        "cost": 150.37,
+        "avg_search_is": 0.401515,
+        "avg_rank_lost_is": 0.042929,
+        "avg_top_is": 0.310606,
+        "avg_abs_top_is": 0.181818
+      },
+      "FRIDAY": {
+        "impressions": 164,
+        "clicks": 18,
+        "cost": 289.64,
+        "avg_search_is": 0.414179,
+        "avg_rank_lost_is": 0.070896,
+        "avg_top_is": 0.339552,
+        "avg_abs_top_is": 0.186567
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Loader-Core-Geos-CA": {
+      "MONDAY": {
+        "impressions": 172,
+        "clicks": 18,
+        "cost": 170.36,
+        "avg_search_is": 0.432432,
+        "avg_rank_lost_is": 0.045045,
+        "avg_top_is": 0.326284,
+        "avg_abs_top_is": 0.151057
+      },
+      "TUESDAY": {
+        "impressions": 309,
+        "clicks": 42,
+        "cost": 244.62,
+        "avg_search_is": 0.59276,
+        "avg_rank_lost_is": 0.061086,
+        "avg_top_is": 0.5,
+        "avg_abs_top_is": 0.253456
+      },
+      "WEDNESDAY": {
+        "impressions": 190,
+        "clicks": 24,
+        "cost": 189.21,
+        "avg_search_is": 0.6125,
+        "avg_rank_lost_is": 0.0375,
+        "avg_top_is": 0.567686,
+        "avg_abs_top_is": 0.375546
+      },
+      "THURSDAY": {
+        "impressions": 173,
+        "clicks": 19,
+        "cost": 252.79,
+        "avg_search_is": 0.453237,
+        "avg_rank_lost_is": 0.003597,
+        "avg_top_is": 0.410072,
+        "avg_abs_top_is": 0.251799
+      },
+      "FRIDAY": {
+        "impressions": 100,
+        "clicks": 12,
+        "cost": 124.06,
+        "avg_search_is": 0.407821,
+        "avg_rank_lost_is": 0.055866,
+        "avg_top_is": 0.338983,
+        "avg_abs_top_is": 0.141243
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Telehandler-Core-Geos-CA": {
+      "MONDAY": {
+        "impressions": 112,
+        "clicks": 10,
+        "cost": 161.6,
+        "avg_search_is": 0.752381,
+        "avg_rank_lost_is": 0.07619,
+        "avg_top_is": 0.580952,
+        "avg_abs_top_is": 0.495238
+      },
+      "TUESDAY": {
+        "impressions": 284,
+        "clicks": 17,
+        "cost": 228.74,
+        "avg_search_is": 0.912371,
+        "avg_rank_lost_is": 0.087629,
+        "avg_top_is": 0.747423,
+        "avg_abs_top_is": 0.639175
+      },
+      "WEDNESDAY": {
+        "impressions": 217,
+        "clicks": 16,
+        "cost": 209.14,
+        "avg_search_is": 0.905109,
+        "avg_rank_lost_is": 0.094891,
+        "avg_top_is": 0.810219,
+        "avg_abs_top_is": 0.656934
+      },
+      "THURSDAY": {
+        "impressions": 161,
+        "clicks": 21,
+        "cost": 299.87,
+        "avg_search_is": 0.819672,
+        "avg_rank_lost_is": 0.180328,
+        "avg_top_is": 0.729508,
+        "avg_abs_top_is": 0.606557
+      },
+      "FRIDAY": {
+        "impressions": 84,
+        "clicks": 11,
+        "cost": 221.7,
+        "avg_search_is": 0.8,
+        "avg_rank_lost_is": 0.2,
+        "avg_top_is": 0.676923,
+        "avg_abs_top_is": 0.569231
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Demand-Brand-US": {
+      "MONDAY": {
+        "impressions": 86,
+        "clicks": 26,
+        "cost": 79.86,
+        "avg_search_is": 0.793651,
+        "avg_rank_lost_is": 0.206349,
+        "avg_top_is": 0.714286,
+        "avg_abs_top_is": 0.174603
+      },
+      "TUESDAY": {
+        "impressions": 130,
+        "clicks": 37,
+        "cost": 218.74,
+        "avg_search_is": 0.875,
+        "avg_rank_lost_is": 0.125,
+        "avg_top_is": 0.8125,
+        "avg_abs_top_is": 0.45
+      },
+      "WEDNESDAY": {
+        "impressions": 90,
+        "clicks": 27,
+        "cost": 124.01,
+        "avg_search_is": 0.872727,
+        "avg_rank_lost_is": 0.127273,
+        "avg_top_is": 0.8,
+        "avg_abs_top_is": 0.363636
+      },
+      "THURSDAY": {
+        "impressions": 73,
+        "clicks": 14,
+        "cost": 81.01,
+        "avg_search_is": 0.836735,
+        "avg_rank_lost_is": 0.163265,
+        "avg_top_is": 0.795918,
+        "avg_abs_top_is": 0.55102
+      },
+      "FRIDAY": {
+        "impressions": 78,
+        "clicks": 18,
+        "cost": 70.25,
+        "avg_search_is": 0.851852,
+        "avg_rank_lost_is": 0.148148,
+        "avg_top_is": 0.722222,
+        "avg_abs_top_is": 0.314815
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    },
+    "Search-Demand-Brand-CA": {
+      "MONDAY": {
+        "impressions": 132,
+        "clicks": 25,
+        "cost": 122.85,
+        "avg_search_is": 0.962963,
+        "avg_rank_lost_is": 0.037037,
+        "avg_top_is": 0.901235,
+        "avg_abs_top_is": 0.864198
+      },
+      "TUESDAY": {
+        "impressions": 93,
+        "clicks": 21,
+        "cost": 94.59,
+        "avg_search_is": 0.875,
+        "avg_rank_lost_is": 0.125,
+        "avg_top_is": 0.821429,
+        "avg_abs_top_is": 0.732143
+      },
+      "WEDNESDAY": {
+        "impressions": 47,
+        "clicks": 16,
+        "cost": 56.3,
+        "avg_search_is": 1.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.896552,
+        "avg_abs_top_is": 0.862069
+      },
+      "THURSDAY": {
+        "impressions": 41,
+        "clicks": 10,
+        "cost": 59.19,
+        "avg_search_is": 0.925926,
+        "avg_rank_lost_is": 0.074074,
+        "avg_top_is": 0.888889,
+        "avg_abs_top_is": 0.851852
+      },
+      "FRIDAY": {
+        "impressions": 38,
+        "clicks": 17,
+        "cost": 163.85,
+        "avg_search_is": 0.947368,
+        "avg_rank_lost_is": 0.026316,
+        "avg_top_is": 0.894737,
+        "avg_abs_top_is": 0.815789
+      },
+      "SATURDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      },
+      "SUNDAY": {
+        "impressions": 0,
+        "clicks": 0,
+        "cost": 0.0,
+        "avg_search_is": 0.0,
+        "avg_rank_lost_is": 0.0,
+        "avg_top_is": 0.0,
+        "avg_abs_top_is": 0.0
+      }
+    }
+  }
+}

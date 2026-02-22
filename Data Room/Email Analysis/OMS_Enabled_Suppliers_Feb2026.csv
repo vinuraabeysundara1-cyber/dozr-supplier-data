@@ -1,0 +1,887 @@
+Account_ID,Name,Display_Name,Type,City,State,Phone,Email,OMS_Requests,Booked,Declined,Expired,Book_Rate,Last_Request_Date,Last_Booked_Date
+0011K00002JJkEmQAL,DOZR Ltd.,DOZR Ltd.,Rental House/Dealer,Tampa,Florida,18337746320,equipment@dozr.com,162,0,0,0,0.0%,2026-02-16,
+0011K00002JJXvjQAH,Aerial Plus - Burlington ON,Aerial Plus ,Rental House/Dealer,Burlington,Ontario,+19053339580,aerialplus@bellnet.ca,110,39,20,0,35.5%,2026-02-17,2026-02-16
+673fa1c1476a080018c3bb1b,Texas,,Rental House/Dealer,,Texas,18337746320,,101,0,0,0,0.0%,2026-02-16,
+0011K00002RfsRvQAJ,Stoney Creek Equipment Rentals - Hamilton ON,,Rental House/Dealer,Hamilton,ON,9056430075,pgentile@stoneycreekrents.com,90,12,20,5,13.3%,2026-02-17,2026-02-13
+673fa17b476a080018c3a775,California,,Rental House/Dealer,,California,18337746320,,66,0,0,0,0.0%,2026-02-13,
+0014100001AASKmAAP,Stanmore Equipment - Uxbridge ON,Stanmore Equipment,Rental House/Dealer,Uxbridge,Ontario,8559555438,info@stanmoreequipment.com,65,0,0,10,0.0%,2026-02-17,
+673fa181476a080018c3a907,Florida,,Rental House/Dealer,,Florida,18337746320,,60,0,0,0,0.0%,2026-02-16,
+001OJ000009zMJQYA2,NAM Rentals - Toronto ON,,Rental House/Dealer,Toronto,Ontario,6475257368,,59,5,5,7,8.5%,2026-02-17,2026-01-28
+0011K00002ROpsKQAT,Best Rental Services Inc - Vaughan ON,,Rental House/Dealer,Vaughan,Ontario,9053033900,ewillers@bestrental.ca,57,2,3,4,3.5%,2026-02-17,2026-02-12
+0014100001V6URwAAN,Stephenson's Rental Services - Mississauga ON (HQ),Stephenson`s Rental Services,Rental House/Dealer,Mississauga,Ontario,+18669464646,ofg@stephensons.ca,57,0,1,10,0.0%,2026-02-17,
+6894c7c7cb18fa0018c82e27,Atmosphere Rental Inc - Cambridge ON,,Rental House/Dealer,Cambridge,Ontario,15192425767,bstranz@atmosphererentals.com,55,1,0,10,1.8%,2026-02-16,2025-12-17
+00141000012HIj9AAG,GTA Equipment Rentals - Oakville ON,GTA Equipment Rentals,Rental House/Dealer,Oakville,Ontario,+19055807368,megan@gtaequipment.ca,53,1,18,0,1.9%,2026-02-17,2025-12-09
+0011K00002G2cm8QAB,DOZR Rental House Inc.,DOZR Inc.,Rental House/Dealer,,,(226) 749-3887,equipment@dozr.com,45,0,0,0,0.0%,2026-02-16,
+0014100000ANDnDAAX,Dickie Moore Rentals - Toronto ON,Dickie Moore Rentals,Partner,Toronto,Ontario,4167471212,,36,0,1,3,0.0%,2026-02-12,
+001OJ000005JczaYAC,True Canada Equipment - Vaughan ON,,Rental House/Dealer,Vaughan,Ontario,9057718508,,35,0,1,5,0.0%,2026-02-17,
+0014100000BlnFxAAJ,CONEQ Rentals - Woodbridge ON,CONEQ Rentals,Rental House/Dealer,Vaughan,Ontario,8445526637,rental@coneqrentals.com,35,10,2,4,28.6%,2026-02-16,2026-02-14
+0011K00002RMRD9QAP,Continental Lift Truck - New York NY,,Contractor,,New York,6465294432,joed.continental@gmail.com,35,22,4,0,62.9%,2026-02-12,2026-02-12
+0014100000ANCcsAAH,Barrie Rent-All Inc - Barrie ON,Barrie Rent,Rental House/Dealer,Barrie,Ontario,7057288585,,32,0,0,2,0.0%,2026-02-12,
+0011K00002KARq9QAH,Powertrip Rentals - Signal Hill CA,Powertrip Rentals,Rental House/Dealer,Signal Hill,California,+13102920974,evan@powertriprentals.com,31,15,3,3,48.4%,2026-02-13,2026-02-13
+0011K00002FXVgTQAX,Torcan Lift Equipment - North York ON,Torcan Lift Equipment,Rental House/Dealer,North York,Ontario,4167432500,rentals@torcanlift.com,30,0,1,4,0.0%,2026-02-17,
+0014100000gdnTDAAY,RI-GO Lift Truck Ltd - Concord ON,"RI GO LIFT TRUCK LTD - CONCORD, ON",Rental House/Dealer,CONCORD,Ontario,4162137277,jparmar@rigolift.com,30,0,1,4,0.0%,2026-02-17,
+67eac2da29fd54002239e1cb,Equipment Share,,N/A,,,17206100062,chad.berreth@equipmentshare.com,28,25,1,1,89.3%,2026-02-16,2026-02-10
+673fa182458377001791ec41,Georgia,,Rental House/Dealer,,Georgia,18337746320,,27,0,0,0,0.0%,2026-02-13,
+67f41eedcd04f200211e6d36,Lift X Rentals - Palmetto FL,,Rental House/Dealer,Palmetto,FL,8553354389,,27,11,5,0,40.7%,2026-02-17,2026-02-17
+673fa189458377001791ee7c,Kentucky,,Rental House/Dealer,,Kentucky,18337746320,,26,0,0,0,0.0%,2026-01-16,
+673fa1a26281f80018a2ddbe,New York,,Rental House/Dealer,New York,New York,18337746320,,25,0,0,0,0.0%,2026-02-12,
+001Ah0000044GoCIAU,Palmerston Rent-All Ltd - Listowel ON,,Rental House/Dealer,Listowel,Ontario,5192911230,info@palmerstonrent-all.com,25,0,2,1,0.0%,2026-02-17,
+0011K00002FV9f6QAD,McGill Equipment - Scarborough ON,York Region Equipment Centre,Rental House/Dealer,Toronto,Ontario,4167514455,rental.to@mcgillequipment.com,25,0,0,8,0.0%,2026-02-17,
+0011K00002JK0yfQAD,EZ Equipment Rental - Dallas TX,EZ EQUIPMENT RENTAL,Rental House/Dealer,Irving,TX,2149517800,info@ezequipmentrental.com,25,0,1,9,0.0%,2026-02-13,
+001Ah0000070l2uIAA,NLC Equipment - Stoney Creek ON,,Rental House/Dealer,Hamilton,Ontario,1959714984,,24,0,0,2,0.0%,2026-02-13,
+0011K00002SltzVQAR,Skyblack Rentals - Houston TX,,Rental House/Dealer,Houston,Texas,+17134164702,joe@skyblackrentals.com,24,8,5,1,33.3%,2026-02-11,2026-02-11
+0011K00002Gohz1QAB,Sunstate Equipment - Balch Springs TX,Sunstate Equipment Co. ,Partner,Balch Springs,Texas,8558088875,dozr@sunstateequip.com,23,5,9,0,21.7%,2026-02-03,2026-01-20
+001Ah00000413ddIAA,All Pro Lift and Equipment LLC - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,6027959797,liftanddirtequipment@gmail.com,23,7,6,4,30.4%,2026-02-06,2026-02-06
+0011K00002TBh6hQAD,Illinois Lift Equipment - Cary IL,,Rental House/Dealer,Cary,Illinois,8887450577,rentals@illinoislift.com,22,11,1,0,50.0%,2026-01-27,2026-01-27
+0011K00002WOyTGQA1,Arrow Lift Rentals - Dallas TX,,Rental House/Dealer,Dallas,Texas,2143572525,,22,0,9,5,0.0%,2026-02-13,
+0011K00002P1GZqQAN,Northside Tool Rental - Buckhead (Atlanta) GA,,Rental House/Dealer,Atlanta,Georgia,4042336722,damonf@northsidetoolrental.com,22,9,2,0,40.9%,2026-02-06,2026-01-30
+0011K00002UH0fmQAD,Liftow - Scarborough ON,,Rental House/Dealer,Toronto,Ontario,4162987119,,21,0,0,5,0.0%,2026-02-12,
+673fa17c458377001791eadf,Colorado,,Rental House/Dealer,,Colorado,18337746320,,21,0,0,0,0.0%,2026-02-12,
+673fa179476a080018c3a66d,Arizona,,Rental House/Dealer,,Arizona,18337746320,,21,0,0,0,0.0%,2026-02-10,
+673fa1a36281f80018a2de95,North Carolina,,Rental House/Dealer,,North Carolina,18337746320,,20,0,0,0,0.0%,2026-02-11,
+0011K00002Goi5EQAR,Sunstate Equipment - Burbank CA,Sunstate Equipment Co. ,Partner,Burbank,California,8558088875,dozr@sunstateequip.com,20,2,9,1,10.0%,2026-02-06,2026-02-06
+0014100001JZ0BxAAL,LAX Equipment Inc - Inglewood CA,Lax Equipment Inc.,Rental House/Dealer,Inglewood,California,3103302657,laxequipmentinc@hotmail.com,20,1,1,6,5.0%,2026-02-04,2026-02-04
+0014100000ANEeNAAX,Border Equipment - Atlanta GA,Border Equipment,Rental House/Dealer,Conley,Georgia,+17703226960,bh@borderholdings.net,19,1,3,3,5.3%,2026-02-13,2025-12-09
+001OJ00000B0v3DYAR,Artim - London ON,,Rental House/Dealer,London,Ontario,5196194390,,19,0,3,1,0.0%,2026-02-13,
+0011K00002UH401QAD,Total Warehouse - Anaheim CA,,Rental House/Dealer,Anaheim,California,7143323082,,18,0,0,10,0.0%,2026-02-13,
+0011K00002GohuLQAR,Sunstate Equipment - Atlanta GA,Sunstate Equipment Co. ,Rental House/Dealer,Conley,GA,6782686590,dozr@sunstateequip.com,18,4,6,0,22.2%,2026-02-11,2026-02-11
+0011K00002TWuHFQA1,Rent-A-Tool LLC - Brooklyn NY,,Rental House/Dealer,,New York,7183955939,sales@rentatoolny.com,17,0,0,10,0.0%,2026-02-02,
+001Ah000004bXI3IAM,Industry Lift Inc - Industry CA,,Rental House/Dealer,City of Industry,California,6269136175,,17,5,0,4,29.4%,2026-02-04,2025-12-11
+0011K00002Goj3wQAB,Sunstate Equipment - Las Vegas (Henderson) NV,Sunstate Equipment Co. ,Partner,Henderson,Nevada,8558088875,dozr@sunstateequip.com,17,5,9,0,29.4%,2026-02-06,2026-01-07
+0011K0000281ZN8QAM,U-Rent It Sales & Service - Rockwall TX,"U-Rent It Sales & Service - Gun Barrel City, TX",Rental House/Dealer,Rockwall,Texas,9727711885,brandon.urentit@gmail.com,17,4,2,4,23.5%,2026-02-12,2026-01-23
+0011K00002GojH1QAJ,Sunstate Equipment - Oakland CA,Sunstate Equipment Co. ,Partner,Oakland,California,8558088875,dozr@sunstateequip.com,17,4,8,0,23.5%,2026-02-13,2026-01-27
+0014100001JYrOqAAL,Area Rentals Inc - Hillside NJ,Area Rentals Inc.,Rental House/Dealer,Hillside,New Jersey,9739261212,paul@arearentalsinc.com,16,4,0,1,25.0%,2026-01-27,2026-01-02
+0014100001JYrVrAAL,Blakley Equipment Inc - Mount Vernon NY,Blakley Equipment Inc.,Rental House/Dealer,Mount Vernon,New York,9146645500,carad@blakleytree.com,16,1,0,0,6.2%,2026-02-02,2025-12-15
+0011K00002VlIanQAF,G&W Equipment - Atlanta GA,,Rental House/Dealer,Atlanta,Georgia,7707167959,rental@gwequip.com,16,0,5,2,0.0%,2026-02-06,
+673fa1b2458377001791f962,South Carolina,,Rental House/Dealer,,South Carolina,18337746320,,16,0,0,0,0.0%,2026-02-11,
+00141000012IJ9GAAW,Sunstate Equipment - Phoenix AZ,Sunstate Equipment Co. ,Rental House/Dealer,Phoenix,Arizona,8558088875,dozr@sunstateequip.com,16,2,6,0,12.5%,2026-02-06,2026-01-19
+673fa1c96281f80018a2e84c,Virginia,,Rental House/Dealer,,Virginia,18337746320,,15,0,0,0,0.0%,2026-02-17,
+673fa1a06281f80018a2dc9d,New Jersey,,Rental House/Dealer,,New Jersey,18337746320,,15,0,0,0,0.0%,2026-02-09,
+673fa18d476a080018c3ad0c,Maryland,,Rental House/Dealer,,Maryland,18337746320,,14,0,0,0,0.0%,2026-02-09,
+001OJ00000HDwh8YAD,Rapid Rentals - Castaic CA,,Rental House/Dealer,Castaic,California,6613782543,,14,1,3,2,7.1%,2026-02-13,2025-12-18
+001OJ000005NmSTYA0,Hilltown Rentals - Huntington MA,,Rental House/Dealer,Huntington,Massachusetts,4133200889,,14,2,0,6,14.3%,2026-02-13,2026-01-21
+0011K00002Oz6dlQAB,Sunstate Equipment - Buda TX,,Rental House/Dealer,Buda,TX,8558088875,dozr@sunstateequip.com,14,0,7,0,0.0%,2026-02-16,
+0011K00002VPnL9QAL,PDQ Rentals - Corona CA,,Rental House/Dealer,Corona,California,9513816800,corona@pdqrentals.com,14,0,0,3,0.0%,2026-02-13,
+0011K00002OzCCnQAN,Sunstate Equipment - Colton CA,,Rental House/Dealer,Colton,CA,8008947368,dozr@sunstateequip.com,14,1,8,0,7.1%,2026-02-13,2025-12-17
+0011K00002GoiS3QAJ,Sunstate Equipment - Denver CO,Sunstate Equipment Co. ,Rental House/Dealer,Commerce City,Colorado,7203227000,dozr@sunstateequip.com,14,10,3,0,71.4%,2026-02-16,2026-02-16
+0014100000ANBCwAAP,Nice Guy Heavy Equipment Rentals - New Tecumseth ON,Nice Guy Heavy Equipment Rentals,Rental House/Dealer,New Tecumseth,Ontario,4166666210,niceguyrentals@gmail.com,14,1,8,2,7.1%,2026-02-11,2025-11-21
+0014100001bSY0JAAW,Rental Stop - Grande Prairie TX,Rental Stop,Rental House/Dealer,Grand Prairie,Texas,9723360059,sales@rentalstops.com,14,0,2,5,0.0%,2026-02-12,
+0011K00002TW1sNQAT,Starlift Equipment (Maintainco) - Hackensack NJ,,Rental House/Dealer,South Hackensack,New Jersey,2014872565,,14,0,0,1,0.0%,2026-01-27,
+0014100001JZ0KGAA1,Pape Material Handling - Fremont CA,Pape Material Handling/Bobcat West,Rental House/Dealer,Fremont,California,5106615700,,14,0,10,0,0.0%,2026-02-13,
+0014100000gdnU0AAI,Eldorado Forklift Co - Redwood City CA,ELDORADO FORKLIFT CO,Rental House/Dealer,Redwood City,California,6503611666,,14,0,2,4,0.0%,2026-02-13,
+0014100000j6bdkAAA,"Darr Equipment Co. - Dallas, TX (HQ)",Darr Construction Equipment Corp.,Rental House/Dealer,Dallas,Texas,2144452464,,13,0,1,4,0.0%,2026-02-12,
+001Ah000003ZVQWIA4,Superior Industrial Products - Fort Worth TX,,Rental House/Dealer,Fort Worth,Texas,6822538809,rentals@sip.net,13,0,0,6,0.0%,2026-02-13,
+001Ah0000043lLJIAY,Equipment Depot - Louisville KY,,Rental House/Dealer,Louisville,Kentucky,5026362000,,13,12,1,0,92.3%,2025-12-15,2025-12-15
+0011K00002Tx8u4QAB,Shoppa's Material Handling - Fort Worth TX,,Rental House/Dealer,Fort Worth,Texas,8173591100,,13,0,1,5,0.0%,2026-02-13,
+0011K00002GoiP4QAJ,Sunstate Equipment - Colorado Springs CO,Sunstate Equipment Co. ,Partner,Colorado Springs,Colorado,7195779750,,13,7,5,0,53.8%,2026-02-14,2026-02-06
+0011K000024eFCiQAM,Edge1 Equipment Rentals - Stoney Creek ON,Edge1 Equipment Rental - Mississauga ON,Rental House/Dealer,Hamilton,Ontario,9055612481,sales@edge1.ca,13,0,2,0,0.0%,2026-02-13,
+0011K00002UHt5pQAD,Industrial Power Rental - Newmarket ON,,Rental House/Dealer,Newmarket,Ontario,9059670300,lhaeber@industrialpowerrental.ca,13,0,3,0,0.0%,2026-02-12,
+0011K00002GojnmQAB,Sunstate Equipment - San Antonio TX,Sunstate Equipment Co. ,Partner,San Antonio,Texas,8558088875,dozr@sunstateequip.com,13,2,7,0,15.4%,2026-02-06,2025-12-30
+63a0c130a0d076001370c846,Sunstate Equipment - Jacksonville FL,,Rental House/Dealer,Jacksonville,FL,9049029030,dozr@sunstateequip.com,13,2,6,0,15.4%,2026-02-09,2025-12-16
+0011K00002IVyGMQA1,Complete Equipment Rentals - Lakewood NJ,Complete Equipment Rentals LLC,Rental House/Dealer,Lakewood,New Jersey,8445477368,rent@completeequipment.com,12,0,5,1,0.0%,2026-02-02,
+673fa1be458377001791fbec,Tennessee,,Rental House/Dealer,,Tennessee,18337746320,,12,0,0,0,0.0%,2026-02-11,
+0011K00002Qlso4QAB,ASCO Equipment - Houston TX (South),,Rental House/Dealer,Houston,Texas,+17136490940,,12,0,0,3,0.0%,2026-02-13,
+0014100000gdnSzAAI,PDQ Rentals - Sun Valley CA,DBA PDQ RENTALS,Rental House/Dealer,Los Angeles,California,8185044900,sunvalley@pdqrentals.com,12,0,1,5,0.0%,2026-01-23,
+673fa185476a080018c3aa76,Illinois,,Rental House/Dealer,,Illinois,18337746320,,12,0,0,0,0.0%,2026-02-04,
+673fa19e476a080018c3b214,Nevada,,Rental House/Dealer,,Nevada,18337746320,,12,0,0,0,0.0%,2026-02-06,
+0011K00002Gok1tQAB,Sunstate Equipment - Tucson AZ,Sunstate Equipment Co. ,Partner,Tucson,Arizona,8558088875,dozr@sunstateequip.com,12,6,3,0,50.0%,2026-02-11,2026-02-11
+0011K00002TVOpyQAH,Gordy's Equipment of Broward - Pompano Beach FL,,Rental House/Dealer,Pompano Beach,Florida,9549786000,heather@gordysequipment.com,12,0,6,0,0.0%,2026-02-16,
+001Ah000005lN8dIAE,J&J Equipment Rental - Los Angeles CA,,Rental House/Dealer,East Los Angeles,California,3232688827,,12,0,0,7,0.0%,2026-01-28,
+0011K00002TWz4TQAT,American Tool Rental - Brooklyn NY,,Rental House/Dealer,,New York,7183441474,info@americanrentalcorp.com,12,0,0,1,0.0%,2026-01-28,
+0014100001JZ2BiAAL,Semcore II Rental Center - Eatontown NJ,Semcore II Rental Center,Rental House/Dealer,Eatontown,New Jersey,7325420006,,12,0,0,2,0.0%,2026-02-02,
+63ea5f09c9da99001956f557,Leppo Rents (Bobcat of Jacksonville) - Jacksonville FL,,Rental House/Dealer,Jacksonville,Florida,19042889181,,12,4,4,0,33.3%,2026-01-07,2026-01-07
+001Ah000004KqpBIAS,Trinity Equipment Rentals - Colton CA,,Rental House/Dealer,Colton,California,9517901652,,12,2,0,2,16.7%,2026-02-13,2025-12-30
+673fa176458377001791e98b,Alabama,,Rental House/Dealer,,Alabama,18337746320,,11,0,0,0,0.0%,2026-02-06,
+0011K00002UG2vuQAD,Best Line Equipment - Keyport NJ,,Rental House/Dealer,Keyport,New Jersey,7323346225,rdonohue@bestline.com,11,0,0,2,0.0%,2025-12-18,
+0011K00002TDryRQAT,Lyle Machinery (Bobcat of Lake Charles) - Lake Charles LA,,Rental House/Dealer,Lake Charles,Louisiana,+13374334500,,11,0,0,3,0.0%,2026-02-12,
+0011K000024eJmoQAE,Boyd Cat - Louisville KY (Cecil Ave),Whayne-The Cat Rental Store,Partner,Louisville,Kentucky,5027744441,,11,0,0,0,0.0%,2025-12-10,
+0011K00002X6VUTQA3,Komatsu Forklift of Atlanta - Conyers GA,,Rental House/Dealer,Conyers,,7709385071,,11,0,0,3,0.0%,2026-02-06,
+0011K00002GoiDoQAJ,Sunstate Equipment - Charlotte NC,Sunstate Equipment Co. ,Partner,Concord,North Carolina,7044904706,dozr@sunstateequip.com,11,3,2,0,27.3%,2026-01-29,2026-01-09
+0011K00002GohvdQAB,Sunstate Equipment - Marietta GA,Sunstate Equipment Co. ,Partner,Marietta,Georgia,8558088875,dozr@sunstateequip.com,11,2,3,2,18.2%,2026-01-30,2026-01-29
+673fa194458377001791f1ad,Michigan,,Rental House/Dealer,,Michigan,18337746320,,11,0,0,0,0.0%,2026-02-13,
+0011K00002GnY1AQAV,Torcan Lift Equipment - Cambridge ON,Torcan Lift Equipment,Partner,Cambridge,Ontario,+15196248210,,11,0,1,0,0.0%,2026-02-13,
+0011K00002UH4FVQA1,Total Warehouse - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,4805824922,,11,0,0,5,0.0%,2026-02-06,
+0014100001NdCmSAAV,"Fox Rental - Grapevine, TX",Fox Rental,Rental House/Dealer,Grapevine,Texas,8174817581,hayden.tice@foxrents.com,11,0,5,3,0.0%,2026-02-13,
+001Ah000003Z4gsIAC,Bayshore Rental & Equipment - Baldwin NY,,Rental House/Dealer,Baldwin,New York,8889289268,,11,0,1,3,0.0%,2026-02-09,
+0011K00002TVwiPQAT,ASCO Equipment - Aubrey/Little Elm TX,,Rental House/Dealer,Aubrey,Texas,19724412726,,11,0,1,3,0.0%,2026-02-13,
+0011K00002GoiyNQAR,Sunstate Equipment - Houston East TX,Sunstate Equipment Co. ,Partner,Houston,Texas,8558088875,dozr@sunstateequip.com,11,0,3,0,0.0%,2026-02-13,
+0014100000z1gpRAAQ,Alta Material Handling (Formerly Yale Industrial Trucks) - Woodbridge ON,Yale Industrial Trucks,Rental House/Dealer,Vaughan,Ontario,8007633605,ewahdani@yorklifts.com,11,0,0,3,0.0%,2026-01-21,
+0014100001USmrWAAT,"Art's Rental Equipment & Supply - Louisville, KY",Art`s Rental Equipment & Supply,Partner,Louisville,Kentucky,5026376368,,11,0,0,0,0.0%,2025-12-10,
+0011K00002TDrXfQAL,Darr Equipment Co - Houston TX,,Rental House/Dealer,Houston,Texas,7136751552,,11,0,1,2,0.0%,2026-02-13,
+0011K00002SK3rLQAT,Tri-Lift Inc - Huppage NY (Formerly Farmingdale NY),,Rental House/Dealer,Hauppauge,New York,5168474941,,11,0,0,1,0.0%,2026-02-12,
+673fa1e6476a080018c3c3ff,Ontario,,Rental House/Dealer,,Ontario,(226) 749-3887,,10,0,0,0,0.0%,2026-01-15,
+001Ah000004U2yeIAC,Taylor True Value Rental - Kerhonkson NY,,Rental House/Dealer,Kerhonkson,New York,8456264747,taylorrentaldepew@gmail.com,10,0,0,6,0.0%,2026-01-30,
+0014100001CWuYpAAL,CORE Equipment Leasing - Discovery Bay CA,CORE Equipment Leasing,Rental House/Dealer,Discovery Bay,California,4083092022,catearthmovers@yahoo.com,10,0,0,5,0.0%,2026-02-04,
+0011K00002RjInjQAF,Border Equipment (Bobcat of Augusta) - Augusta GA,,Rental House/Dealer,Augusta,Georgia,7067379191,danny.kimbrel@borderequipment.com,10,4,2,1,40.0%,2026-02-03,2025-12-29
+0011K00002WOhWBQA1,American Rentals - Riverside CA,,Rental House/Dealer,Riverside,California,9513670220,,10,0,0,4,0.0%,2026-02-13,
+0014100001JZ2KNAA1,Volvo Construction Equipment & Services - Corona CA,Volvo Construction Equipment & Services,Rental House/Dealer,Corona,California,9512777620,,10,0,8,0,0.0%,2026-02-04,
+0011K00002GojULQAZ,Sunstate Equipment - Orlando FL,Sunstate Equipment Co. ,Rental House/Dealer,Orlando,Florida,8558088875,dozr@sunstateequip.com,10,5,4,0,50.0%,2026-02-04,2026-02-04
+0011K00002TwYEWQA3,All-Lift Ltd - Brampton ON,,Rental House/Dealer,Brampton,,9054595348,rentals@all-lift.net,10,0,0,2,0.0%,2026-01-21,
+0011K00002UGkOJQA1,Briggs Equipment - Tifton GA,,Rental House/Dealer,Tifton,Georgia,+12293888120,,10,0,0,1,0.0%,2026-02-06,
+0011K00002TVrboQAD,Action Rentals - Waller TX,,Rental House/Dealer,Waller,,9363725161,,10,0,0,4,0.0%,2026-02-11,
+0014100001JZ2BzAAL,Simon Equipment Rentals - Monrovia CA,Simon Equipment Rentals,Rental House/Dealer,Monrovia,California,6263582508,,10,0,0,3,0.0%,2026-01-29,
+673fa1a6476a080018c3b469,Ohio,,Rental House/Dealer,,Ohio,18337746320,,10,0,0,0,0.0%,2026-02-13,
+0011K00002UHwdHQAT,Mcleary Lift Equipment - Brampton ON,,Rental House/Dealer,Brampton,Ontario,9054515320,mclearylift@bellnet.ca,10,3,0,3,30.0%,2026-01-20,2026-01-20
+001OJ00000IsaCKYAZ,Sunstate Equipment - Conley GA,,Rental House/Dealer,Conley,Georgia,+16782686590,,9,2,2,1,22.2%,2026-02-09,2026-02-09
+001Ah000005oTNFIA2,Nor-Cal Equipment Rentals - Sacramento CA,,Rental House/Dealer,Sacramento,California,9163889850,kevin@nor-calequipmentrentals.com,9,0,0,4,0.0%,2026-02-12,
+0014100000hUChfAAG,Yancey CAT - Austell GA,Yancey Cat,Partner,Austell,Georgia,6787186500,kyle.phillips@yanceyrents.com,9,0,1,2,0.0%,2026-02-11,
+0011K00002GoilHQAR,Sunstate Equipment - Houston  (Cypress) TX ,Sunstate Equipment Co. ,Partner,Katy,Texas,2814923400,dozr@sunstateequip.com,9,1,5,0,11.1%,2026-02-06,2025-12-08
+673fa1d2476a080018c3c0c9,Alberta,,Rental House/Dealer,,Alberta,(226) 749-3887,,9,0,0,0,0.0%,2026-02-06,
+63a34d45e897400019ab883f,Bertling Equipment Rental & Repair - New Braufels TX,,Rental House/Dealer,New Braunfels,TX,8303874548,,9,0,0,1,0.0%,2026-02-10,
+0011K00002RLqMRQA1,Empire Cat - Tucson AZ,,Rental House/Dealer,Tucson,Arizona,5207468200,dozraz@empire-cat.com,9,0,2,2,0.0%,2026-02-06,
+0011K00002G5QlJQAV,Briggs Equipment - Miami FL,Briggs Equipment,Partner,,,305-624-1511,,9,1,0,3,11.1%,2026-02-05,2025-12-10
+0011K00002Ujf0fQAB,All Access Services - Riverside CA,,Rental House/Dealer,Riverside,California,9516720916,info@allaccessrentals.com,9,0,0,4,0.0%,2026-02-13,
+0011K00002GojreQAB,Sunstate Equipment - San Diego CA,Sunstate Equipment Co. ,Partner,San Diego,California,8558088875,dozr@sunstateequip.com,9,2,2,1,22.2%,2026-02-13,2026-02-13
+0011K00002QlsuwQAB,ASCO Equipment - Terrell TX,,Rental House/Dealer,Terrell,Texas,+19725632171,,9,0,0,3,0.0%,2026-01-22,
+001OJ00000CvD4tYAF,Hood Equipment Canada - Barrie ON,,Rental House/Dealer,Barrie,Ontario,+17057344507,,9,0,4,0,0.0%,2026-02-13,
+0011K00002Gok0WQAR,Sunstate Equipment - Stockton (French Camp) CA,Sunstate Equipment Co. ,Rental House/Dealer,French Camp,CA,8558088875,dozr@sunstateequip.com,9,1,4,0,11.1%,2026-02-12,2025-11-20
+0011K00002UHbLxQAL,"Metro Rent-All -  Scarborough, ON",,Rental House/Dealer,Toronto,Ontario,4162912521,metrorental@rogers.com,9,0,0,1,0.0%,2026-02-13,
+001OJ00000VWMA3YAP,Pincel Transportation - Santa Clarita CA,,Rental House/Dealer,Santa Clarita,California,8189173451,,9,0,0,6,0.0%,2026-02-13,
+673fa17a458377001791ea3c,Arkansas,,Rental House/Dealer,,Arkansas,18337746320,,9,0,0,0,0.0%,2026-02-06,
+001Ah000005lNTgIAM,Elvaan Equipment Rentals - Mississauga ON,,Rental House/Dealer,Mississauga,Ontario,9056340669,sumanm@tueinc.ca,9,0,0,2,0.0%,2025-12-05,
+662abbfe0e427d001ebf5e4e,Tejas Equipment Rental - Alvarado TX,,Rental House/Dealer,Alvarado,TX,8177900755,,9,6,1,0,66.7%,2026-02-12,2026-02-04
+001OJ00000VbOxbYAF,Global Lions Rental Inc - Vancouver BC,,Rental House/Dealer,Vancouver,British Columbia,8005935359,,9,2,1,2,22.2%,2026-01-30,2026-01-29
+0011K00002VQVaSQAX,JV Equipment - Laredo TX,,Rental House/Dealer,Laredo,Texas,9567278861,dgoode@jvequipment.com,9,0,0,2,0.0%,2026-02-16,
+0011K00002OzO1PQAV,American Rentals - Long Beach CA,,Rental House/Dealer,Long Beach,California,5626305896,cturrubiate@american-rentals.com,8,0,0,2,0.0%,2026-01-29,
+678ffc1bc942640021498bb6,Leppo Rents (Bobcat of Ocala) - Ocala FL,,Rental House/Dealer,Ocala,Florida,13528103810,,8,0,2,0,0.0%,2026-01-29,
+0014100000gdnTKAAY,Elite Material Handling - Houston TX,MINER MATERIAL HANDLING,Rental House/Dealer,HOUSTON,Texas,2818955438,houstonrental@elitemh.com,8,0,0,4,0.0%,2026-02-13,
+68433fab4c8ca80017d2cf40,Beach City Lift - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,16024372345,support@azbestequs.com,8,1,0,3,12.5%,2026-02-06,2026-01-13
+001Ah000006wxowIAA,Decker Tool Rental - Hawthorne NY,,Rental House/Dealer,Hawthorne,New York,9147696800,,8,0,0,0,0.0%,2026-01-27,
+0011K00002UlVklQAF,All Points Equipment - Round Top TX,,Rental House/Dealer,Round Top,Texas,7139076906,ben@allpointsequiprental.com,8,0,0,3,0.0%,2026-02-10,
+673fa19a476a080018c3b0f0,Mississippi,,Rental House/Dealer,,Mississippi,18337746320,,8,0,0,0,0.0%,2026-02-12,
+001Ah0000043fCnIAI,All American Rentals - Apache Junction AZ,,Rental House/Dealer,Apache Junction,Arizona,4809848088,cappi@allamericanrentalsonline.com,8,1,2,2,12.5%,2026-02-06,2026-02-02
+0011K000024f3CTQAY,Eastern Highreach Company Inc. - Horsham PA,Eastern Highreach Company Inc.,Rental House/Dealer,Horsham,Pennsylvania,2156750200,sribeiro@easternhighreach.com,8,1,1,2,12.5%,2026-01-13,2026-01-13
+0014100001JZ2JkAAL,Universal Lift Systems LLC - Avondale AZ,Universal Lift Systems LLC,N/A,Avondale,Arizona,6238820405,office@universalliftsystems.com,8,0,0,2,0.0%,2026-02-06,
+001Ah000003aQcdIAE,Newman Tractor - St Clairsville OH,,Rental House/Dealer,St Clairsville,Ohio,+19188179468,,8,0,0,5,0.0%,2026-01-06,
+0011K00002UIYV9QAP,SPK Rentals & Sales - Schomberg ON,,Contractor,Schomberg,,4164772803,,8,0,2,0,0.0%,2026-02-13,
+6585b00278043e001cd6dfbd,Sunstate Equipment - Raleigh (Garner) NC,,Rental House/Dealer,Garner,NC,9848841994,dozr@sunstateequip.com,8,6,2,0,75.0%,2026-02-11,2026-02-11
+001Ah000005iKCOIA2,Stine Equipment - Austin TX,,Rental House/Dealer,Austin,Texas,5125456937,javi@stineequipment.com,8,0,5,0,0.0%,2026-02-10,
+0011K00002OzEieQAF,JGR Equipment Rental & Sales - Baltimore MD,,Rental House/Dealer,Halethorpe,Maryland,+14105369040,mobrien@jgrequipment.com,8,0,3,5,0.0%,2026-02-09,
+0011K00002GoiSrQAJ,Sunstate Equipment - Dallas TX (Duncanville),Sunstate Equipment Co. ,Partner,Dallas,Texas,8558088875,dozr@sunstateequip.com,8,5,2,0,62.5%,2026-02-13,2026-02-02
+0011K00002UlX9QQAV,Metroquip - Marietta GA,,Rental House/Dealer,Marietta,Georgia,7704224218,tdurden@metroquip.us,8,0,0,1,0.0%,2026-02-06,
+0014100001ZiwHAAAZ,Ag-Pro - Ocala FL,Ag-Pro,Rental House/Dealer,Ocala,Florida,3523512383,,7,0,0,2,0.0%,2026-02-13,
+001OJ000004mFCCYA2,South Florida Equipment Rentals - West Palm Beach FL,,Rental House/Dealer,West Palm Beach,Florida,+15613744200,,7,5,0,1,71.4%,2026-02-12,2026-02-12
+0011K00002GohtXQAR,Sunstate Equipment - Anaheim CA,Sunstate Equipment Co. ,Rental House/Dealer,Anaheim,California,8558088875,dozr@sunstateequip.com,7,1,1,0,14.3%,2026-02-04,2026-01-21
+0011K00002GojvlQAB,Sunstate Equipment - Seattle (Kent) WA,Sunstate Equipment Co. ,Partner,Kent,Washington,2539935091,dozr@sunstateequip.com,7,4,3,0,57.1%,2026-02-13,2026-02-13
+0014100001V6VZTAA3,Capitol Equipment Rentals - Jarvis ON,Capitol Equipment Rentals,Rental House/Dealer,Jarvis,Ontario,5195874571,,7,0,1,0,0.0%,2026-02-13,
+673fa186476a080018c3ab25,Indiana,,Rental House/Dealer,,Indiana,18337746320,,7,0,0,0,0.0%,2026-02-13,
+673fa17e6281f80018a2d5c2,Connecticut,,Rental House/Dealer,,Connecticut,18337746320,,7,0,0,0,0.0%,2026-02-13,
+0014100001JZ2IXAA1,Tool Time Equipment Rental & Sales - Highland MI,Tool Time Equipment Rental & Sales,Rental House/Dealer,Highland,Michigan,2488897368,tooltimeequipment@gmail.com,7,0,1,5,0.0%,2026-01-22,
+0014100000gax2eAAA,Dobbs Equipment (John Deere) - Miami FL,Dobbs Equipment,Rental House/Dealer,Miami,Florida,305.592.5740,,7,0,0,3,0.0%,2026-02-16,
+001Ah000004GtGwIAK,Meridian Pacific Equipment - Sacramento CA,,Rental House/Dealer,Sacramento,California,9167819553,rentals@meridianpacific.com,7,0,2,1,0.0%,2026-02-12,
+63b6facfeff64f001203a4d8,Andersen Material Handling  - Deerfield Beach FL,,Rental House/Dealer,Deerfield Beach,Florida,8775211850,,7,0,2,3,0.0%,2026-02-05,
+001Ah000005tAPjIAM,Toyota Material Handling Northern California - Bay Area (Livermore) CA,,Rental House/Dealer,Livermore,California,5106750500,,7,0,0,2,0.0%,2026-02-12,
+001Ah000004Jmp4IAC,Cromer Material Handling - Oakland CA,,Rental House/Dealer,Oakland,California,8009745438,rental@cromer.com,7,0,0,1,0.0%,2026-02-12,
+0011K00002GojZ1QAJ,Sunstate Equipment - Portland OR,Sunstate Equipment Co. ,Partner,Portland,Oregon,8558088875,dozr@sunstateequip.com,7,6,0,0,85.7%,2026-02-11,2026-02-11
+001Ah000005ilrAIAQ,Rush Forklift - Miami FL,,Rental House/Dealer,Miami,Florida,3058227874,service@rushforklifts.com,7,0,0,2,0.0%,2026-02-05,
+0011K00002GojBiQAJ,Sunstate Equipment - Memphis TN,Sunstate Equipment Co. ,Partner,Memphis,Tennessee,8558088875,dozr@sunstateequip.com,7,0,6,0,0.0%,2026-01-28,
+0011K00002OzNiVQAV,F&B Rentals - Orange CA,,Rental House/Dealer,Orange,California,7146336626,carisa@fbrentals.com,7,0,0,5,0.0%,2026-02-13,
+0011K00002QlspWQAR,ASCO Equipment - Austin TX,,Rental House/Dealer,Austin,Texas,+15122728922,dthorpe@ascoeq.com,7,0,0,2,0.0%,2026-02-16,
+0014100000gax2cAAA,Dobbs Equipment (John Deere) - Orlando FL,Dobbs Equipment,Rental House/Dealer,Orlando,Florida,+14072991212,,7,0,0,2,0.0%,2026-02-13,
+0011K00002SmFmUQAV,Need a Lift Rentals - Fort Lauderdale FL,,Rental House/Dealer,Fort Lauderdale,Florida,19546185438,staceyt@oakconstruction.com,7,2,1,1,28.6%,2026-01-13,2026-01-07
+0011K00002OzErOQAV,JGR Equipment Rental & Sales - Charlotte NC,,Rental House/Dealer,Charlotte,North Carolina,+17046062655,mobrien@jgrequipment.com,7,0,2,1,0.0%,2026-01-27,
+673fa1d54583770017920154,British Columbia,,Rental House/Dealer,,British Columbia,(226) 749-3887,,7,0,0,0,0.0%,2026-02-02,
+001Ah000003gvAYIAY,Bobcat Enterprises Inc. - Louisville KY,,Rental House/Dealer,Louisville,Kentucky,5022451911,,7,0,0,0,0.0%,2025-12-10,
+0011K00002UjcxaQAB,Hopeville Enterprises Inc - Proton Station ON,,Rental House/Dealer,,Ontario,2267490026,enos@linwoodcorp.com,7,0,0,0,0.0%,2026-02-05,
+673fa1a16281f80018a2dd48,New Mexico,,Rental House/Dealer,,New Mexico,18337746320,,7,0,0,0,0.0%,2026-02-06,
+673fa1ad476a080018c3b708,Pennsylvania,,Rental House/Dealer,,Pennsylvania,18337746320,,7,0,0,0,0.0%,2026-02-05,
+0011K00002UlpC3QAJ,Forrest Equipment Rentals - Waddell AZ,,Rental House/Dealer,Waddell,Arizona,6028318000,,7,0,0,1,0.0%,2026-01-18,
+0011K00002DeDYXQA3,OER Services LLC (Olympic Equipment Rentals) - Elk Grove Village IL,OER Services LLC,Rental House/Dealer,Elk Grove Village,Illinois,8556374872,rbedingfield@oer4usa.com,6,0,0,1,0.0%,2026-01-21,
+0014100001Gm49hAAB,"United Rentals 818 - Mississauga, ON",United Rentals,Rental House/Dealer,Mississauga,Ontario,19058148533,branch818@ur.com,6,0,0,0,0.0%,2025-12-16,
+0014100000gdnR5AAI,Carolina Industrial Trucks - West Columbia SC,"CAROLINA INDUSTRIAL TRUCKS - CHARLOTTE, NC",Rental House/Dealer,West Columbia,South Carolina,8037392410,,6,2,0,2,33.3%,2026-01-07,2026-01-07
+0014100001JYrODAA1,AllTool Rental Co - Hollywood FL,Alltool Rental Co.,Rental House/Dealer,Hollywood,Florida,9549811414,robbie@alltool.com,6,0,0,1,0.0%,2026-02-05,
+673fa1cb458377001791ff03,Washington,,Rental House/Dealer,,Washington,18337746320,,6,0,0,0,0.0%,2026-02-13,
+0011K00002GojFeQAJ,Sunstate Equipment - Nashville TN,Sunstate Equipment Co. ,Partner,Nashville,Tennessee,8558088875,dozr@sunstateequip.com,6,2,3,0,33.3%,2026-02-11,2026-02-11
+0011K00002QkX1nQAF,Western Rentals - Fontana CA,,Rental House/Dealer,Fontana,California,9098222200,jscott@scottequip.com,6,1,3,0,16.7%,2026-02-04,2026-02-04
+001OJ000007h0DhYAI,Proline Rentals and Sales - Orillia ON,,Rental House/Dealer,Orillia,Ontario,2492097767,,6,0,2,0,0.0%,2026-01-28,
+0014100001exozhAAA,Palm Beach Equipment Rentals - Delray Beach FL,Palm Beach Equipment Rentals,Rental House/Dealer,Delray Beach,Florida,5613471530,,6,1,0,3,16.7%,2026-01-09,2026-01-09
+0011K000024dn23QAA,Beck Equipment Inc - Preble NY,Beck Equipment,Rental House/Dealer,Preble,New York,6077497950,steve@beckequipment.com,6,1,0,1,16.7%,2026-02-10,2026-01-30
+0011K00002Oz6p3QAB,Sunstate Equipment - Roseville CA,,Rental House/Dealer,Roseville,CA,8558088875,dozr@sunstateequip.com,6,2,2,0,33.3%,2026-01-21,2026-01-21
+001Ah000006xP3hIAE,Pape Material Handling - Sacramento CA,,Rental House/Dealer,Sacramento,California,9166413434,,6,0,2,1,0.0%,2026-02-10,
+0014100001JYri9AAD,Five Star Equipment Rental & Supply - Plainfield IL,Five Star Equipment Rental & Supply,Rental House/Dealer,Plainfield,Illinois,6304709317,,6,0,1,0,0.0%,2026-01-21,
+0011K00002Ujf1wQAB,All Access Services - Santa Ana CA,,Rental House/Dealer,Santa Ana,California,7146471552,info@allaccessrentals.com,6,0,0,0,0.0%,2026-01-29,
+001Ah000005cxxxIAA,Atmosphere Rental Inc - Cambridge ON,,Rental House/Dealer,Cambridge,Ontario,5192425767,,6,0,0,1,0.0%,2026-02-13,
+0011K00002IX2UqQAL,D&B Rentals Sales & Service - Sterling VA,D&B Rentals Sales & Service,Rental House/Dealer,Sterling,Virginia,7034351414,matt@dandbrentals.com,6,1,1,1,16.7%,2025-11-24,2025-11-20
+001Ah000005hGLhIAM,LSR Equipment - Alvarado TX,,Rental House/Dealer,Alvarado,Texas,6823789477,office@lsrenterprise.com,6,0,1,2,0.0%,2026-01-29,
+001Ah0000066eQLIAY,Palm Beach Lift Trucks Inc (Forklift Doctor of Florida) - Delray Beach FL,,Rental House/Dealer,Delray Beach,Florida,5619516243,,6,1,0,3,16.7%,2026-02-05,2026-02-05
+001Ah000004O6S8IAK,US Lift and Warehouse Equipment - Elk Grove IL,,Rental House/Dealer,Arlington Heights,Illinois,8473644343,benman3737@aol.com,6,0,0,0,0.0%,2026-01-21,
+639cce6a7af3260012b7b83d,Big Lift Material Handling - Phoenix AZ,,Rental House/Dealer,Phoenix,AZ,6027958400,,6,1,0,1,16.7%,2026-01-21,2026-01-21
+0011K00002RLuD8QAL,Ready Equipment Rental - San Bernardino CA,,Rental House/Dealer,San Bernardino,California,9098864714,readyequipmentrental@outlook.com,6,3,2,0,50.0%,2026-01-28,2026-01-28
+0011K00002GojykQAB,Sunstate Equipment - Southlake TX,Sunstate Equipment Co. ,Partner,Southlake,Texas,8558088875,dozr@sunstateequip.com,6,4,1,0,66.7%,2026-02-03,2026-02-03
+001Ah000004WGMXIA4,Naumann Hobbs Material Handling - Las Vegas NV,,Rental House/Dealer,Las Vegas,Nevada,8559573682,dlphoenixrental@nhmh.com,6,1,0,1,16.7%,2026-02-06,2025-12-19
+0011K00002TAMblQAH,Total Warehouse - Las Vegas NV,,Rental House/Dealer,Las Vegas,Nevada,7029417160,leo@totalwarehouse.com,6,0,0,0,0.0%,2026-01-19,
+0011K00002Goj76QAB,Sunstate Equipment - Mckinney TX,Sunstate Equipment Co. ,Partner,McKinney,Texas,8558088875,dozr@sunstateequip.com,6,1,1,1,16.7%,2026-02-03,2026-02-03
+0011K00002RLqJ2QAL,Empire Cat - Imperial CA,,Rental House/Dealer,Imperial,California,7603552443,dozraz@empire-cat.com,6,0,0,2,0.0%,2026-02-13,
+0011K00002UkaoTQAR,Harris Blade Rental - Livermore CA,,Rental House/Dealer,Livermore,California,9254472267,sandy@harrisblade.com,6,0,0,0,0.0%,2026-02-12,
+673fa18e476a080018c3ad68,Massachusetts,,Rental House/Dealer,,Massachusetts,18337746320,,6,0,0,0,0.0%,2026-02-10,
+0011K00002WLYWvQAP,Almighty Rentals Tool & Equipment - Georgetown TX,,Rental House/Dealer,Georgetown,Texas,5128683788,mark@almightyrentals.com,6,0,0,0,0.0%,2026-02-10,
+0011K00002SHfMTQA1,Kat's Heavy Equipment Rental - Staten Island NY,,Rental House/Dealer,,New York,7187777181,katsequipment@gmail.com,6,1,0,0,16.7%,2026-01-27,2026-01-27
+0011K00002SlRyIQAV,G&W Equipment - Charlotte NC,,Rental House/Dealer,Charlotte,North Carolina,7043946316,rental@gwequip.com,5,0,2,0,0.0%,2026-01-27,
+001Ah000004NVD5IAO,Alliance Material Handling - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,6023861850,kkern@alliance-ind.com,5,0,0,2,0.0%,2026-01-21,
+0014100000QERvbAAH,THG Rentals & Sales - Clearwater FL,THG Rentals & Sales,Rental House/Dealer,Clearwater,Florida,7274617511,thgrentalandsales@gmail.com,5,0,0,1,0.0%,2026-01-22,
+65859edff4f19d001c39f85e,Sunstate Equipment - South Houston TX,,Rental House/Dealer,Friendswood,TX,2814923400,dozr@sunstateequip.com,5,1,3,0,20.0%,2026-02-06,2025-11-20
+001OJ0000023XmIYAU,The Equipment Connection - Lancaster CA,,Rental House/Dealer,Lancaster,California,6614293777,,5,1,0,1,20.0%,2026-01-23,2025-11-20
+0011K00002TDtOJQA1,Minuteman Rentals - Liberty Hill TX,,Rental House/Dealer,Liberty Hill,Texas,5125155959,,5,0,0,0,0.0%,2026-02-10,
+0014100001l8x8CAAQ,Rental Stop - Arlington TX,Rental Stop,Rental House/Dealer,Arlington,Texas,8173360059,,5,0,0,3,0.0%,2026-02-13,
+0014100000gdnMlAAI,Komatsu Forklift of Chicago - Alsip IL,KOMATSU FORKLIFT OF CHICAGO,Rental House/Dealer,Alsip,Illinois,7083850330,carl.serbin@global.komatsu,5,0,0,0,0.0%,2026-01-21,
+689b619ed6748700174b6b6e,RP Rents - Naperville IL,,Rental House/Dealer,Naperville,Illinois,18007322490,,5,3,0,2,60.0%,2025-12-11,2025-12-11
+0014100000cDCVAAA4,Triple E Equipment - Okeechobee FL,Triple E Equipment,Rental House/Dealer,,,863-467-8300,,5,0,0,1,0.0%,2026-02-12,
+0011K00002VOjhPQAT,Double Mountain - Dobson NC,,Rental House/Dealer,Dobson,North Carolina,3368042121,joedblmtn@gmail.com,5,0,0,0,0.0%,2026-01-15,
+6945886757a6f6001e1e163f,Evcon Rentals,,Rental House/Dealer,Hot Springs,Arkansas,+15015381834,evconrentals@gmail.com,5,4,1,0,80.0%,2025-12-19,2025-12-19
+0011K00002GoiDnQAJ,Sunstate Equipment - Carson CA,Sunstate Equipment Co. ,Partner,Carson,California,8558088875,dozr@sunstateequip.com,5,0,2,0,0.0%,2026-01-28,
+001Ah000005EBR7IAO,Atlas Toyota Material Handling - Bedford Park IL,,Rental House/Dealer,Bedford Park,Illinois,7085630707,rental@atlaslift.com,5,0,0,0,0.0%,2026-01-21,
+0011K00002X7RcbQAF,Just For Snow Property Services,,Rental House/Dealer,Vaughan,Ontario,6472736038,mikayel@justforsnow.ca,5,0,0,4,0.0%,2026-01-29,
+642b1b605fdc6c00193d3723,Tejas Equipment Rental - Houston TX ,,Rental House/Dealer,Spring,,3463511666,,5,3,0,1,60.0%,2026-01-19,2026-01-19
+0014100000MjHD8AAN,Tejas Equipment Rental - San Antonio TX ,Tejas Equipment Rental,Rental House/Dealer,San Antonio,Texas,+17372662044,kyle@tejasequipment.com,5,4,1,0,80.0%,2026-02-05,2026-02-05
+0011K00002GoinSQAR,Sunstate Equipment - North Houston TX,Sunstate Equipment Co. ,Partner,Houston,Texas,8558088875,dozr@sunstateequip.com,5,2,2,0,40.0%,2026-01-23,2026-01-23
+0011K00002OzBSMQA3,JGR Equipment Rental & Sales - Manassas VA,,Rental House/Dealer,Manassas,Virginia,7033670060,jlaycock@jgrequipment.com,5,0,0,4,0.0%,2026-01-30,
+001OJ00000V8oimYAB,Marquee Landscapes,,Rental House/Dealer,Burlington,Ontario,4377572292,,5,0,3,0,0.0%,2026-01-29,
+0011K00002TDrF3QAL,Darr Equipment Co - North Houston TX,,Rental House/Dealer,,,7136973033,,5,0,0,2,0.0%,2026-02-06,
+0014100001TSbdTAAT,Yancey Cat - Gwinnett GA,Yancey Cat,Partner,Dacula,Georgia,7709636868,,5,1,0,2,20.0%,2026-02-13,2026-01-26
+001Ah000004NaRpIAK,"Thompson & Johnson Equipment Co., Inc - East Syracuse NY",,Rental House/Dealer,East Syracuse,New York,3158955105,,5,2,1,0,40.0%,2026-02-06,2026-02-06
+0011K00002WLHlDQAX,Newman Tractor - Richwood KY,,Rental House/Dealer,Walton,Kentucky,8598064747,,5,0,0,0,0.0%,2025-12-29,
+0011K000024eCPuQAM,Houston Heavy Machinery - Cypress TX,Houston Heavy Machinery,Rental House/Dealer,Cypress,Texas,8329923828,jhammond@houstonmachinery.com,5,0,3,0,0.0%,2026-02-16,
+001OJ00000ISgTNYA1,Sunstate Equipment - Saint Gabriel LA,,Rental House/Dealer,St Gabriel,Louisiana,+12256819995,,5,1,2,1,20.0%,2026-01-14,2026-01-14
+68433f474c8ca80017d2cf3f,Beach City Lift - Las Vegas NV,,Rental House/Dealer,North Las Vegas,Nevada,17252246161,rent@azbestequs.com,5,0,0,3,0.0%,2026-01-19,
+65849c51228ebc001c5cd97f,Sunstate Equipment - Corpus Christi TX,,Rental House/Dealer,Corpus Christi,TX,3613718850,dozr@sunstateequip.com,5,2,2,0,40.0%,2026-01-29,2026-01-29
+0014100001JYrcZAAT,CSI Scissor Lift Rentals - Cypress TX,CSI Scissor Lift Rentals,Rental House/Dealer,Cypress,Texas,7138066686,,5,0,0,0,0.0%,2026-02-11,
+0011K00002TDrVZQA1,Darr Equipment Co - Haltom City TX,,Rental House/Dealer,Haltom City,Texas,8009645438,,5,1,0,2,20.0%,2026-02-13,2025-11-20
+0014100000ANAaFAAX,Tri City Equipment - Guelph ON,Tri City Equipment,Partner,,,519-767-9628,dzappitelli@tri-cityequipment.com,5,0,0,4,0.0%,2026-01-29,
+0011K00002GoigFQAR,"Sunstate Equipment - South Fort Worth, TX",Sunstate Equipment Co. ,Partner,Fort Worth,Texas,8558088875,dozr@sunstateequip.com,5,1,3,0,20.0%,2026-02-13,2025-12-15
+001Ah000003gtQKIAY,Waxhaw Equipment Rental - Waxhaw NC,,Rental House/Dealer,Marvin,North Carolina,7048431088,,5,0,0,0,0.0%,2026-01-09,
+0011K00002X6RNQQA3,True Grit Rentals - Katy TX,,Rental House/Dealer,Katy,,+12817694270,,5,0,0,1,0.0%,2026-02-06,
+0011K00002UGXNQQA5,Burris Equipment - Ingleside IL,,Rental House/Dealer,Ingleside,Illinois,8153634100,dave.zenner@burrisequipment.com,5,0,1,1,0.0%,2025-12-18,
+0014100000gdnMoAAI,Komatsu Forklift of Southern California - Long Beach CA,KOMATSU FORKLIFT OF SOUTHERN CALIFORNIA,Rental House/Dealer,LONG BEACH,California,3106315438,helen.talavou@global.komastu,5,0,0,2,0.0%,2026-01-23,
+0011K00002GojmjQAB,Sunstate Equipment - Salt Lake City UT,Sunstate Equipment Co. ,Partner,Salt Lake City,Utah,8558088875,dozr@sunstateequip.com,5,0,3,0,0.0%,2026-01-29,
+001Ah0000046bN7IAI,Renegade Rentals LLC - Brigham City UT,,Rental House/Dealer,Brigham City,Utah,4357235172,accounts@renegaderentals.com,5,2,1,0,40.0%,2026-02-03,2026-02-03
+0011K00002VQMwnQAH,Top Gunn Equipment Rentals Inc(South) - Austin TX ,,Rental House/Dealer,Austin,Texas,5124447711,,5,0,1,0,0.0%,2026-02-10,
+0014100000Mi5zTAAR,ASCO Equipment - San Antonio TX,ASCO Equipment,Rental House/Dealer,San Antonio,Texas,+12103338000,rquintana@ascoeq.com,5,0,0,1,0.0%,2026-02-16,
+0011K00002GoiQ2QAJ,Sunstate Equipment - Concord (Pachecho) CA,Sunstate Equipment Co. ,Partner,Pacheco,California,9256811138,,5,0,0,2,0.0%,2026-02-04,
+639358508ed414001378be7b,The Equipment Source - Labelle (Ft Myers) FL,,Rental House/Dealer,Fort Denaud,FL,+12392370717,,5,0,0,2,0.0%,2026-02-13,
+0011K00002GojIOQAZ,Sunstate Equipment - Odessa TX,Sunstate Equipment Co. ,Partner,Odessa,Texas,8558088875,dozr@sunstateequip.com,5,3,1,0,60.0%,2025-12-19,2025-12-19
+64413550aa564a001293096f,The Equipment Guys - Modesto CA,,Rental House/Dealer,Modesto,CA,2096025712,joe@tegscompany.com,5,0,0,2,0.0%,2026-02-12,
+0014100000gdnUFAAY,All Lift Service Co - Willowby OH,ALL LIFT SERVICE CO INC,Rental House/Dealer,WILLOUGHBY,Ohio,4405851542,dgermano@alllift.com,5,0,1,2,0.0%,2026-01-22,
+0014100000x8dT4AAI,Select Total Service - Thorold ON,Select Total Service,Rental House/Dealer,Thorold,Ontario,9053844184,mail@selectaerials.com,5,0,3,0,0.0%,2026-02-13,
+0014100001dZuy1AAC,Bobcat of Toronto - Scarborough ON,Bobcat of Barrie,Rental House/Dealer,Toronto,ON,4166794171,mdona@bobcattoronto.com,4,0,1,0,0.0%,2026-02-13,
+0011K00002IUjmUQAT,Jamco - Plant City FL,Jamco - Tampa,Rental House/Dealer,Plant City,Florida,8668485400,leslie@jamco1.com,4,2,1,0,50.0%,2026-01-27,2026-01-27
+0014100000j6bdlAAA,"Hendershot Equipment - Decatur, TX- COD ONLY",Hendershot Equipment,Rental House/Dealer,Decatur,Texas,9402020535,decaturrents@hendershotequipment.com,4,0,0,3,0.0%,2026-02-13,
+673fa1aa458377001791f77b,Oregon,,Rental House/Dealer,,Oregon,18337746320,,4,0,0,0,0.0%,2026-01-16,
+0011K00002GokD1QAJ,Sunstate Equipment - Tampa FL,Sunstate Equipment Co. ,Partner,Tampa,Florida,8558088875,dozr@sunstateequip.com,4,0,1,1,0.0%,2026-02-06,
+001Ah000004Z4pCIAS,iRent LLC - Salt Lake City UT,,Rental House/Dealer,Salt Lake City,Utah,8018491077,mikey@irentutah.com,4,0,2,0,0.0%,2026-01-29,
+0014100001JZ2D8AAL,Strobel's Rentals - East Side Great Falls MT,Strobel`s Rentals,Rental House/Dealer,Great Falls,Montana,8008817244,,4,2,0,0,50.0%,2025-12-19,2025-12-19
+001OJ000001JxTeYAK,Eldorado Forklift Co - Sacramento CA,,Rental House/Dealer,Sacramento,California,6502812389,,4,0,0,2,0.0%,2026-02-10,
+68c0421701b61f0017fd12b8,Sunstate Equipment - Bradenton FL,,Rental House/Dealer,Bradenton,Florida,19412182620,,4,0,0,0,0.0%,2026-01-27,
+0014100001JZ0HmAAL,Mazzotta Rentals Inc. - Middletown CT,Mazzotta Rentals Inc.,Rental House/Dealer,Middletown,Connecticut,+18603440178,kevin@mazzottaequipment.com,4,0,0,1,0.0%,2026-02-13,
+001Ah00000488d7IAA,NG Equipment Sales - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,4802863865,nelson@ngequipmentsales.com,4,2,0,1,50.0%,2025-12-17,2025-12-17
+0014100001JYrhiAAD,Everjoy Rent All Co - Detroit MI,Everjoy Rent All Co.,Rental House/Dealer,Detroit,Michigan,3138463130,everjoyr@aol.com,4,1,0,1,25.0%,2026-02-13,2026-01-21
+0014100000gax3GAAQ,Dobbs Equipment (John Deere) - Fort Myers FL,Dobbs Equipment,Rental House/Dealer,Fort Myers,Florida,239-334-3627,,4,1,2,0,25.0%,2026-02-13,2026-01-20
+6841b16edeb1b100186a78b3,Doral Tools & Equipment - Miami FL,,Rental House/Dealer,Doral,Florida,13055997368,info@dtequip.com,4,0,0,2,0.0%,2026-01-29,
+001Ah000005hDaYIAU,Stewart & Stevenson - Houston TX,,Rental House/Dealer,Houston,Texas,8002345550,a.canty@ssss.com,4,0,4,0,0.0%,2026-02-09,
+0014100001JYrP9AAL,Astro Rents - North Plainfield NJ,Astro Rents,Rental House/Dealer,North Plainfield,New Jersey,9087576930,,4,0,0,1,0.0%,2026-01-27,
+0011K00002Um9SnQAJ,Silver Line Supply LLC - Ponder TX,,Rental House/Dealer,Ponder,Texas,+19404424659,,4,0,1,2,0.0%,2025-11-21,
+0011K00002WN72EQAT,AdvanceTrac Equipment - SAT,,Rental House/Dealer,Converse,TX,5124097137,,4,0,2,0,0.0%,2026-02-16,
+001Ah000004Y7s3IAC,Canon Rental - Canon City CO,,Rental House/Dealer,Cañon City,Colorado,7192750615,,4,0,0,2,0.0%,2026-02-14,
+0011K00002TBsE9QAL,Bobcat of York (Crownstone Equipment) - Frederick MD,,Rental House/Dealer,Frederick,Maryland,3013780491,mgill@crownstoneeq.com,4,2,0,1,50.0%,2026-02-02,2026-02-02
+0011K00002TVgUXQA1,Route 12 Rental Company - Arlington Heights IL,,Rental House/Dealer,Arlington Heights,Illinois,8472534404,john@route12rental.com,4,0,0,1,0.0%,2026-01-21,
+0011K00002WOXsOQAX,LGP Equipment Rentals - Bell Gardens CA,,Rental House/Dealer,Bell Gardens,California,3235690969,,4,2,1,1,50.0%,2026-02-09,2026-02-09
+0011K00002XmYWRQA3,Puckett Machinery CAT (Corp) - Richland MS,,Rental House/Dealer,Richland,Mississippi,6019395151,,4,1,2,0,25.0%,2026-02-12,2026-01-02
+0011K00002RLqQDQA1,Empire Cat - Mesa AZ,,Rental House/Dealer,Mesa,Arizona,4806334421,dozraz@empire-cat.com,4,0,1,1,0.0%,2026-01-21,
+0014100001Gm4FfAAJ,"United Rentals 184 - Kitchener, ON",United Rentals,Rental House/Dealer,Kitchener,Ontario,15195766000,cbuckles@ur.com,4,0,0,0,0.0%,2026-01-07,
+001Ah000004ZAO2IAO,Arapahoe Rental - Westminster CO,,Rental House/Dealer,Westminster,Colorado,3034293589,,4,2,0,0,50.0%,2026-01-12,2026-01-12
+0011K00002TUyXcQAL,Universal Rent-All - Clearfield UT,,Rental House/Dealer,Clearfield,Utah,8018257347,,4,0,0,1,0.0%,2026-01-29,
+001OJ00000LvNJzYAN,UpLift Equipment Rentals - Medley Fl,,Rental House/Dealer,Medley,Florida,+17867064667,,4,3,0,0,75.0%,2026-01-27,2026-01-27
+0011K00002L5HENQA3,United Rentals NE-PETERBOROUGH (15C),,Rental House/Dealer,Peterborough,Ontario,17100000000,branch15c@ur.com,4,0,1,1,0.0%,2026-01-08,
+0011K00002SK3d3QAD,Tri-Lift Inc - Hamden CT,,Rental House/Dealer,Hamden,Connecticut,8337300417,,4,0,2,1,0.0%,2026-02-13,
+0011K00002SKiNmQAL,Boomtech - Whitby ON,,Rental House/Dealer,Whitby,Ontario,9052428176,roberto@boomtech.ca,4,0,0,0,0.0%,2026-01-20,
+0014100000ANATVAA5,Bobcat of Toronto - Brampton ON,Bobcat of Barrie,Rental House/Dealer,Brampton,Ontario,4166794172,rentals@bobcattoronto.com,4,1,0,0,25.0%,2026-01-24,2025-12-19
+0011K00002GojjVQAR,Sunstate Equipment - Rio Rancho NM,Sunstate Equipment Co. ,Partner,Rio Rancho,New Mexico,8558088875,dozr@sunstateequip.com,4,1,2,0,25.0%,2026-02-06,2026-01-16
+001Ah000004PBzOIAW,Next Level Rental - Matthews NC,,Rental House/Dealer,Matthews,North Carolina,9802987892,,4,0,0,0,0.0%,2026-01-09,
+0011K00002LqL6hQAF,Leppo Rents (Bobcat of Opelika) - Opelika AL,,Rental House/Dealer,Opelika,Alabama,+13343505661,,4,3,1,0,75.0%,2026-02-13,2026-02-06
+001Ah000003tXVOIA2,Heavy Iron Plant Ltd - Gormley ON,,Rental House/Dealer,Gormley,Ontario,+14165055217,info@heavyironplant.com,4,0,0,1,0.0%,2026-01-16,
+0014100001Gm4FqAAJ,"United Rentals E89 - Stoney Creek, ON",United Rentals,Rental House/Dealer,Hamilton,Ontario,19056645007,ksmith@ur.com,4,0,0,0,0.0%,2025-12-18,
+0014100000ik5l2AAA,Best Line  Equipment - Lemont Furnace PA,Best Line Leasing,Rental House/Dealer,Lemont Furnace,Pennsylvania,7244371578,mgetz@bestlineinc.com,4,0,1,1,0.0%,2026-01-02,
+0011K00002RLqQhQAL,Empire Cat - Phoenix Deer Valley AZ,,Rental House/Dealer,Phoenix,Arizona,6237601100,dozraz@empire-cat.com,4,0,1,1,0.0%,2025-12-15,
+001Ah000004EdasIAC,Integral Lift Trucks - Houston TX,,Rental House/Dealer,Houston,Texas,2817669480,,4,0,0,0,0.0%,2026-01-23,
+0011K00002PercEQAR,Equipment Depot - Orange County CA,,Rental House/Dealer,Whittier,California,5629491000,,4,0,1,1,0.0%,2026-01-07,
+001Ah000005EguPIAS,Cromer Material Handlling - Las Vegas NV,,Rental House/Dealer,Las Vegas,Nevada,7022074700,rental@cromer.com,4,0,0,4,0.0%,2026-02-06,
+0011K00002RhTE6QAN,Dobbs Equipment (John Deere) - Sarasota FL,,Rental House/Dealer,Sarasota,Florida,+19419602004,,4,0,0,1,0.0%,2026-02-16,
+0014100000j6bcwAAA,Best Line Material Handling - Bensalem PA,Delaware Valley Lift Truck,Rental House/Dealer,Bensalem,Pennsylvania,2154470000,jlongmore@bestline.com,4,0,2,0,0.0%,2025-12-19,
+0011K00002G5Qr2QAF,Briggs Equipment (JCB) - Tampa FL,Briggs Equipment,Rental House/Dealer,Tampa,Florida,+18136214671,orlando.rental@briggsequipment.com,4,0,0,0,0.0%,2026-01-26,
+001Ah000004KLpoIAG,West End Equipment Rentals - Naturita CO,,Rental House/Dealer,Naturita,Colorado,9708652408,,4,0,0,3,0.0%,2026-01-08,
+0011K00002GoigGQAR,Sunstate Equipment - Fremont CA,Sunstate Equipment Co. ,Partner,Fremont,California,8558088875,dozr@sunstateequip.com,4,1,3,0,25.0%,2026-02-12,2026-02-12
+68ac71f6c0444700197780c2,Synergy Equipment - Houston TX,,Rental House/Dealer,Houston,Texas,13465973386,,4,4,0,0,100.0%,2026-02-06,2026-02-06
+0011K00002X7s0rQAB,LIG Rentals - Loomis CA,,Rental House/Dealer,Loomis,California,+19164724467,accounting@ligrentals.com,4,0,2,1,0.0%,2026-01-27,
+64346560182fa1001964750d,The Lilly Company - Memphis TN,,Rental House/Dealer,Memphis,Tennessee,8445455926,,4,0,0,4,0.0%,2026-01-28,
+0011K00002VQaezQAD,American Rentals - San Marcos CA,,Rental House/Dealer,San Marcos,California,6197042500,,4,0,0,2,0.0%,2026-02-13,
+0011K00002GojV9QAJ,Sunstate Equipment - Peoria AZ,Sunstate Equipment Co. ,Partner,Peoria,Arizona,8558088875,dozr@sunstateequip.com,4,0,2,0,0.0%,2026-01-19,
+0011K00002QlsvGQAR,ASCO Equipment - Tyler TX,,Rental House/Dealer,Tyler,Texas,+19035930201,,4,0,3,0,0.0%,2026-02-12,
+673fa1c3458377001791fcff,Utah,,Rental House/Dealer,,Utah,18337746320,,4,0,0,0,0.0%,2026-01-29,
+0011K00002KYZb0QAH,R&M Equipment Rentals - Birmingham AL,,Rental House/Dealer,Birmingham,Alabama,2053261111,ar@rmequipment.net,4,1,0,1,25.0%,2026-01-21,2026-01-21
+0011K00002TAjvdQAD,Coker Rental Company - Clinton TN,,Rental House/Dealer,Powell,Tennessee,8653023200,rental@cokerace.com,4,0,0,0,0.0%,2026-02-03,
+0014100001QO0toAAD,"Bottom Line Equipment LLC - Baytown, TX",Bottom Line Equipment LLC,Rental House/Dealer,Baytown,Texas,12817450681,bradh@bottomlineequipment.com,4,0,0,1,0.0%,2026-02-03,
+673fa19c6281f80018a2db05,Montana,,Rental House/Dealer,,Montana,18337746320,,4,0,0,0,0.0%,2026-01-23,
+0014100000hUCgoAAG,Wheeler Machinery (CAT) - Salt Lake City UT,Wheeler Machinery Co.,Rental House/Dealer,Salt Lake City,Utah,8019740511,wheelerleads@wheelercat.com,4,0,0,2,0.0%,2026-01-29,
+0011K00002GoiCaQAJ,Sunstate Equipment - Carrollton TX,Sunstate Equipment Co. ,Partner,Carrollton,Texas,8558088875,dozr@sunstateequip.com,3,0,2,0,0.0%,2026-02-12,
+673fa19b476a080018c3b158,Missouri,,Rental House/Dealer,,Missouri,18337746320,,3,0,0,0,0.0%,2026-01-22,
+0014100001V7PgpAAF,Tejas Equipment Rental - San Marcos TX,Tejas Equipment Rental,Rental House/Dealer,San Marcos,Texas,+15127383353,kyle@tejasequipment.com,3,3,0,0,100.0%,2026-02-10,2026-02-10
+0011K00002RgypPQAR,Heavy Machines LLC- Murfreesboro TN,,Rental House/Dealer,Murfreesboro,TN,6293353077,,3,0,2,1,0.0%,2026-02-06,
+0011K00002SHmmCQAT,Brandon Lift Services INC. - Largo FL,,Rental House/Dealer,Largo,Florida,7274747802,accounts@brandonliftservice.com,3,0,0,0,0.0%,2026-01-26,
+0011K00002SnMVHQA3,Superior Industrial Products (Forklifts) - Nashville TN,,Rental House/Dealer,Nashville,Tennessee,6152560116,rentals@sip.net,3,0,0,0,0.0%,2026-02-06,
+65845d76689ac3002339c7fa,Sunstate Equipment - Apache Junction AZ,,Rental House/Dealer,Apache Junction,AZ,6022750601,dozr@sunstateequip.com,3,0,1,1,0.0%,2026-02-05,
+673fa1cc458377001791ffea,West Virginia,,Rental House/Dealer,,West Virginia,18337746320,,3,0,0,0,0.0%,2026-01-06,
+0014100001HCdxnAAD,"Sunbelt Rentals 293 - Bangor, ME",Sunbelt Rentals,Rental House/Dealer,Bangor,Maine,(207) 945-5635,pcm293@sunbeltrentals.com,3,2,0,1,66.7%,2026-02-02,2026-02-02
+0014100001Gm4IgAAJ,"United Rentals 819 - Scarborough, ON",United Rentals,Rental House/Dealer,Toronto,Ontario,14162891010,branch819@ur.com,3,0,1,0,0.0%,2026-01-12,
+0011K00002X7g1GQAR,Patriot Rentals - Davis Valley UT,,Rental House/Dealer,Ogden,UT,8014036634,,3,0,0,1,0.0%,2026-01-29,
+0014100001JZ2IjAAL,Total Rental - Phoenixville PA,Total Rentals,Rental House/Dealer,,,(610) 933-1107,,3,3,0,0,100.0%,2026-02-10,2026-02-10
+001Ah000004U3Q2IAK,Carolina Containers & Transport - Raleigh NC,,Rental House/Dealer,Raleigh,North Carolina,+19195629187,,3,1,0,1,33.3%,2025-12-19,2025-12-19
+0011K00002VPvDZQA1,Connect Services Equipment Rental - Jacksonville TX,,Rental House/Dealer,Jacksonville,Texas,9035868999,,3,0,2,0,0.0%,2026-01-15,
+692772e8a3075b001e5199e7,Hive Rentals & Co - Caldwell TX,,Rental House/Dealer,Caldwell,Texas,+19792205948,hiverentalyard.caldwell@gmail.com,3,1,2,0,33.3%,2025-12-01,2025-12-01
+0011K000024eEbzQAE,GMW Equipment - San Juan TX,GMW Equipment,Rental House/Dealer,San Juan,Texas,9563355000,,3,2,1,0,66.7%,2026-01-09,2026-01-09
+0014100000gdnT0AAI,PDQ Rentals - Sante Fe CA,DBA PDQ RENTALS,Rental House/Dealer,Santa Fe Springs,California,5629443206,santafe@pdqrentals.com,3,0,0,0,0.0%,2026-01-29,
+642c8b5110900c00128b6254,Purple Rentals - Toronto ON,,Rental House/Dealer,Toronto,Ontario,4379729559,chris.thacker@purplerentals.ca,3,0,0,1,0.0%,2026-01-26,
+0011K00002UH4L3QAL,Total Warehouse - San Diego CA,,Rental House/Dealer,San Diego,California,8338682500,,3,0,0,2,0.0%,2026-02-13,
+0011K00002GojvRQAR,Sunstate Equipment - Scottsdale AZ,Sunstate Equipment Co. ,Partner,Scottsdale,Arizona,8558088875,dozr@sunstateequip.com,3,0,2,0,0.0%,2026-01-15,
+0011K00002Gok3zQAB,Sunstate Equipment - Tulsa OK,Sunstate Equipment Co. ,Partner,Tulsa,Oklahoma,8558088875,dozr@sunstateequip.com,3,1,2,0,33.3%,2026-01-23,2026-01-23
+0011K00002Lpf0tQAB,Leppo Rents - Cleveland OH,,Rental House/Dealer,Cleveland,Ohio,+13309584167,craig@leppos.com,3,2,1,0,66.7%,2026-01-22,2025-11-26
+001Ah000004ZgMuIAK,"Perfetto Enterprises Company, Inc. - Staten Island NY",,Rental House/Dealer,,New York,7184424212,fieldmanager@perfettoent.com,3,0,0,0,0.0%,2026-01-21,
+0011K00002VPKESQA5,Dino Piergallini & Sons Equipment Inc - New Philadelphia OH,,Rental House/Dealer,New Philadelphia,Ohio,+13303648055,mpiergallini@piergalliniequipment.com,3,0,0,3,0.0%,2026-01-02,
+001OJ00000kJPcwYAG,"Cal-West Rentals, Inc - San Rafael, CA",,Rental House/Dealer,San Rafael,California,+14158840610,will@calwestrentals.com,3,2,1,0,66.7%,2025-11-25,2025-11-25
+0011K00002TX0jmQAD,Mega Rentals Inc - Lorton VA,,Rental House/Dealer,Lorton,VA,7035410914,contact@megarentals.co,3,0,1,0,0.0%,2026-01-30,
+0011K00002TuaewQAB,Toyota Lift of South Texas (Doggett Machinery) - Austin TX,,Rental House/Dealer,Austin,Texas,+15129288700,darin.soun@doggett.com,3,2,0,0,66.7%,2026-02-16,2026-02-16
+0014100001JYrOCAA1,Allstar Equipment of Palm Beach County - West Palm Beach FL,Allstar Equipment of Palm Beach County,Rental House/Dealer,West Palm Beach,Florida,5618633332,,3,0,0,2,0.0%,2025-12-22,
+0011K00002TYOT8QAP,HTX Material Handling - Houston TX,,Rental House/Dealer,Houston,Texas,9374510624,mtweedie@htxforklifts.com,3,2,0,0,66.7%,2025-11-21,2025-11-21
+0011K00002TWgWdQAL,The Equipment Source - Englewood FL,,Rental House/Dealer,Englewood,Florida,9414609769,dgouveia@equipmentsource.net,3,2,0,0,66.7%,2026-01-27,2026-01-27
+0014100001JZ2AqAAL,Rocky Hill Equipment Rentals - San Antonio (Selma) TX,Rocky Hill Equipment Rentals,Rental House/Dealer,Selma,Texas,2106515611,chuck@rockyhillequipmentrentals.com,3,0,0,0,0.0%,2026-02-16,
+0011K00002TYhBGQA1,McCann Rental - McHenry IL,,Rental House/Dealer,McHenry,Illinois,8153850420,,3,0,0,1,0.0%,2025-12-18,
+0011K00002TAuJpQAL,Superior Equipment Rental - Wilmington DE,,Rental House/Dealer,Wilmington,Delaware,3026586193,joelle@superiorequipmentrental.com,3,2,0,0,66.7%,2025-12-16,2025-12-16
+0014100000gawpBAAQ,Jesco Inc. HQ - South Plainfield NJ,Jesco Inc.,Rental House/Dealer,S Plainfield,New Jersey,9087538080,nicholas.delvecchio@jesco.us,3,0,3,0,0.0%,2026-01-22,
+0011K00002Lpf2LQAR,Leppo Rents - Youngstown OH,,Rental House/Dealer,Girard,Ohio,+13309584167,craig@leppos.com,3,0,3,0,0.0%,2026-01-02,
+0011K00002Gp0buQAB,Armour Sales and Rentals - Haydon ON,Armour Sales and Rentals,Rental House/Dealer,Cavan,Ontario,9059033374,mattferguson5-16@gmail.com,3,0,1,1,0.0%,2026-01-20,
+0014100001JYrW6AAL,Bobcat of Las Vegas - Las Vegas NV,Bobcat of Las Vegas Inc.,N/A,North Las Vegas,Nevada,7027953300,jkelliher@bobcatoflasvegas.com,3,0,0,3,0.0%,2026-02-06,
+0011K00002X5OxuQAF,United Equipment Company - Turlock CA,,Rental House/Dealer,Turlock,California,2096329931,,3,0,0,2,0.0%,2026-01-27,
+66e19b2cc77a160022920aa0,Sunstate Equipment - Charleston SC,,Rental House/Dealer,North Charleston,SC,8548006882,,3,2,1,0,66.7%,2026-02-10,2026-02-04
+0011K00002OzNhIQAV,F&B Rentals - Santa Ana,,Rental House/Dealer,Santa Ana,California,7145545080,,3,0,0,2,0.0%,2025-12-18,
+0011K00002Oz6aDQAR,Sunstate Equipment - Benicia CA,,Rental House/Dealer,Benicia,California,8558088875,dozr@sunstateequip.com,3,2,1,0,66.7%,2026-01-26,2026-01-26
+0011K00002X5cfxQAB,Luby Equipment Services - Caseyville IL,,Rental House/Dealer,Caseyville,,6183979971,,3,0,0,2,0.0%,2026-02-04,
+0011K00002UmUppQAF,Viper Equipment - Los Angeles CA,,Rental House/Dealer,Los Angeles,California,4245363228,viperequipment2020@gmail.com,3,0,2,0,0.0%,2026-02-12,
+0011K00002VPYZcQAP,C & B Material Handling - Shreveport LA,,Rental House/Dealer,Shreveport,Louisiana,3186315100,kliebertp@deereequipment.com,3,0,0,0,0.0%,2026-02-02,
+62496f6990d6e3001ab6131e,BEJAC CORP(CASH ONLY),,Rental House/Dealer,SAN LEANDRO,CALIFORNIA,5594999556,zrobertson@bejac.com,3,0,0,0,0.0%,2026-02-04,
+0011K00002GojMlQAJ,Sunstate Equipment - Oklahoma City OK,Sunstate Equipment Co. ,Partner,Moore,Oklahoma,4057938600,dozr@sunstateequip.com,3,2,1,0,66.7%,2026-01-21,2026-01-21
+0014100001YSTbWAAX,"Admar Construction and Supply - Cleveland, OH",Admar Construction and Supply,Partner,Cleveland,Ohio,2164653737,nsand@admarsupply.com,3,0,0,2,0.0%,2026-01-22,
+0014100000gdnSmAAI,Lift Power Inc - Jacksonville FL,LIFT POWER INC,Rental House/Dealer,Jacksonville,Florida,9047830250,rental@liftpower.com,3,0,1,0,0.0%,2026-01-06,
+0014100001HCkY5AAL,"United Rentals 900 - Toronto, ON",United Rentals,Rental House/Dealer,Toronto,Ontario,14162535656,branchE08@ur.com,3,0,0,0,0.0%,2025-11-27,
+001Ah000005BQJsIAO,Premier Equipment Rentals Inc - Mesa AZ,,Rental House/Dealer,Mesa,AZ,4806917368,mesacounter@perrents.com,3,1,0,0,33.3%,2026-02-06,2026-02-06
+0014100001SdH1nAAF,Herc Rentals (9316) - Myrtle Beach SC,Herc Rentals,Partner,Myrtle Beach,South Carolina,843-236-2369,sam.porter1@hercrentals.com,3,3,0,0,100.0%,2026-02-05,2026-02-05
+0011K00002VPYbEQAX,C & B Material Handling - Baton Rouge LA,,Rental House/Dealer,Baton Rouge,Louisiana,2257535700,kliebertp@deereequipment.com,3,0,0,1,0.0%,2026-01-14,
+001OJ000005GU0wYAG,RNB Equipment Plus - Sugar Land TX,,Rental House/Dealer,Sugar Land,Texas,8329545606,,3,0,1,1,0.0%,2025-12-08,
+0014100001Ne0MeAAJ,Burris Equipment - Joliet IL,Burris Equipment Co,Rental House/Dealer,Joliet,Illinois,+18154646650,bryan.heinrichs@burrisequipment.com,3,0,0,1,0.0%,2026-01-21,
+0014100001JYrNeAAL,Aim High Equipment Rental - Brighton CO,Aim High Equipment Rental Inc.,Rental House/Dealer,Brighton,Colorado,3032889330,,3,0,1,1,0.0%,2025-12-31,
+0011K00002GojhUQAR,Sunstate Equipment - Reno NV,Sunstate Equipment Co. ,Partner,Reno,Nevada,8558088875,dozr@sunstateequip.com,3,1,1,0,33.3%,2026-01-06,2026-01-06
+001Ah000005EgqIIAS,Cromer Material Handling - Manteca CA,,Rental House/Dealer,Manteca,California,2094658987,rental@cromer.com,3,0,0,1,0.0%,2026-02-12,
+001Ah000003a109IAA,Welch Equipment - Denver CO,,Rental House/Dealer,Denver,Colorado,3033938181,,3,0,0,2,0.0%,2025-12-31,
+001OJ00000D1rduYAB,Con-Verge Sales & Rentals LLC - Hershey PA,,Rental House/Dealer,Marietta,Pennsylvania,2232440086,,3,1,1,0,33.3%,2026-01-14,2026-01-14
+001Ah000003ZvniIAC,General Rent-All - Massillon OH,,Rental House/Dealer,Massillon,Ohio,+13308373531,,3,3,0,0,100.0%,2025-12-11,2025-12-11
+0011K00002WOrQDQA1,Eastern Tennessee Rent-Alls - Johnson City TN,,Rental House/Dealer,Johnson City,Tennessee,+14232823221,,3,2,0,1,66.7%,2025-12-02,2025-12-02
+001Ah000003x3glIAA,Hugg & Hall Equipment Co - Little Rock AR,,Rental House/Dealer,Little Rock,Arkansas,5015621262,wesley.may@hugghall.com,3,0,1,0,0.0%,2026-01-15,
+001Ah0000043iR1IAI,Chet's Rent-All - Canton MI,,Rental House/Dealer,Canton,Michigan,7349810240,rochester@chetsrentall.com,3,0,0,2,0.0%,2026-01-02,
+0014100000hUBnBAAW,Yancey Cat - Augusta GA,Yancey Cat,Partner,Augusta,Georgia,7067901300,yanceyleads@yanceybros.com,3,1,0,1,33.3%,2026-02-03,2026-02-03
+6585a05a10981f001ca7d5f7,Sunstate Equipment - La Vergne TN,,Rental House/Dealer,La Vergne,TN,6158234174,,3,0,1,0,0.0%,2025-12-04,
+001OJ000006w0kCYAQ,NBA Rentals - Pasadena CA,,Rental House/Dealer,Pasadena,California,8188588543,,3,0,0,2,0.0%,2026-01-28,
+0011K00002GojBjQAJ,Sunstate Equipment - Mesa AZ,Sunstate Equipment Co. ,Partner,Mesa,Arizona,8558088875,dozr@sunstateequip.com,3,0,2,0,0.0%,2026-02-02,
+001Ah000004R1vsIAC,DRT Rental - Roseville CA,,Rental House/Dealer,Roseville,California,+19164167105,sales@drtrental.com,3,0,0,3,0.0%,2026-02-03,
+69446b52a4c1310019263549,Kitchener Test Rentals - Stanley Park,,Rental House/Dealer,Kitchener,Ontario,12265801232,j.doe@kitchenerrentals.com,3,0,1,1,0.0%,2025-12-19,
+0014100001USsH7AAL,Dickie Moore Rentals - Ottawa ON,Dickie Moore Rentals,Partner,Ottawa,Ontario,6137441212,,3,2,1,0,66.7%,2026-01-13,2026-01-13
+0011K00002QlsSLQAZ,ASCO Equipment - Abilene TX,,Rental House/Dealer,Abilene,Texas,+13256982726,,3,0,1,0,0.0%,2026-02-09,
+001OJ00000RQQ0vYAH,MF Construction Services - Toronto ON,,Rental House/Dealer,Toronto,Ontario,6477724561,,3,0,0,0,0.0%,2026-01-30,
+001Ah000007DNIWIA4,Chet's Rent-All - Oak Park MI,,Rental House/Dealer,Oak Park,Michigan,+12485430118,,3,2,0,0,66.7%,2026-01-14,2026-01-13
+68d6a47bf55a0d0018b1eb70,Sunstate Equipment - Conroe TX,,Rental House/Dealer,Conroe,Texas,281-492-3400,,3,1,0,0,33.3%,2026-01-15,2026-01-12
+68878c426b8a490016d2c546,Leavitt Machinery - Brampton ON,,Rental House/Dealer,Brampton,Ontario,15194890567,dozr@leavitt.ca,3,0,1,0,0.0%,2025-11-21,
+0014100001K1whtAAB,Bennett Equipment & Supply - Piedmont SC,Bennett Equipment & Supply,Rental House/Dealer,Piedmont,South Carolina,8642777272,info@bennettequipment.com,3,0,0,0,0.0%,2026-02-16,
+001Ah000003aOqwIAE,LSR Equipment - Weatherford TX,,Rental House/Dealer,Weatherford,Texas,8176732113,,3,1,1,0,33.3%,2026-02-12,2026-02-12
+001Ah00000472ejIAA,Bobcat of Broward (Smith Bros Contracting) - Pompano Beach FL,,Rental House/Dealer,Pompano Beach,Florida,9547639880,,3,0,1,1,0.0%,2025-12-23,
+001Ah000006SjXsIAK,Great Rate Rentals - South Windsor CT,,Rental House/Dealer,South Windsor,Connecticut,8602897821,,3,2,0,1,66.7%,2025-12-17,2025-12-17
+001Ah000003syR7IAI,The Lilly Company - Richland MS,,Rental House/Dealer,Richland,Mississippi,6019320135,,3,0,0,3,0.0%,2026-02-12,
+0011K00002OzEsbQAF,JGR Equipment Rental & Sales - Raleigh NC,,Rental House/Dealer,Raleigh,North Carolina,9198967004,rschultz@jgrequipment.com,3,0,3,0,0.0%,2026-02-11,
+0011K00002G5D9RQAV,Briggs Equipment - Jacksonville FL,Briggs Equipment,Partner,Jacksonville,Florida,+19046939200,,3,0,0,1,0.0%,2026-02-13,
+0014100001HCkY6AAL,"United Rentals 901 - Windsor, ON",United Rentals,Rental House/Dealer,Windsor,Ontario,15199444500,jason.campbell@bluelinerental.com,3,0,3,0,0.0%,2025-12-23,
+0011K00002XmVbBQAV,Northwinds Equipment Limited - Mount Brydges ON,,Rental House/Dealer,Mount Brydges,Ontario,2894410720,sales@northwindsequipment.com,3,0,0,1,0.0%,2025-12-03,
+001Ah0000046alcIAA,Birch Equipment - Everett WA,,Rental House/Dealer,Everett,Washington,4252907788,,3,0,0,0,0.0%,2026-02-13,
+0011K00002GojZpQAJ,Sunstate Equipment - Prescott Valley AZ,Sunstate Equipment Co. ,Rental House/Dealer,Prescott Valley,Arizona,8558088875,dozr@sunstateequip.com,3,1,1,0,33.3%,2025-11-26,2025-11-26
+673fa18b6281f80018a2d860,Louisiana,,Rental House/Dealer,,Louisiana,18337746320,,3,0,0,0,0.0%,2026-02-06,
+0011K00002Tuac4QAB,Toyota Lift of South Texas (Doggett Machinery) - San Antonio TX,,Rental House/Dealer,San Antonio,Texas,2108648690,john.borgmann@doggett.com,3,1,1,0,33.3%,2026-02-16,2026-02-06
+0014100000gax2jAAA,Dobbs Equipment (John Deere) - West Palm Beach FL,Dobbs Equipment,Rental House/Dealer,West Palm Beach,Florida,561-848-6618,,3,0,0,0,0.0%,2026-02-12,
+0011K00002GoiJGQAZ,Sunstate Equipment - Casa Grande AZ,Sunstate Equipment Co. ,Partner,Casa Grande,Arizona,8558088875,dozr@sunstateequip.com,3,1,1,0,33.3%,2025-11-21,2025-11-21
+0011K00002VmmicQAB,Millers Equipment & Rent-All - Edmonds WA,,Rental House/Dealer,Edmonds,Washington,4257780141,,3,0,0,0,0.0%,2026-02-13,
+0014100001JYrMWAA1,1st Rental & Sales - Rockford IL,1st Rental & Sales,Rental House/Dealer,Rockford,Illinois,8153329933,kendall@firstrentalandsales.com,3,0,0,0,0.0%,2025-12-08,
+001OJ00000IEPfJYAX,Pioneer Equipment Rental - Groveland FL,,Rental House/Dealer,Groveland,Florida,3529321403,,3,0,0,0,0.0%,2026-01-26,
+0014100000gdnSdAAI,Omnilift Inc - Warminster PA,OMNILIFT INC,Rental House/Dealer,WARMINSTER,Pennsylvania,2154439090,,3,0,0,2,0.0%,2025-12-19,
+001OJ0000038bdQYAQ,Heavy Yellow Equipment - Marietta GA,,Rental House/Dealer,Marietta,Georgia,4043338356,,3,0,1,0,0.0%,2025-12-08,
+0014100001JZ2D3AAL,Stoney Creek Rentals - Blandon PA,Stoney Creek Rentals,Rental House/Dealer,Blandon,Pennsylvania,6109264567,robert@stoneycreekrentals.com,3,0,0,2,0.0%,2025-12-04,
+001Ah000004PAVNIA4,Pape Material Handling - Seattle WA,,Rental House/Dealer,Seattle,Washington,2067604300,dguarin@paperents.com,3,0,1,0,0.0%,2026-02-13,
+0014100000gawSSAAY,"Coastline Equipment Company - Meridian, Idaho",Coastline Equipment Company,Rental House/Dealer,Meridian,Idaho,2088883337,,3,0,0,2,0.0%,2025-12-09,
+0014100001V5Gb2AAF,Milam Rental LLC - Sutherlin VA,Milam Equipment Rental,Rental House/Dealer,Sutherlin,Virginia,+14343342884,krystal@milamequipmentsales.com,3,1,1,0,33.3%,2025-12-19,2025-12-19
+0014100001USsqWAAT,Dobbs Equipment (John Deere) - Pompano Beach FL- PARTS ONLY,Dobbs Equipment,Rental House/Dealer,Pompano Beach,Florida,954-977-9541,,3,0,0,2,0.0%,2026-02-09,
+001Ah000004OejRIAS,Morrison Industrial Equipment - Brighton MI,,Rental House/Dealer,Brighton,Michigan,8108911410,,3,0,2,0,0.0%,2026-02-13,
+001Ah000006sYJIIA2,Summit Toyotalift - North Haven CT,,Rental House/Dealer,North Haven,Connecticut,+12034902188,,3,2,0,1,66.7%,2026-02-11,2026-02-11
+0011K00002QkDFSQA3,Lybroco Rentals - Edmonton AB,,Rental House/Dealer,Edmonton,AB,8006741018,info@lybrocorentals.com,3,1,1,0,33.3%,2025-12-08,2025-12-08
+001Ah000004KHIAIA4,Equipment Rental Source - Castle Rock CO,,Rental House/Dealer,Castle Rock,Colorado,3039068706,info@equipmentrentalsource.com,3,0,0,2,0.0%,2026-01-08,
+0014100001bS9sDAAS,Bob Ward Jr Equipment - Dallas TX,Bob Ward Jr Equipment,Rental House/Dealer,Dallas,Texas,2146382500,,3,0,0,2,0.0%,2026-02-10,
+0011K00002RLqUZQA1,Empire Cat - Thatcher AZ,,Rental House/Dealer,Thatcher,Arizona,9283878700,dozraz@empire-cat.com,2,0,0,0,0.0%,2026-02-12,
+0014100000ik4HzAAI,Volvo Construction Equipment & Services - Sacramento CA,Vces California,Rental House/Dealer,Sacramento,California,9163882244,kenneth.romeo@vcesvolvo.com,2,0,0,2,0.0%,2026-01-27,
+0014100001JYrMqAAL,A Rent-All Center - Pine Brook NJ,A Rent-All Center,Rental House/Dealer,Pine Brook,New Jersey,9732283222,spider8321@hotmail.com,2,0,1,0,0.0%,2025-12-10,
+0011K00002UmKkEQAV,Brodie Inc - Lawrence MA,,Rental House/Dealer,Lawrence,Massachusetts,9786826300,,2,0,1,0,0.0%,2025-11-19,
+0011K00002TBFXAQA5,MOMS Rentals - Missoula MT,,Rental House/Dealer,Missoula,Montana,4063271104,cliffe@momsrentals.com,2,1,1,0,50.0%,2026-01-23,2026-01-23
+0011K00002UlRc4QAF,Simplex Equipment Rental - Terrebonne QC,,Rental House/Dealer,Terrebonne,Québec,4504775960,,2,0,1,0,0.0%,2025-11-21,
+001Ah000007ENnMIAW,Hammerhead Equipment Rentals - Eagle Lake TX,,Rental House/Dealer,Eagle Lake,Texas,7132495860,demotodaytexas@yahoo.com,2,0,0,0,0.0%,2026-02-11,
+68ac71f6c0444700197780bf,Synergy Equipment - Austin TX,,Rental House/Dealer,Buda,Texas,17373524408,,2,2,0,0,100.0%,2025-12-17,2025-12-17
+0011K00002WMCwTQAX,Elite Equipment Rental - Lebanon OR,,Rental House/Dealer,Lebanon,Oregon,+15414054221,rent@eliteequipment.net,2,1,0,0,50.0%,2026-01-15,2025-12-05
+001Ah0000043hzgIAA,Bottom Line Equipment LLC - Greenville TX,,Rental House/Dealer,Greenville,Texas,12817450681,bradh@bottomlineequipment.com,2,0,0,1,0.0%,2026-01-19,
+0014100001JYrhHAAT,Encon Equipment LLC,Encon Equipment LLC,Rental House/Dealer,,,(859) 885-0708,,2,2,0,0,100.0%,2025-11-28,2025-11-28
+0011K00002TXBJeQAP,Spartan Equipment - Jensen Beach FL,,Rental House/Dealer,Jensen Beach,Florida,7729346316,spartanequipmentrental@gmail.com,2,0,0,0,0.0%,2026-01-20,
+0011K00002VQIblQAH,TEC Equipment Rental - Orangeburg SC,,Rental House/Dealer,Orangeburg,South Carolina,+18037920150,,2,1,0,1,50.0%,2025-12-16,2025-12-16
+001OJ00000WF5UuYAL,Central Power Systems & Services - Corpus Christi TX,,Rental House/Dealer,Corpus Christi,Texas,13617370049,michael.holdman@cpower.com,2,0,1,0,0.0%,2026-02-13,
+0011K00002Lpf0UQAR,Leppo Rents - Canton OH,,Rental House/Dealer,Canton,Ohio,+13309584167,craig@leppos.com,2,1,1,0,50.0%,2025-12-05,2025-11-24
+001Ah000004LJGvIAO,Western Material Handling - Commerce City CO,,Rental House/Dealer,Commerce City,Colorado,3038932448,dennis@abetterforklift.com,2,0,1,0,0.0%,2025-12-31,
+63979449fbbac5001a8e06a3,Alpha & Omega Equipment Sales & Rental - Hickory Creek TX,,Rental House/Dealer,Hickory Creek,TX,+14694448323,,2,0,0,2,0.0%,2026-01-29,
+0011K00002IVtpUQAT,Chet's Rent All - Rochester Hills MI,Chet's Rent All,Rental House/Dealer,Rochester Hills,Michigan,2488536020,bwentworth@chetsrentall.com,2,1,0,0,50.0%,2025-11-20,2025-11-20
+001Ah000004KNEpIAO,Winnipesaukee Equipment Rental - Wolfeboro NH,,Rental House/Dealer,Wolfeboro,New Hampshire,+16035151086,miranda@wolfeboroboatcompany.com,2,0,0,0,0.0%,2025-12-10,
+0011K00002TXwTbQAL,Empire Cat (Formerly Cashman CAT) - Henderson NV,,Rental House/Dealer,Henderson,Nevada,7026498777,nvdozr@empire-cat.com,2,0,0,1,0.0%,2026-02-06,
+0011K00002VPtXOQA1,Bertling Equipment Rental & Repair - Seguin TX,,Rental House/Dealer,Seguin,Texas,8303722610,,2,0,0,0,0.0%,2026-02-16,
+0011K00002KWE3nQAH,Bobcat of Connecticut - Stratford CT,,Rental House/Dealer,Stratford,Connecticut,2033802300,toddg@bobcatct.com,2,0,1,0,0.0%,2026-01-30,
+0014100001jcwlvAAA,Dominic's Equipment Rental - Monroe PA,Dominic`s Equipment Rental,Rental House/Dealer,Monroe,Pennsylvania,+15706391896,bsorber@dominicsequipment.com,2,2,0,0,100.0%,2025-12-03,2025-12-03
+0014100000hUCOrAAO,"Peterson Machinery Company - Salem, OR",Peterson Machinery Company,Rental House/Dealer,,,1 503  364-0602,marketing@petersoncat.com,2,1,0,0,50.0%,2026-01-16,2026-01-16
+001Ah000006WycNIAS,Partner Rentals - Windsor NY,,Rental House/Dealer,New Windsor,New York,+18457649333,ernesto.delaguila@partnerrentals.com,2,1,0,0,50.0%,2025-12-15,2025-12-12
+0011K00002Hi1ydQAB,Double H Equipment - Wauchula FL,Double H Equipment,Rental House/Dealer,Wauchula,,8637670700,,2,0,1,0,0.0%,2026-02-12,
+001Ah0000043iNdIAI,Chet's Rent-All - Berkley MI,,Rental House/Dealer,Berkley,Michigan,2485430118,rochester@chetsrentall.com,2,0,1,1,0.0%,2026-02-13,
+0014100001JZ04nAAD,Hugg & Hall Equipment Co - Oklahoma City OK,Hugg & Hall Equipment,Rental House/Dealer,Oklahoma City,Oklahoma,4056704343,jamie.hext@hugghall.com,2,0,0,1,0.0%,2026-01-21,
+001OJ00000KnrMFYAZ,Equipment Share - Texarkana AR,,Rental House/Dealer,Texarkana,Arkansas,+18703304920,,2,2,0,0,100.0%,2026-02-03,2026-02-03
+0011K00002X8XtMQAV,Reddy Rents - Yuma AZ,,Rental House/Dealer,Yuma,Arizona,9287824349,,2,0,1,0,0.0%,2026-02-10,
+0011K00002GoiflQAB,Sunstate Equipment - Forth Worth TX,Sunstate Equipment Co. ,Partner,Fort Worth,Texas,8558088875,dozr@sunstateequip.com,2,0,2,0,0.0%,2025-12-31,
+0011K00002X6AObQAN,Western Materials Handling - Red Deere AB,,Rental House/Dealer,Red Deer,Alberta,4033416670,,2,0,0,2,0.0%,2026-01-12,
+001OJ00000DbGHdYAN,Equipment Share - Hartford CT,,Rental House/Dealer,Hartford,Connecticut,+19593333470,,2,2,0,0,100.0%,2026-02-13,2026-02-13
+0014100000ANCX7AAP,Dom's High Tech Equipment Rental - Woodbridge ON,Dom`s High Tech Equipment Rental,Rental House/Dealer,Vaughan,Ontario,4165668132,dleo@rogers.com,2,0,0,2,0.0%,2025-12-18,
+0011K00002MYAlRQAX,Bobcat of Windsor - Windsor ON,,Rental House/Dealer,Windsor,ON,5197370120,,2,0,0,1,0.0%,2026-01-13,
+001OJ00000QHs1vYAD,Westside Equipment LLC - Tolleson AZ,,Rental House/Dealer,Avondale,AZ,3233990495,,2,0,1,0,0.0%,2026-02-06,
+0011K00002VlWcAQAV,TWR Equipment - Miami FL,,Rental House/Dealer,Medley,Florida,7542071763,sales@twrequipment.com,2,0,0,0,0.0%,2026-02-12,
+0011K00002QNn68QAD,NBA Rentals - Stevenson Ranch CA,,Rental House/Dealer,Stevenson Ranch,California,8188588543,nbarental@gmail.com,2,0,0,1,0.0%,2025-11-20,
+0014100001mMlL7AAK,Briggs Equipment - Dallas TX,Briggs Equipment,Rental House/Dealer,,,+12143514511,mark.ward@briggsequipment.com,2,0,0,0,0.0%,2025-12-05,
+0011K00002VOju3QAD,Horizon Equipment Rentals - Mount Airy NC,,Rental House/Dealer,Mt Airy,North Carolina,2762368108,,2,0,2,0,0.0%,2026-02-09,
+0011K00002L6erwQAB,Bobcat of McMinnville TN,,Rental House/Dealer,McMinnville,Tennessee,9314884767,jwalker@bobcatofmcminnville.com,2,0,0,2,0.0%,2026-02-06,
+0011K00002VQ4MUQA1,JAC Rentals - Beaumont TX,,Rental House/Dealer,Beaumont,Texas,+14097820836,,2,1,0,1,50.0%,2025-12-31,2025-12-31
+0011K00002QmA2mQAF,Woolwich Rentals & Sales - Elmira ON,,Rental House/Dealer,Elmira,Ontario,5196690524,devon@reistindustries.com,2,0,0,0,0.0%,2025-12-01,
+0011K000024ddnDQAQ,"Craneworks Rentalworks - Birmingham, AL","Craneworks Rentalworks - Birmingham, AL",Rental House/Dealer,Birmingham,Alabama,2059128600,,2,0,0,1,0.0%,2025-12-10,
+60896c378025381e4eca81c2,Superior Rents - Wichita KS,,Rental House/Dealer,Wichita,KS,3167227600,wichita@superiorrents.com,2,0,2,0,0.0%,2026-01-21,
+0011K00002TX0t5QAD,Downtown Rental & Building Supplies - Toronto ON,,Rental House/Dealer,Toronto,Ontario,4165338591,batista@downtownrental.net,2,0,0,0,0.0%,2026-02-13,
+0011K00002VRA8SQAX,Leavitt Machinery - Belle River ON,,Rental House/Dealer,Belle River,Ontario,15197276630,dozr@leavitt.ca,2,0,2,0,0.0%,2025-11-21,
+0011K00002801f4QAA,Ecco Equipment Corporation - Caldwell (Boise) ID,"Ecco Equipment Corporation - Williston, ND",Rental House/Dealer,Caldwell,Idaho,2084593800,,2,0,1,0,0.0%,2025-12-09,
+001OJ000001ummCYAQ,Jamco - Jacksonville FL,,Rental House/Dealer,Jacksonville,Florida,8668485400,jamcorentals@jamco1.com,2,0,0,1,0.0%,2025-11-19,
+0011K00002VPHBtQAP,C & B Material Handling - St Rose LA,,Rental House/Dealer,Saint Rose,Louisiana,15044633400,kaiserb@burwellmh.com,2,0,1,1,0.0%,2026-01-08,
+0011K00002X63oCQAR,Liftway Material Handling Solutions - Brantford ON,,Rental House/Dealer,Brantford,Ontario,8005438929,gcooper@liftway.ca,2,0,0,0,0.0%,2026-01-23,
+001Ah0000043gOkIAI,WBC Rental Center - Kingfisher OK,,Rental House/Dealer,Kingfisher,Oklahoma,4053756774,wbcrental@pldi.net,2,0,1,0,0.0%,2026-01-16,
+0011K00002TBN15QAH,Pioneer Equipment Company - Jacksonville FL,,Rental House/Dealer,Jacksonville,Florida,9047322151,admin@pioneerjax.com,2,1,0,0,50.0%,2025-12-23,2025-12-23
+001OJ00000VjX1HYAV,Bulletproof Rentals - Loganville GA,,Rental House/Dealer,Loganville,Georgia,14705232817,rene@rentbulletproof.com,2,0,0,1,0.0%,2025-11-20,
+6930a59dfe82a6001e8e9e8e,"101 Equipment Rentals - Santa Rosa, CA",,Rental House/Dealer,Santa Rosa,California,+17075287368,steve@101equipmentrentals.com,2,1,0,0,50.0%,2025-12-16,2025-12-16
+68264c455e7fff0016a73764,Hertz USA - Lansing MI - Feldman Chevrolet Of Lansing,,Rental House/Dealer,Lansing,MI,15173477503,hertzusa@dozr.com,2,0,0,1,0.0%,2025-11-23,
+0011K00002Ty0pKQAR,Riggs Cat - Benton AR,,Rental House/Dealer,Benton,Arkansas,+15015704300,,2,1,0,0,50.0%,2026-01-15,2026-01-15
+67f518c8e4ee5a0022e78d27,Atrium Arborist Aerials - Lutz FL,,Rental House/Dealer,Lutz,FL,8134440161,,2,0,1,0,0.0%,2026-01-07,
+0011K00002UlMzwQAF,Simplex Equipment Rental - Hull QC,,Rental House/Dealer,Gatineau,Québec,8197785000,,2,0,0,0,0.0%,2025-11-19,
+0011K00002NvJ5TQAV,Sun Rental Center - Mentor OH,,Rental House/Dealer,Mentor,Ohio,4409426106,,2,1,1,0,50.0%,2026-01-22,2026-01-22
+0011K00002RiBfTQAV,TL Gold Rents - Jesup GA,,Rental House/Dealer,Jesup,Georgia,+19124027822,tlgoldrents@gmail.com,2,0,1,0,0.0%,2026-02-13,
+69616da8ed667d001e437e63,"Wilson Equipment - Central Point, OR",,Rental House/Dealer,Central Point,Oregon,+15418303966,rental@wilsonequipment.net,2,2,0,0,100.0%,2026-01-09,2026-01-09
+001Ah000003fS4TIAU,Christopher Equipment - Shelbyville TN,,Rental House/Dealer,Shelbyville,Tennessee,9316840505,rental@christopherequipment.com,2,0,0,2,0.0%,2025-12-04,
+001Ah0000073XjJIAU,Carolina Industrial Trucks - Charlotte NC,,Rental House/Dealer,Charlotte,North Carolina,7045887388,mshepherd@citrucks.com,2,2,0,0,100.0%,2026-01-27,2026-01-27
+0014100000ik5kvAAA,Best Line Equipment - Allentown PA,Best Line Leasing,Rental House/Dealer,Allentown,Pennsylvania,4842233814,counter600@bestline.com,2,0,0,1,0.0%,2025-12-04,
+001OJ00000LHkGuYAL,T&T Heavy Equipment Rentals - Herkimer NY,,Rental House/Dealer,Herkimer,New York,+13153607304,,2,0,0,1,0.0%,2026-02-02,
+0011K00002TDrWcQAL,Darr Equipment Co - San Antonio TX,,Rental House/Dealer,San Antonio,Texas,2102995171,,2,0,1,1,0.0%,2026-02-16,
+0014100001JZ03LAAT,Asheville Hwy Rental - Greenville SC,Greenville Rental,Rental House/Dealer,Spartanburg,South Carolina,8645836393,info@ashevillehwyrental.com,2,1,0,0,50.0%,2026-02-16,2026-02-16
+0011K00002TBLbRQAX,Stowers Machinery (Cat) - Kingsport TN,,Rental House/Dealer,Kingsport,Tennessee,4233230400,,2,0,0,0,0.0%,2025-11-25,
+0014100001JYrifAAD,Fraza - Sterling Heights MI,Fraza Forklifts of Detroit,N/A,Sterling Heights,Michigan,8668575438,info@frazagroup.com,2,0,0,0,0.0%,2026-02-13,
+0011K00002Gohz2QAB,Sunstate Equipment - Baldwin Park CA,Sunstate Equipment Co. ,Rental House/Dealer,Baldwin Park,CA,8558088875,dozr@sunstateequip.com,2,0,1,0,0.0%,2025-12-08,
+0014100001QO0xRAAT,Bottom Line Equipment LLC - Beaumont TX,Bottom Line Equipment LLC,Rental House/Dealer,Beaumont,Texas,12817450681,bradh@bottomlineequipment.com,2,0,1,0,0.0%,2025-12-30,
+001Ah000006xSMIIA2,Pape Material Handling - Modesto CA,,Rental House/Dealer,Modesto,California,2095261577,,2,0,0,1,0.0%,2025-12-10,
+684700bd4c8ca80017d43a1a,Quick Equip Rentals - Acton CA,,Rental House/Dealer,Acton,California,17479992499,pts.niko@gmail.com,2,0,1,0,0.0%,2025-12-11,
+0014100001JYrW9AAL,Bobcat of New York City - Maspeth NY,Bobcat of New York City,N/A,,New York,7183667930,,2,0,0,0,0.0%,2026-01-28,
+63924dfbfbbac5001a8cd0e8,Nakhleh Equipment Rentals,,Rental House/Dealer,Collierville,TN,9012196082,nakhlehh@aol.com,2,0,0,1,0.0%,2026-01-28,
+0011K00002WNqF4QAL,Superior Forklift Repair Inc. - Fitchburg MA,,Rental House/Dealer,Fitchburg,Massachusetts,+19783482677,gary@superiorforklift.com,2,1,0,1,50.0%,2025-11-20,2025-11-20
+001Ah000004KsJTIA0,San Tan Rentals - Queen Creek AZ,,Rental House/Dealer,Queen Creek,Arizona,4809887909,strentals@qwestoffice.net,2,0,0,1,0.0%,2026-02-06,
+001OJ00000kCy4NYAS,"H&C Rents - Murfreesboro, TN",,Rental House/Dealer,Murfreesboro,Tennessee,+16155642477,hallen@hcrents.com,2,1,0,1,50.0%,2025-11-20,2025-11-20
+001Ah000005inIDIAY,Worldwide Forklifts - Fort Lauderdale FL,,Rental House/Dealer,Fort Lauderdale,Florida,+19547689875,,2,2,0,0,100.0%,2026-01-09,2026-01-09
+001Ah000003ZVBHIA4,Interstate Rental and Sales - Frederick CO,,Rental House/Dealer,Frederick,Colorado,3034855600,,2,0,0,1,0.0%,2026-01-08,
+0011K00002UlN5QQAV,Simplex Equipment Rental - Montreal QC,,Rental House/Dealer,Montréal,Québec,5143317777,,2,0,0,1,0.0%,2025-11-21,
+0011K00002Oz6baQAB,Sunstate Equipment - Buckeye AZ,,Rental House/Dealer,Buckeye,AZ,8558088875,dozr@sunstateequip.com,2,0,1,0,0.0%,2025-12-15,
+0014100001JYrV7AAL,Bayshore Rental & Equipment - Bay Shore NY,Bayshore Rental & Equipment,Rental House/Dealer,Bay Shore,New York,6312549349,,2,0,0,1,0.0%,2026-02-13,
+001OJ00000Ah7TYYAZ,Riverwood Landscape - Milton ON,,Rental House/Dealer,Milton,Ontario,5192796797,,2,0,0,0,0.0%,2026-01-26,
+63ac77a9e082a6001aad4fe5,Lift Truck Supply - Tyler TX,,Rental House/Dealer,Tyler,Texas,8008731828,,2,1,0,1,50.0%,2025-12-09,2025-12-09
+68405c01deb1b10018682b1e,Empire Tool Rental - Pompano Beach FL,,Rental House/Dealer,Pompano Beach,Florida,19545329197,mark@empiretoolrental.com,2,0,0,0,0.0%,2025-11-20,
+0011K00002TYhZpQAL,McCann Rental - Chicago IL,,Rental House/Dealer,Chicago,Illinois,3129429200,,2,0,0,2,0.0%,2025-12-12,
+0011K00002P1Gd9QAF,Northside Tool Rental - Gwinnett GA,,Rental House/Dealer,Norcross,Georgia,7709232620,loc3@northsidetoolrental.com,2,1,0,0,50.0%,2025-12-09,2025-11-25
+0011K00002801ksQAA,"Ecco Equipment Corporation - Phoenix, AZ","Ecco Equipment Corporation - Williston, ND",Rental House/Dealer,Phoenix,Arizona,6022762040,,2,1,1,0,50.0%,2025-12-08,2025-12-04
+0014100000hUBnRAAW,Western States Cat - Hayden ID,Western States Equipment,Rental House/Dealer,Hayden,Idaho,2087626600,jordan.kellogg@wseco.com,2,1,0,0,50.0%,2026-02-10,2026-02-10
+6585a0eb5208d5001c1fea65,Sunstate Equipment - Mead CO,,Rental House/Dealer,Longmont,CO,3032768941,dozr@sunstateequip.com,2,1,0,0,50.0%,2026-01-06,2026-01-06
+0014100000ik5kpAAA,Best Line Equipment - Warminster PA,Best Line Leasing,Rental House/Dealer,Warminster,Pennsylvania,2156753009,mpixler@bestlineinc.com,2,0,0,1,0.0%,2025-12-19,
+0011K00002UjexfQAB,All Access Services - Spring Valley CA,,Rental House/Dealer,Spring Valley,California,6192229337,info@allaccessrentals.com,2,0,0,1,0.0%,2026-02-13,
+001OJ00000D9JghYAF,Forest City Demolition - Komoka ON,,Rental House/Dealer,Komoka,Ontario,5196172590,,2,0,0,0,0.0%,2026-02-11,
+60896c368025381e4eca81c0,Superior Rents - Joplin MO,,Rental House/Dealer,Joplin,MO,4176248665,joplin@superiorrents.com,2,0,2,0,0.0%,2026-02-04,
+0014100001JYrdAAAT,Decker Tool Rental - Danbury CT,Decker Tool Rental,Rental House/Dealer,Danbury,Connecticut,2038267559,,2,0,1,0,0.0%,2026-02-13,
+0014100001Rb4OHAAZ,Herc Rentals (9347) - LaGrange GA,Herc Rentals,Partner,LaGrange,Georgia,706-883-6172,lucas.blanton@hercrentals.com,2,2,0,0,100.0%,2026-02-13,2026-02-13
+001Ah000003aNu0IAE,C4 Equipment Rental And Sales - Anderson MO,,Rental House/Dealer,Anderson,Missouri,4174363800,,2,0,1,0,0.0%,2026-02-04,
+60896c368025381e4eca81be,Superior Rents - Springfield - Kearney,,Rental House/Dealer,Springfield,MO,4178658665,kearney@superiorrents.com,2,0,1,0,0.0%,2026-01-12,
+001Ah000004HOwfIAG,Rental Guys - Sacramento CA (formerly Aba Daba Rents),,Rental House/Dealer,Sacramento,California,+15303322160,,2,0,0,0,0.0%,2025-11-25,
+0014100001TSbkZAAT,Yancey Cat - Kennesaw GA,Yancey Cat,Partner,Kennesaw,Georgia,6789151177,vance.epperson@yanceyrents.com,2,1,1,0,50.0%,2026-01-13,2026-01-13
+0011K00002RhhcZQAR,A-1 Rent All - Tyler (West) TX,,Rental House/Dealer,Tyler,Texas,9035953560,,2,0,0,0,0.0%,2026-01-15,
+0011K00002L2ihVQAR,Bobcat of Greenville SC,,Rental House/Dealer,Piedmont,South Carolina,8642693600,rcrumley@bobcatofgreenville.com,2,0,0,0,0.0%,2026-02-04,
+0014100001JYrh3AAD,Economy Rentals - Anaheim CA,Economy Rentals Inc.,Rental House/Dealer,Anaheim,California,7145333118,ercorent.la@gmail.com,2,0,1,0,0.0%,2025-12-18,
+639cf0bf7af3260012b7be9c,Equipment Share - West Palm Beach (Lake Worth) FL,,Rental House/Dealer,Lake Worth Beach,Florida,5612969710,eddie.parsons@equipmentshare.com,2,1,1,0,50.0%,2026-02-10,2026-02-10
+0014100000j6bdoAAA,"Darr Equipment Co. - Longview, TX",Darr Construction Equipment Corp.,Rental House/Dealer,Longview,Texas,8002457702,,2,0,0,1,0.0%,2025-12-08,
+6945ad5ab64445001e6f3916,Parks Rental & Sales Inc,,Rental House/Dealer,Vero Beach,Florida,+17725672040,vero@parksrental.com,2,1,0,0,50.0%,2025-12-19,2025-12-19
+673fa1ce6281f80018a2e9a8,Wisconsin,,Rental House/Dealer,,Wisconsin,18337746320,,2,0,0,0,0.0%,2025-12-22,
+673fa1a8458377001791f73c,Oklahoma,,Rental House/Dealer,,Oklahoma,18337746320,,2,0,0,0,0.0%,2026-01-23,
+001OJ0000064kjxYAA,XL Construction INC - Virginia Beach VA,,Rental House/Dealer,Virginia Beach,Virginia,+17573390727,xlayconstruction@gmail.com,2,0,0,0,0.0%,2025-12-03,
+001Ah000005ntJbIAI,Rent Rite - Alma MI,,Rental House/Dealer,Alma,Michigan,9896812182,rentnow@rentrite.biz,2,1,0,0,50.0%,2025-12-22,2025-12-22
+6887d3df6b8a490016d396ed,Sweetwater Equipment Rental LLC - Sweetwater TX,,Rental House/Dealer,Sweetwater,Texas,13254363261,sweetwaterequipmentrental24@gmail.com,2,0,0,0,0.0%,2026-01-16,
+0014100001QO15VAAT,Frank's Supply Company - Albuquerque NM,Frank`s Supply Company,Partner,Albuquerque,New Mexico,5058840000,,2,1,0,0,50.0%,2026-02-07,2026-02-07
+0011K00002XmdPNQAZ,Wolter Inc - Brookfield WI,,Rental House/Dealer,Brookfield,Wisconsin,2627818010,cam@wolterinc.com,2,0,0,0,0.0%,2026-01-09,
+001Ah000003x3OmIAI,Hugg & Hall Equipment Co - Baton Rouge LA,,Rental House/Dealer,Baton Rouge,Louisiana,2257440077,daryl.middleton@hugghall.com,2,0,2,0,0.0%,2026-01-14,
+0011K00002IX5LIQA1,Alpha Equipment Services - Plant City FL,Alpha equipment services llc,Rental House/Dealer,Plant City,Florida,+18637381221,alphaequipment@icloud.com,2,0,0,1,0.0%,2026-01-07,
+0011K00002801xcQAA,"Ecco Equipment Corporation - Santa Ana, CA","Ecco Equipment Corporation - Williston, ND",Rental House/Dealer,Santa Ana,California,7145544851,,2,0,0,1,0.0%,2026-02-04,
+0011K00002VRcRQQA1,Waters Edge Equipment Rentals - Orangeburg SC,,Rental House/Dealer,Orangeburg,South Carolina,+18035360421,,2,0,1,1,0.0%,2025-12-01,
+001OJ00000SmRqfYAF,JRM Equipment - Pittsburg CA,,Rental House/Dealer,Pittsburg,California,4155252601,,2,0,1,0,0.0%,2025-11-20,
+001Ah000004EbavIAC,Rental Pro - Richmond KY,,Rental House/Dealer,Richmond,Kentucky,8596235599,,2,2,0,0,100.0%,2025-12-29,2025-12-29
+001Ah000004O633IAC,House of Rental - Skokie IL,,Rental House/Dealer,Skokie,Illinois,8476772010,,2,0,0,0,0.0%,2026-01-21,
+001Ah000005wxfqIAA,Farm Supply True Value - Barnesville GA,,Rental House/Dealer,Barnesville,Georgia,7703581813,jason@farmsupplystore.com,2,0,1,0,0.0%,2025-11-20,
+0011K00002VmF14QAF,ABC Equipment Rental - Tulsa OK,,Rental House/Dealer,Tulsa,Oklahoma,9187448353,,2,0,0,0,0.0%,2026-01-22,
+0011K00002UJ5fIQAT,Defatte Equipment Rentals - Ukiah CA,,Rental House/Dealer,Ukiah,California,7074631057,joe@defatte.com,2,0,1,0,0.0%,2025-12-16,
+0011K00002X7fylQAB,Patriot Rentals - Midvale (Salt Lake City) UT,,Rental House/Dealer,Sandy,UT,8014036634,,2,0,0,1,0.0%,2026-01-20,
+001OJ00000B0hHzYAJ,3J Rentals Inc - Santa Clara CA,,Rental House/Dealer,Santa Clara,California,+14089889333,,2,1,1,0,50.0%,2026-02-02,2026-01-30
+673fa188458377001791ee3c,Kansas,,Rental House/Dealer,,Kansas,18337746320,,2,0,0,0,0.0%,2026-02-05,
+001OJ00000NMHRZYA5,Oak Grove Rentals  - Oak Grove MO,,Rental House/Dealer,Oak Grove,Missouri,+18166906800,,2,1,1,0,50.0%,2025-12-18,2025-12-18
+0011K000024deJPQAY,R.E.P. Rents - Shelbyville KY,R.E.P. Rents,Rental House/Dealer,Shelbyville,Kentucky,5026339928,dwayne@reprents.com,2,0,1,0,0.0%,2025-12-10,
+001Ah000004KLGeIAO,Denver East Machinery Company - Aurora CO,,Rental House/Dealer,Aurora,Colorado,3033412020,evan@denvereast.com,2,0,0,1,0.0%,2025-11-26,
+63b6fa61eff64f001203a350,Andersen Material Handling - Twinsburgh OH,,Rental House/Dealer,Twinsburg,Ohio,8003627602,,2,0,0,1,0.0%,2025-11-25,
+00141000017NzljAAC,Rapid Lift Inc. - Peterborough ON,Rapid Lift Inc.,Rental House/Dealer,Peterborough,Ontario,7057485172,rentals@rapidlift.ca,2,0,1,0,0.0%,2025-12-02,
+673fa1846281f80018a2d6a2,Idaho,,Rental House/Dealer,,Idaho,18337746320,,2,0,0,0,0.0%,2026-02-09,
+673fa1ea45837700179207d6,Quebec,,Rental House/Dealer,,QC,(226) 749-3887,,2,0,0,0,0.0%,2026-01-08,
+0011K00002QlsV5QAJ,ASCO Equipment - Beaumont TX,,Rental House/Dealer,Beaumont,Texas,+14092128100,,2,0,0,1,0.0%,2025-12-30,
+0011K00002D7axGQAR,Coastal Rental Center - New Port Richey FL,Coastal Rental Center - Tampa FL,Rental House/Dealer,New Port Richey,Florida,7278476694,,2,1,0,1,50.0%,2025-11-28,2025-11-28
+0014100001USserAAD,Dobbs Equipment (John Deere) - Lutz FL,Dobbs Equipment,Rental House/Dealer,Lutz,Florida,813-995-0841,,2,0,0,0,0.0%,2026-02-13,
+0014100001JZ0CYAA1,Longhorn Equipment & Supply - San Angelo TX,Longhorn Equipment & Supply,Rental House/Dealer,San Angelo,Texas,3254828877,service@longhornequipmentandsupply.com,2,0,0,0,0.0%,2026-02-09,
+0011K00002Xn8whQAB,G&W Equipment - Charleston SC,,Rental House/Dealer,Ladson,South Carolina,8432661020,rental@gwequip.com,2,2,0,0,100.0%,2025-12-12,2025-12-12
+0014100001USsOjAAL,Dobbs Equipment (John Deere) - Riverview FL,Dobbs Equipment,Rental House/Dealer,Riverview,Florida,813-620-1000,,2,0,0,0,0.0%,2026-02-06,
+0014100000ik4LQAAY,Romco Equipment Co - Dallas TX,Romco Equipment Co,Rental House/Dealer,Dallas,Texas,2148194100,,2,0,0,1,0.0%,2026-01-29,
+0014100000gawpAAAQ,Jesco Inc. - Fairfield NJ,Jesco Inc.,Partner,Fairfield,New Jersey,9732272221,nicholas.delvecchio@jesco.us,2,0,2,0,0.0%,2026-01-21,
+0011K00002RMg7RQAT,Black Oak Equipment Rental - Sumter SC,,Rental House/Dealer,Sumter,South Carolina,8037759903,bentham@blackoakrentals.com,2,1,1,0,50.0%,2025-12-15,2025-12-08
+64272f9377a5310012a5c3d8,Power Motive Corporation - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,+18006270087,,2,0,1,1,0.0%,2025-12-15,
+0011K00002SK3tCQAT,Tri-Lift Inc - Syracuse NY,,Rental House/Dealer,Syracuse,New York,3157019100,,2,0,0,0,0.0%,2025-11-27,
+0011K00002XnFV6QAN,Ward's Equipment Rental - Hamburg MI,,Rental House/Dealer,,Michigan,8102317368,,2,2,0,0,100.0%,2026-01-20,2026-01-20
+68ac71f6c0444700197780c3,Synergy Equipment - Hutchins TX,,Rental House/Dealer,Hutchins,Texas,19452708358,,2,2,0,0,100.0%,2026-01-19,2026-01-19
+001Ah000005iKe0IAE,Stine Equipment - Midland TX,,Rental House/Dealer,Midland,TX,5125456937,javi@stineequipment.com,2,0,1,0,0.0%,2025-11-21,
+0011K000024eEwsQAE,V-Bar Equipment - Abilene TX,V-Bar Equipment Co.,Rental House/Dealer,Abilene,Texas,3256700427,chance@vbarequipment.com,2,2,0,0,100.0%,2026-01-27,2026-01-27
+0014100000ik4HhAAI,Hugg & Hall Equipment Co - Texarkana AR,Hugg & Hall Equipment,Rental House/Dealer,Texarkana,Arkansas,+18707731262,rental@hugghall.com,2,0,0,0,0.0%,2026-02-02,
+0014100000gadXcAAI,Acme Lift Company - Mesa AZ,Acme Lift Company,Rental House/Dealer,Mesa,,6022540650,jkenny@acmelift.com,2,0,0,0,0.0%,2026-01-18,
+673fa187458377001791edae,Iowa,,Rental House/Dealer,,Iowa,18337746320,,2,0,0,0,0.0%,2026-02-17,
+001OJ00000OzDqaYAF,Real Rentals - La Vergne TN,,Rental House/Dealer,La Vergne,Tennessee,3305063879,,2,0,1,0,0.0%,2025-11-21,
+0014100000j6bdwAAA,"Darr Equipment Co. - Texarkana, TX",Darr Construction Equipment Corp.,Rental House/Dealer,Texarkana,Texas,7136924471,,2,0,0,0,0.0%,2026-02-02,
+0011K00002VQ4mYQAT,MW Rentals & Service - Victoria TX,,Rental House/Dealer,Victoria,Texas,3615703100,,2,0,0,0,0.0%,2026-02-16,
+0014100000hUCgBAAW,Western States Cat - Meridian ID,Western States Equipment,Rental House/Dealer,Meridian,Idaho,2088842300,ryan.richardson@wseco.com,2,1,0,0,50.0%,2025-12-09,2025-12-09
+697a588dd617d4001ec275b4,Herc Rentals,,Rental House/Dealer,Commerce City,Colorado,+17205069729,ronnie.federico@hercrentals.com,2,2,0,0,100.0%,2026-01-28,2026-01-28
+0011K00002VPtOMQA1,Big Country Equipment(main location)- San Angelo,,Rental House/Dealer,San Angelo,Texas,+13256510651,,2,0,0,1,0.0%,2026-02-04,
+001Ah000004WGLtIAO,Naumann Hobbs Material Handling - San Diego CA,,Rental House/Dealer,San Marcos,California,8559573682,dlphoenixrental@nhmh.com,2,0,1,0,0.0%,2026-02-13,
+694966442fe47d001ef0c131,"Straw Hat Rentals, LLC - Malakoff, TX",,Rental House/Dealer,Malakoff,Texas,+19036753823,maddy@strawhatrentals.net,2,0,0,2,0.0%,2025-12-22,
+001Ah000004XVN9IAO,Central Power of St Louis MO - Maryland Heights MO,,Rental House/Dealer,St. Louis,Missouri,3144274911,bailey.denny@cpower.com,2,1,0,1,50.0%,2025-12-15,2025-12-15
+0014100001MSSxCAAX,American Pride Rental Equipment & Sales - Sarasota FL,American Pride Rental Equipment & Sales,Rental House/Dealer,Sarasota,Florida,9417063392,asap.castoro@gmail.com,2,0,0,0,0.0%,2026-01-22,
+0011K00002SlonfQAB,Atlantic Forklift Services - Columbia SC,,Rental House/Dealer,Columbia,South Carolina,8036771216,,2,0,0,0,0.0%,2026-01-05,
+0014100000gdnSrAAI,"H&K EQUIPMENT INC - CORAOPOLIS, PA",H&K EQUIPMENT INC,Rental House/Dealer,CORAOPOLIS,Pennsylvania,+14124905314,bwright@hkequipment.com,2,2,0,0,100.0%,2026-01-06,2026-01-06
+0011K00002Goj6NQAR,Sunstate Equipment - Lindon UT,Sunstate Equipment Co. ,Partner,Lindon,Utah,8558088875,dozr@sunstateequip.com,2,0,1,0,0.0%,2026-01-19,
+001Ah000006u9kPIAQ,Bob Mark New Holland Sales - Sunderland ON,,Rental House/Dealer,Sunderland,Ontario,7053573121,,2,0,0,0,0.0%,2026-01-28,
+0011K00002X7IkJQAV,Rental Guys - Orangevale CA,,Rental House/Dealer,Orangevale,California,5303322160,,2,2,0,0,100.0%,2025-12-09,2025-12-09
+64399c51ce89730019bbd965,All Choice Rentals - Olds AB,,Rental House/Dealer,Olds,Alberta,4035567717,,2,0,2,0,0.0%,2025-11-19,
+0014100000gdnQKAAY,Eaheart Industrial Service Inc - Richmond VA,EAHEART INDUSTRIAL SERVICE INC,Rental House/Dealer,RICHMOND,Virginia,8043557943,bivey@eaheart.com,2,2,0,0,100.0%,2026-02-17,2026-02-17
+0011K00002X73n6QAB,Husky Excavating - Barrington IL,,Rental House/Dealer,Barrington,Illinois,2516091569,,2,0,0,0,0.0%,2025-12-08,
+6806a2ee75698a0021241eec,HTX Material Handling - Tyler TX,,Rental House/Dealer,Tyler,TX,9374510624,jhill@htxforklifts.com,2,0,0,2,0.0%,2025-12-04,
+0011K00002WM8hbQAD,Boyd CAT - Brandenburg KY,,Rental House/Dealer,Brandenburg,Kentucky,5027752660,,2,0,0,2,0.0%,2026-02-03,
+65d51b03d32c5600245ab1ef,Empire Cat - Yuma AZ,,Rental House/Dealer,Yuma,AZ,1928317800,dozraz@empire-cat.com,2,0,0,0,0.0%,2026-02-10,
+0014100000ANCLQAA5,Coleman Equipment - New Dundee ON,Coleman Equipment,Rental House/Dealer,New Dundee,Ontario,5196962213,rent@coleman-equipment.com,2,0,0,0,0.0%,2025-12-01,
+0014100001Sey5HAAR,Slaymaker Rentals - Washington Boro PA,Slaymaker Group,Rental House/Dealer,Washington Boro,Pennsylvania,+17179924480,rental@slaymakerrentals.com,2,0,0,0,0.0%,2026-01-13,
+001Ah000006wRHTIA2,Skye Heavy Equipment Rentals - Liberty SC,,Rental House/Dealer,Liberty,South Carolina,2762026800,,2,0,0,0,0.0%,2025-12-08,
+0011K00002RLqA0QAL,Empire Cat - Apache Junction AZ,,Rental House/Dealer,Apache Junction,Arizona,4803089100,dozraz@empire-cat.com,2,0,0,0,0.0%,2026-02-05,
+0011K00002TWZihQAH,"A Tool Shed Rentals, Inc - Santa Clara CA",,Rental House/Dealer,Santa Clara,California,+14087270822,,2,1,0,0,50.0%,2026-02-09,2026-02-09
+001Ah000004KKIUIA4,Peak Equipment Rentals - Monument CO,,Rental House/Dealer,Monument,Colorado,7193686044,,2,0,1,0,0.0%,2025-12-04,
+001Ah000006tf6YIAQ,Lift 4 Rent - Stevenson Ranch CA,,Rental House/Dealer,Stevenson Ranch,California,8183848814,,2,0,0,1,0.0%,2025-12-18,
+0011K00002Xn8q5QAB,G&W Equipment - Columbia SC,,Rental House/Dealer,Columbia,South Carolina,8039310016,rental@gwequip.com,2,0,2,0,0.0%,2026-01-05,
+0011K00002X5XQeQAN,Reno Forklift - Sparks NV,,Rental House/Dealer,Sparks,Nevada,7753291384,,1,0,0,1,0.0%,2026-01-06,
+001Ah000004KLtHIAW,J&J Rental Center - Alamosa CO,,Rental House/Dealer,Alamosa,Colorado,7195879212,,1,0,0,0,0.0%,2026-02-14,
+001Ah000006ZBTtIAO,American Rentals - Stanton CA,,Rental House/Dealer,Stanton,California,7145275171,,1,0,0,0,0.0%,2025-11-19,
+0014100001TSbnTAAT,Yancey Cat - Macon GA,Yancey Cat,Partner,Macon,Georgia,4787855001,,1,0,0,0,0.0%,2026-02-04,
+001Ah000004F5oMIAS,Waco of Oklahoma (Rent It Waco) - Oklahoma City OK,,Rental House/Dealer,Oklahoma City,Oklahoma,4052325441,,1,0,0,0,0.0%,2026-01-21,
+0011K00002TXXY7QAP,Irizarry Rentals - Fort Worth TX,,Rental House/Dealer,Fort Worth,Texas,8173051501,chris@irizarryrentals.com,1,0,0,0,0.0%,2026-01-22,
+001OJ000001J6kIYAS,Equipment Share - Jackson MS,,Rental House/Dealer,Jackson,Mississippi,+16013971405,,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0011K00002SK3ZpQAL,Tri-Lift Inc - New Haven CT,,Rental House/Dealer,New Haven,Connecticut,2036538820,rentals@triliftinc.net,1,0,0,1,0.0%,2026-02-13,
+0011K00002Oz6eoQAB,Sunstate Equipment - Buford GA,,Rental House/Dealer,Buford,Georgia,8558088875,dozr@sunstateequip.com,1,0,1,0,0.0%,2026-02-13,
+694aaa0a0efc08001f07a864,"The Rental Hub - Wytheville, VA",,Rental House/Dealer,Wytheville,Virginia,+12762270924,therentalhub@outlook.com,1,1,0,0,100.0%,2025-12-23,2025-12-23
+001Ah000005JA7VIAW,Pioneer Rental LLC - Oregon City OR,,Rental House/Dealer,Oregon City,Oregon,+15036561401,,1,0,1,0,0.0%,2026-01-16,
+0011K00002Pe2hnQAB,Fabick Cat - St Louis MO,,Rental House/Dealer,Fenton,Missouri,6366811335,,1,0,0,0,0.0%,2026-01-22,
+0014100001JZ0MsAAL,R.S. Rental & Equipment Co  - Somerset MA,R.S. Rental & Equipment Co. Inc.,Rental House/Dealer,Somerset,Massachusetts,8006963600,mark@rsequipment.com,1,0,1,0,0.0%,2026-01-28,
+0011K00002PeqvLQAR,Equipment Depot - Rockford IL,,Rental House/Dealer,Rockford,Illinois,8153974450,,1,0,0,0,0.0%,2025-11-21,
+0011K00002TVxZtQAL,Atlantic Lift Systems - Richmond VA,,Rental House/Dealer,Richmond,Virginia,8042339241,rdayvault@atlanticliftsystems.com,1,0,0,0,0.0%,2025-12-03,
+0014100001HCkY7AAL,United Rentals 08C - London ON,United Rentals,Rental House/Dealer,London,Ontario,15196524500,branch08c@ur.com,1,0,0,0,0.0%,2025-12-17,
+0014100001JYrP8AAL,ASCO Equipment - Belton TX,ASCO Equipment,Rental House/Dealer,Belton,Texas,+12546131500,noemail@dozr.com,1,0,1,0,0.0%,2026-01-12,
+0011K00002XnEqXQAV,Wright Choice Rentals - Courtice ON,,Rental House/Dealer,Bowmanville,Ontario,9052138929,sales@wrightchoicerentals.com,1,0,0,1,0.0%,2026-01-28,
+0011K00002UJAa4QAH,St Thomas Rent-All - St Thomas ON,,Rental House/Dealer,St Thomas,Ontario,+15196315450,,1,0,0,0,0.0%,2025-12-10,
+0011K00002UJ486QAD,Wheeler Machinery (Cat) - Sandy UT (Formerly Diamond Rental),,Rental House/Dealer,Sandy,Utah,8015667714,seanp@diamondrental.com,1,0,0,0,0.0%,2026-01-02,
+0011K00002X7oEmQAJ,Rojas Heavy Equipment - Converse (San Antonio) TX,,Rental House/Dealer,Converse,Texas,+12105661210,,1,0,0,0,0.0%,2026-02-06,
+0014100001RbqbAAAR,Herc Rentals (9423) - Springfield MO,Herc Rentals,Partner,Springfield,Missouri,417-865-5561,,1,1,0,0,100.0%,2026-01-12,2026-01-12
+0011K00002Riq8fQAB,The Rental Guys - Calgary AB,,Rental House/Dealer,,,+14038059724,,1,1,0,0,100.0%,2025-11-19,2025-11-19
+0011K00002TBGkjQAH,Pacific Coast Iron - Placerville CA,,Rental House/Dealer,Placerville,California,9169336050,ethan@pciheavyequipment.com,1,0,0,1,0.0%,2025-11-24,
+0011K00002VPYe3QAH,C & B Material Handling - Mobile AL,,Rental House/Dealer,Mobile,Alabama,2514792909,kliebertp@deereequipment.com,1,0,0,0,0.0%,2026-01-26,
+0014100001l9gr0AAA,Georgina Rentall - Georgina ON,Georgina Rentall,Rental House/Dealer,Georgina,,9054766666,georginarentall@rogers.com,1,0,0,0,0.0%,2026-01-28,
+0011K00002TWtlPQAT,Drumm Rents - Tully NY,,Rental House/Dealer,,New York,3159937007,sales@integrasupply.com,1,0,1,0,0.0%,2026-02-09,
+0011K00002SonanQAB,Mazzotta Rentals Inc. - Agawam MA,,Rental House/Dealer,Agawam,Massachusetts,+14133017105,kevin@mazzottaequipment.com,1,0,0,1,0.0%,2026-02-13,
+693ac335926307001ef795d8,"MD Rental - Alfred, ME",,Rental House/Dealer,Alfred,Maine,+12078003589,mdrentalmaine@gmail.com,1,1,0,0,100.0%,2025-12-11,2025-12-11
+698b812ccfbbb0001fccbd5b,"Sun Rental & Sales - Yuma, AZ",,Rental House/Dealer,Yuma,Arizona,+19287821855,sunrentals.yuma@yahoo.com,1,1,0,0,100.0%,2026-02-10,2026-02-10
+001Ah000007ILb4IAG,Beach City Lift - Garden Grove CA,,Rental House/Dealer,Garden Grove,California,7148928311,,1,0,0,0,0.0%,2025-11-19,
+0014100001JZ0NfAAL,Riggs Cat - Russellville AR,J.A. Riggs Tractor Company,N/A,,,(800) 327-3304,gatortracks@gmail.com,1,1,0,0,100.0%,2025-11-20,2025-11-20
+698dd86a9c3068001e550f9d,"Herc Rentals - Jackson, MS",,Rental House/Dealer,Jackson,Mississippi,+16013730444,kirby.wixson@hercrentals.com,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0011K00002UmVOPQA3,V-Bar Equipment - Fort Worth TX,,Rental House/Dealer,Fort Worth,Texas,6823339384,rod@vbarequipment.com,1,0,0,1,0.0%,2025-11-21,
+0014100001USnLDAA1,Cooper Equipment - Montreal QC,Cooper Equipment,Partner,Montréal,Quebec,5146874426,cooperq05@cooperequipment.ca,1,0,0,0,0.0%,2025-11-26,
+0011K00002L5HE3QAN,United Rentals E08 - Etobicoke ON,,Rental House/Dealer,Toronto,Ontario,14164619887,,1,0,0,0,0.0%,2025-12-02,
+0014100001NdO8DAAV,ASCO Equipment - Midland TX (I),ASCO Equipment,Rental House/Dealer,Midland,Texas,+14326859999,,1,0,0,1,0.0%,2026-01-14,
+0011K00002VRbkpQAD,Conway Rental Centre - Conway SC,,Rental House/Dealer,Conway,South Carolina,+18432482591,,1,1,0,0,100.0%,2025-12-30,2025-12-30
+0011K00002Um3w6QAB,Worldwide Machinery - Dallas/Ft Worth TX,,Rental House/Dealer,Cleburne,Texas,8175566466,,1,0,0,0,0.0%,2026-02-10,
+0014100001USmsyAAD,"Art's Rental Equipment & Supply - Lexington, KY",Art`s Rental Equipment & Supply,Partner,Lexington,Kentucky,8594559922,,1,0,0,0,0.0%,2025-12-29,
+0011K00002UGcroQAD,Coast Equipment Rental - Vista CA,,Rental House/Dealer,Vista,California,8003614500,,1,0,0,1,0.0%,2026-01-09,
+001Ah000004fRwjIAE,Construction Equipment & Supply - Sandusky OH,,Rental House/Dealer,Sandusky,Ohio,4196257192,csmith@ces-co.net,1,1,0,0,100.0%,2026-01-07,2026-01-07
+001OJ000001x65jYAA,Lou-Tec - Joliette QC,,Rental House/Dealer,Joliette,Québec,+14507599595,,1,1,0,0,100.0%,2026-01-09,2026-01-09
+0014100001TRvmtAAD,Altorfer CAT - Joliet IL,Patten Cat,Partner,Joliet,Illinois,8157264248,shane.illyes@altorfer.com,1,0,0,0,0.0%,2025-12-11,
+001OJ00000C6MgTYAV,Durants Tool Rentals - New Windsor NY,,Rental House/Dealer,New Windsor,New York,+18457870013,,1,1,0,0,100.0%,2025-12-17,2025-12-17
+0011K00002VPEr4QAH,Mclaren Equipment Rentals - Jacksonville FL,,Rental House/Dealer,Jacksonville,Florida,8668061702,,1,0,0,0,0.0%,2026-01-06,
+0011K00002VQ5K5QAL,MG Machinery - Buda TX,,Rental House/Dealer,Buda,Texas,5124569777,,1,1,0,0,100.0%,2026-01-27,2026-01-27
+0011K00002PeCiSQAV,MacAllister Machinery - Washington IN,,Rental House/Dealer,Washington,Indiana,+18122541712,,1,0,0,1,0.0%,2026-02-03,
+001Ah000003zc9FIAQ,Midway Rental - Missoula MT,,Rental House/Dealer,Missoula,Montana,4067285392,jeff@midwayrental.com,1,0,0,1,0.0%,2026-01-23,
+001OJ00000WEkNBYA1,Vert Equipment - Nashville TN,,Rental House/Dealer,Nashville,TN,16159492424,operations@vertequipment.com,1,0,1,0,0.0%,2025-12-09,
+001OJ00000CxIA7YAN,Bulldog Equipment Rental & Supply - Clearwater FL,,Rental House/Dealer,Clearwater,Florida,+17275727227,,1,1,0,0,100.0%,2025-11-19,2025-11-19
+0011K00002IVxyNQAT,Rent Equip - Austin TX,Rent Equip,Rental House/Dealer,Austin,Texas,+15128369100,ggunter@rentequipaustin.com,1,1,0,0,100.0%,2025-12-09,2025-12-09
+6980b5efaa4829001e2adb6c,"Sunbelt Rentals - North Haven, CT",,Rental House/Dealer,North Haven,Connecticut,+12039744757,lizette.figueroa-alvarado@sunbeltrentals.com,1,1,0,0,100.0%,2026-02-02,2026-02-02
+001OJ00000PYeCjYAL,Luby Equipment Services - Harrison AR,,Rental House/Dealer,Harrison,Arkansas,+18707418900,jabel@lubyequipment.com,1,0,0,1,0.0%,2026-02-04,
+0011K00002Lpf1NQAR,Leppo Rents - Wooster OH,,Rental House/Dealer,Wooster,Ohio,+13309584167,craig@leppos.com,1,0,0,1,0.0%,2026-01-05,
+63977f2d284b64001ac9678f,Anderson Machinery Company - Odessa TX,,Rental House/Dealer,Odessa,TX,4325618933,paul.m@amcotx.com,1,0,1,0,0.0%,2026-02-09,
+0011K00002TVuTxQAL,Starlift Equipment Company - West Haven CT,,Rental House/Dealer,West Haven,Connecticut,+12039378101,justin@starlift.com,1,0,0,1,0.0%,2026-02-13,
+0014100001TSc0rAAD,Yancey Cat - McDonough GA,Yancey Cat,Partner,McDonough,Georgia,7703026810,,1,0,0,1,0.0%,2025-12-17,
+0014100001K1zcRAAR,Bobcat of Atlanta - Atlanta GA,Bobcat of Atlanta,Rental House/Dealer,Atlanta,,7702426500,,1,0,0,0,0.0%,2025-12-09,
+0011K00002RjUumQAF,Thompson Machinery (CAT) - Nashville TN,,Rental House/Dealer,Nashville,Tennessee,6152915444,,1,0,0,0,0.0%,2025-11-21,
+0014100000gax0CAAQ,Monticello Equipment Company - Monticello NY,Monticello Equipment Company,Rental House/Dealer,Monticello,New York,8457940100,haughenburyj@bodimp.com,1,0,0,1,0.0%,2025-12-12,
+0014100001JZ0HlAAL,"May Machinery, Inc.- Goodyear AZ",May Machinery Inc.,Rental House/Dealer,Goodyear,AZ,6233863023,john@maymachinery.com,1,0,0,0,0.0%,2026-01-15,
+001OJ00000CHovyYAD,Pat Kelly Equipment Company - Hazelwood MO,,Rental House/Dealer,Hazelwood,Missouri,+13148959500,,1,1,0,0,100.0%,2026-01-23,2026-01-23
+66d6208c4b1d120021c80e84,The Home Depot Rental 6327 - Tampa FL,,Rental House/Dealer,Tampa,FL,8887309287,thdrentalkeyaccount@homedepot.com,1,0,0,1,0.0%,2026-02-06,
+0014100001JZ2IKAA1,TJM Rental & Supply - Canton MA,TJM Rental & Supply Inc.,Rental House/Dealer,Canton,Massachusetts,7818282910,,1,0,1,0,0.0%,2026-02-10,
+0014100000ik4LVAAY,Romco Equipment Co - Houston TX,Romco Equipment Co,Rental House/Dealer,Houston,Texas,+14692516127,,1,0,0,1,0.0%,2026-02-03,
+673fa1e56281f80018a2eebe,Nova Scotia,,Rental House/Dealer,,Nova Scotia,(226) 749-3887,,1,0,0,0,0.0%,2025-12-10,
+0011K000024dd8PQAQ,Rent Rite Inc. - Atlanta GA,Rent Rite INC,Rental House/Dealer,Atlanta,Georgia,404-346-0011,bkelley@rentriteinc.com,1,0,0,1,0.0%,2026-01-21,
+0011K00002UII55QAH,WPE Landscape Equipment - Hamilton ON,,Rental House/Dealer,Hamilton,Ontario,9056283055,,1,0,0,0,0.0%,2025-11-19,
+001Ah000003wVgJIAU,A-Z Rentals Inc - Bridgeport TX,,Rental House/Dealer,Bridgeport,Texas,+19406832012,rent@a-zrentalsandsalesinc.com,1,0,0,1,0.0%,2025-12-31,
+0014100001HCe7OAAT,"Sunbelt Rentals 60 - Jacksonville, FL",Sunbelt Rentals,Rental House/Dealer,Jacksonville,Florida,(904) 781-4156,pcm060@sunbeltrentals.com,1,1,0,0,100.0%,2026-02-09,2026-02-09
+0014100001ZjPc3AAF,Atlas Bobcat - Merrillville IN,Atlas Bobcat,Partner,Merrillville,Indiana,2193813006,,1,0,0,1,0.0%,2025-11-21,
+0014100001Gm4ADAAZ,"United Rentals 91E - Scaffolding - West Palm Beach, FL",United Rentals,Rental House/Dealer,West Palm Beach,Florida,(561) 640-3500,dirvine@ur.com,1,0,0,0,0.0%,2025-11-25,
+0014100001TUp3kAAD,Wajax Equipment - Blackfalds (Red Deere AB),Wajax Equipment,Partner,,,403-885-5604,,1,0,0,0,0.0%,2026-01-12,
+0014100001RaR1pAAF,"Herc Rentals (9371) Sarasota, FL",Herc Rentals,Partner,Sarasota,Florida,941-360-9552,,1,1,0,0,100.0%,2026-01-14,2026-01-14
+0011K00002GojtGQAR,Sunstate Equipment - San Jose CA,Sunstate Equipment Co. ,Partner,San Jose,California,8558088875,dozr@sunstateequip.com,1,1,0,0,100.0%,2026-01-19,2026-01-19
+001OJ00000PYXsrYAH,"Machine Maintenance Inc., dba Luby Equipment Services",,Rental House/Dealer,Fenton,Missouri,+16363439970,jabel@lubyequipment.com,1,0,0,0,0.0%,2026-01-22,
+001Ah000004IPhSIAW,Just Ask Rental - Santa Rosa CA,,Rental House/Dealer,Santa Rosa,California,7072302346,,1,0,0,0,0.0%,2026-01-22,
+0011K00002SL5CaQAL,Koster Equipment - Franklin NC,,Rental House/Dealer,Franklin,North Carolina,8283493489,georgia@kosterequipment.com,1,0,0,0,0.0%,2026-01-25,
+0014100001Gm4FaAAJ,"United Rentals E08 - Toronto, ON",United Rentals,Rental House/Dealer,Toronto,Ontario,14164619887,branche08@ur.com,1,0,0,0,0.0%,2025-12-05,
+69407140bff1f0001e35d560,"Discount Lift - Sanford, FL ",,Rental House/Dealer,Sanford,Florida,+472875940  ,sales@equipmentgiant.com,1,0,0,1,0.0%,2025-12-15,
+673fa1996281f80018a2daa4,Minnesota,,Rental House/Dealer,,Minnesota,18337746320,,1,0,0,0,0.0%,2026-01-20,
+001OJ00000Iwt4zYAB,Dashino Excavating - Brampton ON,,Rental House/Dealer,Brampton,ON,4168773476,,1,1,0,0,100.0%,2026-01-29,2026-01-29
+0011K00002QmmUjQAJ,Equipment Share - Indianapolis IN,,Rental House/Dealer,Indianapolis,Indiana,14637776002,eddie.parsons@equipmentshare.com,1,1,0,0,100.0%,2026-02-05,2026-02-05
+0014100001KvDR1AAN,ATS Equipment - Auburn MA,ATS Equipment,Rental House/Dealer,Auburn,Massachusetts,5088328500,,1,0,1,0,0.0%,2026-02-10,
+0011K00002VP1YiQAL,Herc Rentals (9555) - Bryan TX,,Rental House/Dealer,Bryan,Texas,+19796060227,,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0011K00002WOuoVQAT,Conserv Machinery - Bowling Green KY,,Rental House/Dealer,Bowling Green,Kentucky,2707151600,,1,0,0,0,0.0%,2026-02-06,
+0014100001WYMxGAAX,Monroe Tractor - Binghampton,Monroe Tractor,Rental House/Dealer,Binghamton,New York,6077546570,,1,0,0,0,0.0%,2026-01-19,
+6967b50cf206cf001e173697,Cropac Equipment Inc,,Rental House/Dealer,Nisku,Alberta,+17809558862,rob@cropac.com,1,1,0,0,100.0%,2026-01-14,2026-01-14
+001OJ00000DZ1bGYAT,Rental Solutions and Events LLC - Sykesville MD,,Rental House/Dealer,Sykesville,Maryland,8772173681,,1,1,0,0,100.0%,2025-12-03,2025-12-03
+69374b58ff6bab001e3445fb,Ed's Rental & Sales Inc,,Rental House/Dealer,Algonquin,Illinois,+18476589000,edsrentalalg@gmail.com,1,1,0,0,100.0%,2025-12-08,2025-12-08
+673fa19d6281f80018a2db71,Nebraska,,Rental House/Dealer,,Nebraska,18337746320,,1,0,0,0,0.0%,2025-11-20,
+001Ah000006Tq2XIAS,Porter Rents - Lakeside CA,,Rental House/Dealer,Lakeside,California,+19512288722,stevee@porterrents.com,1,1,0,0,100.0%,2026-01-09,2026-01-09
+001OJ00000DpuqPYAR,Duke Rentals - Wichita KS,,Rental House/Dealer,Wichita,Kansas,+13168833600,,1,0,1,0,0.0%,2026-02-05,
+0011K00002XngwBQAR,The Bailey Company Inc - Nashville TN,,Rental House/Dealer,Nashville,Tennessee,6152420351,bwade@baileycompany.com,1,0,0,0,0.0%,2026-02-06,
+639b4fecfd063200123e8355,ORE Rentals - Easton PA,,Rental House/Dealer,Easton,PA,+16102537368,,1,0,1,0,0.0%,2025-11-20,
+0011K00002UG5w1QAD,ATS Equipment - Rehoboth MA,,Rental House/Dealer,Rehoboth,Massachusetts,5083796200,,1,0,1,0,0.0%,2025-12-10,
+0011K000028022XQAQ,"Ecco Equipment Corporation - Visalia, CA","Ecco Equipment Corporation - Williston, ND",Rental House/Dealer,Visalia,California,5596510116,,1,1,0,0,100.0%,2025-12-01,2025-12-01
+673fa183458377001791ecd0,Hawaii,,Rental House/Dealer,,Hawaii,18337746320,,1,0,0,0,0.0%,2025-12-03,
+001Ah000004JoTnIAK,Contractors Equipment Rentals - Bakersfield CA,,Rental House/Dealer,Bakersfield,California,6615873111,,1,0,0,0,0.0%,2026-01-20,
+0011K00002TW223QAD,Starlift Equipment Company - West Springfield MA,,Rental House/Dealer,West Springfield,Massachusetts,4137378100,justin@starlift.com,1,0,0,1,0.0%,2026-02-13,
+001Ah000004Ub2sIAC,Equipment Rental Services Inc - Sumter SC,,Rental House/Dealer,Sumter,South Carolina,8037205370,,1,0,0,0,0.0%,2025-12-15,
+0014100000ik4H9AAI,"Cowin Equipment Company Inc. - Birmingham, AL",Cowen Equipment Company,Rental House/Dealer,Birmingham,Alabama,2058416666,cmarsh@cowin.com,1,1,0,0,100.0%,2025-12-11,2025-12-11
+0011K00002X7rH3QAJ,Burelle Rentools - Limoges ON,,Rental House/Dealer,Limoges,Ontario,6134435292,burellerentools@gmail.com,1,0,1,0,0.0%,2026-01-13,
+0014100000gdnQoAAI,Lyle Machinery - Saucier MS,Lyle Machinery,Partner,SAUCIER,Mississippi,2288327575,,1,1,0,0,100.0%,2026-01-27,2026-01-27
+001Ah000003gv83IAA,Bobcat Enterprises Inc. - Hilliard OH,,Rental House/Dealer,Hilliard,Ohio,6148761116,,1,0,0,1,0.0%,2026-01-05,
+0011K00002P1GbcQAF,Northside Tool Rental - Doraville GA,,Rental House/Dealer,Doraville,Georgia,7704511059,damonf@northsidetoolrental.com,1,1,0,0,100.0%,2026-01-30,2026-01-30
+6967f68f8e3b20001ee0aa02,"Herc Rentals - Mesquite, TX",,Rental House/Dealer,Mesquite,Texas,+19722844200,zachary.howe@hercrentals.com,1,0,0,0,0.0%,2026-01-14,
+0011K000026IFsuQAG,"Iron Mountain Equipment Rentals LTD. - Port Coquitlam, BC","Iron Mountain Equipment Rentals LTD. - Port Coquitlam, BC",Rental House/Dealer,,,1-604-464-7999,,1,1,0,0,100.0%,2026-02-02,2026-02-02
+001Ah000004O2LIIA0,Robin Rents - Huntsville (North) AL,,Rental House/Dealer,Huntsville,Alabama,+12564894994,,1,1,0,0,100.0%,2025-12-10,2025-12-10
+001Ah000004BlFLIA0,Lake City Rental - Warsaw IN (COD),,Rental House/Dealer,Warsaw,Indiana,5742675445,lakecityrent@gmail.com,1,0,1,0,0.0%,2025-12-16,
+001Ah000004S2jVIAS,National Lift - Middletown NY,,Rental House/Dealer,Middletown,New York,8457754496,,1,0,0,0,0.0%,2025-12-12,
+0014100001RbqQ2AAJ,Herc Rentals (9213) - Tupelo MS,Herc Rentals,Partner,Tupelo,Mississippi,662-680-3183,,1,1,0,0,100.0%,2026-01-28,2026-01-28
+0011K00002RgyqxQAB,Heavy Machines LLC - Covington GA,,Rental House/Dealer,Covington,Georgia,7707880888,,1,0,1,0,0.0%,2026-01-26,
+0011K00002RLqJvQAL,Empire Cat - Kingman AZ,,Rental House/Dealer,Kingman,AZ,9287571159,dozraz@empire-cat.com,1,0,1,0,0.0%,2026-02-06,
+0014100001JYrWGAA1,Bobcat Plus - Butler WI,Bobcat Plus,Rental House/Dealer,Butler,Wisconsin,+12622727898,,1,1,0,0,100.0%,2025-12-08,2025-12-08
+0014100001QNyRtAAL,"Bobcat of North Texas - Cedar Hill, TX",Bobcat of Dallas,Partner,Cedar Hill,Texas,4695755339,dames@bobcatntx.com,1,0,0,0,0.0%,2026-01-22,
+0014100001dZyQvAAK,Lansdowne-Moody Rentals - East Houston TX,Lansdowne-Moody Rentals,Rental House/Dealer,Houston,Texas,8329421169,info@lmrents.com,1,0,0,1,0.0%,2026-02-03,
+0014100001Gm49kAAB,"United Rentals 185 - Guelph, ON",United Rentals,Rental House/Dealer,Guelph,Ontario,15198246760,jfurlong@ur.com,1,0,0,0,0.0%,2025-12-05,
+0014100001TSbRmAAL,Yancey Cat - Brunswick GA,Yancey Cat,Partner,Brunswick,Georgia,9122793450,,1,0,0,0,0.0%,2026-02-13,
+0014100001KxOFuAAN,Milam Equipment Rental - Leland NC,Milam Equipment Rental,Rental House/Dealer,Leland,North Carolina,+19107899721,alan@milamequipmentrental.com,1,0,1,0,0.0%,2026-01-22,
+001Ah000004fySJIAY,C & B Material Handling - Hiawatha IA,,Rental House/Dealer,Hiawatha,Iowa,3193959003,,1,1,0,0,100.0%,2026-02-06,2026-02-06
+001Ah000004WBmNIAW,Pape Material Handling - Portland OR,,Rental House/Dealer,Tigard,Oregon,5036394432,,1,0,0,0,0.0%,2026-01-15,
+0011K00002IUqB0QAL,"Jamco - Sanford, FL",Jamco - Tampa,Rental House/Dealer,Sanford,Florida,4073025400,carol@jamco1.com,1,0,1,0,0.0%,2025-12-10,
+0014100001JyB5CAAV,Torgerson's LLC - Missoula MT,Titan Machinery,Rental House/Dealer,Missoula,Montana,4065437782,logan.winkler@torgerson.biz,1,0,0,1,0.0%,2026-01-23,
+0011K00002X7QoqQAF,Pioneer Machinery Inc - Woodland CA,,Rental House/Dealer,Woodland,California,5306621042,jwillis@pioneermch.com,1,0,1,0,0.0%,2025-11-24,
+0011K00002GoiOlQAJ,Sunstate Equipment - Dove Valley (Englewood) CO,Sunstate Equipment Co. ,Partner,Englewood,Colorado,8558088875,dozr@sunstateequip.com,1,0,1,0,0.0%,2025-11-26,
+0011K00002SK3etQAD,Tri-Lift Inc - Albany NY,,Rental House/Dealer,Albany,New York,5184003472,,1,0,0,0,0.0%,2025-12-08,
+001OJ00000MnKaQYAV,"Action Lift, Inc - Leander TX",,Rental House/Dealer,Leander,Texas,+15122605438,,1,1,0,0,100.0%,2026-01-13,2026-01-13
+0014100000gawJ1AAI,AIS Construction Equipment Corp - New Hudson (West Detroit) MI,AIS Construction Equipment,Rental House/Dealer,New Hudson,Michigan,2484378121,jdmail@aisequip.com,1,0,0,0,0.0%,2025-11-21,
+0011K00002TVAdRQAX,Kissell Power Equipment - Tyrone PA,,Rental House/Dealer,Tyrone,Pennsylvania,8146996990,brandon@kissellpower.com,1,0,0,0,0.0%,2025-11-21,
+001Ah000003sXw8IAE,The Rental Center - Monticello NY,,Rental House/Dealer,Monticello,New York,8457940100,,1,0,0,0,0.0%,2025-12-12,
+0011K00002TCTRCQA5,Wheeler Machinery (CAT) - Salina UT,,Rental House/Dealer,Salina,Utah,4355297423,,1,0,0,1,0.0%,2026-01-05,
+001OJ00000P8x9RYAR,A Town Equipment Rental and Sales - Alexandria KY,,Rental House/Dealer,Alexandria,Kentucky,8593915577,atownequipmentrental@gmail.com,1,0,0,0,0.0%,2026-01-12,
+0014100001SgvtMAAR,Carter Cat - Sterling VA,Alban Cat,Partner,,,703-450-6700,,1,1,0,0,100.0%,2025-12-29,2025-12-29
+0011K00002TVvp3QAD,Repair & Maintenance Co. - Houston TX,,Rental House/Dealer,Houston,Texas,7136444889,repairandmaintenanceco@gmail.com,1,0,0,1,0.0%,2026-02-03,
+001OJ00000BVWi3YAH,New Way Rentals Inc. - Milverton ON,,Rental House/Dealer,Milverton,Ontario,5195887590,,1,0,0,1,0.0%,2026-01-28,
+001Ah000004d67JIAQ,Read's Forklift - Jacksonville FL,,Rental House/Dealer,Jacksonville,Florida,9048678685,info@readsforklift.com,1,0,0,0,0.0%,2025-11-19,
+0011K00002UJAfbQAH,Ingersoll Rent-All Inc - Ingersoll ON,,Rental House/Dealer,Ingersoll,Ontario,5194854231,,1,0,0,0,0.0%,2025-12-17,
+0011K00002QmmXEQAZ,Equipment Share - Memphis TN,,Rental House/Dealer,Memphis,Tennessee,16623528588,eddie.parsons@equipmentshare.com,1,1,0,0,100.0%,2026-01-14,2026-01-14
+001Ah000004b8uyIAA,Smedley Aerial Lifts - Branford CT,,Rental House/Dealer,Branford,Connecticut,+12038714486,,1,1,0,0,100.0%,2026-01-19,2026-01-19
+0014100001TSbcQAAT,Yancey Cat - Columbus GA,Yancey Cat,Partner,Columbus,Georgia,7066490054,,1,0,0,0,0.0%,2026-02-13,
+0011K00002Rg5wPQAR,Sunstate Equipment - Concord NC,,Rental House/Dealer,,,+18558088875,,1,0,0,0,0.0%,2026-01-07,
+001OJ00000Rsg4QYAR,Equipment Share - North Palm Springs CA,,Rental House/Dealer,North Palm Springs,California,+14422121621,,1,1,0,0,100.0%,2026-02-04,2026-02-04
+0014100000j6bdyAAA,Darr Equipment Co. - Woodway (Waco) TX,Darr Construction Equipment Corp.,Rental House/Dealer,Waco,Texas,8002457706,,1,0,0,0,0.0%,2026-01-12,
+66d20146fbbf3b002347350e,The Home Depot Rental 0903 - South Plainfield NJ,,Rental House/Dealer,South Plainfield,NJ,8887309287,thdrentalkeyaccount@homedepot.com,1,0,1,0,0.0%,2026-02-09,
+001Ah000004WBgoIAG,Pape Material Handling - Reno NV,,Rental House/Dealer,Sparks,Nevada,+17753569333,,1,0,1,0,0.0%,2026-01-06,
+0011K00002Txvq4QAB,Shoppa's Material Handling - Odessa TX,,Rental House/Dealer,Odessa,Texas,4326178050,,1,0,0,1,0.0%,2025-11-21,
+0011K00002G5QnZQAV,Briggs Equipment - Orlando FL,Briggs Equipment,Partner,Orlando,Florida,407-841-4202,kim.donohue@briggsequipment.com,1,0,0,0,0.0%,2026-01-22,
+001Ah000004ZeZSIA0,Rattlesnake Rentals - Lake Havau City AZ,,Rental House/Dealer,Lake Havasu City,Arizona,9284863113,rattlesnakerentalslhc@gmail.com,1,1,0,0,100.0%,2025-11-21,2025-11-21
+0011K00002VPtzyQAD,C&J Equipment Sales & Rentals - Lampasas TX,,Rental House/Dealer,Lampasas,,5127340802,cody.sheppard@cjsaltcreek.com,1,0,1,0,0.0%,2025-12-05,
+0011K00002L2nT2QAJ,Bobcat of Spartanburg SC,,Rental House/Dealer,Spartanburg,South Carolina,8643429003,ccelestin@bobcatofspartanburg.com,1,0,0,0,0.0%,2026-01-19,
+0014100001JYrN6AAL,"ABC Rental Center, Inc. - Parma Heights OH",ABC Rental Center Inc.,Rental House/Dealer,Parma Heights,Ohio,4408860018,andrew@abcrentalparma.com,1,0,0,1,0.0%,2026-01-22,
+0011K00002X8d57QAB,Bova's Excavating - Dunedin FL,,Rental House/Dealer,Dunedin,Florida,+17273142468,,1,0,0,1,0.0%,2026-01-27,
+0011K00002L2hGTQAZ,Bobcat of St Louis- Fairview Heights IL,,Rental House/Dealer,Fairview Heights,Illinois,6184214166,jreed@bobcatofstl.com,1,0,0,1,0.0%,2026-02-04,
+66d5e1270c6d7600212c63f9,The Home Depot Rental 3502 - Albuquerque NM,,Rental House/Dealer,Alamogordo,NM,8887309287,thdrentalkeyaccount@homedepot.com,1,0,0,0,0.0%,2026-02-06,
+0011K000026IEEKQA4,"Cooper Equipment - Burnaby, BC","Star Rentals Equipment Rentals Sales & Service - Burnaby, BC",Rental House/Dealer,Burnaby,British Columbia,6044312923,,1,0,1,0,0.0%,2025-11-24,
+0011K00002TWqRaQAL,"A and B Rental Centre - London, ON",,Rental House/Dealer,London,Ontario,5194717470,info@abrentalcentre.com,1,0,0,0,0.0%,2025-12-17,
+0014100001Gm49eAAB,"United Rentals 470 - Kingston, ON",United Rentals,Rental House/Dealer,Kingston,Ontario,16133895211,branch470@ur.com,1,0,0,0,0.0%,2025-11-19,
+0014100001JZ2J9AAL,Tri-Supply & Equipment - New Castle DE,TRI Supply & Equipment,N/A,New Castle,Delaware,3028386333,,1,0,0,0,0.0%,2025-12-16,
+0011K00002IW0aQQAT,Rental Stop Ohio (Highlift Equipment) - Sunbury OH,Rental Stop Ohio,Rental House/Dealer,Sunbury,Ohio,7409658822,jeff@rentalstopohio.com,1,0,0,1,0.0%,2026-01-05,
+001OJ00000LvR4DYAV,Miami Dade Equipments - Hialeah FL,,Rental House/Dealer,Hialeah,Florida,+13055589722,,1,1,0,0,100.0%,2026-01-12,2026-01-12
+0014100001bQxyUAAS,Bane Machinery - Dallas TX,Bane Machinery,Rental House/Dealer,Dallas,Texas,8005942263,rentals@banemachinery.com,1,0,1,0,0.0%,2026-01-29,
+001Ah000003utpYIAQ,The Rental Place - Sonoma CA,,Rental House/Dealer,Sonoma,California,+17079380711,,1,1,0,0,100.0%,2026-02-13,2026-02-13
+0014100001WYURFAA5,Equipment Share - Fort Myers FL,Trekker Group,Rental House/Dealer,Fort Myers,Florida,18133414646,eddie.parsons@equipmentshare.com,1,1,0,0,100.0%,2026-02-17,2026-02-17
+67362c99253e9b00212f3bd7,JGR Equipment Sales & Rental - Richmond VA,,Rental House/Dealer,Richmond,VA,8047737200,,1,1,0,0,100.0%,2025-12-03,2025-12-03
+0011K00002PerXTQAZ,Equipment Depot - Waco TX,,Rental House/Dealer,Waco,Texas,2546624322,,1,0,0,0,0.0%,2026-02-05,
+001Ah000004QPG9IAO,Triad Equipment (True Value Rentals) - Wake Forest NC,,Rental House/Dealer,Wake Forest,North Carolina,9195541444,accounting@triadequip.com,1,0,1,0,0.0%,2026-02-11,
+001Ah000004E8YmIAK,Motor City Rentals and Sales - Phoenix AZ,,Rental House/Dealer,Phoenix,Arizona,6025392911,rob@motorcityrents.com,1,0,0,0,0.0%,2025-12-15,
+0014100001UVZJ3AAP,Superior Forklift Ltd (Leavitt Machinery) - Saskatoon SK,Leavitt Machinery,Rental House/Dealer,Saskatoon,SK,13069880932,,1,0,0,0,0.0%,2026-01-09,
+0014100001USryAAAT,Dickie Moore Rentals - Ville Lemoyne QC,Dickie Moore Rentals,Partner,Longueuil,Quebec,4509342212,,1,0,1,0,0.0%,2025-11-24,
+0014100000j6bctAAA,"Darr Equipment Co. - Oklahoma City, OK",Darr Construction Equipment Corp.,Rental House/Dealer,Oklahoma City,Oklahoma,8002457585,michaelrorie@darrequipment.com,1,0,0,0,0.0%,2026-01-21,
+69713885c42882001e921595,"Jersey Rents & Equipment Sales - Old Bridge, NJ",,Rental House/Dealer,Old Bridge,New Jersey,+17325912088,tkozo@jerseyrents.com,1,1,0,0,100.0%,2026-01-21,2026-01-21
+001OJ00000FkzRFYAZ,M&B Equipment Sales & Rentals - Delta BC,,Rental House/Dealer,Delta,BC,6048686145,,1,0,0,0,0.0%,2026-01-29,
+001Ah000005qCGAIA2,Stallion Equipment,,Rental House/Dealer,Houston,Texas,3464535126,,1,0,0,1,0.0%,2026-02-03,
+6986568a4525e9001f450b6d,"Benchmark Equipment - Prairie Grove, AR",,Rental House/Dealer,Prairie Grove,Arkansas,+14798461000,robin@benchmark.equipment,1,0,0,0,0.0%,2026-02-06,
+0011K00002GojkOQAR,Sunstate Equipment - Romoland (Perris) CA,Sunstate Equipment Co. ,Partner,Perris,California,8558088875,dozr@sunstateequip.com,1,0,1,0,0.0%,2026-02-06,
+0014100000ANAJUAA5,Priestly Demolition Inc.,Priestly Demolition,Contractor,King,Ontario,(905) 841-3735,info@priestly.ca,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0011K00002CdabUQAR,Koster Equipment Rentals & Excavations - Shelburne ON,Brad Koster Koster Equipment Rentals,Rental House/Dealer,Shelburne,Ontario,5195021239,bradleyk1@hotmail.com,1,0,1,0,0.0%,2026-01-28,
+0011K00002SoOMQQA3,GT Rentals - Brooklyn NY,,Rental House/Dealer,,New York,7187827887,brian@gtrentals.com,1,0,0,0,0.0%,2026-01-20,
+0011K000024eJqCQAU,Boyd Cat - Lexington KY,Whayne-The Cat Rental Store,Partner,Lexington,Kentucky,8592540188,,1,0,0,0,0.0%,2025-12-29,
+639b78057af3260012b78fc6,Berry Material Handling - Wichita KS,,Rental House/Dealer,Wichita,Kansas,3169450101,mpayne@berrymaterial.com,1,0,0,0,0.0%,2026-02-05,
+0011K00002SmexLQAR,Arnold's Equipment Rental - South Windsor CT,,Rental House/Dealer,South Windsor,Connecticut,8602897368,darenrok@aol.com,1,0,0,1,0.0%,2026-02-13,
+0011K00002RN4VuQAL,Equipment Share - Fort Worth (South) TX,,Rental House/Dealer,Fort Worth,Texas,16825405013,eddie.parsons@equipmentshare.com,1,1,0,0,100.0%,2026-01-05,2026-01-05
+0011K0000281ZLlQAM,"U-Rent It Sales & Service HQ - Terrell, TX","U-Rent It Sales & Service - Gun Barrel City, TX",Rental House/Dealer,Terrell,Texas,9725247368,,1,1,0,0,100.0%,2025-11-21,2025-11-21
+0014100001Gm46GAAR,United Rentals (31E) - Memphis TN,United Rentals,Rental House/Dealer,Memphis,Tennessee,(901) 946-1181,mcallum@ur.com,1,0,0,0,0.0%,2025-11-24,
+0011K00002TWzqcQAD,K & H Equipment Sales Rental Service - Plainfield CT,,Rental House/Dealer,Plainfield,Connecticut,8605641400,,1,0,0,1,0.0%,2026-02-13,
+0014100001SdGxbAAF,Herc Rentals (9322) - Greer SC,Herc Rentals,Partner,Greer,South Carolina,864-877-1806,,1,1,0,0,100.0%,2026-01-28,2026-01-28
+0014100001HCdxJAAT,"Sunbelt Rentals 643 - Amarillo, TX",Sunbelt Rentals,Rental House/Dealer,Amarillo,Texas,(806) 318-7162,pcm643@sunbeltrentals.com,1,1,0,0,100.0%,2026-02-16,2026-02-16
+0011K00002Rgyp5QAB,Heavy Machines LLC - Memphis TN,,Rental House/Dealer,Memphis,Tennessee,19012602200,,1,0,0,1,0.0%,2026-01-13,
+001Ah000006f0yEIAQ,Duke Rentals - Tulsa OK,,Rental House/Dealer,Tulsa,Oklahoma,9183452993,mholman@dukerentals.com,1,0,0,0,0.0%,2026-01-22,
+001OJ00000hp9GcYAI,Rental Guys - Reno NV,,Rental House/Dealer,Reno,Nevada,+15302225000,amuniz@rentalguys.com,1,0,1,0,0.0%,2026-01-28,
+0014100001Gm45cAAB,United Rentals 018 - Barrie ON,United Rentals,Rental House/Dealer,Barrie,Ontario,17057228181,branch018@ur.com,1,0,0,0,0.0%,2025-11-25,
+0011K00002KYnwnQAD,Milton Rents - Uxbridge MA,,Rental House/Dealer,,,+17744813150,,1,0,1,0,0.0%,2025-12-19,
+001Ah000005BTAoIAO,Rental Network Ltd - Squamish BC,,Rental House/Dealer,Squamish,British Columbia,6048928200,,1,0,0,1,0.0%,2025-11-24,
+0011K00002X8QM2QAN,Maine Equipment Rentals - Manchester ME,,Rental House/Dealer,Manchester,Maine,2076212160,,1,0,0,0,0.0%,2025-12-10,
+001OJ000003782LYAQ,Bottom Line Equipment LLC - Broussard LA,,Rental House/Dealer,Baton Rouge,Louisiana,12817450681,bradh@bottomlineequipment.com,1,0,0,0,0.0%,2026-01-14,
+0014100001JZ2DRAA1,Sussex County Rental Center,Sussex County Rental Center,Rental House/Dealer,,,(973) 786-7700,,1,0,0,0,0.0%,2025-11-21,
+0011K00002TWttsQAD,Advantage Rental Center - East Northport NY,,Rental House/Dealer,East Northport,New York,+16314996302,arcny01@aol.com,1,0,1,0,0.0%,2026-01-26,
+673fa1af476a080018c3b82c,Rhode Island,,Rental House/Dealer,,Rhode Island,18337746320,,1,0,0,0,0.0%,2025-12-10,
+0014100001Gm46YAAR,"United Rentals G29 - Trench Safety - Hyattsville, MD",United Rentals,Rental House/Dealer,Hyattsville,Maryland,(301) 779-3160,mkleinfeldt@ur.com,1,0,0,0,0.0%,2025-11-24,
+0014100001Rbw1wAAB,Herc Rentals (9604) - Albuquerque NM,Herc Rentals,Partner,Albuquerque,New Mexico,505-344-5500,brandon.rice@hercrentals.com,1,1,0,0,100.0%,2026-01-30,2026-01-30
+0011K00002TBsDaQAL,Bobcat of York (Crownstone Equipment) - York PA,,Rental House/Dealer,York,Pennsylvania,8882439029,mgill@crownstoneeq.com,1,0,0,0,0.0%,2026-02-04,
+0014100000gdnSBAAY,Mobilift Of High Point - High Point NC,MOBILIFT OF BURLINGTON,Rental House/Dealer,HIGH POINT,North Carolina,3364344505,sales@mobiliftnc.com,1,0,1,0,0.0%,2026-02-09,
+63ac4f8e79febf00194439ba,Brandt Material Handling - Calgary AB,,Rental House/Dealer,Calgary,Alberta,+14032436011,,1,1,0,0,100.0%,2026-02-10,2026-02-10
+698e29e42d169f001e091f0a,"Herc Rentals - San Antonio, TX",,Rental House/Dealer,San Antonio,Texas,+12106550048,ray.cruz@hercrentals.com,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0014100001GlmnCAAR,Equipment Share - Miami FL,Trekker Group,Rental House/Dealer,Hialeah,Florida,(305) 821-2273,eddie.parsons@equipmentshare.com,1,1,0,0,100.0%,2026-02-13,2026-02-13
+001OJ00000Kn9g9YAB,Herc Rentals (9270) - Maple Grove MN,,Rental House/Dealer,Maple Grove,Minnesota,+17633473930,,1,1,0,0,100.0%,2026-01-20,2026-01-20
+0014100001Ne0cmAAB,Frank's Supply Company - El Paso TX,Frank`s Supply Company,Partner,El Paso,Texas,9155929700,elpaso@franks-supply.com,1,1,0,0,100.0%,2025-12-12,2025-12-12
+0011K00002UGdHMQA1,Burris Equipment - Waukegan IL,,Rental House/Dealer,Waukegan,Illinois,8473361205,dave.zenner@burrisequipment.com,1,0,0,0,0.0%,2025-12-04,
+0011K00002TxvrlQAB,Shoppa's Material Handling - San Angelo TX,,Rental House/Dealer,San Angelo,Texas,3256556167,,1,0,1,0,0.0%,2026-01-14,
+001OJ00000TJlovYAD,Equipment Share - Fort Pierce FL,,Rental House/Dealer,Fort Pierce,Florida,+17727101600,,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0014100001HCe3YAAT,"Sunbelt Rentals 226 - Naples, FL",Sunbelt Rentals,Rental House/Dealer,Naples,Florida,(239) 774-7117,pcm226@sunbeltrentals.com,1,1,0,0,100.0%,2026-02-12,2026-02-12
+0014100000RbETlAAN,St. Jacobs Property Maintenance,St. Jacobs Property Maintenance,Contractor,Heidelberg,Ontario,519 503 5296,,1,1,0,0,100.0%,2025-12-15,2025-12-15
+001Ah0000075uMvIAI,MacAllister Rentals - Fort Wayne IN,,Rental House/Dealer,Fort Wayne,Indiana,+12609693322,,1,1,0,0,100.0%,2026-01-08,2026-01-08
+001Ah000004Jj4OIAS,Bobcat of Tupelo (Equipment Inc) - Tupelo MS,,Rental House/Dealer,Tupelo,Mississippi,6628445282,,1,0,0,1,0.0%,2025-12-05,
+0011K00002X7tLsQAJ,Northstar Equipment Rentals - Edmonton AB,,Rental House/Dealer,Edmonton,Alberta,7803953369,,1,0,0,0,0.0%,2025-12-08,
+001Ah000006qEgjIAE,Natura Landscape & Supply - Brantford ON,,Rental House/Dealer,Brantford,Ontario,5193047645,,1,0,0,0,0.0%,2025-12-01,
+0011K00002PfEuwQAF,Western States Cat - Missoula MT,,Rental House/Dealer,Missoula,Montana,4065416300,cody.simons@wseco.com,1,0,0,1,0.0%,2026-01-23,
+636d4766d4b8690014a99b7f,Sunbelt Rentals,,N/A,,,13102424560,pcm1011@sunbeltrental.com,1,0,0,1,0.0%,2026-01-27,
+0011K00002Uk6pGQAR,AS Equipment & Rentals - Lake City FL,,Rental House/Dealer,Lake City,Florida,3863241317,asequipmentrentals@gmail.com,1,0,0,0,0.0%,2026-01-07,
+0011K00002UJ4GPQA1,Wheeler Machinery (CAT) (Formerly Diamond Rental) - Millcreek UT,,Rental House/Dealer,Millcreek,Utah,8014872500,,1,0,0,0,0.0%,2026-01-29,
+0014100000gawp9AAA,Jesco Inc. - Frederick MD,Jesco Inc.,Partner,Frederick,Maryland,3018745500,nicholas.delvecchio@jesco.us,1,0,1,0,0.0%,2026-01-30,
+0011K00002RhBuaQAF,Ewald Kubota - Corpus Christi TX,,Rental House/Dealer,Corpus Christi,Texas,3612890818,,1,1,0,0,100.0%,2026-01-30,2026-01-30
+0011K00002QNWh8QAH,Dan's Forklifts,,Contractor,Coquitlam,British Columbia,+645402323  ,rentals2@dansforklifts.com,1,1,0,0,100.0%,2026-01-30,2026-01-30
+001Ah000003gSS1IAM,Bejac Corporation - Reno NV,,Rental House/Dealer,Reno,Nevada,+15595100964,pchristmas@bejac.com,1,0,0,1,0.0%,2025-11-19,
+0014100001HCe2IAAT,"Sunbelt Rentals 1018 - Manheim, PA",Sunbelt Rentals,Rental House/Dealer,Manheim,Pennsylvania,(717) 492-9750,pcm1018@sunbeltrentals.com,1,1,0,0,100.0%,2026-02-06,2026-02-06
+656e450bcff31d001c2b5859,Synergy Equipment - Orlando FL,,Rental House/Dealer,Orlando,FL,+14072509626,rmoore@synergyequip.com,1,1,0,0,100.0%,2025-12-03,2025-12-03
+0011K00002X6GGUQA3,Torgerson's LLC - Great Falls MT,,Rental House/Dealer,Great Falls,Montana,14064531453,logan.winkler@torgersonequipment.com,1,1,0,0,100.0%,2026-01-23,2026-01-23
+0014100000gawp6AAA,Jesco Inc. - Beacon NY,Jesco Inc.,Rental House/Dealer,Beacon,New York,8458311800,nicholas.delvecchio@jesco.us,1,0,1,0,0.0%,2026-01-30,
+001Ah0000043hxHIAQ,Bottom Line Equipment LLC - Corpus Christi TX,,Rental House/Dealer,Robstown,Texas,12817450681,bradh@bottomlineequipment.com,1,0,0,0,0.0%,2026-01-29,
+66d08e82fbbf3b0023466299,The Home Depot Rental 0123 - Atlanta GA,,Rental House/Dealer,Atlanta,GA,8887309287,thdrentalkeyaccount@homedepot.com,1,0,1,0,0.0%,2026-02-06,
+001Ah000005E7eWIAS,RentEquip - Elkton VA,,Rental House/Dealer,,Virginia,+15402980101,,1,1,0,0,100.0%,2026-01-22,2026-01-22
+656e3e8d5c3bc5001c97c8a3,Synergy Equipment - Clearwater FL,,Rental House/Dealer,Clearwater,FL,7275915134,clwcounter@synergyequip.com,1,1,0,0,100.0%,2025-12-04,2025-12-04
+0011K00002VP26vQAD,Cooke Rentals - King NC,,Rental House/Dealer,King,North Carolina,3369858222,,1,0,0,1,0.0%,2026-02-09,
+0014100001JYrVQAA1,Best Rental Centers Inc - Altamonte Springs FL,Best Rental Centers Inc.,Rental House/Dealer,Altamonte Spring,Florida,4078312378,info@bestrentalcenter.com,1,1,0,0,100.0%,2025-12-18,2025-12-18
+0011K000024eCFqQAM,LSR Equipment - Tyler TX,LSR Enterprise LLC,Rental House/Dealer,Tyler,Texas,9035211215,,1,0,0,1,0.0%,2026-02-12,
+697b82477f563b001e5dabd5,"Sunbelt Rentals - Del Valle, TX",,Rental House/Dealer,,Texas,+15126916628,pcm1410@sunbeltrentals.com,1,0,0,1,0.0%,2026-01-29,
+673fa18c6281f80018a2d8b6,Maine,,Rental House/Dealer,,Maine,18337746320,,1,0,0,0,0.0%,2026-01-29,
+0014100001NdzzpAAB,First Place Rental - Oswego IL,First Place Rental,N/A,Oswego,Illinois,6305543155,,1,0,0,0,0.0%,2025-12-11,
+001Ah000004UXcIIAW,Skye Heavy Equipment Rentals - Asheboro NC,,Rental House/Dealer,Asheboro,North Carolina,+13369631831,,1,1,0,0,100.0%,2026-01-08,2026-01-08
+0014100001NfuLlAAJ,Florida Rental Equipment (Empower) - Orlando FL,DPC Rentals,Rental House/Dealer,Orlando,Florida,4076581952,jaret.preuss@renterg.com,1,0,0,0,0.0%,2025-12-10,
+001OJ00000OpkayYAB,Bob's Equipment Sales Rentals & Repairs - Hononlulu HI,,Rental House/Dealer,Honolulu,Hawaii,+18088472602,,1,0,1,0,0.0%,2025-12-04,
+0014100001OtmKuAAJ,"Bobcat of North Texas - Lewisville, TX",Bobcat of Dallas,Rental House/Dealer,Lewisville,Texas,4695860000,mglasgow@bobcatofdallas.com,1,0,0,0,0.0%,2026-01-27,
+001Ah000005LNXtIAO,W.D. Matthews Machinery Co - Shrewsbury MA,,Rental House/Dealer,Shrewsbury,Massachusetts,5087983411,,1,0,1,0,0.0%,2026-02-10,
+0011K00002TYOV9QAP,HTX Material Handling - Dallas TX,,Rental House/Dealer,Carrollton,TX,9374510624,mtweedie@htxforklifts.com,1,0,0,0,0.0%,2026-02-13,
+0014100000ZjkFdAAJ,Tri Bridges Inc.,Tri Bridges Inc.,Contractor,Saint Jacobs,Ontario,2267514205,,1,1,0,0,100.0%,2025-11-19,2025-11-19
+0011K00002TUztyQAD,Somers & Watson Machinery - Midland TX,,Rental House/Dealer,Midland,,4326942005,,1,0,0,1,0.0%,2025-11-21,
+0011K00002GojkPQAR,Sunstate Equipment - Sacramento CA,Sunstate Equipment Co. ,Partner,West Sacramento,California,8558088875,dozr@sunstateequip.com,1,0,1,0,0.0%,2025-11-20,
+0011K00002PeCinQAF,MacAllister Machinery - Terre Haute IN,,Rental House/Dealer,Terre Haute,Indiana,+18124783155,,1,0,0,0,0.0%,2026-01-21,
+66d5dd044b1d120021c7fe92,The Home Depot Rental 2709 - Taylor MI,,Rental House/Dealer,Taylor,MI,8887309287,thdrentalkeyaccount@homedepot.com,1,1,0,0,100.0%,2026-02-13,2026-02-13
+0014100001QNynsAAD,Warren Cat - Abilene TX,Warren Cat,Partner,,,325-691-8356,tavis.ross@warrencat.com,1,1,0,0,100.0%,2026-02-10,2026-02-10
+0011K00002UGxDxQAL,"White's Rent-All and Repair - London, ON",,Rental House/Dealer,London,Ontario,5194386175,office@henrygroup.ca,1,0,0,0,0.0%,2025-12-17,
+6974f54d04ec010022ac307c,Modrec Property ,,N/A,Mississauga,ON,+1 (416) 890-5561,abdel@modrec.info,1,0,0,1,0.0%,2026-01-24,
+0014100001RbpiFAAR,Herc Rentals (9127) - Erie MI,Herc Rentals,Partner,Erie,Michigan,734-585-2961,,1,1,0,0,100.0%,2026-02-13,2026-02-13
+0014100001JZ2DNAA1,Supply Wagon Rentals,Supply Wagon Rentals,Rental House/Dealer,,,(518) 848-3231,,1,1,0,0,100.0%,2025-12-08,2025-12-08
+0014100001JYrcDAAT,Cooke Rentals - Denver NC,Cooke Rentals of Lake Norman,Rental House/Dealer,Denver,North Carolina,7044832722,,1,1,0,0,100.0%,2026-01-15,2026-01-15
+0011K00002TBsExQAL,Bobcat of York (Crownstone Equipment) - Hagarstown MD,,Rental House/Dealer,Hagerstown,MD,3016342558,mgill@crownstoneeq.com,1,1,0,0,100.0%,2026-02-02,2026-02-02
+684c45e84c8ca80017dca1b8,Discount Forklift - Dallas Fort Worth TX,,Rental House/Dealer,Arlington,Texas,16823824088,,1,1,0,0,100.0%,2025-12-12,2025-12-12
+0011K00002UkKyZQAV,Duke Rentals - Kansas City MO,,Rental House/Dealer,North Kansas City,Missouri,8163211211,,1,0,0,0,0.0%,2025-12-17,
+001Ah000004O5EFIA0,Sam Equipment Rental & Sales - Coxheath NS,,Rental House/Dealer,Sydney,Nova Scotia,+19025392323,,1,1,0,0,100.0%,2025-12-12,2025-12-12
+0014100001OqpHvAAJ,Redtail Equipment Rental - College Station TX,Redtail Rental,Rental House/Dealer,College Station,Texas,9796965696,info@redtailrentals.com,1,0,0,1,0.0%,2025-12-17,
+0014100000ik4LWAAY,Romco Equipment Co - San Antonio TX,Romco Equipment Co,Rental House/Dealer,San Antonio,Texas,2106484600,,1,0,0,0,0.0%,2026-02-06,
+0014100001SdKV4AAN,Herc Rentals (9307) - Knoxville TN,Herc Rentals,Partner,Knoxville,Tennessee,865-546-3700,,1,1,0,0,100.0%,2026-02-04,2026-02-04
+0011K00002800wDQAQ,ISCO Machinery - Acton CA,ISCO Machinery,Rental House/Dealer,Acton,California,6616180867,jalvarez@iscomachinery.com,1,0,0,0,0.0%,2025-12-18,
+63cffe85adc86c00196a4602,Best Line Equipment - Mechanicsburg PA,,Rental House/Dealer,,Pennsylvania,7176971177,,1,0,1,0,0.0%,2025-12-19,
+0011K000024eGT6QAM,Rent Rite Equipment - Elk Grove Village IL,Rent Rite Equipment,Rental House/Dealer,Elk Grove Village,Illinois,8476408860,joey@rentriterentals.com,1,0,0,0,0.0%,2026-01-21,
+0014100001JZ2IlAAL,Total Tool Rental - Brooklyn NY,Total Tool Rental,Rental House/Dealer,,,(718) 222-9588,,1,1,0,0,100.0%,2026-02-02,2026-02-02
+0011K00002UlXE1QAN,Silesia Equipment Rentals - Athens GA,,Rental House/Dealer,Athens,Georgia,6788792593,cole@silesiaequipmentrentals.com,1,0,0,0,0.0%,2025-12-09,
+0011K00002Slo31QAB,Atlantic Forklift Services - Charlotte NC,,Rental House/Dealer,Charlotte,North Carolina,7048423242,gcombs@atlanticforkliftservices.com,1,0,0,0,0.0%,2026-01-27,
+0011K00002PeraDQAR,Equipment Depot - Dallas TX,,Rental House/Dealer,Irving,Texas,9724388000,,1,1,0,0,100.0%,2025-12-05,2025-12-05
+0014100001JYrbGAAT,Christofano Equipment Co - Chicago Ridge IL,Christofano Equipment Co. Inc.,Rental House/Dealer,Chicago Ridge,Illinois,7084256466,joe@christofano.com,1,0,0,1,0.0%,2025-12-12,
+0014100001QO1C7AAL,Frank's Supply Company - Los Alamos NM,Frank`s Supply Company,Partner,Los Alamos,New Mexico,5056611100,,1,0,0,0,0.0%,2026-01-16,
+0014100001HCe06AAD,"Sunbelt Rentals 21 - Fayetteville, NC",Sunbelt Rentals,Rental House/Dealer,Fayetteville,North Carolina,(910) 323-4416,pcm021@sunbeltrentals.com,1,1,0,0,100.0%,2026-01-28,2026-01-28
+639cd416aa15fb0013bd510d,Trinity Sales & Rental - Wichita KS,,Rental House/Dealer,Wichita,KS,3169425555,gregblack@trinitysales.com,1,1,0,0,100.0%,2026-02-05,2026-02-05
+0011K00002Qn4IHQAZ,Equipment Share - Tyler TX,,Rental House/Dealer,Gladewater,Texas,19034213931,eddie.parsons@equipmentshare.com,1,1,0,0,100.0%,2026-02-12,2026-02-12
+001Ah000003x3W2IAI,Hugg & Hall Equipment Co - West Tulsa OK,,Rental House/Dealer,Tulsa,Oklahoma,9184387800,bruce.balocca@hugghall.com,1,0,0,0,0.0%,2026-01-22,

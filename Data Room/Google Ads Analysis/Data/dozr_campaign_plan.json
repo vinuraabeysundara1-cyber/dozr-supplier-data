@@ -1,0 +1,74 @@
+{
+  "phase1_states": [
+    "CO",
+    "NV",
+    "UT",
+    "NJ"
+  ],
+  "phase2_states": [
+    "MT",
+    "MD",
+    "WA",
+    "IN",
+    "KS",
+    "ME",
+    "NM",
+    "LA",
+    "WI",
+    "MO"
+  ],
+  "no_action_states": [
+    "MS"
+  ],
+  "campaign_changes": [
+    {
+      "campaign": "Search-Forklift-Core-Geos-US",
+      "add_states": [
+        "CO",
+        "NV",
+        "NJ"
+      ]
+    },
+    {
+      "campaign": "Search-Scissor-Lift-Core-Geos-US",
+      "add_states": [
+        "CO",
+        "UT"
+      ]
+    },
+    {
+      "campaign": "Search-Excavator-Core-Geos-US",
+      "add_states": [
+        "CO"
+      ]
+    },
+    {
+      "campaign": "Search-Loader-Core-Geos-US",
+      "add_states": [
+        "NJ",
+        "MD"
+      ]
+    },
+    {
+      "campaign": "DSA-AllPages-Tier1-New-US-2",
+      "add_states": [
+        "CO",
+        "NV",
+        "UT",
+        "NJ",
+        "MD"
+      ]
+    },
+    {
+      "campaign": "Search-Demand-Boom-Lifts",
+      "add_states": [
+        "CO"
+      ]
+    }
+  ],
+  "estimated_monthly_impact": {
+    "additional_leads": "13-28",
+    "additional_spend": "$365-720",
+    "estimated_value": "$12,500-38,000"
+  }
+}

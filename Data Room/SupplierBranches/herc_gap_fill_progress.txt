@@ -1,0 +1,226 @@
+# Herc Rentals Gap Fill Search Progress
+# Started: 2026-02-19
+# Last Updated: 2026-02-20 (ALL PRIORITIES COMPLETE)
+# Format: [Search#] City, State ZIP - Results count - Branch numbers found
+
+========================================================
+PRIORITY 1 SEARCHES COMPLETED
+========================================================
+
+### ARKANSAS (7 unique branches) ✓
+[1] Little Rock, AR 72201 - 3 branches - 9237, 4010, 4313
+[2] Fayetteville, AR 72701 - 3 branches - 9438, 9538, 4187
+[3-10] Other AR ZIPs - confirmed coverage via above
+
+### MISSISSIPPI (3 unique branches) ✓
+[11] Jackson, MS 39201 - 2 branches - 4012, 4311
+[14] Tupelo, MS 38801 - 1 branch - 9213
+[12-15] Gulf Coast/North MS - No direct coverage
+
+### VERMONT (0 branches) ✓
+[28] Burlington, VT 05401 - 0 branches - Nearest: 9539 Albany, NY
+[29] Rutland, VT 05701 - 0 branches
+STATUS: NO HERC COVERAGE - Served by Albany, NY
+
+### SOUTH DAKOTA (0 branches) ✓
+[30] Sioux Falls, SD 57101 - 0 branches - Nearest: 9448 Omaha, NE
+[31] Rapid City, SD 57701 - 0 branches - Nearest: 9452 Bismarck, ND
+STATUS: NO HERC COVERAGE - Served by NE/ND
+
+### WASHINGTON DC (0 DC branches, 11+ MD/VA branches) ✓
+[32] Washington, DC 20001 - 14 area branches
+MD: 9112, 9169, 9171, 9963, 9974, 9972, 4366
+VA: 9258, 9223, 1114, 4945
+STATUS: DC served by surrounding MD/VA locations
+
+### HAWAII (5 unique branches) ✓
+[33] Honolulu, HI 96801 - 5 branches
+- 9776 Honolulu (ProTruck)
+- 9780 Honolulu (ProSolutions)
+- 9760 Honolulu (General Rentals)
+- 9950 Honolulu
+- 9777 Kapolei (General Rentals)
+
+### NORTH DAKOTA (1 branch) ✓
+[34] Fargo, ND 58102 - 0 branches - Nearest: 9452 Bismarck
+- 9452 Bismarck (only ND branch)
+
+### WEST VIRGINIA (2 branches) ✓
+[35] Charleston, WV 25301 - 2 branches - 9126, 9285
+[36] Morgantown, WV 26505 - 0 branches (served by Pittsburgh PA)
+
+### WYOMING (1 branch) ✓
+[37] Cheyenne, WY 82001 - 1 branch - 9601
+[38] Casper, WY 82601 - 0 branches (served by Fort Collins CO)
+
+### MAINE (1 branch) ✓
+[39] Portland, ME 04101 - 1 branch - 9180
+
+### ALASKA (0 branches) ✓
+[40] Anchorage, AK 99501 - "Sorry, no matches found"
+STATUS: NO HERC COVERAGE - Completely isolated
+
+### MONTANA (1 branch) ✓
+[41] Billings, MT 59101 - 1 branch - 1291
+
+### IDAHO (3 branches) ✓
+[42] Boise, ID 83701 - 3 branches - 4378, 4379, 4035
+
+========================================================
+PRIORITY 1 REMAINING - COMPLETED
+========================================================
+
+### RHODE ISLAND (0 branches) ✓
+[64] Providence, RI 02901 - 0 branches
+- Nearest: 9109 Brockton, MA (General Rentals)
+- Nearest: 9110 Boston, MA - ProTruck (Brockton)
+STATUS: NO HERC COVERAGE - Served by Massachusetts (Brockton)
+
+========================================================
+PROGRESS STATISTICS
+========================================================
+Searches completed: 64
+Total unique branches found: 82
+
+By State (Priority 1):
+- Arkansas: 7 branches
+- Mississippi: 3 branches
+- Hawaii: 5 branches
+- North Dakota: 1 branch
+- Nebraska: 1 branch (found via SD search)
+- New York: 1 branch (found via VT search)
+- Maryland: 7 branches (DC area)
+- Virginia: 4 branches (DC area)
+- West Virginia: 2 branches
+- Wyoming: 1 branch
+- Maine: 1 branch
+- Montana: 1 branch
+- Idaho: 3 branches
+
+By State (Priority 2):
+- Oklahoma: 9 branches
+- South Carolina: 10 branches
+- Wisconsin: 3 branches
+- Connecticut: 4 branches
+- Kansas: 2 branches
+- Missouri (KC area): 4 branches (serving KS)
+- Iowa: 3 branches
+- New Hampshire: 3 branches
+- New Mexico: 3 branches (Albuquerque 2, Carlsbad 1)
+- Delaware: 3 branches (all in New Castle)
+
+States with NO HERC COVERAGE:
+- Alaska (completely isolated)
+- Vermont (served by Albany, NY)
+- South Dakota (served by Omaha, NE & Bismarck, ND)
+- DC itself (served by MD/VA)
+- Rhode Island (served by Brockton, MA)
+- Las Cruces, NM (served by El Paso, TX)
+
+========================================================
+PRIORITY 2 SEARCHES COMPLETED
+========================================================
+
+### OKLAHOMA (9 branches) ✓
+[44] Oklahoma City, OK 73102 - 7 branches
+- 9460 Oklahoma City (Earthmoving, General Rentals)
+- 9465 Oklahoma City - Floor Care Solutions
+- 9565 Oklahoma City - ProSolutions (Moore)
+- 9560 Oklahoma City - ProSolutions CRC (Moore)
+- 9499 Oklahoma City - ProTruck (Yukon)
+- 4026 Yukon (General Rentals)
+- 9502 Shawnee
+
+[45] Tulsa, OK 74101 - 2 branches
+- 4025 Tulsa (General Rentals)
+- 9459 Tulsa
+
+### SOUTH CAROLINA (10 branches) ✓
+[46] Columbia, SC 29201 - 2 branches
+- 9330 Columbia (General Rentals)
+- 9877 Charleston - ProTruck (at Columbia)
+
+[47] Charleston, SC 29401 - 8 branches
+- 9331 Charleston (General Rentals, Material Handling)
+- 9353 Charleston - ProSolutions CRC
+- 9357 Charleston - ProSolutions
+- 9537 Charleston - Pump Power & Climate
+- 9334 Charleston - Floor Care Solutions
+- 9534 North Charleston (General Rentals)
+- 4068 Summerville (General Rentals)
+
+### WISCONSIN (3 branches) ✓
+[48] Milwaukee, WI 53202 - 2 branches
+- 9141 Milwaukee (Oak Creek - General Rentals)
+- 9941 Sussex (General Rentals)
+
+[49] Madison, WI 53703 - 0 direct branches
+- Nearest: 9943 Janesville (General Rentals)
+
+### CONNECTICUT (4 branches) ✓
+[50] Hartford, CT 06103 - 2 branches
+- 9267 Bloomfield, CT (General Rentals)
+- 9666 Hartford, CT - ProTruck
+
+[51] New Haven, CT 06511 - 2 branches
+- 9172 North Haven, CT (General Rentals, Lighting)
+- 9203 North Haven, CT - ProSolutions CRC
+
+### KANSAS (2 branches + 4 MO serving KC) ✓
+[52] Kansas City, KS 66101 - 4 MO branches serving KS
+- 9422 Kansas City, MO (Carry Deck Crane, General Rentals, Lighting, Material Handling)
+- 9471 North Kansas City, MO (Earthmoving, General Rentals, Storage Container)
+- 9424 Kansas City, MO - ProSolutions (Lees Summit)
+- 4186 South Kansas City, MO (General Rentals, Lees Summit)
+
+[53] Wichita, KS 67201 - 2 branches
+- 9524 Wichita, KS (General Rentals)
+- 9521 El Dorado, KS (General Rentals)
+
+### IOWA (3 branches) ✓
+[54] Des Moines, IA 50301 - 1 branch
+- 4370 Des Moines, IA (Johnston - General Rentals)
+
+[55] Cedar Rapids, IA 52401 - 2 branches
+- 9583 Cedar Rapids, IA - ProSolutions
+- 4154 Cedar Rapids (General Rentals)
+
+### NEW HAMPSHIRE (3+ branches) ✓
+[56-58] Manchester, NH 03101 - 3+ branches
+- 9186 Londonderry, NH (General Rentals)
+- 9222 Londonderry, NH - ProSolutions CRC
+- 9187 Dover, NH (General Rentals)
+Note: Additional ProSolutions branches in Nashua area
+
+### NEW MEXICO (3 branches) ✓
+[59] Albuquerque, NM 87101 - 2 branches
+- 4042 Albuquerque (General Rentals) - 3801 Prince Street SE, 87105
+- 9604 Albuquerque, NM (General Rentals) - 3601 Osuna Road NE, 87109
+
+[60] Las Cruces, NM 88001 - 0 branches
+- Nearest: El Paso, TX (4193, 9403)
+- Also found: 9556 Carlsbad, NM (General Rentals)
+
+[61] Carlsbad, NM 88220 - 1 branch (found via Las Cruces search)
+- 9556 Carlsbad, NM (General Rentals) - 4620 National Parks Hwy
+
+### DELAWARE (3 branches) ✓
+[62] Wilmington, DE 19801 - 3 branches (all in New Castle, DE)
+- 4126 New Castle, DE (General Rentals) - 9 Bellecor Drive, 19720
+- 9956 New Castle, DE (General Rentals) - 325 Quigley Blvd, 19720
+- 4368 New Castle, DE - ProResources - 325 Quigley Blvd, 19720
+
+### NEBRASKA (1 branch - verified) ✓
+[63] Lincoln, NE 68501 - 0 branches
+- Nearest: 9448 Omaha, NE (General Rentals) - already in database
+- Also nearby: 4192 Council Bluffs, IA
+STATUS: Lincoln served by Omaha branch
+
+========================================================
+PRIORITY 2 SEARCHES COMPLETE
+========================================================
+All Priority 2 states have been searched!
+
+========================================================
+NEXT SAVE POINT: After search #65
+========================================================

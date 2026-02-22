@@ -1,0 +1,61 @@
+{
+  "current_task": 3,
+  "current_supplier": "Home Depot",
+  "tasks_completed": [
+    "Bobcat Dealers",
+    "Yancey Cat"
+  ],
+  "tasks_remaining": [],
+  "bobcat_summary": {
+    "total_dealers": 66,
+    "states_covered": 19,
+    "regions_searched": [
+      "Boston",
+      "New York",
+      "Houston",
+      "Atlanta",
+      "Chicago"
+    ],
+    "output_file": "bobcat_dealer_database.xlsx"
+  },
+  "yanceycat_summary": {
+    "website_branches": 18,
+    "oms_branches": 17,
+    "oms_enabled": 15,
+    "coverage": "Georgia only",
+    "output_file": "yanceycat_branch_database.xlsx"
+  },
+  "homedepot_summary": {
+    "priority_1_states_total": 18,
+    "priority_1_states_completed": 18,
+    "priority_1_states_remaining": 0,
+    "total_stores_extracted": 191,
+    "states_extracted": [
+      "AK",
+      "AL",
+      "AR",
+      "DC",
+      "HI",
+      "IA",
+      "ID",
+      "KY",
+      "ME",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NV",
+      "SD",
+      "VT",
+      "WV",
+      "WY"
+    ],
+    "states_remaining": [],
+    "output_files": [
+      "homedepot_extraction_progress.json",
+      "homedepot_priority1_branch_database.xlsx"
+    ],
+    "status": "PRIORITY 1 COMPLETE"
+  },
+  "last_updated": "2026-02-20T08:03:50.474747"
+}

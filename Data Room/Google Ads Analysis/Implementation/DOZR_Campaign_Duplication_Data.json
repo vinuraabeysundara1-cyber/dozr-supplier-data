@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "account_id": "8531896842",
+    "date_generated": "2026-02-09",
+    "task": "Duplicate 10 US campaigns for 14 new state markets"
+  },
+
+  "new_geo_targets": {
+    "description": "Add these 14 states to ALL expansion campaigns",
+    "states": [
+      {"state": "Colorado", "abbrev": "CO", "key_market": "Denver", "geo_id": 21123},
+      {"state": "Indiana", "abbrev": "IN", "key_market": "Indianapolis", "geo_id": 21140},
+      {"state": "Kansas", "abbrev": "KS", "key_market": "Kansas City", "geo_id": 21147},
+      {"state": "Kentucky", "abbrev": "KY", "key_market": "Louisville", "geo_id": 21148},
+      {"state": "Louisiana", "abbrev": "LA", "key_market": "New Orleans", "geo_id": 21151},
+      {"state": "Minnesota", "abbrev": "MN", "key_market": "Minneapolis", "geo_id": 21158},
+      {"state": "Missouri", "abbrev": "MO", "key_market": "Kansas City", "geo_id": 21161},
+      {"state": "Nebraska", "abbrev": "NE", "key_market": "Omaha", "geo_id": 21164},
+      {"state": "New Mexico", "abbrev": "NM", "key_market": "Albuquerque", "geo_id": 21168},
+      {"state": "Nevada", "abbrev": "NV", "key_market": "Las Vegas", "geo_id": 21166},
+      {"state": "Oklahoma", "abbrev": "OK", "key_market": "Oklahoma City", "geo_id": 21172},
+      {"state": "Utah", "abbrev": "UT", "key_market": "Salt Lake City", "geo_id": 21183},
+      {"state": "Washington", "abbrev": "WA", "key_market": "Seattle", "geo_id": 21186},
+      {"state": "Iowa", "abbrev": "IA", "key_market": "Omaha Metro", "geo_id": 21145}
+    ],
+    "geo_ids_list": [21123, 21140, 21147, 21148, 21151, 21158, 21161, 21164, 21168, 21166, 21172, 21183, 21186, 21145]
+  },
+
+  "campaigns_to_duplicate": [
+    {
+      "source_campaign": "Search-Scissor-Lift-Core-Geos-US",
+      "new_campaign_name": "Search-Scissor-Lift-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 350,
+      "new_daily_budget": 75,
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "source_campaign": "Search-Forklift-Core-Geos-US",
+      "new_campaign_name": "Search-Forklift-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSION_VALUE",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 400,
+      "new_daily_budget": 75,
+      "equipment_type": "Forklift"
+    },
+    {
+      "source_campaign": "Search-Excavator-Core-Geos-US",
+      "new_campaign_name": "Search-Excavator-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 250,
+      "new_daily_budget": 60,
+      "equipment_type": "Excavator"
+    },
+    {
+      "source_campaign": "Search-Telehandler-Core-Geos-US",
+      "new_campaign_name": "Search-Telehandler-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 100,
+      "new_daily_budget": 50,
+      "equipment_type": "Telehandler"
+    },
+    {
+      "source_campaign": "Search-Dozers-Core-Geos-US-V3",
+      "new_campaign_name": "Search-Dozers-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 200,
+      "new_daily_budget": 50,
+      "equipment_type": "Dozer"
+    },
+    {
+      "source_campaign": "Search-Backhoe-Core-Geos-US",
+      "new_campaign_name": "Search-Backhoe-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 100,
+      "new_daily_budget": 40,
+      "equipment_type": "Backhoe"
+    },
+    {
+      "source_campaign": "Search-Loader-Core-Geos-US",
+      "new_campaign_name": "Search-Loader-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 150,
+      "new_daily_budget": 50,
+      "equipment_type": "Loader"
+    },
+    {
+      "source_campaign": "Search-Demand-Boom-Lifts",
+      "new_campaign_name": "Search-Boom-Lifts-Expansion-Geos-US",
+      "current_bid_strategy": "CHECK_CURRENT",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": null,
+      "new_daily_budget": 60,
+      "equipment_type": "Boom Lift"
+    },
+    {
+      "source_campaign": "Search-Demand-Brand-US",
+      "new_campaign_name": "Search-Demand-Brand-Expansion-Geos-US",
+      "current_bid_strategy": "TARGET_IMPRESSION_SHARE",
+      "new_bid_strategy": "TARGET_IMPRESSION_SHARE",
+      "current_daily_budget": 100,
+      "new_daily_budget": 40,
+      "equipment_type": "Brand",
+      "note": "Brand campaign - maintain impression share targeting"
+    },
+    {
+      "source_campaign": "DSA-AllPages-Tier1-New-US-2",
+      "new_campaign_name": "DSA-AllPages-Expansion-Geos-US",
+      "current_bid_strategy": "MAXIMIZE_CONVERSION_VALUE",
+      "new_bid_strategy": "MAXIMIZE_CONVERSIONS",
+      "current_daily_budget": 350,
+      "new_daily_budget": 60,
+      "equipment_type": "All (DSA)"
+    }
+  ],
+
+  "geo_exclusions_for_expansion_campaigns": {
+    "description": "EXCLUDE these from NEW expansion campaigns to prevent overlap",
+    "states": [
+      {"name": "Arizona", "geo_id": 21136},
+      {"name": "California", "geo_id": 21137},
+      {"name": "Florida", "geo_id": 21142},
+      {"name": "Georgia", "geo_id": 21143},
+      {"name": "New York", "geo_id": 21167},
+      {"name": "North Carolina", "geo_id": 21160},
+      {"name": "Tennessee", "geo_id": 21175},
+      {"name": "Texas", "geo_id": 21176}
+    ],
+    "state_geo_ids": [21136, 21137, 21142, 21143, 21167, 21160, 21175, 21176],
+    "dma_regions": [
+      {"name": "Albany-Schenectady-Troy, NY", "geo_id": 200532},
+      {"name": "Atlanta, GA", "geo_id": 200524},
+      {"name": "Austin, TX", "geo_id": 200635},
+      {"name": "Buffalo, NY", "geo_id": 200514},
+      {"name": "Charleston, SC", "geo_id": 200519},
+      {"name": "Charlotte, NC", "geo_id": 200517},
+      {"name": "Charlottesville, VA", "geo_id": 200584},
+      {"name": "Dallas-Ft. Worth, TX", "geo_id": 200623},
+      {"name": "Greensboro-High Point-Winston Salem, NC", "geo_id": 200518},
+      {"name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC", "geo_id": 200567},
+      {"name": "Houston, TX", "geo_id": 200618},
+      {"name": "Knoxville, TN", "geo_id": 200557},
+      {"name": "Los Angeles, CA", "geo_id": 200803},
+      {"name": "Memphis, TN", "geo_id": 200640},
+      {"name": "Miami-Ft. Lauderdale, FL", "geo_id": 200528},
+      {"name": "Nashville, TN", "geo_id": 200659},
+      {"name": "New York, NY", "geo_id": 200501},
+      {"name": "Norfolk-Portsmouth-Newport News, VA", "geo_id": 200544},
+      {"name": "Orlando-Daytona Beach-Melbourne, FL", "geo_id": 200534},
+      {"name": "Raleigh-Durham (Fayetteville), NC", "geo_id": 200560},
+      {"name": "Richmond-Petersburg, VA", "geo_id": 200556},
+      {"name": "Rochester, NY", "geo_id": 200538},
+      {"name": "San Antonio, TX", "geo_id": 200641},
+      {"name": "San Diego, CA", "geo_id": 200825},
+      {"name": "Savannah, GA", "geo_id": 200507},
+      {"name": "Syracuse, NY", "geo_id": 200555},
+      {"name": "Tampa-St Petersburg (Sarasota), FL", "geo_id": 200539},
+      {"name": "Tri-Cities, TN-VA", "geo_id": 200531},
+      {"name": "Waco-Temple-Bryan, TX", "geo_id": 200625},
+      {"name": "West Palm Beach-Ft. Pierce, FL", "geo_id": 200548}
+    ],
+    "dma_geo_ids": [200532, 200524, 200635, 200514, 200519, 200517, 200584, 200623, 200518, 200567, 200618, 200557, 200803, 200640, 200528, 200659, 200501, 200544, 200534, 200560, 200556, 200538, 200641, 200825, 200507, 200555, 200539, 200531, 200625, 200548],
+    "regions": [
+      {"name": "San Francisco Bay Area", "geo_id": 9073451}
+    ],
+    "counties": [
+      {"name": "Maricopa County, AZ", "geo_id": 9057037},
+      {"name": "Pinal County, AZ", "geo_id": 9057040}
+    ],
+    "cities": [
+      {"name": "Phoenix, AZ", "geo_id": 1013462},
+      {"name": "Hesperia, CA", "geo_id": 1013857},
+      {"name": "Loma Linda, CA", "geo_id": 1013954},
+      {"name": "Elberton, GA", "geo_id": 1015339},
+      {"name": "Stonecrest, GA", "geo_id": 9198538}
+    ],
+    "all_exclusion_geo_ids": [21136, 21137, 21142, 21143, 21167, 21160, 21175, 21176, 200532, 200524, 200635, 200514, 200519, 200517, 200584, 200623, 200518, 200567, 200618, 200557, 200803, 200640, 200528, 200659, 200501, 200544, 200534, 200560, 200556, 200538, 200641, 200825, 200507, 200555, 200539, 200531, 200625, 200548, 9073451, 9057037, 9057040, 1013462, 1013857, 1013954, 1015339, 9198538]
+  },
+
+  "geo_exclusions_for_current_campaigns": {
+    "description": "Add these 14 states as NEGATIVE location targets to ALL current enabled US campaigns (not just Core-Geos)",
+    "campaigns_to_update": [
+      "Search-Scissor-Lift-Core-Geos-US",
+      "Search-Forklift-Core-Geos-US",
+      "Search-Excavator-Core-Geos-US",
+      "Search-Telehandler-Core-Geos-US",
+      "Search-Dozers-Core-Geos-US-V3",
+      "Search-Backhoe-Core-Geos-US",
+      "Search-Loader-Core-Geos-US",
+      "Search-Demand-Boom-Lifts",
+      "Search-Demand-Brand-US",
+      "DSA-AllPages-Tier1-New-US-2"
+    ],
+    "states_to_exclude": [21123, 21140, 21147, 21148, 21151, 21158, 21161, 21164, 21168, 21166, 21172, 21183, 21186, 21145]
+  },
+
+  "duplication_queries": {
+    "get_ad_groups": "SELECT ad_group.id, ad_group.name, ad_group.status, ad_group.type FROM ad_group WHERE campaign.name = '[SOURCE_CAMPAIGN]' AND ad_group.status != 'REMOVED'",
+    "get_ads": "SELECT ad_group.name, ad_group_ad.ad.id, ad_group_ad.ad.type, ad_group_ad.ad.final_urls, ad_group_ad.ad.responsive_search_ad.headlines, ad_group_ad.ad.responsive_search_ad.descriptions, ad_group_ad.ad.responsive_search_ad.path1, ad_group_ad.ad.responsive_search_ad.path2 FROM ad_group_ad WHERE campaign.name = '[SOURCE_CAMPAIGN]' AND ad_group_ad.status != 'REMOVED'",
+    "get_keywords": "SELECT ad_group.name, ad_group_criterion.keyword.text, ad_group_criterion.keyword.match_type, ad_group_criterion.status, ad_group_criterion.final_url FROM keyword_view WHERE campaign.name = '[SOURCE_CAMPAIGN]' AND ad_group_criterion.status != 'REMOVED'",
+    "get_negative_keywords_adgroup": "SELECT ad_group.name, ad_group_criterion.keyword.text, ad_group_criterion.keyword.match_type FROM ad_group_criterion WHERE campaign.name = '[SOURCE_CAMPAIGN]' AND ad_group_criterion.negative = true AND ad_group_criterion.type = 'KEYWORD'",
+    "get_negative_keywords_campaign": "SELECT campaign_criterion.keyword.text, campaign_criterion.keyword.match_type FROM campaign_criterion WHERE campaign.name = '[SOURCE_CAMPAIGN]' AND campaign_criterion.type = 'KEYWORD' AND campaign_criterion.negative = true",
+    "get_geo_exclusions": "SELECT campaign_criterion.location.geo_target_constant FROM campaign_criterion WHERE campaign.name = '[SOURCE_CAMPAIGN]' AND campaign_criterion.negative = true AND campaign_criterion.type = 'LOCATION'",
+    "get_tracking": "SELECT campaign.tracking_url_template, campaign.final_url_suffix, campaign.url_custom_parameters FROM campaign WHERE campaign.name = '[SOURCE_CAMPAIGN]'"
+  },
+
+  "implementation_steps": [
+    "1. Create 10 new expansion campaigns (set to PAUSED)",
+    "2. Add 14 new state geo targets to each expansion campaign",
+    "3. Add ALL geo exclusions to expansion campaigns (states, DMAs, cities, counties, region)",
+    "4. Query and mirror country exclusions from source campaigns",
+    "5. Duplicate ad groups from source to expansion campaigns",
+    "6. Duplicate all ads with same headlines, descriptions, URLs",
+    "7. Duplicate all keywords with same match types",
+    "8. Duplicate all negative keywords (ad group and campaign level)",
+    "9. Copy tracking URL template and final URL suffix",
+    "10. Add 14 new states as exclusions to ALL 10 current enabled US campaigns",
+    "11. Review all campaigns for accuracy",
+    "12. Enable expansion campaigns"
+  ],
+
+  "budget_summary": {
+    "total_new_daily_budget": 560,
+    "total_new_monthly_budget": 16800,
+    "note": "Start conservative, increase based on performance"
+  }
+}

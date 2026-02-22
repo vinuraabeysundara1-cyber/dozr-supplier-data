@@ -1,0 +1,148 @@
+{
+  "canadian_orders": 18,
+  "canadian_coverage": "100% - Country level targeting",
+  "us_orders_total": 135,
+  "us_orders_covered": 105,
+  "us_orders_not_covered": 30,
+  "states_to_add": [
+    [
+      "NJ",
+      5,
+      "new jersey"
+    ],
+    [
+      "MS",
+      4,
+      "mississippi"
+    ],
+    [
+      "CO",
+      3,
+      "colorado"
+    ],
+    [
+      "UT",
+      2,
+      "utah"
+    ],
+    [
+      "NV",
+      2,
+      "nevada"
+    ],
+    [
+      "NM",
+      2,
+      "new mexico"
+    ],
+    [
+      "MT",
+      2,
+      "montana"
+    ],
+    [
+      "MO",
+      2,
+      "missouri"
+    ],
+    [
+      "MD",
+      2,
+      "maryland"
+    ],
+    [
+      "WI",
+      1,
+      "wisconsin"
+    ],
+    [
+      "LA",
+      1,
+      "louisiana"
+    ],
+    [
+      "ME",
+      1,
+      "maine"
+    ],
+    [
+      "WA",
+      1,
+      "washington"
+    ],
+    [
+      "IN",
+      1,
+      "indiana"
+    ],
+    [
+      "KS",
+      1,
+      "kansas"
+    ]
+  ],
+  "targeted_states": [
+    "CT",
+    "TN",
+    "AZ",
+    "GA",
+    "OR",
+    "KY",
+    "MI",
+    "PA",
+    "VT",
+    "ID",
+    "AL",
+    "ND",
+    "VA",
+    "AR",
+    "OK",
+    "CA",
+    "NC",
+    "TX",
+    "MN",
+    "OH",
+    "SC",
+    "NY",
+    "IL",
+    "NH",
+    "FL"
+  ],
+  "targeted_ca_cities": [
+    "bowmanville",
+    "essex",
+    "port elgin",
+    "kitchener",
+    "london",
+    "milton",
+    "coquitlam",
+    "oakville",
+    "caledon",
+    "innisfil",
+    "waterloo",
+    "mississauga",
+    "markham",
+    "niagara falls",
+    "st. catharines",
+    "burlington",
+    "fort erie",
+    "cobourg",
+    "guelph",
+    "vaughan",
+    "bolton",
+    "aurora",
+    "hamilton",
+    "ottawa",
+    "kingston",
+    "brant",
+    "north vancouver",
+    "newmarket",
+    "cambridge",
+    "lambton shores",
+    "ramara",
+    "ayr",
+    "toronto",
+    "collingwood",
+    "brampton"
+  ]
+}

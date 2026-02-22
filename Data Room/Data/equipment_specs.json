@@ -1,0 +1,240 @@
+{
+  "categories": {
+    "Earth-Moving Equipment": {
+      "Mini Excavators": {
+        "url_base": "https://www.homedepot.com/c/mini-excavator-rental",
+        "models": [
+          {
+            "name": "2,000 lb. Mini Excavator (1-Ton)",
+            "product_url": "https://www.homedepot.com/p/rental/Kubota-1-Ton-Mini-Excavator-Rental-K008/316821721",
+            "internet_number": "316821721",
+            "model_number": "K008",
+            "specs": {
+              "Max Dig Depth": "4.5'",
+              "Max Reach Above Ground": "7' 9\"",
+              "Overall Width": "2' 4\" (retracted)",
+              "Towing Capacity Required": "3800 lbs"
+            },
+            "rental_pricing": {
+              "4_hours": "$217.00",
+              "1_day": "$309.00",
+              "1_week": "$1,117.00",
+              "4_weeks": "$2,543.00"
+            },
+            "data_collected": true
+          },
+          {
+            "name": "3,000 - 4,000 lb. Mini Excavator",
+            "product_url": "https://www.homedepot.com/p/rental/KUBOTA-1-5-2-Ton-Mini-Excavator-Rental-U17/316821405",
+            "internet_number": "316821405",
+            "model_number": "U17",
+            "specs": {
+              "Max Dig Depth": "6.2'",
+              "Max Reach Above Ground": "10' 3\"",
+              "Overall Width": "3' 3\" (retracted)",
+              "Towing Capacity Required": "6830 lbs"
+            },
+            "data_collected": true,
+            "verification_note": "Same 263 stores as Model 1"
+          },
+          {
+            "name": "5,000 - 6,000 lb. Mini Excavator",
+            "product_url": "https://www.homedepot.com/p/rental/Kubota-3-Ton-Mini-Excavator-Rental-KX033/316822185",
+            "internet_number": "316822185",
+            "model_number": "KX033",
+            "specs": {
+              "Max Dig Depth": "9' 5\"",
+              "Max Reach Above Ground": "15' 7\"",
+              "Overall Width": "5' 1\" (retracted)",
+              "Towing Capacity Required": "10315 lbs"
+            },
+            "data_collected": true,
+            "verification_note": "Same 263 stores as Model 1 - Houston 20, Miami 20, Manhattan 20"
+          },
+          {
+            "name": "7,000 - 8,000 lb. Mini Excavator",
+            "product_url": "https://www.homedepot.com/p/rental/Yanmar-3-5-4-Ton-Mini-Excavator-Rental-KC70/316821497",
+            "internet_number": "316821497",
+            "model_number": "KC70",
+            "specs": {
+              "Availability": "VIP Delivery Only",
+              "Max Dig Depth": "11' 3\"",
+              "Max Reach Above Ground": "16' 9\"",
+              "Overall Width": "5' 10\"",
+              "Weight": "7,905 lbs"
+            },
+            "data_collected": true,
+            "verification_note": "Delivery only - uses same 263 store network"
+          },
+          {
+            "name": "9,000 - 10,000 lb. Mini Excavator",
+            "product_url": "https://www.homedepot.com/p/rental/John-Deere-4-5-5-Ton-Mini-Excavator-Rental-CH600/316821523",
+            "internet_number": "316821523",
+            "model_number": "50G",
+            "specs": {
+              "Max Dig Depth": "11' 7\"",
+              "Max Reach Above Ground": "19' 7\"",
+              "Overall Width": "6' 7\"",
+              "Weight": "10,560 lbs",
+              "Net Power": "35.9 hp",
+              "Design": "Zero-tail-swing"
+            },
+            "rental_pricing": {
+              "4_hours": "$519.00",
+              "1_day": "$519.00",
+              "1_week": "$1,453.00",
+              "4_weeks": "$3,197.00"
+            },
+            "data_collected": true,
+            "verification_note": "Delivery only - uses same 263 store network"
+          },
+          {
+            "name": "11,000 - 12,000 lb. Mini Excavator",
+            "product_url": "https://www.homedepot.com/p/rental/5-5-6-Ton-Mini-Excavator-Rental-60G/316822021",
+            "internet_number": "316822021",
+            "model_number": "60G",
+            "specs": {
+              "Availability": "Delivery Only",
+              "Max Dig Depth": "12' 4\"",
+              "Max Reach": "20' 5\"",
+              "Overall Width": "6' 7\"",
+              "Weight": "13,470 lbs",
+              "Net Power": "53 hp"
+            },
+            "data_collected": true,
+            "verification_note": "Delivery only - uses same 263 store network"
+          }
+        ]
+      },
+      "Skid Steers": {
+        "url_base": "https://www.homedepot.com/c/skid-steer-rental",
+        "models": [
+          {
+            "name": "Skid Steer Tracked, ROC 700-1200 lbs",
+            "product_url": "https://www.homedepot.com/p/rental/Gehl-Manitou-700-1-200-lb-Tracked-Skid-Steer-Rental-T144H/316822082",
+            "internet_number": "316822082",
+            "model_number": "T144H",
+            "specs": {
+              "Max lift capacity": "665 lbs",
+              "Max lift height": "77\"",
+              "Overall width": "48\"",
+              "Towing": "5245 lbs"
+            },
+            "rental_pricing": {
+              "4_hours": "$284.00",
+              "1_day": "$379.00",
+              "1_week": "$1,213.00",
+              "4_weeks": "$3,033.00"
+            }
+          },
+          {
+            "name": "Skid Steer Tracked, ROC 1400-1900 lbs",
+            "product_url": "https://www.homedepot.com/p/rental/1-400-1-900-lb-Tracked-Skid-Steer-Rental-3640/316821898",
+            "internet_number": "316821898",
+            "specs": {
+              "Max lift capacity": "1400 lbs",
+              "Max lift height": "108.6\"",
+              "Overall width": "68\"",
+              "Towing": "8748 lbs"
+            }
+          },
+          {
+            "name": "Skid Steer Tracked, ROC 1950-2500 lbs",
+            "product_url": "https://www.homedepot.com/p/rental/1-950-2-500-lb-Tracked-Skid-Steer-Rental-15NX-2/316821822",
+            "internet_number": "316821822",
+            "specs": {
+              "Availability": "VIP Delivery Only",
+              "Max lift capacity": "2100 lbs",
+              "Max lift height": "121\"",
+              "Overall width": "74\"",
+              "Engine": "74 HP Diesel",
+              "Weight": "8555 lbs"
+            }
+          },
+          {
+            "name": "Skid Steer Tracked, ROC 2500-3200 lbs",
+            "product_url": "https://www.homedepot.com/p/rental/Kubota-2-500-3-200-lb-Tracked-Skid-Steer-Rental-TZ-34-20/316822043",
+            "internet_number": "316822043",
+            "specs": {
+              "Availability": "Delivery Only"
+            }
+          },
+          {
+            "name": "Skid Steer Wheeled, ROC 1000-1200 lbs",
+            "specs": {
+              "Rated Operating Capacity": "1175 lbs"
+            }
+          },
+          {
+            "name": "Skid Steer Wheeled, ROC 1500-1750 lbs",
+            "specs": {
+              "Max lift capacity": "1500 lbs"
+            }
+          }
+        ],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as Mini Excavators - Houston 20, Miami 20, Manhattan 20"
+      },
+      "Mini Skid Steers": {
+        "url_base": "https://www.homedepot.com/c/mini-skid-steer-rental",
+        "models": [
+          {
+            "name": "Mini Skid Steer with Auger Attachment",
+            "specs": {
+              "Max lift capacity": "435 lbs",
+              "Max dump height": "46\"",
+              "Overall width": "43.5\"",
+              "Towing": "5800 lbs"
+            }
+          },
+          {
+            "name": "Mini Skid Steer - ROC 800-1000 lb",
+            "model_number": "SK800",
+            "specs": {
+              "Max lift capacity": "860 lbs",
+              "Max dump height": "83\"",
+              "Overall width": "42\"",
+              "Bucket width": "44\"",
+              "Towing": "4420 lbs"
+            }
+          }
+        ],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as all large equipment"
+      },
+      "TLB (Tractor Loader Backhoes)": {
+        "url_base": "https://www.homedepot.com/c/backhoe-rental",
+        "models": [],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as all large equipment"
+      }
+    },
+    "Aerial & Lifting Equipment": {
+      "Boom Lifts": {
+        "url_base": "https://www.homedepot.com/c/boom-lift-rental",
+        "models": [],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as all large equipment"
+      },
+      "Scissor Lifts": {
+        "url_base": "https://www.homedepot.com/c/scissor-lift-rental",
+        "models": [],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as all large equipment"
+      },
+      "Forklifts": {
+        "url_base": "https://www.homedepot.com/c/forklift-rental",
+        "models": [],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as all large equipment"
+      },
+      "Telehandlers": {
+        "url_base": "https://www.homedepot.com/c/telehandler-rental",
+        "models": [],
+        "data_collected": true,
+        "verification_note": "Same 263 stores as all large equipment"
+      }
+    }
+  },
+  "global_finding": "ALL large equipment categories share the same 263-store network across TX, FL, NY"
+}

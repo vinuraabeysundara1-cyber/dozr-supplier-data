@@ -1,0 +1,29 @@
+{
+  "extraction_date": "2026-02-19",
+  "source": "Yancey Bros Co Website",
+  "company": "Yancey Cat (Caterpillar Dealer)",
+  "coverage": "Georgia",
+  "total_branches_found": 18,
+  "oms_branches": 17,
+  "branches": [
+    {"branch_name": "Yancey Bros Co. - Kennesaw", "address": "2697 McCollum Pkwy. NW", "city": "Kennesaw", "state": "GA", "zip": "30144", "phone": "(678) 915-1177", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Albany", "address": "1604 South Slappey Blvd.", "city": "Albany", "state": "GA", "zip": "31701", "phone": "(229) 435-6262", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Athens (Bogart)", "address": "50 Trade Street", "city": "Bogart", "state": "GA", "zip": "30622", "phone": "(706) 353-0043", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Augusta", "address": "4165 Mike Padgett Hwy", "city": "Augusta", "state": "GA", "zip": "30906", "phone": "(706) 790-1300", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Austell (Parts)", "address": "330 Lee Industrial Blvd", "city": "Austell", "state": "GA", "zip": "30168", "phone": "(770) 941-2550", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Austell (Machine Sales)", "address": "300 Lee Industrial Blvd", "city": "Austell", "state": "GA", "zip": "30168", "phone": "(770) 941-2550", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Bloomingdale (Savannah)", "address": "2566 U.S. Highway 80", "city": "Bloomingdale", "state": "GA", "zip": "31302", "phone": "(912) 748-1711", "in_oms": false, "notes": "Near Pooler/Savannah"},
+    {"branch_name": "Yancey Bros Co. - Brunswick", "address": "370 Perry Lane Rd", "city": "Brunswick", "state": "GA", "zip": "31525", "phone": "(912) 265-5010", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Calhoun", "address": "138 Robinson Rd NW", "city": "Calhoun", "state": "GA", "zip": "30701", "phone": "(706) 629-0776", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Columbus", "address": "TBD", "city": "Columbus", "state": "GA", "zip": "TBD", "phone": "TBD", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Cumming", "address": "5905 Hubbard Town Rd", "city": "Cumming", "state": "GA", "zip": "30028", "phone": "(470) 560-6750", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Dacula (Gwinnett)", "address": "335 Hurricane Trail", "city": "Dacula", "state": "GA", "zip": "30019", "phone": "(770) 963-7766", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Jefferson", "address": "TBD", "city": "Jefferson", "state": "GA", "zip": "TBD", "phone": "TBD", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Macon", "address": "1025 Frank Amerson Pkwy", "city": "Macon", "state": "GA", "zip": "31216", "phone": "(478) 788-1773", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - McDonough", "address": "187 Interstate South Dr", "city": "McDonough", "state": "GA", "zip": "30253", "phone": "(770) 288-4000", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Pooler (Savannah)", "address": "1465 E. Highway 80", "city": "Pooler", "state": "GA", "zip": "31322", "phone": "(912) 748-1700", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Statesboro", "address": "8555 Highway 301", "city": "Statesboro", "state": "GA", "zip": "30458", "phone": "(912) 871-6506", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Valdosta", "address": "2966 HWY U.S. 84 West", "city": "Valdosta", "state": "GA", "zip": "31601", "phone": "(229) 242-8610", "in_oms": true},
+    {"branch_name": "Yancey Bros Co. - Waycross", "address": "1899 Knight Ave", "city": "Waycross", "state": "GA", "zip": "31503", "phone": "(912) 285-4800", "in_oms": true}
+  ]
+}

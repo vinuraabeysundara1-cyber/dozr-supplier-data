@@ -1,0 +1,291 @@
+[
+  {
+    "row": 3,
+    "branch_name": "Sunstate Equipment - Buckeye",
+    "city": "Buckeye",
+    "state": "AZ",
+    "address_filled": "1015 N Jackrabbit Trail",
+    "source": "Google Maps"
+  },
+  {
+    "row": 5,
+    "branch_name": "Sunstate Equipment - Deer Valley",
+    "city": "Deer Valley",
+    "state": "AZ",
+    "address_filled": "22830 N 19th Ave, Phoenix",
+    "source": "Google Maps"
+  },
+  {
+    "row": 7,
+    "branch_name": "Sunstate Equipment - Mesa",
+    "city": "Mesa",
+    "state": "AZ",
+    "address_filled": "1945 S Lee Cir",
+    "source": "Google Maps"
+  },
+  {
+    "row": 12,
+    "branch_name": "Sunstate Equipment - Trench - Phoenix",
+    "city": "Phoenix",
+    "state": "AZ",
+    "address_filled": "320 S 19th Ave",
+    "source": "Google Maps"
+  },
+  {
+    "row": 13,
+    "branch_name": "Sunstate Equipment - Trench - Tucson",
+    "city": "Tucson",
+    "state": "AZ",
+    "address_filled": "4360 E Tennessee St",
+    "source": "Google Maps"
+  },
+  {
+    "row": 27,
+    "branch_name": "Sunstate Equipment - San Diego",
+    "city": "San Diego",
+    "state": "CA",
+    "address_filled": "5590 Eastgate Mall",
+    "source": "Google Maps"
+  },
+  {
+    "row": 28,
+    "branch_name": "Sunstate Equipment - San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "address_filled": "2233 S 7th St",
+    "source": "Google Maps"
+  },
+  {
+    "row": 32,
+    "branch_name": "Sunstate Equipment - Trench - San Bernardino",
+    "city": "San Bernardino",
+    "state": "CA",
+    "address_filled": "221 S D St",
+    "source": "Google Maps"
+  },
+  {
+    "row": 33,
+    "branch_name": "Sunstate Equipment - Trench - San Diego",
+    "city": "San Diego",
+    "state": "CA",
+    "address_filled": "15303 Olde Hwy 80",
+    "source": "Google Maps"
+  },
+  {
+    "row": 36,
+    "branch_name": "Sunstate Equipment - Dove Valley",
+    "city": "Englewood",
+    "state": "CO",
+    "address_filled": "12550 E Broncos Pkwy",
+    "source": "Google Maps"
+  },
+  {
+    "row": 41,
+    "branch_name": "Sunstate Equipment - Bradenton",
+    "city": "Tampa",
+    "state": "FL",
+    "address_filled": "5730 E Columbus Dr",
+    "source": "Google Maps",
+    "note": "Search returns Tampa location - may serve Bradenton area"
+  },
+  {
+    "row": 46,
+    "branch_name": "Sunstate Equipment - Buford",
+    "city": "Buford",
+    "state": "GA",
+    "address_filled": "6000 Lanier Islands Pkwy",
+    "source": "Google Maps"
+  },
+  {
+    "row": 53,
+    "branch_name": "Sunstate Equipment - Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "address_filled": "5130 Davidson Hwy, Concord",
+    "source": "Google Maps"
+  },
+  {
+    "row": 55,
+    "branch_name": "Sunstate Equipment - Raleigh",
+    "city": "Raleigh",
+    "state": "NC",
+    "address_filled": "5909 Triangle Town Blvd, Garner",
+    "source": "Google Maps"
+  },
+  {
+    "row": 57,
+    "branch_name": "Sunstate Equipment - Trench - Raleigh",
+    "city": "Raleigh",
+    "state": "NC",
+    "address_filled": "1128 US-70, Garner",
+    "source": "Google Maps"
+  },
+  {
+    "row": 62,
+    "branch_name": "Sunstate Equipment - Tulsa",
+    "city": "Tulsa",
+    "state": "OK",
+    "address_filled": "1315 N 105th E Ave",
+    "source": "Google Maps"
+  },
+  {
+    "row": 68,
+    "branch_name": "Sunstate Equipment - Memphis",
+    "city": "Memphis",
+    "state": "TN",
+    "address_filled": "3017 Ferrell Park Cove",
+    "source": "Google Maps"
+  },
+  {
+    "row": 70,
+    "branch_name": "Sunstate Equipment - Austin",
+    "city": "Austin",
+    "state": "TX",
+    "address_filled": "16436 N Interstate Hwy 35",
+    "source": "Google Maps"
+  },
+  {
+    "row": 73,
+    "branch_name": "Sunstate Equipment - Bryan",
+    "city": "Bryan",
+    "state": "TX",
+    "address_filled": "1747 N Earl Rudder Fwy",
+    "source": "Google Maps"
+  },
+  {
+    "row": 80,
+    "branch_name": "Sunstate Equipment - Fort Worth",
+    "city": "Fort Worth",
+    "state": "TX",
+    "address_filled": "8000 South Fwy",
+    "source": "Google Maps",
+    "note": "DFW regional phone"
+  },
+  {
+    "row": 81,
+    "branch_name": "Sunstate Equipment - Fort Worth - South",
+    "city": "Fort Worth",
+    "state": "TX",
+    "address_filled": "701 Westport Pkwy",
+    "source": "Google Maps",
+    "note": "DFW regional phone"
+  },
+  {
+    "row": 84,
+    "branch_name": "Sunstate Equipment - Houston",
+    "city": "Houston",
+    "state": "TX",
+    "address_filled": "1111 N Sam Houston Pkwy E",
+    "source": "Google Maps"
+  },
+  {
+    "row": 85,
+    "branch_name": "Sunstate Equipment - Houston-2",
+    "city": "Houston",
+    "state": "TX",
+    "address_filled": "21229 FM 529",
+    "source": "Google Maps",
+    "note": "West Houston location"
+  },
+  {
+    "row": 87,
+    "branch_name": "Sunstate Equipment - Killeen",
+    "city": "Killeen",
+    "state": "TX",
+    "address_filled": "2102 Martin Luther King Jr Blvd",
+    "source": "Google Maps"
+  },
+  {
+    "row": 88,
+    "branch_name": "Sunstate Equipment - Krum",
+    "city": "Krum",
+    "state": "TX",
+    "address_filled": "16450 US-380",
+    "source": "Google Maps"
+  },
+  {
+    "row": 91,
+    "branch_name": "Sunstate Equipment - Odessa",
+    "city": "Odessa",
+    "state": "TX",
+    "address_filled": "1250 S John Ben Shepperd Pkwy",
+    "source": "Google Maps"
+  },
+  {
+    "row": 93,
+    "branch_name": "Sunstate Equipment - San Antonio",
+    "city": "San Antonio",
+    "state": "TX",
+    "address_filled": "6035 NE Interstate 410 Loop",
+    "source": "Google Maps"
+  },
+  {
+    "row": 96,
+    "branch_name": "Sunstate Equipment - Trench - Austin",
+    "city": "Austin",
+    "state": "TX",
+    "address_filled": "12916 US-290, Manor",
+    "source": "Google Maps",
+    "note": "Location in Manor, TX serving Austin area"
+  },
+  {
+    "row": 100,
+    "branch_name": "Sunstate Equipment - Lindon",
+    "city": "Lindon",
+    "state": "UT",
+    "address_filled": "1261 W 300 S St",
+    "source": "Google Maps",
+    "note": "Utah regional phone"
+  },
+  {
+    "row": 101,
+    "branch_name": "Sunstate Equipment - Ogden",
+    "city": "Ogden",
+    "state": "UT",
+    "address_filled": "1850 W 1350 S",
+    "source": "Google Maps",
+    "note": "Utah regional phone"
+  },
+  {
+    "row": 103,
+    "branch_name": "Sunstate Equipment - Kent",
+    "city": "Kent",
+    "state": "WA",
+    "address_filled": "8612 S 218th St",
+    "source": "Google Maps",
+    "note": "Washington regional phone"
+  },
+  {
+    "row": 105,
+    "branch_name": "Sunstate Equipment - Trench - Kent",
+    "city": "Kent",
+    "state": "WA",
+    "address_filled": "7408 S 212th St",
+    "source": "Google Maps"
+  },
+  {
+    "row": 106,
+    "branch_name": "Sunstate Equipment - Trench - Olympia",
+    "city": "Olympia",
+    "state": "WA",
+    "address_filled": "8421 Old Hwy 99 SE",
+    "source": "Google Maps"
+  },
+  {
+    "row": 108,
+    "branch_name": "Sunstate Equipment - Trench - Woodinville",
+    "city": "Woodinville",
+    "state": "WA",
+    "address_filled": "21818 76th Dr SE",
+    "source": "Google Maps"
+  },
+  {
+    "row": 109,
+    "branch_name": "Sunstate Equipment - Woodinville",
+    "city": "Woodinville",
+    "state": "WA",
+    "address_filled": "21818 76th Dr SE",
+    "source": "Google Maps",
+    "note": "Same address as Trench, Washington regional phone"
+  }
+]

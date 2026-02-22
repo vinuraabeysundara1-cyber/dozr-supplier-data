@@ -1,0 +1,2609 @@
+{
+  "supplier": "EquipmentShare",
+  "extraction_date": "2026-02-19",
+  "extraction_method": "Web scraping (all states)",
+  "total_branches": 289,
+  "branches": [
+    {
+      "branch_name": "Birmingham - Alabaster #15965",
+      "services": "Core Solutions",
+      "address": "2039 Fulton Springs Rd",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "phone": "(205) 730-0770"
+    },
+    {
+      "branch_name": "Birmingham - Alabaster #62846",
+      "services": "Advanced Solutions",
+      "address": "281 Commercial Ct",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "phone": "(205) 847-0257"
+    },
+    {
+      "branch_name": "Huntsville - Decatur #40686",
+      "services": "Core Solutions",
+      "address": "540 Steed Rd, Building B",
+      "city": "Decatur",
+      "state": "AL",
+      "zip": "35601",
+      "phone": "(256) 308-8993"
+    },
+    {
+      "branch_name": "Dothan - Enterprise #103045",
+      "services": "Core Solutions",
+      "address": "125 Commerce Dr",
+      "city": "Enterprise",
+      "state": "AL",
+      "zip": "36330",
+      "phone": "(334) 828-7128"
+    },
+    {
+      "branch_name": "Huntsville - Madison #85156",
+      "services": null,
+      "address": "250 Royal Dr",
+      "city": "Madison",
+      "state": "AL",
+      "zip": "35758",
+      "phone": "(256) 556-1000"
+    },
+    {
+      "branch_name": "Anniston - Oxford #140181",
+      "services": "Core Solutions",
+      "address": "90 Industrial Drive",
+      "city": "Oxford",
+      "state": "AL",
+      "zip": "36203",
+      "phone": "(256) 905-8339"
+    },
+    {
+      "branch_name": "Mobile - Theodore #33163",
+      "services": "Core Solutions",
+      "address": "8765 Bellingrath Rd",
+      "city": "Theodore",
+      "state": "AL",
+      "zip": "36582",
+      "phone": "(251) 481-6240"
+    },
+    {
+      "branch_name": "Mobile - Theodore #56716",
+      "services": null,
+      "address": "5750 I 10 Industrial Pkwy N",
+      "city": "Theodore",
+      "state": "AL",
+      "zip": "36582",
+      "phone": "(251) 401-3669"
+    },
+    {
+      "branch_name": "Tuscaloosa #165781",
+      "services": "Core Solutions",
+      "address": "3020 Fosters Ferry Rd",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35401",
+      "phone": "(659) 228-0411"
+    },
+    {
+      "branch_name": "Flagstaff -Bellemont #136680",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "11840 W. Route 66",
+      "city": "Bellemont",
+      "state": "AZ",
+      "zip": "86015",
+      "phone": "(928) 326-9390"
+    },
+    {
+      "branch_name": "Phoenix -Chandler #124703",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6839 W Chicago St",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "85226",
+      "phone": "(480) 393-5840"
+    },
+    {
+      "branch_name": "Phoenix -Glendale #107531",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7314 N 110th Ave",
+      "city": "Glendale",
+      "state": "AZ",
+      "zip": "85307",
+      "phone": "(602) 669-2020"
+    },
+    {
+      "branch_name": "Phoenix -Phoenix #15970",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2035 W Mountain View Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85021",
+      "phone": "(480) 463-4999"
+    },
+    {
+      "branch_name": "Phoenix -Phoenix #91749",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3700 N 36th Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85019",
+      "phone": "(602) 859-2219"
+    },
+    {
+      "branch_name": "Phoenix -Phoenix #103044",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "975 E Salter Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85024",
+      "phone": "(480) 919-1099"
+    },
+    {
+      "branch_name": "Tucson -Tucson #36758",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5401 S Arcadia Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85706",
+      "phone": "(520) 965-0051"
+    },
+    {
+      "branch_name": "Yuma -Yuma #55507",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3251 Gila Ridge Rd",
+      "city": "Yuma",
+      "state": "AZ",
+      "zip": "85365",
+      "phone": "(928) 200-2530"
+    },
+    {
+      "branch_name": "El Dorado -El Dorado #24007",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1320 Molnaird Park Ave",
+      "city": "El Dorado",
+      "state": "AR",
+      "zip": "71730",
+      "phone": "(870) 310-0116"
+    },
+    {
+      "branch_name": "El Dorado -El Dorado #59687",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "800 Strong Hwy",
+      "city": "El Dorado",
+      "state": "AR",
+      "zip": "71730",
+      "phone": "(870) 865-1014"
+    },
+    {
+      "branch_name": "Little Rock -Little Rock #8135",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4726 Thibault Rd",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72206",
+      "phone": "(501) 490-9974"
+    },
+    {
+      "branch_name": "Memphis -Osceola #104651",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1581 AR-181",
+      "city": "Osceola",
+      "state": "AR",
+      "zip": "72370",
+      "phone": "(870) 576-1400"
+    },
+    {
+      "branch_name": "Springdale -Springdale #10525",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1951 Electric Ave",
+      "city": "Springdale",
+      "state": "AR",
+      "zip": "72764",
+      "phone": "(479) 316-2212"
+    },
+    {
+      "branch_name": "Shreveport -Texarkana #106997",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4015 E 9th St",
+      "city": "Texarkana",
+      "state": "AR",
+      "zip": "71854",
+      "phone": "(870) 330-4920"
+    },
+    {
+      "branch_name": "Pine Bluff -White Hall #17138",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6520 W Barraque St",
+      "city": "White Hall",
+      "state": "AR",
+      "zip": "71602",
+      "phone": "(870) 550-9223"
+    },
+    {
+      "branch_name": "Bakersfield -Bakersfield #40682",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2111 Bricyn Ln",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93308",
+      "phone": "(661) 624-9656"
+    },
+    {
+      "branch_name": "Bakersfield -Bakersfield #76451",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9701 Enos Ln",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93314",
+      "phone": "(661) 624-9656"
+    },
+    {
+      "branch_name": "Oakland -Benicia #101389",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3802 Mallard Dr",
+      "city": "Benicia",
+      "state": "CA",
+      "zip": "94510",
+      "phone": "(707) 750-8770"
+    },
+    {
+      "branch_name": "Los Angeles -Canoga Park #140085",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7901 Deering Avenue",
+      "city": "Canoga Park",
+      "state": "CA",
+      "zip": "91304",
+      "phone": "(818) 867-8336"
+    },
+    {
+      "branch_name": "Chico -Durham #131043",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15 Pepsi Way",
+      "city": "Chico",
+      "state": "CA",
+      "zip": "95938",
+      "phone": "(530) 399-1980"
+    },
+    {
+      "branch_name": "San Diego -Chula Vista #15975",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2590 Main St",
+      "city": "Chula Vista",
+      "state": "CA",
+      "zip": "91911",
+      "phone": "(619) 510-6825"
+    },
+    {
+      "branch_name": "San Diego -Chula Vista #75556",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "855 Energy Way",
+      "city": "Chula Vista",
+      "state": "CA",
+      "zip": "91911",
+      "phone": "(858) 285-1038"
+    },
+    {
+      "branch_name": "Los Angeles -Fontana #62843",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15495 Arrow Route",
+      "city": "Fontana",
+      "state": "CA",
+      "zip": "92335",
+      "phone": "(909) 554-4857"
+    },
+    {
+      "branch_name": "Los Angeles -Grand Terrace #34742",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "21506 Main St",
+      "city": "Grand Terrace",
+      "state": "CA",
+      "zip": "92313",
+      "phone": "(909) 219-0084"
+    },
+    {
+      "branch_name": "San Jose -Hollister #137899",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1135 San Felipe Rd",
+      "city": "Hollister",
+      "state": "CA",
+      "zip": "95023",
+      "phone": "(831) 623-8004"
+    },
+    {
+      "branch_name": "Los Angeles -Lake Forest #116676",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "20772 Civic Center Dr",
+      "city": "Lake Forest",
+      "state": "CA",
+      "zip": "92630",
+      "phone": "(949) 739-0930"
+    },
+    {
+      "branch_name": "Los Angeles -Lancaster #95341",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "811 Columbia Way",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93535",
+      "phone": "(661) 571-0274"
+    },
+    {
+      "branch_name": "Fresno -Madera #92193",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "23349 Ave 18 1/2",
+      "city": "Madera",
+      "state": "CA",
+      "zip": "93638",
+      "phone": "(559) 716-4205"
+    },
+    {
+      "branch_name": "San Jose -Newark #10550",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6565 Smith Ave",
+      "city": "Newark",
+      "state": "CA",
+      "zip": "94560",
+      "phone": "(510) 400-5024"
+    },
+    {
+      "branch_name": "San Jose -Newark #97880",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6587 Smith Ave",
+      "city": "Newark",
+      "state": "CA",
+      "zip": "94560",
+      "phone": "(510) 973-2112"
+    },
+    {
+      "branch_name": "Palm Springs -North Palm Springs #128118",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "North Palm Springs",
+      "state": "CA",
+      "zip": "92258",
+      "phone": "(442) 212-1621"
+    },
+    {
+      "branch_name": "San Diego -Poway #156979",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12690 Danielson Ct",
+      "city": "Poway",
+      "state": "CA",
+      "zip": "92064",
+      "phone": "(858) 726-5513"
+    },
+    {
+      "branch_name": "Sacramento -Rancho Cordova #76452",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3780 Recycle Rd",
+      "city": "Rancho Cordova",
+      "state": "CA",
+      "zip": "95742",
+      "phone": "(916) 283-3630"
+    },
+    {
+      "branch_name": "San Jose -Richmond #103791",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "211 Parr Blvd",
+      "city": "Richmond",
+      "state": "CA",
+      "zip": "94801",
+      "phone": "(415) 650-0085"
+    },
+    {
+      "branch_name": "Sacramento -Sacramento #15964",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95820",
+      "phone": "(916) 333-7833"
+    },
+    {
+      "branch_name": "Santa Maria -Santa Maria #140257",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2115 Sinton Rd",
+      "city": "Santa Maria",
+      "state": "CA",
+      "zip": "93458",
+      "phone": "(805) 867-6777"
+    },
+    {
+      "branch_name": "Los Angeles -Temecula #145364",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "43169 Via Dos Picos",
+      "city": "Temecula",
+      "state": "CA",
+      "zip": "92590",
+      "phone": "(951) 466-2490"
+    },
+    {
+      "branch_name": "Los Angeles -Whittier #128500",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12393 Slauson Ave",
+      "city": "Whittier",
+      "state": "CA",
+      "zip": "90606",
+      "phone": "(562) 358-3830"
+    },
+    {
+      "branch_name": "Los Angeles -Wilmington #103792",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "445 S Figueroa St",
+      "city": "Wilmington",
+      "state": "CA",
+      "zip": "90744",
+      "phone": "(562) 605-0605"
+    },
+    {
+      "branch_name": "Sacramento -Woodland #122310",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "595 N East St",
+      "city": "Woodland",
+      "state": "CA",
+      "zip": "95695",
+      "phone": "(530) 631-1240"
+    },
+    {
+      "branch_name": "Denver -Centennial #7328",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15427 E Fremont Dr",
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80112",
+      "phone": "(720) 414-2044"
+    },
+    {
+      "branch_name": "Denver -Commerce City #80686",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8450 Rosemary St",
+      "city": "Commerce City",
+      "state": "CO",
+      "zip": "80022",
+      "phone": "(720) 668-2081"
+    },
+    {
+      "branch_name": "Denver -Fort Lupton #35789",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15549 State Hwy 52",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "zip": "80621",
+      "phone": "(303) 718-0642"
+    },
+    {
+      "branch_name": "Denver -Frederick #89341",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4037 Salazar Way",
+      "city": "Frederick",
+      "state": "CO",
+      "zip": "80504",
+      "phone": "(720) 743-9190"
+    },
+    {
+      "branch_name": "Denver -Golden #140377",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12900 W 43rd Dr",
+      "city": "Golden",
+      "state": "CO",
+      "zip": "80403",
+      "phone": "(720) 880-3230"
+    },
+    {
+      "branch_name": "Grand Junction -Grand Junction #73062",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "719 Arrowest Ct",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81505",
+      "phone": "(970) 200-9068"
+    },
+    {
+      "branch_name": "Pueblo -Pueblo West #100031",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12 N Research Dr",
+      "city": "Pueblo West",
+      "state": "CO",
+      "zip": "81007",
+      "phone": "(719) 653-1190"
+    },
+    {
+      "branch_name": "Hartford -Hartford #113364",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "317 W Service Rd",
+      "city": "Hartford",
+      "state": "CT",
+      "zip": "06120",
+      "phone": "(860) 785-9587"
+    },
+    {
+      "branch_name": "Salisbury -Seaford #116480",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "25939 Campers Ln",
+      "city": "Seaford",
+      "state": "DE",
+      "zip": "19973",
+      "phone": "(302) 907-8883"
+    },
+    {
+      "branch_name": "Wilmington -Wilmington #126648",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3605 Downing Dr",
+      "city": "Wilmington",
+      "state": "DE",
+      "zip": "19802",
+      "phone": "(302) 274-0540"
+    },
+    {
+      "branch_name": "Gainesville -Alachua #141635",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "20813 N. State Rd. 121",
+      "city": "Alachua",
+      "state": "FL",
+      "zip": "32615",
+      "phone": "(386) 518-4441"
+    },
+    {
+      "branch_name": "Orlando -Apopka #110132",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "100 Hermit Smith Rd",
+      "city": "Apopka",
+      "state": "FL",
+      "zip": "32703",
+      "phone": "(689) 910-0100"
+    },
+    {
+      "branch_name": "Bradenton -Bradenton #99181",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34208",
+      "phone": "(727) 291-4800"
+    },
+    {
+      "branch_name": "Fort Myers -Fort Myers #61108",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "16181 Lee Rd",
+      "city": "Fort Myers",
+      "state": "FL",
+      "zip": "33912",
+      "phone": "(239) 690-0661"
+    },
+    {
+      "branch_name": "Fort Pierce -Fort Pierce #119548",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15701 Orange Ave",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "zip": "34945",
+      "phone": "(772) 710-1600"
+    },
+    {
+      "branch_name": "Miami -Hialeah #40698",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12601 W Okeechobee Rd",
+      "city": "Hialeah",
+      "state": "FL",
+      "zip": "33018",
+      "phone": "(786) 983-4184"
+    },
+    {
+      "branch_name": "Jacksonville -Jacksonville #4",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10714 General Avenue",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32220",
+      "phone": "(904) 574-5151"
+    },
+    {
+      "branch_name": "Jacksonville -Jacksonville #24084",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6575 Blanding Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32244",
+      "phone": "(904) 580-8822"
+    },
+    {
+      "branch_name": "Lakeland -Lakeland #104465",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2925 S Combee Rd",
+      "city": "Lakeland",
+      "state": "FL",
+      "zip": "33803",
+      "phone": "(863) 577-2231"
+    },
+    {
+      "branch_name": "West Palm Beach -Lake Worth Beach #117581",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1150 Barnett Dr",
+      "city": "Lake Worth Beach",
+      "state": "FL",
+      "zip": "33461",
+      "phone": "(561) 954-1850"
+    },
+    {
+      "branch_name": "St. Petersburg -Largo #119559",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1333 Starkey Rd",
+      "city": "Largo",
+      "state": "FL",
+      "zip": "33771",
+      "phone": "(727) 382-8444"
+    },
+    {
+      "branch_name": "Lakeland -Mulberry #104466",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5070 State Rd 60",
+      "city": "Mulberry",
+      "state": "FL",
+      "zip": "33860",
+      "phone": "(863) 400-3418"
+    },
+    {
+      "branch_name": "Orlando -Orlando #90124",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "11333 Rocket Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "(689) 262-3329"
+    },
+    {
+      "branch_name": "Orlando -Orlando #74914",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "385 W Landstreet Rd",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "(407) 912-5881"
+    },
+    {
+      "branch_name": "Palmetto -Palmetto #112689",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Palmetto",
+      "state": "FL",
+      "zip": "34221",
+      "phone": "(863) 808-1410"
+    },
+    {
+      "branch_name": "Panama City -Panama City #103114",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3621 Frankford Ave",
+      "city": "Panama City",
+      "state": "FL",
+      "zip": "32405",
+      "phone": "(850) 804-1625"
+    },
+    {
+      "branch_name": "Panama City -Panama City #115008",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4542 E Hwy 98",
+      "city": "Panama City",
+      "state": "FL",
+      "zip": "32404",
+      "phone": "(850) 804-1665"
+    },
+    {
+      "branch_name": "Pensacola -Pensacola #127594",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1325 W Detroit Blvd",
+      "city": "Pensacola",
+      "state": "FL",
+      "zip": "32534",
+      "phone": "(850) 378-4450"
+    },
+    {
+      "branch_name": "Port Charlotte -Port Charlotte #116043",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "19500 Peachland Blvd",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "zip": "33948",
+      "phone": "(941) 267-8990"
+    },
+    {
+      "branch_name": "Orlando -Sanford #15984",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "301 Northstar Ct",
+      "city": "Sanford",
+      "state": "FL",
+      "zip": "32771",
+      "phone": "(321) 270-7272"
+    },
+    {
+      "branch_name": "Tallahassee -Tallahassee #116157",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2830 Plant St",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32304",
+      "phone": "(850) 518-3260"
+    },
+    {
+      "branch_name": "Tampa -Tampa #61106",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9516 E Dr Martin Luther King Jr Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33610",
+      "phone": "(813) 869-3301"
+    },
+    {
+      "branch_name": "West Palm Beach -West Palm Beach #61102",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5489 Leeper Dr",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33407",
+      "phone": "(561) 296-9710"
+    },
+    {
+      "branch_name": "Atlanta -Cartersville #108623",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2111 US-411",
+      "city": "Cartersville",
+      "state": "GA",
+      "zip": "30121",
+      "phone": "(470) 348-6696"
+    },
+    {
+      "branch_name": "Atlanta -Conyers #15971",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1890 Dogwood Dr SE",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30013",
+      "phone": "(678) 971-2022"
+    },
+    {
+      "branch_name": "Atlanta -Conyers #24083",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1250 Portman Dr",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30094",
+      "phone": "(470) 474-9590"
+    },
+    {
+      "branch_name": "Atlanta -Morrow #90774",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1690 Forest Pkwy",
+      "city": "Morrow",
+      "state": "GA",
+      "zip": "30260",
+      "phone": "(470) 373-3460"
+    },
+    {
+      "branch_name": "Macon -Perry #105670",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "204 Valley Dr",
+      "city": "Perry",
+      "state": "GA",
+      "zip": "31069",
+      "phone": "(478) 313-7200"
+    },
+    {
+      "branch_name": "Savannah -Richmond Hill #11812",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "161 Thunderbird Dr",
+      "city": "Richmond Hill",
+      "state": "GA",
+      "zip": "31324",
+      "phone": "(912) 525-2505"
+    },
+    {
+      "branch_name": "Savannah -Richmond Hill #166377",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "145 Thunderbird Dr",
+      "city": "Richmond Hill",
+      "state": "GA",
+      "zip": "31324",
+      "phone": "(912) 250-1443"
+    },
+    {
+      "branch_name": "Savannah -Savannah #114075",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "75 Ross Rd",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31405",
+      "phone": "(912) 446-0171"
+    },
+    {
+      "branch_name": "Idaho Falls -Idaho Falls #92194",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2607 E 81st N",
+      "city": "Idaho Falls",
+      "state": "ID",
+      "zip": "83401",
+      "phone": "(208) 569-4717"
+    },
+    {
+      "branch_name": "Twin Falls -Jerome #148866",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "359 Railway Street",
+      "city": "Jerome",
+      "state": "ID",
+      "zip": "83338",
+      "phone": "(208) 944-2525"
+    },
+    {
+      "branch_name": "Boise -Nampa #36755",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8780 Birch Ln",
+      "city": "Nampa",
+      "state": "ID",
+      "zip": "83687",
+      "phone": "(208) 616-1850"
+    },
+    {
+      "branch_name": "Chicago -Frankfort #75989",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9194 Gulfstream Rd",
+      "city": "Frankfort",
+      "state": "IL",
+      "zip": "60423",
+      "phone": "(847) 846-0708"
+    },
+    {
+      "branch_name": "Chicago -Joliet #61872",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4044 McDonough St",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60431",
+      "phone": "(779) 707-9398"
+    },
+    {
+      "branch_name": "St. Louis -O'Fallon #123867",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "117 Auto Ct",
+      "city": "O'Fallon",
+      "state": "IL",
+      "zip": "62269",
+      "phone": "(618) 607-9809"
+    },
+    {
+      "branch_name": "Chicago -Rockdale #83784",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "132 Harris Dr",
+      "city": "Rockdale",
+      "state": "IL",
+      "zip": "60436",
+      "phone": "(872) 772-6784"
+    },
+    {
+      "branch_name": "Evansville -Evansville #102440",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5416 E Morgan Ave",
+      "city": "Evansville",
+      "state": "IN",
+      "zip": "47715",
+      "phone": "(930) 212-9020"
+    },
+    {
+      "branch_name": "Indianapolis -Indianapolis #18703",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3434 S Harding St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46217",
+      "phone": "(463) 777-6002"
+    },
+    {
+      "branch_name": "Indianapolis -Indianapolis #78665",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6901 E 38th St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46226",
+      "phone": "(463) 266-8949"
+    },
+    {
+      "branch_name": "Des Moines -Algona #78646",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1621 US-18 E St",
+      "city": "Algona",
+      "state": "IA",
+      "zip": "50511",
+      "phone": "(515) 395-7368"
+    },
+    {
+      "branch_name": "Omaha -Council Bluffs #40685",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "zip": "51503",
+      "phone": "(402) 619-1653"
+    },
+    {
+      "branch_name": "Davenport -DeWitt #146081",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "DeWitt",
+      "state": "IA",
+      "zip": "52742",
+      "phone": "(563) 221-6040"
+    },
+    {
+      "branch_name": "Sioux City -Sioux City #113822",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "33941 Frelon Dr",
+      "city": "Sioux City",
+      "state": "IA",
+      "zip": "51108",
+      "phone": "(712) 569-1108"
+    },
+    {
+      "branch_name": "St. Joseph -Elwood #87996",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "807 Roseport Rd",
+      "city": "Elwood",
+      "state": "KS",
+      "zip": "66090",
+      "phone": "(816) 538-3457"
+    },
+    {
+      "branch_name": "Hutchinson -Garden City #23627",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2203 W Jones Frontage Rd",
+      "city": "Garden City",
+      "state": "KS",
+      "zip": "67846",
+      "phone": "(620) 275-1996"
+    },
+    {
+      "branch_name": "Kansas City -Lenexa #123055",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9600 Dice Lane",
+      "city": "Lenexa",
+      "state": "KS",
+      "zip": "66215",
+      "phone": "(913) 529-8680"
+    },
+    {
+      "branch_name": "Topeka -Topeka #13574",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1305 SW 42nd St",
+      "city": "Topeka",
+      "state": "KS",
+      "zip": "66609",
+      "phone": "(785) 783-4944"
+    },
+    {
+      "branch_name": "Wichita -Wichita #15977",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3250 N Hydraulic Ave",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67219",
+      "phone": "(316) 352-9600"
+    },
+    {
+      "branch_name": "Bowling Green -Bowling Green #135514",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "578 Kelly Road",
+      "city": "Bowling Green",
+      "state": "KY",
+      "zip": "42101",
+      "phone": "(364) 201-8551"
+    },
+    {
+      "branch_name": "Paducah -Calvert City #63125",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "277 Cypress Creek Dr",
+      "city": "Calvert City",
+      "state": "KY",
+      "zip": "42029",
+      "phone": "(270) 816-9536"
+    },
+    {
+      "branch_name": "Louisville -Louisville #25923",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9812 Vista Hills Blvd",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40291",
+      "phone": "(502) 888-7501"
+    },
+    {
+      "branch_name": "Alexandria -Alexandria #160587",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3612 Coliseum Blvd",
+      "city": "Alexandria",
+      "state": "LA",
+      "zip": "71303",
+      "phone": "(318) 782-5588"
+    },
+    {
+      "branch_name": "Lafayette -Broussard #103038",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1001 Petroleum Pkwy",
+      "city": "Broussard",
+      "state": "LA",
+      "zip": "70518",
+      "phone": "(337) 224-7489"
+    },
+    {
+      "branch_name": "Baton Rouge -Geismar #15966",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "34443 Terminal Ct",
+      "city": "Geismar",
+      "state": "LA",
+      "zip": "70734",
+      "phone": "(225) 713-3223"
+    },
+    {
+      "branch_name": "Baton Rouge -Gonzales #26564",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9450 Ashland Rd",
+      "city": "Gonzales",
+      "state": "LA",
+      "zip": "70737",
+      "phone": "(225) 612-0170"
+    },
+    {
+      "branch_name": "New Orleans -Harvey #40688",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2450 Destrehan Ave",
+      "city": "Harvey",
+      "state": "LA",
+      "zip": "70058",
+      "phone": "(504) 330-3208"
+    },
+    {
+      "branch_name": "New Orleans -Houma #141453",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "207 Industrial Ave B",
+      "city": "Houma",
+      "state": "LA",
+      "zip": "70363",
+      "phone": "(985) 333-0063"
+    },
+    {
+      "branch_name": "New Orleans -Lacombe #113997",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "28734 Krentel Rd",
+      "city": "Lacombe",
+      "state": "LA",
+      "zip": "70445",
+      "phone": "(985) 282-8220"
+    },
+    {
+      "branch_name": "Monroe -Monroe #17140",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7600 US-165",
+      "city": "Monroe",
+      "state": "LA",
+      "zip": "71203",
+      "phone": "(318) 302-8788"
+    },
+    {
+      "branch_name": "Baton Rouge -Port Allen #141391",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2323 Commercial Drive",
+      "city": "Port Allen",
+      "state": "LA",
+      "zip": "70767",
+      "phone": "(225) 694-8988"
+    },
+    {
+      "branch_name": "Shreveport -Shreveport #15969",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5620 N Industry Rd",
+      "city": "Shreveport",
+      "state": "LA",
+      "zip": "71107",
+      "phone": "(318) 588-8688"
+    },
+    {
+      "branch_name": "Baton Rouge -St Gabriel #74090",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2555 E Hwy 30",
+      "city": "St Gabriel",
+      "state": "LA",
+      "zip": "70776",
+      "phone": "(225) 501-8220"
+    },
+    {
+      "branch_name": "Lake Charles -Sulphur #8606",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2919 E Napoleon St",
+      "city": "Sulphur",
+      "state": "LA",
+      "zip": "70663",
+      "phone": "(337) 516-2020"
+    },
+    {
+      "branch_name": "Auburn -Lewiston #136217",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "50 Alfred a Plourde Parkway",
+      "city": "Lewiston",
+      "state": "ME",
+      "zip": "04240",
+      "phone": "(207) 955-2210"
+    },
+    {
+      "branch_name": "Baltimore -Baltimore #20554",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4221 Shannon Dr",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21213",
+      "phone": "(443) 928-0156"
+    },
+    {
+      "branch_name": "Baltimore -Glen Burnie #111752",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6704 Curtis Ct",
+      "city": "Glen Burnie",
+      "state": "MD",
+      "zip": "21060",
+      "phone": "(667) 464-4380"
+    },
+    {
+      "branch_name": "Providence -Seekonk #126632",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "45 Industrial Ct",
+      "city": "Seekonk",
+      "state": "MA",
+      "zip": "02771",
+      "phone": "(774) 991-8777"
+    },
+    {
+      "branch_name": "Detroit -Detroit #121374",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "14860 Linwood St",
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48238",
+      "phone": "(313) 612-5151"
+    },
+    {
+      "branch_name": "Flint -Flint #121364",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2501 Lippincott Blvd",
+      "city": "Flint",
+      "state": "MI",
+      "zip": "48507",
+      "phone": "(810) 776-2230"
+    },
+    {
+      "branch_name": "Grand Rapids -Kentwood #105742",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Kentwood",
+      "state": "MI",
+      "zip": "49512",
+      "phone": "(616) 699-6390"
+    },
+    {
+      "branch_name": "Detroit -Melvindale #90775",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2741 Schaefer Rd",
+      "city": "Melvindale",
+      "state": "MI",
+      "zip": "48122",
+      "phone": "(313) 696-2031"
+    },
+    {
+      "branch_name": "Forest Lake -Columbus #155822",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "14045 Lake Drive NE",
+      "city": "Columbus",
+      "state": "MN",
+      "zip": "55025",
+      "phone": "(651) 427-0780"
+    },
+    {
+      "branch_name": "Minneapolis -Lakeville #109003",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "24670 Larson Ln",
+      "city": "Lakeville",
+      "state": "MN",
+      "zip": "55044",
+      "phone": "(952) 522-5558"
+    },
+    {
+      "branch_name": "Jackson -Jackson #95857",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5246 Greenway Dr",
+      "city": "Jackson",
+      "state": "MS",
+      "zip": "39204",
+      "phone": "(601) 397-1405"
+    },
+    {
+      "branch_name": "Memphis -Olive Branch #88416",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7400 Craft-Goodman Rd",
+      "city": "Olive Branch",
+      "state": "MS",
+      "zip": "38654",
+      "phone": "(662) 892-6928"
+    },
+    {
+      "branch_name": "Cape Girardeau -Cape Girardeau #73712",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "281 Rambler Dr",
+      "city": "Cape Girardeau",
+      "state": "MO",
+      "zip": "63701",
+      "phone": "(573) 979-2818"
+    },
+    {
+      "branch_name": "Columbia -Columbia #1",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8430 Interstate 70 Dr SE",
+      "city": "Columbia",
+      "state": "MO",
+      "zip": "65201",
+      "phone": "(573) 550-0440"
+    },
+    {
+      "branch_name": "Jefferson City -Eldon #111298",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "24 Karen Dr",
+      "city": "Eldon",
+      "state": "MO",
+      "zip": "65026",
+      "phone": "(573) 557-1211"
+    },
+    {
+      "branch_name": "Kansas City -Grain Valley #126132",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3320 S Outer Belt",
+      "city": "Grain Valley",
+      "state": "MO",
+      "zip": "64029",
+      "phone": "(816) 355-8350"
+    },
+    {
+      "branch_name": "Joplin -Joplin #23626",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5430 State Hwy 43",
+      "city": "Joplin",
+      "state": "MO",
+      "zip": "64804",
+      "phone": "(417) 781-8222"
+    },
+    {
+      "branch_name": "Kansas City -Kansas City #7669",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7201 E Front St",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64120",
+      "phone": "(816) 216-6550"
+    },
+    {
+      "branch_name": "Springfield -Lebanon #155746",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1583 U.S. Rt 66",
+      "city": "Lebanon",
+      "state": "MO",
+      "zip": "65536",
+      "phone": "(417) 288-0181"
+    },
+    {
+      "branch_name": "Springfield -Springfield #16835",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7096 W Carnahan St",
+      "city": "Springfield",
+      "state": "MO",
+      "zip": "65802",
+      "phone": "(417) 708-4400"
+    },
+    {
+      "branch_name": "St. Louis -Weldon Spring #2",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "801 Westwood Industrial Park Dr",
+      "city": "Weldon Spring",
+      "state": "MO",
+      "zip": "63304",
+      "phone": "(636) 481-0033"
+    },
+    {
+      "branch_name": "Billings -Billings #36754",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7070 Niehenke Ave",
+      "city": "Billings",
+      "state": "MT",
+      "zip": "59101",
+      "phone": "(406) 601-0333"
+    },
+    {
+      "branch_name": "Missoula -Columbia Falls #135599",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "199 Brunner Road",
+      "city": "Columbia Falls",
+      "state": "MT",
+      "zip": "59912",
+      "phone": "(406) 909-1002"
+    },
+    {
+      "branch_name": "Great Falls -Great Falls #157724",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "101 Vaughn South Frontage Road",
+      "city": "Great Falls",
+      "state": "MT",
+      "zip": "59404",
+      "phone": "(406) 205-9611"
+    },
+    {
+      "branch_name": "Helena -Helena #141128",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1500 Blaine St",
+      "city": "Helena",
+      "state": "MT",
+      "zip": "59601",
+      "phone": "(406) 438-9790"
+    },
+    {
+      "branch_name": "Las Vegas -Las Vegas #61220",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6037 Boulder Hwy",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89122",
+      "phone": "(725) 249-8081"
+    },
+    {
+      "branch_name": "Reno -Mound House #162729",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "20 Industrial Pkwy",
+      "city": "Mound House",
+      "state": "NV",
+      "zip": "89706",
+      "phone": "(775) 551-1001"
+    },
+    {
+      "branch_name": "Las Vegas -North Las Vegas #35347",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "412 E Gowan Rd",
+      "city": "North Las Vegas",
+      "state": "NV",
+      "zip": "89032",
+      "phone": "(725) 221-0051"
+    },
+    {
+      "branch_name": "Reno -Reno #19510",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3223 Mill St",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "phone": "(775) 525-4572"
+    },
+    {
+      "branch_name": "Philadelphia -Camden #38683",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1521 Admiral Wilson Blvd",
+      "city": "Camden",
+      "state": "NJ",
+      "zip": "08109",
+      "phone": "(856) 807-8070"
+    },
+    {
+      "branch_name": "Newark -Elizabeth #104103",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "833 Magnolia Ave",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "07201",
+      "phone": "(862) 298-0123"
+    },
+    {
+      "branch_name": "Philadelphia -Hammonton #138965",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7660 Black Horse Pike",
+      "city": "Hammonton",
+      "state": "NJ",
+      "zip": "08037",
+      "phone": "(609) 547-1718"
+    },
+    {
+      "branch_name": "New York -South Plainfield #99838",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "456 Hollywood Ave",
+      "city": "South Plainfield",
+      "state": "NJ",
+      "zip": "07080",
+      "phone": "(908) 356-6060"
+    },
+    {
+      "branch_name": "Albuquerque -Albuquerque #24079",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8301 Broadway Blvd SE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87105",
+      "phone": "(505) 379-0913"
+    },
+    {
+      "branch_name": "Albuquerque -Albuquerque #103040",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5330 Edith Blvd NE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87107",
+      "phone": "(505) 520-1020"
+    },
+    {
+      "branch_name": "Carlsbad -Carlsbad #7329",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2580 S Canal St",
+      "city": "Carlsbad",
+      "state": "NM",
+      "zip": "88220",
+      "phone": "(575) 885-5455"
+    },
+    {
+      "branch_name": "Gallup -Gallup #42207",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2323 W Historic Hwy 66",
+      "city": "Gallup",
+      "state": "NM",
+      "zip": "87301",
+      "phone": "(505) 879-1093"
+    },
+    {
+      "branch_name": "Hobbs -Hobbs #141251",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3215 N Enterprise Dr",
+      "city": "Hobbs",
+      "state": "NM",
+      "zip": "88240",
+      "phone": "(575) 665-9400"
+    },
+    {
+      "branch_name": "Rochester -Geneva #118741",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "33 Forge Ave",
+      "city": "Geneva",
+      "state": "NY",
+      "zip": "14456",
+      "phone": "(680) 444-8210"
+    },
+    {
+      "branch_name": "Buffalo -Niagara Falls #118304",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2181 Lockport Rd",
+      "city": "Niagara Falls",
+      "state": "NY",
+      "zip": "14304",
+      "phone": "(716) 804-5005"
+    },
+    {
+      "branch_name": "Charlotte -Charlotte #36769",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10601 Reames Rd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28269",
+      "phone": "(980) 316-9244"
+    },
+    {
+      "branch_name": "Charlotte -Kannapolis #121687",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1411 Dale Earnhardt Blvd",
+      "city": "Kannapolis",
+      "state": "NC",
+      "zip": "28083",
+      "phone": "(980) 499-6260"
+    },
+    {
+      "branch_name": "Raleigh -Youngsville #115005",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "94 Cypress Dr",
+      "city": "Youngsville",
+      "state": "NC",
+      "zip": "27596",
+      "phone": "(984) 884-0010"
+    },
+    {
+      "branch_name": "Bismarck -Mandan #129812",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3015 Memorial Hwy",
+      "city": "Mandan",
+      "state": "ND",
+      "zip": "58554",
+      "phone": "(701) 299-5940"
+    },
+    {
+      "branch_name": "Minot -Williston #76189",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5064 Bennett Loop",
+      "city": "Williston",
+      "state": "ND",
+      "zip": "58801",
+      "phone": "(701) 713-5445"
+    },
+    {
+      "branch_name": "Minot -Williston #110244",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5060 Bennett Loop",
+      "city": "Williston",
+      "state": "ND",
+      "zip": "58801",
+      "phone": "(701) 713-8124"
+    },
+    {
+      "branch_name": "Cincinnati -Cincinnati #141096",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10250 Chester Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45215",
+      "phone": "(513) 599-7340"
+    },
+    {
+      "branch_name": "Cincinnati -Cincinnati #94441",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10555 Taconic Terrace",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45215",
+      "phone": "(513) 635-6917"
+    },
+    {
+      "branch_name": "Columbus -Grove City #18702",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1605 Thrailkill Rd",
+      "city": "Grove City",
+      "state": "OH",
+      "zip": "43123",
+      "phone": "(614) 826-9228"
+    },
+    {
+      "branch_name": "Cincinnati -Hamilton #36764",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8340 N Gilmore Rd",
+      "city": "Hamilton",
+      "state": "OH",
+      "zip": "45015",
+      "phone": "(513) 520-0371"
+    },
+    {
+      "branch_name": "Zanesville -Newark #127176",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "171 Riverside Dr",
+      "city": "Newark",
+      "state": "OH",
+      "zip": "43055",
+      "phone": "(740) 334-4555"
+    },
+    {
+      "branch_name": "Toledo -Oregon #80605",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3145 York St",
+      "city": "Oregon",
+      "state": "OH",
+      "zip": "43605",
+      "phone": "(567) 686-3660"
+    },
+    {
+      "branch_name": "Dayton -Trotwood #100084",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2 Stratacache Wy",
+      "city": "Trotwood",
+      "state": "OH",
+      "zip": "45426",
+      "phone": "(937) 977-1460"
+    },
+    {
+      "branch_name": "Sherman -Ardmore #40524",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3212 Prairie Valley Rd",
+      "city": "Ardmore",
+      "state": "OK",
+      "zip": "73401",
+      "phone": "(580) 798-6152"
+    },
+    {
+      "branch_name": "Fort Smith -Arkoma #77191",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4505 Main St",
+      "city": "Arkoma",
+      "state": "OK",
+      "zip": "74901",
+      "phone": "(479) 263-3766"
+    },
+    {
+      "branch_name": "Fort Smith -Arkoma #95837",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4419 Main St",
+      "city": "Arkoma",
+      "state": "OK",
+      "zip": "74901",
+      "phone": "(479) 353-3932"
+    },
+    {
+      "branch_name": "Oklahoma City -Oklahoma City #7672",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1535 SE 25th St",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73129",
+      "phone": "(405) 310-8700"
+    },
+    {
+      "branch_name": "Oklahoma City -Oklahoma City #103033",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "50 NW 50th St",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73118",
+      "phone": "(405) 764-1099"
+    },
+    {
+      "branch_name": "Tulsa -Tulsa #8631",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1703 N 161st E Ave",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74116",
+      "phone": "(918) 921-1800"
+    },
+    {
+      "branch_name": "Tulsa -Tulsa #104652",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5580 S 59th W Ave",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74107",
+      "phone": "(539) 271-0101"
+    },
+    {
+      "branch_name": "Portland -Canby #125165",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1880 SE Twp Rd",
+      "city": "Canby",
+      "state": "OR",
+      "zip": "97013",
+      "phone": "(503) 212-6256"
+    },
+    {
+      "branch_name": "Eugene -Eugene #45106",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2435 Prairie Rd",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97402",
+      "phone": "(458) 245-0010"
+    },
+    {
+      "branch_name": "Portland -Hillsboro #147459",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1748 NE 25th Ave",
+      "city": "Hillsboro",
+      "state": "OR",
+      "zip": "97124",
+      "phone": "(971) 288-1620"
+    },
+    {
+      "branch_name": "Portland -Portland #15973",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "17311 NE Halsey St",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97230",
+      "phone": "(971) 277-2887"
+    },
+    {
+      "branch_name": "Portland -Portland #103752",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6834 NW St Helens Rd",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97210",
+      "phone": "(971) 895-9150"
+    },
+    {
+      "branch_name": "Bend -Redmond #153439",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2475 NW Canal Blvd",
+      "city": "Redmond",
+      "state": "OR",
+      "zip": "97756",
+      "phone": "(541) 527-3088"
+    },
+    {
+      "branch_name": "Portland -Salem #148875",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3121 Blossom Dr NE",
+      "city": "Salem",
+      "state": "OR",
+      "zip": "97305",
+      "phone": "(971) 375-4670"
+    },
+    {
+      "branch_name": "Pittsburgh -Belle Vernon #46237",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "203 Finley Rd",
+      "city": "Belle Vernon",
+      "state": "PA",
+      "zip": "15012",
+      "phone": "(724) 366-4942"
+    },
+    {
+      "branch_name": "Harrisburg -Camp Hill #129850",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2875 Appleton St",
+      "city": "Camp Hill",
+      "state": "PA",
+      "zip": "17011",
+      "phone": "(717) 303-5740"
+    },
+    {
+      "branch_name": "Harrisburg -Harrisburg #138706",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7761 Derry St",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17111",
+      "phone": "(223) 279-1059"
+    },
+    {
+      "branch_name": "Pittsburgh -Leetsdale #123054",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "17 Ferry St",
+      "city": "Leetsdale",
+      "state": "PA",
+      "zip": "15056",
+      "phone": "(724) 488-1780"
+    },
+    {
+      "branch_name": "Greenville -Anderson #96278",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "109 Ryder Ln",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29625",
+      "phone": "(864) 754-1500"
+    },
+    {
+      "branch_name": "Columbia -Gaston #80607",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "49 Palmetto Ct",
+      "city": "Gaston",
+      "state": "SC",
+      "zip": "29053",
+      "phone": "(803) 683-6924"
+    },
+    {
+      "branch_name": "Aiken -Jackson #104585",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "18214 Atomic Rd",
+      "city": "Jackson",
+      "state": "SC",
+      "zip": "29831",
+      "phone": "(803) 471-5136"
+    },
+    {
+      "branch_name": "Charleston -Ladson #11007",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10179 US-78",
+      "city": "Ladson",
+      "state": "SC",
+      "zip": "29456",
+      "phone": "(843) 410-7717"
+    },
+    {
+      "branch_name": "Rapid City -Rapid City #109984",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4551 Seger Dr",
+      "city": "Rapid City",
+      "state": "SD",
+      "zip": "57701",
+      "phone": "(605) 646-9900"
+    },
+    {
+      "branch_name": "Sioux Falls -Sioux Falls #136667",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2900 E. Rice St",
+      "city": "Sioux Falls",
+      "state": "SD",
+      "zip": "57103",
+      "phone": "(605) 601-9101"
+    },
+    {
+      "branch_name": "Chattanooga -Chattanooga #13575",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4840 Geminus Dr",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37416",
+      "phone": "(423) 497-1122"
+    },
+    {
+      "branch_name": "Knoxville -Knoxville #49771",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10924 McBride Ln",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37932",
+      "phone": "(865) 582-0030"
+    },
+    {
+      "branch_name": "Nashville -La Vergne #13576",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4235 Murfreesboro Pike",
+      "city": "La Vergne",
+      "state": "TN",
+      "zip": "37086",
+      "phone": "(615) 933-8118"
+    },
+    {
+      "branch_name": "Memphis -Memphis #10313",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4033 Lamar Ave",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38118",
+      "phone": "(662) 352-8588"
+    },
+    {
+      "branch_name": "Amarillo -Amarillo #40522",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12760 I-27",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip": "79119",
+      "phone": "(806) 690-1833"
+    },
+    {
+      "branch_name": "Houston -Angleton #84007",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "771 County Rd 44",
+      "city": "Angleton",
+      "state": "TX",
+      "zip": "77515",
+      "phone": "(979) 291-3625"
+    },
+    {
+      "branch_name": "Corpus Christi -Aransas Pass #137464",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2106 West Wheeler Avenue",
+      "city": "Aransas Pass",
+      "state": "TX",
+      "zip": "78336",
+      "phone": "(361) 732-0077"
+    },
+    {
+      "branch_name": "Austin -Austin #113852",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "9511 Brown Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78754",
+      "phone": "(737) 313-5560"
+    },
+    {
+      "branch_name": "Houston -Bay City #106045",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1105 Avenue F",
+      "city": "Bay City",
+      "state": "TX",
+      "zip": "77414",
+      "phone": "(979) 401-8800"
+    },
+    {
+      "branch_name": "Houston -Baytown #44501",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "12825 Upland Wy",
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77523",
+      "phone": "(281) 838-2605"
+    },
+    {
+      "branch_name": "Beaumont -Beaumont #16833",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10097 US-90",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77713",
+      "phone": "(409) 209-4004"
+    },
+    {
+      "branch_name": "Beaumont -Beaumont #24080",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1170 Montrose Ave",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77707",
+      "phone": "(409) 247-1888"
+    },
+    {
+      "branch_name": "Houston -Brookshire #80604",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2875 Woods Rd",
+      "city": "Brookshire",
+      "state": "TX",
+      "zip": "77423",
+      "phone": "(346) 573-2674"
+    },
+    {
+      "branch_name": "Brownsville -Brownsville #113842",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2995 N Indiana Ave",
+      "city": "Brownsville",
+      "state": "TX",
+      "zip": "78526",
+      "phone": "(956) 505-5601"
+    },
+    {
+      "branch_name": "Bryan -Bryan #83551",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1680 Independence Ave",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77803",
+      "phone": "(979) 485-3032"
+    },
+    {
+      "branch_name": "Dallas -Caddo Mills #110135",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4047 I-30",
+      "city": "Caddo Mills",
+      "state": "TX",
+      "zip": "75135",
+      "phone": "(972) 362-1137"
+    },
+    {
+      "branch_name": "San Antonio -Cibolo #6",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1021 Schneider Dr",
+      "city": "Cibolo",
+      "state": "TX",
+      "zip": "78108",
+      "phone": "(830) 201-3334"
+    },
+    {
+      "branch_name": "Houston -Cleveland #134865",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "24976 Highway 321",
+      "city": "Cleveland",
+      "state": "TX",
+      "zip": "77327",
+      "phone": "(346) 414-3011"
+    },
+    {
+      "branch_name": "Corpus Christi -Corpus Christi #7670",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5530 Transport Industrial Dr",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78405",
+      "phone": "(361) 520-4445"
+    },
+    {
+      "branch_name": "Corpus Christi -Corpus Christi #24081",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5116 Margaret Ave",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78407",
+      "phone": "(361) 260-1440"
+    },
+    {
+      "branch_name": "Corpus Christi -Corpus Christi #38634",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "7462 Leopard St",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78409",
+      "phone": "(361) 676-0189"
+    },
+    {
+      "branch_name": "El Paso -El Paso #17139",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "14061 Montana Ave",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79938",
+      "phone": "(915) 910-6500"
+    },
+    {
+      "branch_name": "Dallas -Ferris #123279",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2130 Loop 561",
+      "city": "Ferris",
+      "state": "TX",
+      "zip": "75125",
+      "phone": "(469) 746-9060"
+    },
+    {
+      "branch_name": "Fort Worth -Fort Worth #40694",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "16615 US-377",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76126",
+      "phone": "(682) 540-5013"
+    },
+    {
+      "branch_name": "Tyler -Gladewater #40684",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1761 S Tyler St",
+      "city": "Gladewater",
+      "state": "TX",
+      "zip": "75647",
+      "phone": "(430) 247-0085"
+    },
+    {
+      "branch_name": "Dallas -Grand Prairie #3",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1717 W Shady Grove Rd",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75050",
+      "phone": "(972) 737-1919"
+    },
+    {
+      "branch_name": "Beaumont -Groves #144176",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2049 Taft Avenue",
+      "city": "Groves",
+      "state": "TX",
+      "zip": "77619",
+      "phone": "(409) 230-0085"
+    },
+    {
+      "branch_name": "Harlingen -Harlingen #77190",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4952 Logans Run Cir",
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78550",
+      "phone": "(956) 396-5551"
+    },
+    {
+      "branch_name": "Harlingen -Harlingen #132210",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6201 FM 106 Unit 20",
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78550",
+      "phone": "(956) 306-0020"
+    },
+    {
+      "branch_name": "Houston -Houston #80549",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "14910 Henry Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77060",
+      "phone": "(346) 500-4961"
+    },
+    {
+      "branch_name": "Houston -Houston #35794",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6811 McHard Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77053",
+      "phone": "(346) 435-2899"
+    },
+    {
+      "branch_name": "Houston -Huntsville #100072",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "604 I-45 N",
+      "city": "Huntsville",
+      "state": "TX",
+      "zip": "77320",
+      "phone": "(936) 994-1991"
+    },
+    {
+      "branch_name": "Austin -Hutto #6877",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1251 Co Rd 118",
+      "city": "Hutto",
+      "state": "TX",
+      "zip": "78634",
+      "phone": "(737) 313-2727"
+    },
+    {
+      "branch_name": "Beaumont -Jasper #125012",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "963 TX-63",
+      "city": "Jasper",
+      "state": "TX",
+      "zip": "75951",
+      "phone": "(409) 336-0050"
+    },
+    {
+      "branch_name": "Fort Worth -Keller #10328",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1675 S Main St",
+      "city": "Keller",
+      "state": "TX",
+      "zip": "76248",
+      "phone": "(817) 717-7616"
+    },
+    {
+      "branch_name": "Fort Worth -Kennedale #89898",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "6990 Kennedale Pkwy",
+      "city": "Kennedale",
+      "state": "TX",
+      "zip": "76060",
+      "phone": "(682) 351-0150"
+    },
+    {
+      "branch_name": "Beaumont -Kountze #132428",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1025 N Pine St",
+      "city": "Kountze",
+      "state": "TX",
+      "zip": "77625",
+      "phone": "(409) 219-0067"
+    },
+    {
+      "branch_name": "Houston -La Porte #61873",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3401 Awesome Ln",
+      "city": "La Porte",
+      "state": "TX",
+      "zip": "77571",
+      "phone": "(346) 537-5750"
+    },
+    {
+      "branch_name": "Laredo -Laredo #111615",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5663 TX-359",
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78043",
+      "phone": "(956) 955-8181"
+    },
+    {
+      "branch_name": "Lubbock -Lubbock #8633",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "614 County Rd 7200",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79404",
+      "phone": "(806) 686-6939"
+    },
+    {
+      "branch_name": "Dallas -McKinney #78800",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1000 E University Dr",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75069",
+      "phone": "(469) 712-0938"
+    },
+    {
+      "branch_name": "Midland -Midland #8",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1110 W County Rd 114",
+      "city": "Midland",
+      "state": "TX",
+      "zip": "79706",
+      "phone": "(432) 217-5789"
+    },
+    {
+      "branch_name": "Midland -Midland #85155",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2323 E County Rd 123",
+      "city": "Midland",
+      "state": "TX",
+      "zip": "79706",
+      "phone": "(432) 282-3525"
+    },
+    {
+      "branch_name": "Odessa -Odessa #108617",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "16611 W Basin St",
+      "city": "Odessa",
+      "state": "TX",
+      "zip": "79763",
+      "phone": "(432) 280-0055"
+    },
+    {
+      "branch_name": "Odessa -Odessa #134392",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "16640 W Basin St",
+      "city": "Odessa",
+      "state": "TX",
+      "zip": "79741",
+      "phone": "(432) 280-0505"
+    },
+    {
+      "branch_name": "Houston -Pasadena #9",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5826 Red Bluff Rd",
+      "city": "Pasadena",
+      "state": "TX",
+      "zip": "77505",
+      "phone": "(281) 819-3313"
+    },
+    {
+      "branch_name": "Odessa -Pecos #154982",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "76 Co Rd 201",
+      "city": "Pecos",
+      "state": "TX",
+      "zip": "79772",
+      "phone": "(432) 289-6565"
+    },
+    {
+      "branch_name": "Port Arthur -Port Arthur #61870",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "600 FM 365",
+      "city": "Port Arthur",
+      "state": "TX",
+      "zip": "77640",
+      "phone": "(409) 790-1730"
+    },
+    {
+      "branch_name": "San Angelo -San Angelo #90353",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "933 W 19th St",
+      "city": "San Angelo",
+      "state": "TX",
+      "zip": "76903",
+      "phone": "(325) 650-3960"
+    },
+    {
+      "branch_name": "San Antonio -San Antonio #85154",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15080 Tradesman Dr",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78249",
+      "phone": "(830) 210-0420"
+    },
+    {
+      "branch_name": "San Antonio -San Antonio #89901",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5433 Randolph Blvd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78233",
+      "phone": "(726) 437-1128"
+    },
+    {
+      "branch_name": "Sherman -Sherman #104583",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "18873 US-82",
+      "city": "Sherman",
+      "state": "TX",
+      "zip": "75092",
+      "phone": "(903) 294-5001"
+    },
+    {
+      "branch_name": "Houston -Texas City #76100",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "5201 Emmett F Lowry Expy",
+      "city": "Texas City",
+      "state": "TX",
+      "zip": "77591",
+      "phone": "(346) 902-3535"
+    },
+    {
+      "branch_name": "San Antonio -Three Rivers #145359",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3067 I-37 Access Rd",
+      "city": "Three Rivers",
+      "state": "TX",
+      "zip": "78071",
+      "phone": "(214) 473-2656"
+    },
+    {
+      "branch_name": "Houston -Tomball #5",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "22311 Hufsmith - Kohrville Rd",
+      "city": "Tomball",
+      "state": "TX",
+      "zip": "77375",
+      "phone": "(832) 271-7778"
+    },
+    {
+      "branch_name": "Abilene -Tye #36763",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1358 Scott St",
+      "city": "Tye",
+      "state": "TX",
+      "zip": "79563",
+      "phone": "(325) 725-0534"
+    },
+    {
+      "branch_name": "Houston -Victoria #8632",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1809 John Stockbauer Dr",
+      "city": "Victoria",
+      "state": "TX",
+      "zip": "77901",
+      "phone": "(361) 333-5660"
+    },
+    {
+      "branch_name": "Houston -Waller #187457",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "41077 Park 290",
+      "city": "Waller",
+      "state": "TX",
+      "zip": "77484",
+      "phone": "(281) 442-3131"
+    },
+    {
+      "branch_name": "Waco -West #85994",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "17140 I 35 N Frontage Rd",
+      "city": "West",
+      "state": "TX",
+      "zip": "76691",
+      "phone": "(254) 652-5500"
+    },
+    {
+      "branch_name": "Wichita Falls -Wichita Falls #78788",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2875 Fisher Rd",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "zip": "76302",
+      "phone": "(940) 280-6324"
+    },
+    {
+      "branch_name": "Salt Lake City -Hurricane #142095",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "890 S. Purgatory Rd",
+      "city": "Hurricane",
+      "state": "UT",
+      "zip": "84737",
+      "phone": "(435) 216-1449"
+    },
+    {
+      "branch_name": "Salt Lake City -Logan #134138",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1555 N 1000 W",
+      "city": "Logan",
+      "state": "UT",
+      "zip": "84321",
+      "phone": "(435) 534-0210"
+    },
+    {
+      "branch_name": "Salt Lake City -North Salt Lake #15962",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "295 S Redwood Rd",
+      "city": "North Salt Lake",
+      "state": "UT",
+      "zip": "84054",
+      "phone": "(385) 530-0909"
+    },
+    {
+      "branch_name": "Salt Lake City -Spanish Fork #36756",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "665 W 1000 N",
+      "city": "Spanish Fork",
+      "state": "UT",
+      "zip": "84660",
+      "phone": "(385) 307-4335"
+    },
+    {
+      "branch_name": "Richmond -Amelia Court House #85846",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "15144 Kendall Abbott Dr",
+      "city": "Amelia Court House",
+      "state": "VA",
+      "zip": "23002",
+      "phone": "(804) 638-1973"
+    },
+    {
+      "branch_name": "Washington -Catlett #101365",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4184 Old Calverton Rd",
+      "city": "Catlett",
+      "state": "VA",
+      "zip": "20119",
+      "phone": "(571) 781-9225"
+    },
+    {
+      "branch_name": "Richmond -Colonial Heights #36770",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1800 Ruffin Mill Cir",
+      "city": "Colonial Heights",
+      "state": "VA",
+      "zip": "23834",
+      "phone": "(804) 835-2062"
+    },
+    {
+      "branch_name": "Richmond -Emporia #105093",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "2155 Sussex Dr",
+      "city": "Emporia",
+      "state": "VA",
+      "zip": "23847",
+      "phone": "(434) 829-9811"
+    },
+    {
+      "branch_name": "Roanoke -Roanoke #128585",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1301 Rockland Ave. Suite B",
+      "city": "Roanoke",
+      "state": "VA",
+      "zip": "24012",
+      "phone": "(826) 205-2380"
+    },
+    {
+      "branch_name": "Washington -Stafford #47381",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "40 Venture Dr",
+      "city": "Stafford",
+      "state": "VA",
+      "zip": "22554",
+      "phone": "(540) 834-9159"
+    },
+    {
+      "branch_name": "Norfolk -Virginia Beach #18704",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "740 S Military Hwy",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23464",
+      "phone": "(757) 756-1440"
+    },
+    {
+      "branch_name": "Wenatchee -East Wenatchee #125571",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3408 NE Trident Way",
+      "city": "East Wenatchee",
+      "state": "WA",
+      "zip": "98802",
+      "phone": "(509) 667-3100"
+    },
+    {
+      "branch_name": "Seattle -Marysville #125566",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Marysville",
+      "state": "WA",
+      "zip": "98271",
+      "phone": "(360) 925-8111"
+    },
+    {
+      "branch_name": "Pasco -Pasco #26565",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1125 E Spokane St",
+      "city": "Pasco",
+      "state": "WA",
+      "zip": "99301",
+      "phone": "(509) 380-6044"
+    },
+    {
+      "branch_name": "Vancouver -Ridgefield #151439",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "16707 Northeast 10th Avenue",
+      "city": "Ridgefield",
+      "state": "WA",
+      "zip": "98642",
+      "phone": "(360) 803-0442"
+    },
+    {
+      "branch_name": "Seattle -Seattle #15963",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98178",
+      "phone": "(206) 962-2828"
+    },
+    {
+      "branch_name": "Spokane -Spokane #43290",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4009 E Francis Ave",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99217",
+      "phone": "(509) 309-6510"
+    },
+    {
+      "branch_name": "Spokane -Spokane #77362",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "11203 W Electric Ave",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99224",
+      "phone": "(509) 743-0151"
+    },
+    {
+      "branch_name": "Tacoma -Tacoma #90850",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "",
+      "city": "Tacoma",
+      "state": "WA",
+      "zip": "98445",
+      "phone": "(253) 999-0680"
+    },
+    {
+      "branch_name": "Yakima -Union Gap #133189",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "1101 Industrial Way",
+      "city": "Union Gap",
+      "state": "WA",
+      "zip": "98903",
+      "phone": "(509) 317-8591"
+    },
+    {
+      "branch_name": "Tacoma -Yelm #97151",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "10812 Bald Hill Rd SE",
+      "city": "Yelm",
+      "state": "WA",
+      "zip": "98597",
+      "phone": "(360) 972-3337"
+    },
+    {
+      "branch_name": "Clarksburg -Bridgeport #118928",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4938 Benedum Dr",
+      "city": "Bridgeport",
+      "state": "WV",
+      "zip": "26330",
+      "phone": "(681) 456-8380"
+    },
+    {
+      "branch_name": "Charleston -Charleston #127781",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "600 New Goff Mountain Rd",
+      "city": "Charleston",
+      "state": "WV",
+      "zip": "25313",
+      "phone": "(304) 769-6688"
+    },
+    {
+      "branch_name": "Milwaukee -Milwaukee #20553",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "11721 W Carmen Ave",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53225",
+      "phone": "(414) 930-3910"
+    },
+    {
+      "branch_name": "Casper -Casper #40683",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8620 Big Sky Dr",
+      "city": "Casper",
+      "state": "WY",
+      "zip": "82604",
+      "phone": "(307) 248-3804"
+    },
+    {
+      "branch_name": "Casper -Casper #112407",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "8655 Delta Dr",
+      "city": "Casper",
+      "state": "WY",
+      "zip": "82604",
+      "phone": "(307) 337-0090"
+    },
+    {
+      "branch_name": "Cheyenne -Cheyenne #140681",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "4820 S Greeley Hwy",
+      "city": "Cheyenne",
+      "state": "WY",
+      "zip": "82007",
+      "phone": "(307) 475-1806"
+    },
+    {
+      "branch_name": "Cheyenne -Cheyenne #104275",
+      "services": "Core Solutions, Tooling Solutions, Advanced Solutions",
+      "address": "3215 Granite Peak Drive",
+      "city": "Cheyenne",
+      "state": "WY",
+      "zip": "82007",
+      "phone": "(307) 475-1806"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "supplier": "Herc Rentals",
+  "website": "https://www.hercrentals.com/locations.html",
+  "capture_date": "2026-02-19",
+  "summary": {
+    "oms_branch_count": 316,
+    "oms_enabled_count": 3,
+    "website_estimated_count": 822,
+    "sample_captured": 332,
+    "relevant_to_dozr_percentage": 65,
+    "notes": "Website has significantly more branches than OMS. Estimated ~500+ new branches to add."
+  },
+  "service_categories": {
+    "relevant_to_dozr": ["General Rentals", "Aerial", "Earthmoving", "Material Handling", "ProTruck"],
+    "limited_services": ["ProSolutions", "Pump Power & Climate", "CRC", "Entertainment"]
+  },
+  "sample_data_southeast": {
+    "total": 332,
+    "relevant": 216,
+    "limited": 116,
+    "by_state": {
+      "TX": {"total": 94, "relevant": 63},
+      "FL": {"total": 62, "relevant": 39},
+      "GA": {"total": 32, "relevant": 20},
+      "LA": {"total": 29, "relevant": 16},
+      "NC": {"total": 20, "relevant": 12},
+      "TN": {"total": 18, "relevant": 9},
+      "AL": {"total": 15, "relevant": 10},
+      "SC": {"total": 14, "relevant": 7},
+      "OK": {"total": 13, "relevant": 10},
+      "AR": {"total": 8, "relevant": 7},
+      "MO": {"total": 4, "relevant": 4},
+      "MS": {"total": 3, "relevant": 2},
+      "VA": {"total": 1, "relevant": 1}
+    }
+  },
+  "map_cluster_counts": {
+    "Canada": 21,
+    "Pacific_Northwest_Mountain": 109,
+    "Central_US": 68,
+    "Upper_Midwest": 121,
+    "Northeast": 184,
+    "Texas_South_Central": 237,
+    "Southeast": 73,
+    "Hawaii": 9
+  },
+  "action_items": [
+    "Enable more OMS branches - only 3 of 316 currently enabled",
+    "Add estimated 500+ new branches from website",
+    "Focus on relevant service branches (General Rentals, Aerial, Earthmoving)"
+  ]
+}

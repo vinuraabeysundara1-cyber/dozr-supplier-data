@@ -1,0 +1,108 @@
+{
+  "supplier": "Sunstate Equipment",
+  "website": "https://www.sunstateequip.com/locations",
+  "capture_date": "2026-02-19",
+  "summary": {
+    "oms_branch_count": 84,
+    "website_branch_count": 109,
+    "new_branches_found": 4,
+    "trench_specialty_locations": 25,
+    "states_on_website": 16,
+    "states_in_oms": 16,
+    "new_states_found": 0
+  },
+  "new_branches": [
+    {
+      "name": "Greensboro",
+      "address": "105 South Swing Road",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27409",
+      "phone": "336-234-1113",
+      "services": "General Rental",
+      "hours": "Monday - Friday 7:00am - 5:00pm",
+      "status": "NEW - ADD TO OMS"
+    },
+    {
+      "name": "Conroe",
+      "address": "661 Frazier Commerce Drive",
+      "city": "Conroe",
+      "state": "TX",
+      "zip": "77303",
+      "phone": "936-504-3372",
+      "services": "General Rental",
+      "hours": "Monday - Friday 7:00am - 5:00pm",
+      "status": "NEW - ADD TO OMS"
+    },
+    {
+      "name": "La Porte",
+      "address": "4462 Genoa Red Bluff Road",
+      "city": "Pasadena",
+      "state": "TX",
+      "zip": "77059",
+      "phone": "713-424-7001",
+      "services": "General Rental, Industrial Solutions",
+      "hours": "Monday - Friday 7:00am - 5:00pm",
+      "status": "NEW - ADD TO OMS"
+    },
+    {
+      "name": "Rosenberg",
+      "address": "3940 Reese Road",
+      "city": "Rosenberg",
+      "state": "TX",
+      "zip": "77471",
+      "phone": "346-515-4010",
+      "services": "General Rental",
+      "hours": "Monday - Friday 7:00am - 5:00pm",
+      "status": "NEW - ADD TO OMS"
+    }
+  ],
+  "trench_specialty_locations": [
+    {"name": "Trench - Phoenix", "state": "AZ", "code": "720"},
+    {"name": "Trench - Tucson", "state": "AZ", "code": "721"},
+    {"name": "Trench - Baldwin Park", "state": "CA", "code": "701"},
+    {"name": "Trench - Romoland", "state": "CA", "code": "702"},
+    {"name": "Trench - San Bernardino", "state": "CA", "code": "703"},
+    {"name": "Trench - San Diego", "state": "CA", "code": "704"},
+    {"name": "Trench - Jacksonville", "state": "FL", "code": "Trench-Jacksonville"},
+    {"name": "Trench - Atlanta", "state": "GA", "code": "Trench-Atlanta"},
+    {"name": "Trench - Gainesville", "state": "GA", "code": "727"},
+    {"name": "Trench - Charlotte", "state": "NC", "code": "711"},
+    {"name": "Trench - Raleigh", "state": "NC", "code": "712"},
+    {"name": "Trench - Portland", "state": "OR", "code": "Trench-Portland"},
+    {"name": "Trench - Salem", "state": "OR", "code": "Trench-Salem"},
+    {"name": "Trench - Austin", "state": "TX", "code": "Trench-Austin"},
+    {"name": "Trench - Dallas-Fort Worth", "state": "TX", "code": "Trench-DFW"},
+    {"name": "Trench - El Paso", "state": "TX", "code": "Trench-ElPaso"},
+    {"name": "Trench - Houston", "state": "TX", "code": "701"},
+    {"name": "Trench - San Antonio", "state": "TX", "code": "Trench-SA"},
+    {"name": "Trench - Kent", "state": "WA", "code": "Trench-Kent"},
+    {"name": "Trench - Olympia", "state": "WA", "code": "Trench-Olympia"},
+    {"name": "Trench - Pasco", "state": "WA", "code": "Trench-Pasco"},
+    {"name": "Trench - Woodinville", "state": "WA", "code": "Trench-Woodinville"}
+  ],
+  "states_coverage": {
+    "AZ": {"oms": 11, "website": 13},
+    "CA": {"oms": 16, "website": 19},
+    "CO": {"oms": 8, "website": 7},
+    "FL": {"oms": 4, "website": 5},
+    "GA": {"oms": 4, "website": 5},
+    "LA": {"oms": 2, "website": 2},
+    "NC": {"oms": 2, "website": 5},
+    "NM": {"oms": 1, "website": 1},
+    "NV": {"oms": 2, "website": 2},
+    "OK": {"oms": 2, "website": 2},
+    "OR": {"oms": 1, "website": 3},
+    "SC": {"oms": 1, "website": 1},
+    "TN": {"oms": 3, "website": 3},
+    "TX": {"oms": 24, "website": 30},
+    "UT": {"oms": 3, "website": 3},
+    "WA": {"oms": 4, "website": 7}
+  },
+  "notes": [
+    "Baton Rouge LA on website is same address as Saint Gabriel LA in OMS - not a new location",
+    "Website has 25+ Trench Safety specialty locations that may have different addresses from main branches",
+    "Houston area has multiple branches: Houston (Cypress), Houston-2, Houston-4, North Houston, South Houston - some may overlap with OMS entries",
+    "No new states discovered - all 16 states on website match OMS states"
+  ]
+}

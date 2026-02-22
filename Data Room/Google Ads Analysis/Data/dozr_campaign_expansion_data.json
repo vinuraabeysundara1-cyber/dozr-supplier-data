@@ -1,0 +1,3893 @@
+{
+  "generated": "2026-02-06 15:47:44",
+  "customer_id": "8531896842",
+  "new_states_to_add": {
+    "NJ": {
+      "name": "New Jersey",
+      "orders": 6,
+      "suppliers": 3,
+      "priority": "HIGH"
+    },
+    "MD": {
+      "name": "Maryland",
+      "orders": 2,
+      "suppliers": 3,
+      "priority": "HIGH"
+    },
+    "CO": {
+      "name": "Colorado",
+      "orders": 3,
+      "suppliers": 1,
+      "priority": "HIGH"
+    },
+    "MS": {
+      "name": "Mississippi",
+      "orders": 4,
+      "suppliers": 0,
+      "priority": "MEDIUM"
+    },
+    "UT": {
+      "name": "Utah",
+      "orders": 2,
+      "suppliers": 0,
+      "priority": "MEDIUM"
+    },
+    "NV": {
+      "name": "Nevada",
+      "orders": 2,
+      "suppliers": 1,
+      "priority": "MEDIUM"
+    },
+    "NM": {
+      "name": "New Mexico",
+      "orders": 2,
+      "suppliers": 0,
+      "priority": "MEDIUM"
+    },
+    "MT": {
+      "name": "Montana",
+      "orders": 2,
+      "suppliers": 1,
+      "priority": "MEDIUM"
+    },
+    "MO": {
+      "name": "Missouri",
+      "orders": 2,
+      "suppliers": 2,
+      "priority": "MEDIUM"
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "orders": 1,
+      "suppliers": 1,
+      "priority": "LOW"
+    },
+    "LA": {
+      "name": "Louisiana",
+      "orders": 1,
+      "suppliers": 0,
+      "priority": "LOW"
+    },
+    "ME": {
+      "name": "Maine",
+      "orders": 1,
+      "suppliers": 2,
+      "priority": "LOW"
+    },
+    "WA": {
+      "name": "Washington",
+      "orders": 1,
+      "suppliers": 1,
+      "priority": "LOW"
+    },
+    "IN": {
+      "name": "Indiana",
+      "orders": 1,
+      "suppliers": 1,
+      "priority": "LOW"
+    },
+    "KS": {
+      "name": "Kansas",
+      "orders": 1,
+      "suppliers": 1,
+      "priority": "LOW"
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "orders": 0,
+      "suppliers": 2,
+      "priority": "TEST"
+    },
+    "DE": {
+      "name": "Delaware",
+      "orders": 0,
+      "suppliers": 1,
+      "priority": "TEST"
+    }
+  },
+  "state_geo_ids": {},
+  "target_campaigns": [
+    "Search-Scissor-Lift-Core-Geos-US",
+    "Search-Forklift-Core-Geos-US",
+    "Search-Telehandler-Core-Geos-US",
+    "Search-Excavator-Core-Geos-US",
+    "Search-Dozers-Core-Geos-US-V3",
+    "Search-Backhoe-Core-Geos-US",
+    "Search-Loader-Core-Geos-US",
+    "Search-Demand-Boom-Lifts",
+    "DSA-AllPages-Tier1-New-US-2"
+  ],
+  "campaigns": {
+    "DSA-AllPages-Tier1-New-US-2": {
+      "id": 23312986075,
+      "status": "ENABLED",
+      "budget": 350.0,
+      "bidding": "MAXIMIZE_CONVERSION_VALUE"
+    },
+    "Search-Backhoe-Core-Geos-US": {
+      "id": 23476824168,
+      "status": "ENABLED",
+      "budget": 100.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Boom-Lift-Core-Geos-CA": {
+      "id": 23479015399,
+      "status": "PAUSED",
+      "budget": 150.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Boom-Lifts-Core-Geos-US": {
+      "id": 23478402475,
+      "status": "PAUSED",
+      "budget": 50.0,
+      "bidding": "TARGET_SPEND"
+    },
+    "Search-Demand-Boom-Lifts": {
+      "id": 23312986204,
+      "status": "ENABLED",
+      "budget": 1400.0,
+      "bidding": "MAXIMIZE_CONVERSION_VALUE"
+    },
+    "Search-Demand-Brand-CA": {
+      "id": 23469369975,
+      "status": "ENABLED",
+      "budget": 50.0,
+      "bidding": "MAXIMIZE_CONVERSION_VALUE"
+    },
+    "Search-Demand-Brand-US": {
+      "id": 23312986207,
+      "status": "ENABLED",
+      "budget": 100.0,
+      "bidding": "TARGET_IMPRESSION_SHARE"
+    },
+    "Search-Demand-Heavy-dirt": {
+      "id": 23312986210,
+      "status": "PAUSED",
+      "budget": 1060.0,
+      "bidding": "MAXIMIZE_CONVERSION_VALUE"
+    },
+    "Search-Demand-Scissor-Lifts": {
+      "id": 23312986213,
+      "status": "PAUSED",
+      "budget": 400.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Dozers-Core-Geos-CA": {
+      "id": 23471160363,
+      "status": "PAUSED",
+      "budget": 50.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Dozers-Core-Geos-US-V3": {
+      "id": 23474073503,
+      "status": "ENABLED",
+      "budget": 200.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Excavator-Core-Geos-CA": {
+      "id": 23479017787,
+      "status": "ENABLED",
+      "budget": 100.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Excavator-Core-Geos-US": {
+      "id": 23463978135,
+      "status": "ENABLED",
+      "budget": 250.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Forklift-Core-Geos-CA": {
+      "id": 23474404793,
+      "status": "PAUSED",
+      "budget": 150.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Forklift-Core-Geos-US": {
+      "id": 23474259539,
+      "status": "ENABLED",
+      "budget": 400.0,
+      "bidding": "MAXIMIZE_CONVERSION_VALUE"
+    },
+    "Search-Loader-Core-Geos-CA": {
+      "id": 23474406392,
+      "status": "ENABLED",
+      "budget": 80.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Loader-Core-Geos-US": {
+      "id": 23474258597,
+      "status": "ENABLED",
+      "budget": 150.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Scissor-Lift-Core-Geos-CA": {
+      "id": 23479016824,
+      "status": "ENABLED",
+      "budget": 120.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Scissor-Lift-Core-Geos-US": {
+      "id": 23469193560,
+      "status": "ENABLED",
+      "budget": 350.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Telehandler-Core-Geos-CA": {
+      "id": 23479017811,
+      "status": "ENABLED",
+      "budget": 100.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Telehandler-Core-Geos-US": {
+      "id": 23478855283,
+      "status": "ENABLED",
+      "budget": 100.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Tractor-Core-Geos-CA": {
+      "id": 23479017775,
+      "status": "PAUSED",
+      "budget": 80.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    },
+    "Search-Tractor-Core-Geos-US": {
+      "id": 23468698983,
+      "status": "PAUSED",
+      "budget": 150.0,
+      "bidding": "MAXIMIZE_CONVERSIONS"
+    }
+  },
+  "keywords_sample": {
+    "Search-Scissor-Lift-Core-Geos-US": [
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "indoor scissor lift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "electric scissor lift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "electric scissor lift rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "indoor scissor lift rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "electric scissor lift for rent",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "electric scissor lift for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "slab scissor lift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "slab scissor lift rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "battery scissor lift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "keyword": "battery scissor lift rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Forklift-Core-Geos-US": [
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "forklift rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "forklift hire",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "forklift hire",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "forklift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "forklift for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "forklift for rent",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "lift truck rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "rent a forklift",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "rent a forklift",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "keyword": "lift truck rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Telehandler-Core-Geos-US": [
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telehandler hire",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telehandler hire",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telescopic handler rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telehandler rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telehandler rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telehandler for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telehandler for rent",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "rent a telehandler",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "rent a telehandler",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Rental",
+        "keyword": "telescopic handler rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Excavator-Core-Geos-US": [
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for digging",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "rent excavator for pool",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "rent excavator for foundation",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for construction",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "rent excavator for pool",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for landscaping",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for landscaping",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for construction",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for digging",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "keyword": "excavator rental for demolition",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Dozers-Core-Geos-US-V3": [
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "dozer rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "bulldozer rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "bulldozer rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "rent a dozer",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "dozer rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "crawler dozer rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Dozer-Rental",
+        "keyword": "track dozer rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steers",
+        "keyword": "bobcat rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steers",
+        "keyword": "skid steer rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steers",
+        "keyword": "skid loader rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Backhoe-Core-Geos-US": [
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "rent a backhoe",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "rent a backhoe",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe loader rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe for rent",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe loader rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "backhoe hire",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "keyword": "tractor backhoe rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Loader-Core-Geos-US": [
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "bobcat rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "skid steer rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "bobcat rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "skid steer rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "skid steer for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "skid loader rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "skid steer for rent",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "rent a skid steer",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "rent a skid steer",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "keyword": "skid loader rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Demand-Boom-Lifts": [
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "boom lift",
+        "match_type": "BROAD",
+        "status": "PAUSED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "lift rental",
+        "match_type": "BROAD",
+        "status": "PAUSED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "straight",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "aerial",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "towable",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "boom lift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "articulating",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "lift rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "bucket truck rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "General-Boom-Lifts",
+        "keyword": "lift rental",
+        "match_type": "PHRASE",
+        "status": "ENABLED"
+      }
+    ],
+    "DSA-AllPages-Tier1-New-US-2": [
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "tools",
+        "match_type": "BROAD",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "generator rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "tool rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "rent scaffold",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "rental tools",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "dumptruck rental",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "dump trucks for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "tools for rent",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "tool rentals near me",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "DSA-Tier1-New-USA",
+        "keyword": "tool rental near me",
+        "match_type": "EXACT",
+        "status": "ENABLED"
+      }
+    ]
+  },
+  "ads_sample": {
+    "Search-Scissor-Lift-Core-Geos-US": [
+      {
+        "ad_group": "Electric-Scissor-Lift-Rental",
+        "ad_id": 794557786201,
+        "headlines": [
+          "Electric Scissor Lifts",
+          "Rent Electric Scissor Lifts",
+          "Indoor Scissor Lifts",
+          "Slab Scissor Lift Rental",
+          "Battery Powered Lifts",
+          "Quiet Indoor Operation",
+          "Scissor Lift {LOCATION(City)}",
+          "Compare Multiple Suppliers",
+          "Daily & Weekly Rates",
+          "Fast Jobsite Delivery",
+          "JLG 1932R & 2632R Models",
+          "Genie GS-1930 & GS-2632",
+          "Skyjack SJIII Series",
+          "19ft to 40ft Heights",
+          "DOZR Equipment Marketplace"
+        ],
+        "descriptions": [
+          "Electric scissor lifts for indoor use. Zero emissions, quiet operation. Book online.",
+          "Slab scissor lifts available. Perfect for warehouses & indoor construction. Fast delivery.",
+          "Battery powered scissor lifts from verified suppliers. Compare rates & book in minutes.",
+          "Indoor scissor lift rentals. Electric models for warehouses, retail & construction."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/scissor-lift"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Scissor-Lift-Rental-Cost",
+        "ad_id": 794635237427,
+        "headlines": [
+          "Scissor Lift {LOCATION(City)}",
+          "Scissor Lift Rental Rates",
+          "Affordable Lift Rentals",
+          "Get Instant Price Quotes",
+          "Daily & Weekly Rates",
+          "No Hidden Fees",
+          "Competitive Pricing",
+          "Multiple Supplier Quotes",
+          "Best Value Lift Rentals",
+          "Transparent Pricing",
+          "JLG 1932R & 2632R Models",
+          "Genie GS-1930 & GS-2632",
+          "Skyjack SJIII Series",
+          "19ft to 40ft Heights",
+          "DOZR Equipment Marketplace"
+        ],
+        "descriptions": [
+          "Compare scissor lift rental prices from trusted suppliers. Book online. No hidden fees.",
+          "Affordable scissor lift rentals. Daily, weekly & monthly rates from multiple suppliers.",
+          "How much to rent a scissor lift? Get instant quotes from verified suppliers.",
+          "Transparent scissor lift pricing. Compare rates from local suppliers & book today."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/scissor-lift"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Forklift-Core-Geos-US": [
+      {
+        "ad_group": "Warehouse-Forklift-Rental",
+        "ad_id": 794528070171,
+        "headlines": [
+          "Warehouse Forklifts",
+          "Electric Forklift Rental",
+          "Indoor Forklifts Available",
+          "Cushion Tire Forklifts",
+          "Sit Down Forklifts",
+          "Zero Emission Forklifts",
+          "Forklift {LOCATION(City)}",
+          "Compare Multiple Suppliers",
+          "Daily & Weekly Rates",
+          "Fast Delivery Available",
+          "Toyota & Hyster Forklifts",
+          "Yale & Crown Lifts Ready",
+          "CAT Forklift Rentals",
+          "3K to 15K lb Capacity",
+          "DOZR Equipment Marketplace"
+        ],
+        "descriptions": [
+          "Warehouse forklifts for indoor use. Electric & propane models. Book online today.",
+          "Electric forklifts from verified suppliers. Zero emissions for indoor use.",
+          "Cushion tire forklifts for smooth surfaces. Compare rates & book in minutes.",
+          "Indoor forklift rentals. Perfect for warehouses, distribution & manufacturing."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/forklift"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Forklift-Rental",
+        "ad_id": 794557574320,
+        "headlines": [
+          "Forklift Rentals Online",
+          "Rent a Forklift Today",
+          "Book Forklifts in Minutes",
+          "Compare Forklift Prices",
+          "Forklifts Available Now",
+          "Trusted Equipment Suppliers",
+          "Get Instant Quotes Online",
+          "Daily, Weekly & Monthly",
+          "DOZR Equipment Marketplace",
+          "Delivery to Your Site",
+          "Toyota & Hyster Forklifts",
+          "Yale & Crown Lifts Ready",
+          "CAT Forklift Rentals",
+          "3K to 15K lb Capacity",
+          "Forklift {LOCATION(City)}"
+        ],
+        "descriptions": [
+          "Rent forklifts from trusted suppliers. Compare prices & book online. Fast delivery.",
+          "Warehouse & outdoor forklifts available. Get quotes from multiple suppliers.",
+          "Need a forklift? Browse by capacity and type. Same-day delivery in most areas.",
+          "Skip the phone calls. Compare forklift rental rates and book with verified suppliers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/forklift"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Telehandler-Core-Geos-US": [
+      {
+        "ad_group": "Reach-Forklift-Rental",
+        "ad_id": 794543992467,
+        "headlines": [
+          "Reach Forklift Rentals",
+          "Telehandler {LOCATION(City)}",
+          "JLG & Genie Telehandlers",
+          "CAT & Manitou Available",
+          "42ft to 55ft Reach Options",
+          "5K-12K lb Lift Capacity",
+          "Compare 5+ Local Dealers",
+          "Get Quotes in 60 Seconds",
+          "Same-Day Delivery Options",
+          "Daily Weekly Monthly Rates",
+          "Save Up to 25% vs Dealers",
+          "No Hidden Fees Guaranteed",
+          "Construction Site Ready",
+          "Book Online Skip Phone Tag",
+          "Verified Rental Suppliers"
+        ],
+        "descriptions": [
+          "Reach forklifts from JLG, Genie, CAT & Manitou. Compare prices from 5+ dealers. Book onlin",
+          "42ft-55ft reach telehandlers with 5K-12K lb capacity. Same-day delivery from verified loca",
+          "Skip the phone calls. Compare daily, weekly & monthly telehandler rates. Get instant quote",
+          "Rent reach forklifts for construction & agriculture. Transparent pricing, no hidden fees g"
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/telehandler"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Telehandler-Near-Me",
+        "ad_id": 794557933864,
+        "headlines": [
+          "Telehandler Rentals Online",
+          "Rent a Telehandler Today",
+          "Book Telehandlers in Minutes",
+          "Telehandler {LOCATION(City)}",
+          "5K-12K lb Telehandlers",
+          "Reach Forklifts for Rent",
+          "Telescopic Handlers Ready",
+          "Same-Day Delivery Available",
+          "Trusted Equipment Suppliers",
+          "Get Instant Quotes Online",
+          "No Hidden Fees",
+          "Daily, Weekly & Monthly",
+          "Free Online Booking",
+          "DOZR Equipment Marketplace",
+          "Save Time - Book Online"
+        ],
+        "descriptions": [
+          "Rent telehandlers from trusted suppliers. Compare prices, check availability & book online",
+          "5,000-12,000 lb telehandlers available. Get quotes from multiple suppliers. Book in minute",
+          "Need a reach forklift? Browse telehandler rentals by lift height and capacity. Fast delive",
+          "Skip the phone calls. Compare telehandler rental rates and book with verified suppliers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/telehandler"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Excavator-Core-Geos-US": [
+      {
+        "ad_group": "Excavator-Rental-Use-Cases",
+        "ad_id": 794527714047,
+        "headlines": [
+          "Excavator {LOCATION(City)}",
+          "Flexible Cancellation",
+          "Do It Yourself",
+          "Used Electric Inventory",
+          "Wide Range Of Sizes & Models",
+          "Get A Quote In Minutes",
+          "Digging, Trenching & More",
+          "DOZR: Power Up Your Projects",
+          "Stop Searching, Start Digging",
+          "Save Time And Money",
+          "Cheap Prices",
+          "Rent Smart, Rent DOZR",
+          "Any Excavation Project",
+          "Fast Equipment Service",
+          "Find A Location Near You"
+        ],
+        "descriptions": [
+          "Book the perfect excavator for your project with DOZR.",
+          "Perfect for pool digging, trenching, land clearing, and foundation work.",
+          "We deliver your equipment where you need it, when you need it.",
+          "Compare excavator rental options across rental companies with DOZR."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/excavator"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Excavator-Rental-Near-Me",
+        "ad_id": 793096319181,
+        "headlines": [
+          "Excavator Rentals Near Me",
+          "Excavator Rental {LOCATION(City)}",
+          "Daily, Weekly & Monthly Rental",
+          "Need an Excavator? Order Now",
+          "Equipment Delivered on Time",
+          "Local Excavator Rentals",
+          "Rent an Excavator Today",
+          "Delivery and Pickup Options",
+          "Easy, Online Rental Process",
+          "Excavator Rental In {LOCATION(City)}",
+          "Find & Compare Rental Prices",
+          "In As Little As 24 Hours",
+          "Excavator Rentals Near You",
+          "Schedule Your Excavator Now",
+          "Excavator Near {LOCATION(City)}"
+        ],
+        "descriptions": [
+          "Local Excavator Rentals. Expert Support Available, Order Online Or Over the Phone!",
+          "Excavators available! Order online or by phone now. Expert support at your service.",
+          "Rent excavators with ease! Order online or call today. Expert assistance available.",
+          "Get your excavator here! Order quickly online or by phone. Professional support provided."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/excavator"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Dozers-Core-Geos-US-V3": [
+      {
+        "ad_group": "Dozers",
+        "ad_id": 794528062734,
+        "headlines": [
+          "Dozer Rentals Online",
+          "Rent CAT D6 Bulldozers",
+          "John Deere 850 & 950",
+          "Komatsu D71 & D85 Dozers",
+          "Case 2050M Crawler Dozers",
+          "Compare Dozer Prices",
+          "Daily Weekly Monthly Rates",
+          "Crawler Dozers for Rent",
+          "Small to Large Bulldozers",
+          "Get Instant Dozer Quotes",
+          "Same-Day Delivery Options",
+          "Verified Equipment Dealers",
+          "Liebherr Dozers Available",
+          "Book Dozers in Minutes",
+          "Dozer {LOCATION(City)}"
+        ],
+        "descriptions": [
+          "Rent dozers from CAT, John Deere, Komatsu & Case dealers. D6, 850, D71 models.",
+          "Crawler dozers for any earthmoving job. Compare prices from verified suppliers.",
+          "Need a bulldozer? Small to large dozers from trusted dealers. Fast delivery.",
+          "Dozer rentals with transparent pricing. Daily, weekly & monthly. No hidden fees."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/dozer"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Skid-Steers",
+        "ad_id": 794528105451,
+        "headlines": [
+          "Skid Steer Rental",
+          "Rent Skid Loaders Near Me",
+          "Bobcat & CAT Skid Steers",
+          "Skid Steer Rentals",
+          "Rent a Skid Steer",
+          "Compare Skid Steer Prices",
+          "Skid Steers for Rent",
+          "Book Skid Steers Fast",
+          "Trusted Suppliers",
+          "Same-Day Delivery",
+          "Daily & Weekly Rates",
+          "Skid Steer {LOCATION(City)}",
+          "DOZR Marketplace",
+          "No Hidden Fees",
+          "Skip The Phone Calls"
+        ],
+        "descriptions": [
+          "Rent Skid Steers Near You. Top Brands like Bobcat & CAT.",
+          "Versatile Skid Loaders for Any Job. Book Online Now.",
+          "Rent skid steers from trusted suppliers. Compare prices & book online. Delivery available.",
+          "Need a skid steer? Browse rentals by size. Get instant quotes from multiple suppliers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/compact-track-loader"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Backhoe-Core-Geos-US": [
+      {
+        "ad_group": "Backhoe Rental - Generic",
+        "ad_id": 794557986166,
+        "headlines": [
+          "Backhoe Rentals Online",
+          "Rent a Backhoe Today",
+          "Book Backhoes in Minutes",
+          "Compare Backhoe Prices",
+          "Mini & Full-Size Backhoes",
+          "Backhoe Loaders for Rent",
+          "Same-Day Delivery Available",
+          "Trusted Equipment Suppliers",
+          "Backhoe {LOCATION(City)}",
+          "No Hidden Fees",
+          "Daily, Weekly & Monthly Rates",
+          "Free Online Booking",
+          "DOZR Equipment Marketplace",
+          "Save Time - Book Online",
+          "Dig Smarter, Rent Online"
+        ],
+        "descriptions": [
+          "Rent backhoes from trusted suppliers. Compare prices & book online. Fast delivery.",
+          "Mini and full-size backhoes available. Get instant quotes and book in minutes.",
+          "Browse backhoe rentals by size. Compare suppliers and get same-day delivery.",
+          "Skip the calls. Compare rates online and book directly with verified suppliers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/backhoe"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Backhoe Rental - Near Me",
+        "ad_id": 794557998697,
+        "headlines": [
+          "Backhoe Rentals Online",
+          "Rent a Backhoe Today",
+          "Book Backhoes in Minutes",
+          "Compare Backhoe Prices",
+          "Mini & Full-Size Backhoes",
+          "Backhoe Loaders for Rent",
+          "Same-Day Delivery Available",
+          "Trusted Equipment Suppliers",
+          "Backhoe {LOCATION(City)}",
+          "No Hidden Fees",
+          "Daily, Weekly & Monthly Rates",
+          "Free Online Booking",
+          "DOZR Equipment Marketplace",
+          "Save Time - Book Online",
+          "Dig Smarter, Rent Online"
+        ],
+        "descriptions": [
+          "Rent backhoes from trusted suppliers. Compare prices & book online. Fast delivery.",
+          "Mini and full-size backhoes available. Get instant quotes and book in minutes.",
+          "Browse backhoe rentals by size. Compare suppliers and get same-day delivery.",
+          "Skip the calls. Compare rates online and book directly with verified suppliers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/backhoe"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Loader-Core-Geos-US": [
+      {
+        "ad_group": "Skid-Steer-Rental",
+        "ad_id": 794527714257,
+        "headlines": [
+          "Skid Steer Rentals",
+          "Rent Skid Steers Today",
+          "Book Skid Steers Fast",
+          "Compare Skid Steer Prices",
+          "Skid Steers Available Now",
+          "Bobcat Style Loaders",
+          "Get Instant Quotes Online",
+          "Daily, Weekly & Monthly",
+          "DOZR Equipment Marketplace",
+          "Delivery to Your Site",
+          "Bobcat S650 & S770 Models",
+          "CAT 259D & 272D Loaders",
+          "John Deere 332G & 333G",
+          "Kubota SVL75 & SVL95",
+          "Skid Steer {LOCATION(City)}"
+        ],
+        "descriptions": [
+          "Rent skid steers from trusted suppliers. Compare prices & book online. Fast delivery.",
+          "Skid loaders for any job. Get quotes from multiple suppliers and book in minutes.",
+          "Need a skid steer? Browse by size and attachments. Same-day delivery available.",
+          "Skip the phone calls. Compare skid steer rates and book with verified suppliers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/skid-steer"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Loader-Rental-Cost",
+        "ad_id": 794635377995,
+        "headlines": [
+          "Skid Steer Rental Prices",
+          "Compare Loader Rates Online",
+          "Bobcat & CAT Skid Steers",
+          "John Deere Loader Rentals",
+          "Track & Wheel Loaders",
+          "Daily Weekly Monthly Rates",
+          "Loader {LOCATION(City)}",
+          "Affordable Loader Rentals",
+          "No Hidden Fees or Charges",
+          "Multiple Supplier Quotes",
+          "Kubota & Case Loaders",
+          "CTL & Skid Steer Options",
+          "Verified Local Suppliers",
+          "Transparent Rental Pricing",
+          "DOZR Equipment Marketplace"
+        ],
+        "descriptions": [
+          "Compare skid steer rental prices from Bobcat, CAT & John Deere. Book online.",
+          "Affordable loader rentals. Daily, weekly & monthly rates from verified suppliers.",
+          "How much to rent a skid steer? Get quotes from Kubota, Case & CAT dealers.",
+          "Transparent loader pricing with no hidden fees. Track loaders & skid steers."
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/skid-steer"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "Search-Demand-Boom-Lifts": [
+      {
+        "ad_group": "General-Boom-Lifts",
+        "ad_id": 786067939658,
+        "headlines": [
+          "Boom Lift Rentals",
+          "Boom Lift Rentals {LOCATION(City)}",
+          "Daily, Weekly & Monthly Rental",
+          "Need a Boom Lift? Order Now",
+          "Equipment Delivered on Time",
+          "Local Boom Lift Rentals",
+          "Rent Boom Lift",
+          "Delivery and Pickup Options",
+          "Easy, Online Rental Process",
+          "Boom Lift Rental In {LOCATION(City)}",
+          "Find & Compare Rental Prices",
+          "In As Little As 24 Hours",
+          "Boom Lift Rentals Near You",
+          "Schedule Your Boom Lift Now",
+          "Boom Rental Near {LOCATION(City)}"
+        ],
+        "descriptions": [
+          "Local Boom Lift Rentals. Expert Support Available, Order Online Or Over the Phone!",
+          "Boom lift rentals available! Order online or by phone now. Expert support at your service.",
+          "Rent boom lifts with ease! Order online or call today. Expert assistance available.",
+          "Get your boom lift rental! Order quickly online or by phone. Professional support provided"
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/articulating-boom-lift"
+        ],
+        "status": "ENABLED"
+      },
+      {
+        "ad_group": "Boom-Lifts-Near-Me",
+        "ad_id": 794639971580,
+        "headlines": [
+          "DOZR Boom Lift Rental Near Me",
+          "Rent a Lift Near You",
+          "Boom Lift Rental Near Me",
+          "Boom Lift {LOCATION(City)}",
+          "Daily, Weekly & Monthly Rental",
+          "Find A Location",
+          "Local Boom Lift Rentals",
+          "Local Aerial Equipment Rentals",
+          "60 Ft Boom Lift Rental Nearby",
+          "Articulating Boom Lift Rentals",
+          "50 ft Lift Rental Near Me",
+          "Rent Boom Lift",
+          "Towable Boom Lift Rental",
+          "DOZR Boom Lift",
+          "Find A Location Near You"
+        ],
+        "descriptions": [
+          "Lift Rental Near Me? DOZR Delivers the Reach You Need",
+          "Towable Boom Lifts: Your Project, Our Power. DOZR Makes it Simple",
+          "Need a Boom Lift, man lift, or towable lift? DOZR's Got You Covered. Explore Options",
+          "DOZR: Your Local JLG Lifts Rental Solution. Get Lifted"
+        ],
+        "final_urls": [
+          "https://dozr.com/rent/articulating-boom-lift"
+        ],
+        "status": "ENABLED"
+      }
+    ],
+    "DSA-AllPages-Tier1-New-US-2": []
+  },
+  "current_geo_targets": {
+    "Search-Scissor-Lift-Core-Geos-US": [
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013857",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013954",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1015339",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/9198538",
+        "bid_modifier": 0.0
+      }
+    ],
+    "Search-Forklift-Core-Geos-US": [
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013857",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013954",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1015339",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/9198538",
+        "bid_modifier": 0.0
+      }
+    ],
+    "Search-Telehandler-Core-Geos-US": [
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/21139",
+        "bid_modifier": 0.8500000238418579
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/21146",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21147",
+        "bid_modifier": 0.8500000238418579
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.8500000238418579
+      },
+      {
+        "geo_constant": "geoTargetConstants/21161",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21163",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21168",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21170",
+        "bid_modifier": 0.8500000238418579
+      },
+      {
+        "geo_constant": "geoTargetConstants/21171",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21173",
+        "bid_modifier": 0.8500000238418579
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/21178",
+        "bid_modifier": 1.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21179",
+        "bid_modifier": 0.8500000238418579
+      }
+    ],
+    "Search-Excavator-Core-Geos-US": [
+      {
+        "geo_constant": "geoTargetConstants/2008",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2012",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2032",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2036",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2044",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2048",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2050",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2056",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2076",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2100",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2104",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2116",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2144",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2152",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2156",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2158",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2170",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2191",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2196",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2203",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2208",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2214",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2218",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2231",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2233",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2246",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2250",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2268",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2276",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2288",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2300",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2316",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2320",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2328",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2344",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2348",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2352",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2356",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2360",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2368",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2372",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2376",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2380",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2388",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2392",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2398",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2400",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2404",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2410",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2414",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2422",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2428",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2440",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2458",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2470",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2484",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2496",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2504",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2512",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2524",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2554",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2566",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2578",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2586",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2604",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2608",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2616",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2620",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2630",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2634",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2642",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2643",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2682",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2688",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2702",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2703",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2704",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2705",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2710",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2716",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2724",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2752",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2756",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2764",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2780",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2784",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2792",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2800",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2804",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2807",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2818",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2826",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2834",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2860",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2894",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013857",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013954",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1015339",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/9198538",
+        "bid_modifier": 0.0
+      }
+    ],
+    "Search-Dozers-Core-Geos-US-V3": [
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013857",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013954",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1015339",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9198538",
+        "bid_modifier": 0.0
+      }
+    ],
+    "Search-Backhoe-Core-Geos-US": [
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013857",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013954",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1015339",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/9198538",
+        "bid_modifier": 0.0
+      }
+    ],
+    "Search-Loader-Core-Geos-US": [
+      {
+        "geo_constant": "geoTargetConstants/21136",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21143",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21160",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21167",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21175",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013857",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1013954",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/1015339",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/9198538",
+        "bid_modifier": 0.0
+      }
+    ],
+    "Search-Demand-Boom-Lifts": [
+      {
+        "geo_constant": "geoTargetConstants/2008",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2012",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2032",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2036",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2044",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2048",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2050",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2056",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2076",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2100",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2104",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2116",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2144",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2152",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2156",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2158",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2170",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2191",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2196",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2203",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2208",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2214",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2218",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2231",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2233",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2246",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2250",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2268",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2276",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2288",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2300",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2316",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2320",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2328",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2344",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2348",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2352",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2356",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2360",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2368",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2372",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2376",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2380",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2388",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2392",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2398",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2400",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2404",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2410",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2414",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2422",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2428",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2440",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2458",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2470",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2484",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2496",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2504",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2512",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2524",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2554",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2566",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2578",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2586",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2604",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2608",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2616",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2620",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2630",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2634",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2642",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2643",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2682",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2688",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2702",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2703",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2704",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2705",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2710",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2716",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2724",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2752",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2756",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2764",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2780",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2784",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2792",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2800",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2804",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2807",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2818",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2826",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2834",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2860",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2894",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200501",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200507",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200514",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200517",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200518",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200519",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200524",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200531",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200532",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200534",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200538",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200539",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200544",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200548",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200555",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200556",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200557",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200560",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200567",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200584",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200618",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200623",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200625",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200635",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200640",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/200641",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/200659",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200803",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/200825",
+        "bid_modifier": 0.800000011920929
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057037",
+        "bid_modifier": 1.2000000476837158
+      },
+      {
+        "geo_constant": "geoTargetConstants/9057040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/9073451",
+        "bid_modifier": 0.800000011920929
+      }
+    ],
+    "DSA-AllPages-Tier1-New-US-2": [
+      {
+        "geo_constant": "geoTargetConstants/2008",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2012",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2032",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2036",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2040",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2044",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2048",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2050",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2056",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2076",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2100",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2104",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2116",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2144",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2152",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2156",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2158",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2170",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2191",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2196",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2203",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2208",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2214",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2218",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2231",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2233",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2246",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2250",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2268",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2276",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2288",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2300",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2316",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2320",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2328",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2344",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2348",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2352",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2356",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2360",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2368",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2372",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2376",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2380",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2388",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2392",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2398",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2400",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2404",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2410",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2414",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2422",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2428",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2440",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2458",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2462",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2470",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2484",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2496",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2504",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2512",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2524",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2528",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2554",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2566",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2578",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2586",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2604",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2608",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2616",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2620",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2630",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2634",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2642",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2643",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2682",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2688",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2702",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2703",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2704",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2705",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2710",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2716",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2724",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2752",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2756",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2764",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2780",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2784",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2792",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2800",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2804",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2807",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2818",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2826",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2834",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2860",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/2894",
+        "bid_modifier": 0.0
+      },
+      {
+        "geo_constant": "geoTargetConstants/21137",
+        "bid_modifier": 0.4000000059604645
+      },
+      {
+        "geo_constant": "geoTargetConstants/21142",
+        "bid_modifier": 0.4000000059604645
+      },
+      {
+        "geo_constant": "geoTargetConstants/21176",
+        "bid_modifier": 0.0
+      }
+    ]
+  },
+  "conversions": [
+    {
+      "id": 7396209491,
+      "name": "Calls from ads",
+      "type": "AD_CALL",
+      "primary": true
+    },
+    {
+      "id": 7400184204,
+      "name": "Purchase (Google Analytics event purchase)",
+      "type": "GOOGLE_ANALYTICS_4_PURCHASE",
+      "primary": true
+    },
+    {
+      "id": 7403175332,
+      "name": "Closed Won Deals From AdWords Caller May 2025",
+      "type": "UPLOAD_CLICKS",
+      "primary": true
+    },
+    {
+      "id": 7403250466,
+      "name": "AdWords Caller requested a quote May 2025",
+      "type": "UPLOAD_CLICKS",
+      "primary": true
+    },
+    {
+      "id": 7403409773,
+      "name": "AdWords Qualified Calls May 2025",
+      "type": "UPLOAD_CLICKS",
+      "primary": true
+    },
+    {
+      "id": 7405908410,
+      "name": "Phone Call",
+      "type": "UPLOAD_CLICKS",
+      "primary": true
+    }
+  ]
+}

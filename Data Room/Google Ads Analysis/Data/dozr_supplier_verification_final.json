@@ -1,0 +1,275 @@
+{
+  "CO": {
+    "has_coverage": true,
+    "num_suppliers": 2,
+    "num_locations": 13,
+    "locations": [
+      "Colorado Springs, CO",
+      "Denver, CO",
+      "Dove Valley, CO",
+      "Fort Collins, CO",
+      "Grand Junction, CO",
+      "Mead, CO",
+      "Pueblo, CO",
+      "Littleton, CO",
+      "Windsor, CO",
+      "Loveland, CO",
+      "Berthoud, CO",
+      "Englewood, CO",
+      "Lakewood, CO"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "NV": {
+    "has_coverage": true,
+    "num_suppliers": 4,
+    "num_locations": 2,
+    "locations": [
+      "Las Vegas, NV",
+      "Reno, NV"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Telehandlers",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "UT": {
+    "has_coverage": true,
+    "num_suppliers": 1,
+    "num_locations": 3,
+    "locations": [
+      "Lindon, UT",
+      "Ogden, UT",
+      "Salt Lake City, UT"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts"
+    ],
+    "can_add_to_ads": true
+  },
+  "MT": {
+    "has_coverage": true,
+    "num_suppliers": 1,
+    "num_locations": 1,
+    "locations": [
+      "East Side Great Falls, MT"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "MD": {
+    "has_coverage": true,
+    "num_suppliers": 3,
+    "num_locations": 3,
+    "locations": [
+      "Frederick, MD",
+      "Sykesville, MD",
+      "Baltimore, MD"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Skid Steers",
+      "Excavators",
+      "Scissor Lifts",
+      "Telehandlers"
+    ],
+    "can_add_to_ads": true
+  },
+  "NJ": {
+    "has_coverage": true,
+    "num_suppliers": 3,
+    "num_locations": 3,
+    "locations": [
+      "Hillside, NJ",
+      "North Plainfield, NJ",
+      "Fairfield, NJ"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "MS": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": [],
+    "can_add_to_ads": false
+  },
+  "WA": {
+    "has_coverage": true,
+    "num_suppliers": 2,
+    "num_locations": 4,
+    "locations": [
+      "Kent, WA",
+      "Lakewood, WA",
+      "Woodinville, WA",
+      "Moses Lake, WA"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "IN": {
+    "has_coverage": true,
+    "num_suppliers": 1,
+    "num_locations": 1,
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "KS": {
+    "has_coverage": true,
+    "num_suppliers": 1,
+    "num_locations": 1,
+    "locations": [
+      "Kansas City, KS"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "ME": {
+    "has_coverage": true,
+    "num_suppliers": 2,
+    "num_locations": 2,
+    "locations": [
+      "Alfred, ME",
+      "Auburn, ME"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  },
+  "NM": {
+    "has_coverage": true,
+    "num_suppliers": 2,
+    "num_locations": 2,
+    "locations": [
+      "Rio Rancho, NM",
+      "Los Alamos, NM"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts"
+    ],
+    "can_add_to_ads": true
+  },
+  "LA": {
+    "has_coverage": true,
+    "num_suppliers": 2,
+    "num_locations": 3,
+    "locations": [
+      "Baton Rouge, LA",
+      "Sulphur, LA",
+      "St Rose, LA"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Telehandlers",
+      "Scissor Lifts"
+    ],
+    "can_add_to_ads": true
+  },
+  "WI": {
+    "has_coverage": true,
+    "num_suppliers": 1,
+    "num_locations": 1,
+    "locations": [
+      "Butler, WI"
+    ],
+    "equipment": [
+      "Loaders",
+      "Boom Lifts",
+      "Skid Steers",
+      "Excavators",
+      "Scissor Lifts",
+      "Telehandlers"
+    ],
+    "can_add_to_ads": true
+  },
+  "MO": {
+    "has_coverage": true,
+    "num_suppliers": 2,
+    "num_locations": 2,
+    "locations": [
+      "Maryland Heights, MO",
+      "Oak Grove, MO"
+    ],
+    "equipment": [
+      "Loaders",
+      "Forklifts",
+      "Boom Lifts",
+      "Excavators",
+      "Scissor Lifts",
+      "Skid Steers"
+    ],
+    "can_add_to_ads": true
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "task": "Sunstate Equipment Data Gap Fill",
+  "completed": "2026-02-21",
+  "status": "COMPLETE",
+  "zip_fills": [
+    {
+      "row": 4,
+      "address": "12905 Garvey Ave",
+      "city": "Baldwin Park",
+      "state": "CA",
+      "zip_filled": "91706",
+      "source": "USPS"
+    },
+    {
+      "row": 11,
+      "address": "4460 Moreland Ave",
+      "city": "Conley",
+      "state": "GA",
+      "zip_filled": "30288",
+      "source": "USPS"
+    },
+    {
+      "row": 33,
+      "address": "4460 East La Palma Avenue",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip_filled": "92807",
+      "source": "USPS"
+    },
+    {
+      "row": 43,
+      "address": "75 E Equipment Ct",
+      "city": "French Camp",
+      "state": "CA",
+      "zip_filled": "95231",
+      "source": "USPS"
+    },
+    {
+      "row": 65,
+      "address": "1015 N 195th Ave",
+      "city": "Buckeye",
+      "state": "AZ",
+      "zip_filled": "85326",
+      "source": "USPS"
+    },
+    {
+      "row": 66,
+      "address": "14901 S I-35 Frontage Rd",
+      "city": "Buda",
+      "state": "TX",
+      "zip_filled": "78610",
+      "source": "USPS"
+    },
+    {
+      "row": 68,
+      "address": "8200 Industrial Ave",
+      "city": "Roseville",
+      "state": "CA",
+      "zip_filled": "95678",
+      "source": "USPS"
+    },
+    {
+      "row": 69,
+      "address": "3000 S Iowa Ave",
+      "city": "Colton",
+      "state": "CA",
+      "zip_filled": "92324",
+      "source": "USPS"
+    },
+    {
+      "row": 71,
+      "address": "6800 Broadway Ave",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip_filled": "32254",
+      "source": "USPS"
+    },
+    {
+      "row": 72,
+      "address": "3375 S Winchester Rd",
+      "city": "Apache Junction",
+      "state": "AZ",
+      "zip_filled": "85119",
+      "source": "USPS"
+    },
+    {
+      "row": 73,
+      "address": "232 N Padre Island Dr",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip_filled": "78408",
+      "source": "USPS"
+    },
+    {
+      "row": 74,
+      "address": "1360 Magnolia Ave",
+      "city": "El Cajon",
+      "state": "CA",
+      "zip_filled": "92020",
+      "source": "USPS"
+    },
+    {
+      "row": 75,
+      "address": "211 W Plantation Dr",
+      "city": "Clute",
+      "state": "TX",
+      "zip_filled": "77531",
+      "source": "USPS"
+    },
+    {
+      "row": 76,
+      "address": "15518 Beamer Rd",
+      "city": "Friendswood",
+      "state": "TX",
+      "zip_filled": "77546",
+      "source": "USPS"
+    },
+    {
+      "row": 77,
+      "address": "1500 J P Hennessy Dr",
+      "city": "La Vergne",
+      "state": "TN",
+      "zip_filled": "37086",
+      "source": "USPS"
+    },
+    {
+      "row": 78,
+      "address": "4005 N Valley Dr",
+      "city": "Longmont",
+      "state": "CO",
+      "zip_filled": "80504",
+      "source": "USPS"
+    },
+    {
+      "row": 79,
+      "address": "1128 US-70",
+      "city": "Garner",
+      "state": "NC",
+      "zip_filled": "27529",
+      "source": "USPS"
+    },
+    {
+      "row": 83,
+      "address": "7221 Cross Park Dr",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip_filled": "29418",
+      "source": "USPS"
+    }
+  ],
+  "email_fills": [
+    {
+      "row": 80,
+      "email_filled": "dozr@sunstateequip.com",
+      "source": "Standard Sunstate DOZR email"
+    },
+    {
+      "row": 81,
+      "email_filled": "dozr@sunstateequip.com",
+      "source": "Standard Sunstate DOZR email"
+    },
+    {
+      "row": 85,
+      "email_filled": "dozr@sunstateequip.com",
+      "source": "Standard Sunstate DOZR email"
+    }
+  ],
+  "summary": {
+    "zip_codes_filled": 18,
+    "emails_filled": 3,
+    "total_fills": 21
+  }
+}

@@ -1,0 +1,122 @@
+======================================================================
+DOZR SUPPLIER RESEARCH - BLOCKED/INACCESSIBLE WEBSITES REPORT
+Generated: February 5, 2026
+======================================================================
+
+WEBSITES THAT WERE BLOCKED/INACCESSIBLE DURING RESEARCH (14 total)
+----------------------------------------------------------------------
+
+1. Equipment Depot
+   Website: equipmentdepot.com
+   Issue: Website error/blocked
+   Locations in list: Louisville KY, Waco TX, Dallas TX
+
+2. Leavitt Machinery
+   Website: leavittmachinery.com
+   Issue: Cloudflare protection - requires human verification
+   Locations in list: Phoenix AZ, Belle River ON, Brampton ON, Cambridge ON
+
+3. H&E Equipment Services
+   Website: he-equipment.com / heiequipment.com
+   Issue: 404 Not Found
+   Notes: Major rental company, may need correct URL
+
+4. NEFF Rentals
+   Website: neffrental.com
+   Issue: 404 Not Found
+   Notes: May have been acquired or rebranded
+
+5. Herc Rentals
+   Website: hercrentals.com/locations
+   Issue: 404 Not Found (locations page specifically)
+   Notes: Main site works, just couldn't find locations page
+
+6. Cooper Equipment Rentals
+   Website: cooperequipment.ca
+   Issue: 404 redirect
+   Notes: Canadian rental company
+
+7. BlueLine Rental
+   Website: bluelinerental.com
+   Issue: 404 Not Found
+   Notes: Acquired by United Rentals
+
+8. SMS Equipment
+   Website: smsequipment.com
+   Issue: Page Not Found
+   Notes: Canadian equipment dealer
+
+9. Modern Group
+   Website: moderngroupltd.com
+   Issue: Website error
+   Notes: Material handling company
+
+10. RentalMax
+    Website: rentalmax.com
+    Issue: Website error
+
+11. Ahern Rentals
+    Website: ahern.com
+    Issue: Redirects to United Rentals
+    Notes: Acquired by United Rentals
+
+12. National Lift of Arkansas
+    Website: nationalliftofarkansas.com
+    Issue: DNS error - domain doesn't exist
+    Location in list: Springdale AR
+
+13. Best Line Equipment
+    Website: bestlineequip.com
+    Issue: DNS error - domain doesn't exist
+    Location in list: Mechanicsburg PA
+
+14. leppo.com (NOT lepporents.com)
+    Website: leppo.com
+    Issue: Domain hijacked - redirects to malicious site
+    Notes: Correct website is lepporents.com (which was successfully researched)
+
+======================================================================
+SUPPLIERS NEEDING EQUIPMENT VERIFICATION (20 total)
+----------------------------------------------------------------------
+These suppliers were added from the spreadsheet but their equipment
+offerings couldn't be determined from the company name:
+
+1. Select Total Service - Thorold, ON
+2. Maynard Brubacher - Wallenstein, ON
+3. Silver Line Supply LLC - Ponder, TX
+4. Carolina Industrial Trucks - Charlotte, NC
+5. Nors - Vancouver, BC
+6. Jamco - Plant City, FL
+7. Frank's Supply Company - El Paso, TX
+8. Central Power of St Louis MO - Maryland Heights, MO
+9. Carolina Containers & Transport - Raleigh, NC
+10. Roper, Inc. - Odessa, TX
+11. Stewart & Stevenson - Houston, TX
+12. Leavitt Machinery - Phoenix, AZ (blocked by Cloudflare)
+13. Jesco Inc. - Fairfield, NJ
+14. W.D. Matthews Machinery Co - Auburn, ME
+15. Fraza - Canton, MI
+16. Frank's Supply Company - Los Alamos, NM
+17. Leavitt Machinery - Belle River, ON (blocked by Cloudflare)
+18. Taylor Northeast - Baltimore, MD
+19. Leavitt Machinery - Brampton, ON (blocked by Cloudflare)
+20. Leavitt Machinery - Cambridge, ON (blocked by Cloudflare)
+
+======================================================================
+RECOMMENDED ACTIONS
+----------------------------------------------------------------------
+1. Manually verify equipment offerings for the 20 "Needs Verification"
+   suppliers by visiting their websites or calling them
+
+2. For Leavitt Machinery (4 locations): Visit leavittmachinery.com
+   directly in browser to bypass Cloudflare
+
+3. For Equipment Depot (3 locations): Try accessing equipmentdepot.com
+   directly or search for their equipment catalog
+
+4. Companies acquired by United Rentals (BlueLine, Ahern) may need to
+   be removed or updated in your supplier list
+
+5. Companies with non-existent domains (National Lift of Arkansas,
+   Best Line Equipment) may have closed or rebranded - verify current
+   status

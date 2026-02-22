@@ -1,0 +1,82 @@
+{
+  "extraction_date": "2026-02-19",
+  "source": "Home Depot Store Directory",
+  "equipment_focus": ["Aerial & Lifting Equipment", "Earth-Moving Equipment"],
+  "priority_1_states": ["AK", "AL", "AR", "DC", "HI", "IA", "ID", "KY", "ME", "MN", "MT", "ND", "NE", "NV", "SD", "VT", "WV", "WY"],
+  "states_extracted": {
+    "AK": {
+      "state_name": "Alaska",
+      "total_stores": 7,
+      "stores": [
+        {
+          "store_name": "Anchorage",
+          "address": "515 E Tudor Rd",
+          "city": "Anchorage",
+          "state": "AK",
+          "zip": "99503",
+          "phone": "(907)563-9800",
+          "services": ["Rentals", "Home Services", "Garden Center", "Pro Desk"]
+        },
+        {
+          "store_name": "NE Anchorage",
+          "address": "400 Rodeo Place",
+          "city": "Anchorage",
+          "state": "AK",
+          "zip": "99508",
+          "phone": "(907)276-2006",
+          "services": ["Rentals", "Home Services", "Garden Center"]
+        },
+        {
+          "store_name": "SE Anchorage",
+          "address": "1715 Abbott Road",
+          "city": "Anchorage",
+          "state": "AK",
+          "zip": "99507",
+          "phone": "(907)644-5646",
+          "services": ["Rentals", "Home Services", "Garden Center", "Pro Desk"]
+        },
+        {
+          "store_name": "Fairbanks",
+          "address": "1301 Old Steese Hwy",
+          "city": "Fairbanks",
+          "state": "AK",
+          "zip": "99701",
+          "phone": "(907)451-9003",
+          "services": ["Rentals", "Home Services", "Garden Center", "Pro Desk"]
+        },
+        {
+          "store_name": "Wasilla",
+          "address": "1255 E Palmer Wasilla Hwy",
+          "city": "Wasilla",
+          "state": "AK",
+          "zip": "99654",
+          "phone": "(907)357-8181",
+          "services": ["Rentals", "Home Services", "Garden Center", "Pro Desk"]
+        },
+        {
+          "store_name": "Kenai",
+          "address": "10480 Spur Hwy",
+          "city": "Kenai",
+          "state": "AK",
+          "zip": "99611",
+          "phone": "(907)283-2228",
+          "services": ["Rentals", "Home Services", "Garden Center", "Pro Desk"]
+        },
+        {
+          "store_name": "Juneau",
+          "address": "5201 Commercial Blvd",
+          "city": "Juneau",
+          "state": "AK",
+          "zip": "99801",
+          "phone": "(907)463-5034",
+          "services": ["Rentals", "Home Services", "Garden Center"]
+        }
+      ]
+    }
+  },
+  "extraction_progress": {
+    "total_priority_1_states": 18,
+    "completed": 1,
+    "remaining": 17
+  }
+}

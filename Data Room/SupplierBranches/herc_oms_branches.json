@@ -1,0 +1,6329 @@
+{
+  "supplier": "Herc Rentals",
+  "source": "OMS Export",
+  "export_date": "2026-02-19",
+  "total_branches": 316,
+  "oms_enabled_count": 3,
+  "branches": [
+    {
+      "branch_id": "0014100001RbqYLAAZ",
+      "branch_name": "Herc Rentals (9422) - Kansas City MO",
+      "address": "707 East 16th Street",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64108",
+      "phone": "816-476-4915",
+      "email": "bryce.corrigan@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdD2BAAV",
+      "branch_name": "Herc Rentals (9321) - Charlotte NC",
+      "address": "4429 Equipment Drive",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28269",
+      "phone": "704-598-0241",
+      "email": "desmond.mitchell@hercrentals.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdH3UAAV",
+      "branch_name": "Herc Rentals (9331) - North Charleston SC",
+      "address": "6445 Fain Boulevard",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip": "29406",
+      "phone": "843-572-5904",
+      "email": "brandon.nance@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEkeAAF",
+      "branch_name": "Herc Rentals (9508) - Enid OK",
+      "address": "1702 North Van Buren Street",
+      "city": "Enid",
+      "state": "OK",
+      "zip": "73703",
+      "phone": "580-234-7368",
+      "email": "jeffery.caffey@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L3drrQAB",
+      "branch_name": "Herc Rentals (9328) - Winterville NC",
+      "address": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "phone": "252-746-8911",
+      "email": "kelsey.williams@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100000ANBoYAAX",
+      "branch_name": "Herc Rentals (8541) - High River AB",
+      "address": "2015 10 Avenue Southeast",
+      "city": "High River",
+      "state": "AB",
+      "zip": "T1V 2A6",
+      "phone": "403-603-6350",
+      "email": "travis.grant@hercrentals.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100000ANBWZAA5",
+      "branch_name": "Herc Rentals (8225) - Prosolutions - Etobicoke ON",
+      "address": "35 Clairville Road",
+      "city": "Etobicoke",
+      "state": "ON",
+      "zip": "",
+      "phone": "416-679-4180",
+      "email": "gtacentralorders@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100000FB0k8AAD",
+      "branch_name": "Herc (Rapid) - Hamilton ON",
+      "address": "35 Covington Street",
+      "city": "Hamilton",
+      "state": "ON",
+      "zip": "L8E 2Y4",
+      "phone": "416-638-7007",
+      "email": "info@rapid-rents.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100000oyRo0AAE",
+      "branch_name": "Herc Rentals (9588) - Dania Beach FL",
+      "address": "3251 Southwest 26th Terrace",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "zip": "33312",
+      "phone": "954-335-7683",
+      "email": "karissa.leon@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001JZ2CPAA1",
+      "branch_name": "Herc Rentals - Ormond Beach FL",
+      "address": "874 S. Nova Rd.",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "zip": "32174",
+      "phone": "386-252-8296",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdGrVAAV",
+      "branch_name": "Herc Rentals (9330) - Columbia SC",
+      "address": "125 Cort Road",
+      "city": "Columbia",
+      "state": "SC",
+      "zip": "29203",
+      "phone": "803-786-2900",
+      "email": "daniel.seay@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdKV4AAN",
+      "branch_name": "Herc Rentals (9307) - Knoxville TN",
+      "address": "2804 John Deere Drive",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37917",
+      "phone": "865-546-3700",
+      "email": "billy.gibson@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdH1nAAF",
+      "branch_name": "Herc Rentals (9316) - Myrtle Beach SC",
+      "address": "4805 U.S. 501",
+      "city": "Myrtle Beach",
+      "state": "SC",
+      "zip": "29579",
+      "phone": "843-236-2369",
+      "email": "zane.ahmed@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdH9hAAF",
+      "branch_name": "Herc Rentals (9306) - Chattanooga TN",
+      "address": "1913 East 24th Street Place",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37404",
+      "phone": "423-624-6955",
+      "email": "ashley.meekins@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdGxbAAF",
+      "branch_name": "Herc Rentals (9322) - Greer SC",
+      "address": "302 East Frontage Road",
+      "city": "Greer",
+      "state": "SC",
+      "zip": "29651",
+      "phone": "864-877-1806",
+      "email": "nick.thompson1@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdKZ5AAN",
+      "branch_name": "Herc Rentals (9201) - Memphis TN",
+      "address": "287 East Brooks Road",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38109",
+      "phone": "901-398-4372",
+      "email": "justin.degroff@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdGgvAAF",
+      "branch_name": "Herc Rentals (9163) - Philadelphia PA",
+      "address": "6951 Norwitch Drive",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19153",
+      "phone": "215-749-1290",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdKbzAAF",
+      "branch_name": "Herc Rentals (9309) - Nashville TN",
+      "address": "1320 Murfreesboro Pike",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37217",
+      "phone": "615-365-8888",
+      "email": "landon.wylie@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdKkSAAV",
+      "branch_name": "Herc Rentals (9419) - Austin TX",
+      "address": "3737 Airport Boulevard",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78722",
+      "phone": "512-472-5038",
+      "email": "brandon.blum@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLRgAAN",
+      "branch_name": "Herc Rentals (9481) - Dallas TX",
+      "address": "10966 Harry Hines Boulevard",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75220",
+      "phone": "214-352-4891",
+      "email": "rolando.figueroa@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdKmdAAF",
+      "branch_name": "Herc Rentals (9417) - Beaumont TX",
+      "address": "6325 Texas 347",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77705",
+      "phone": "409-727-1390",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLKtAAN",
+      "branch_name": "Herc Rentals (9409) - Conroe TX",
+      "address": "777 North Freeway Service Road",
+      "city": "Conroe",
+      "state": "TX",
+      "zip": "77304",
+      "phone": "936-441-0501",
+      "email": "amber.reyesperez@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLNEAA3",
+      "branch_name": "Herc Rentals (9411) - Corpus Christi, TX",
+      "address": "313 South Padre Island Drive",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78405",
+      "phone": "361-289-1204",
+      "email": "brenda.kleven@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLDxAAN",
+      "branch_name": "Herc Rentals (9479) - Clute TX",
+      "address": "531 Brazosport Boulevard South",
+      "city": "Clute",
+      "state": "TX",
+      "zip": "77531",
+      "phone": "979-265-4060",
+      "email": "jeffory.patterson@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLg4AAF",
+      "branch_name": "Herc Rentals (9403) - El Paso TX",
+      "address": "830 Pendale Road",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79907",
+      "phone": "915-590-9399",
+      "email": "adrian.gonzalez@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdMLGAA3",
+      "branch_name": "Herc Rentals (9615) - West Valley UT",
+      "address": "2120 3600 West",
+      "city": "West Valley City",
+      "state": "UT",
+      "zip": "84119",
+      "phone": "801-977-9944",
+      "email": "kyle.mackay@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLkfAAF",
+      "branch_name": "Herc Rentals (9463) - Fort Worth TX",
+      "address": "3299 North Freeway",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76106",
+      "phone": "817-625-5521",
+      "email": "cade.spraggins@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdMfLAAV",
+      "branch_name": "Herc Rentals (9155) - Gainesville VA",
+      "address": "5529 Wellington Road",
+      "city": "Gainesville",
+      "state": "VA",
+      "zip": "20155",
+      "phone": "703-753-9494",
+      "email": "gainesvillecounter@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdNeFAAV",
+      "branch_name": "Herc Rentals (9120) - Virginia Beach VA",
+      "address": "716 South Military Highway",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23464",
+      "phone": "757-424-2110",
+      "email": "frank.morgan@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLazAAF",
+      "branch_name": "Herc Rentals (9504) - Denton TX",
+      "address": "4637 West University Drive",
+      "city": "Denton",
+      "state": "TX",
+      "zip": "76207",
+      "phone": "940-484-5288",
+      "email": "adam.melton@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLmvAAF",
+      "branch_name": "Herc Rentals (9412) - Houston TX",
+      "address": "6230 South Loop East Freeway",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77087",
+      "phone": "713-641-2391",
+      "email": "houcentralres@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdM4kAAF",
+      "branch_name": "Herc Rentals (9449) - Midland TX",
+      "address": "8282 Interstate 20",
+      "city": "Midland",
+      "state": "TX",
+      "zip": "",
+      "phone": "432-563-0361",
+      "email": "colten.smith@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOefAAF",
+      "branch_name": "Herc Rentals (9781) - Seattle WA",
+      "address": "4233 Leary Way Northwest",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98107",
+      "phone": "206-782-4200",
+      "email": "alvy.fernandezsantiago@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOiDAAV",
+      "branch_name": "Herc Rentals (9126) - South Charleston WV",
+      "address": "1000 Kramer Street",
+      "city": "Charleston",
+      "state": "WV",
+      "zip": "25309",
+      "phone": "304-744-7368",
+      "email": "joshua.bellew@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdMlYAAV",
+      "branch_name": "Herc Rentals (9160) - Richmond VA",
+      "address": "9300 Burge Avenue",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23237",
+      "phone": "804-271-6473",
+      "email": "david.hensley@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdLvYAAV",
+      "branch_name": "Herc Rentals (9410) - La Feria TX",
+      "address": "1801 West Expressway 83",
+      "city": "La Feria",
+      "state": "TX",
+      "zip": "78559",
+      "phone": "956-797-4747",
+      "email": "carlos.rios@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOM7AAN",
+      "branch_name": "Herc Rentals (9719) - Burlington WA",
+      "address": "685 Fisher Lane",
+      "city": "Burlington",
+      "state": "WA",
+      "zip": "98233",
+      "phone": "360-707-5571",
+      "email": "ryan.morton@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdNhdAAF",
+      "branch_name": "Herc Rentals (9156) - Sterling VA",
+      "address": "23745 Pebble Run Place",
+      "city": "Sterling",
+      "state": "VA",
+      "zip": "20166",
+      "phone": "703-996-1415",
+      "email": "bryce.hunsucker@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOkxAAF",
+      "branch_name": "Herc Rentals (9141) - Oak Creek WI",
+      "address": "950 West Rawson Avenue",
+      "city": "Oak Creek",
+      "state": "WI",
+      "zip": "53154",
+      "phone": "414-768-1811",
+      "email": "9141_milwaukee@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdNagAAF",
+      "branch_name": "Herc Rentals (9125) - Roanoke VA",
+      "address": "2315 Patterson Avenue Southwest",
+      "city": "Roanoke",
+      "state": "VA",
+      "zip": "24016",
+      "phone": "540-982-0005",
+      "email": "danny.mcpeak@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOFGAA3",
+      "branch_name": "Herc Rentals (9712) - Bellevue WA",
+      "address": "13200 Bel-Red Road",
+      "city": "Bellevue",
+      "state": "WA",
+      "zip": "98005",
+      "phone": "425-453-4045",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdMPIAA3",
+      "branch_name": "Herc Rentals (9401) - Orem UT",
+      "address": "840 Industrial Park Road",
+      "city": "Orem",
+      "state": "UT",
+      "zip": "84057",
+      "phone": "801-226-1392",
+      "email": "rachel.walker@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdONoAAN",
+      "branch_name": "Herc Rentals (9714) - Everett WA",
+      "address": "3516 McDougall Avenue",
+      "city": "Everett",
+      "state": "WA",
+      "zip": "98201",
+      "phone": "425-303-6900",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOanAAF",
+      "branch_name": "Herc Rentals (9721) - Seattle WA",
+      "address": "5055 4th Avenue South",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98134",
+      "phone": "206-934-5700",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOXAAA3",
+      "branch_name": "Herc Rentals (9711) - Richland WA",
+      "address": "266 Wellsian Way",
+      "city": "Richland",
+      "state": "WA",
+      "zip": "99352",
+      "phone": "509-943-1163",
+      "email": "kennis.catt@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdM9zAAF",
+      "branch_name": "Herc Rentals (9407) - Texas City TX",
+      "address": "102 Texas 146 N",
+      "city": "Texas City",
+      "state": "TX",
+      "zip": "77590",
+      "phone": "409-945-5131",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdM7FAAV",
+      "branch_name": "Herc Rentals (9416) - San Antonio TX",
+      "address": "668 North Ww White Road",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78219",
+      "phone": "210-661-4281",
+      "email": "louis.flores@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOPVAA3",
+      "branch_name": "Herc Rentals (9722) - Fife WA",
+      "address": "4403 20th Street East",
+      "city": "Fife",
+      "state": "WA",
+      "zip": "98424",
+      "phone": "253-922-3852",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOGnAAN",
+      "branch_name": "Herc Rentals (9769) - Bellingham WA",
+      "address": "1840 North State Street",
+      "city": "Bellingham",
+      "state": "WA",
+      "zip": "98225",
+      "phone": "360-734-2900",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOSoAAN",
+      "branch_name": "Herc Rentals (9710) - Olympia WA",
+      "address": "9404 Kimmie Street Southwest",
+      "city": "Olympia",
+      "state": "WA",
+      "zip": "98512",
+      "phone": "360-491-9424",
+      "email": "bradley.stephens@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdOmZAAV",
+      "branch_name": "Herc Rentals (9601) - Cheyenne WY",
+      "address": "707 East Fox Farm Road",
+      "city": "Cheyenne",
+      "state": "WY",
+      "zip": "",
+      "phone": "307-635-1255",
+      "email": "michael.quintal@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexpYAAR",
+      "branch_name": "Herc Rentals (8577) - Calgary AB",
+      "address": "4747 25 Street Southeast",
+      "city": "Calgary",
+      "state": "AB",
+      "zip": "T2B 3R9",
+      "phone": "403-287-9494",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexgvAAB",
+      "branch_name": "Herc Rentals (8516) - Bonnyville AB",
+      "address": "Unit #103 7301 50 Avenue",
+      "city": "Bonnyville",
+      "state": "AB",
+      "zip": "T9N 2P3",
+      "phone": "780-812-3433",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexrUAAR",
+      "branch_name": "Herc Rentals (8505) - Edmonton AB",
+      "address": "8660 61 Avenue Northwest",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6E 5P6",
+      "phone": "780-435-3711",
+      "email": "tony.grandison@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexefAAB",
+      "branch_name": "Herc Rentals (8529) - Anzac AB",
+      "address": "118 Gilmore Drive",
+      "city": "Anzac",
+      "state": "AB",
+      "zip": "T0P 1J0",
+      "phone": "780-334-2024",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sexm5AAB",
+      "branch_name": "Herc Rentals (8506) - Calgary AB",
+      "address": "116 Meridian Road Southeast",
+      "city": "Calgary",
+      "state": "AB",
+      "zip": "T2A 1X2",
+      "phone": "403-248-5414",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexnNAAR",
+      "branch_name": "Herc Rentals (8513) - Calgary AB",
+      "address": "4398 112 Avenue Southeast",
+      "city": "Calgary",
+      "state": "AB",
+      "zip": "T2C 2K2",
+      "phone": "403-287-9494",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexwoAAB",
+      "branch_name": "Herc Rentals (8520) - Edmonton AB",
+      "address": "7905 50 Street Northwest",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6B 1E5",
+      "phone": "780-465-2100",
+      "email": "tony.grandison@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SexkTAAR",
+      "branch_name": "Herc Rentals (8504) - Calgary AB",
+      "address": "4747 25 Street Southeast",
+      "city": "Calgary",
+      "state": "AB",
+      "zip": "T2B 3R9",
+      "phone": "403-287-9065",
+      "email": "herccalgary@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sey3aAAB",
+      "branch_name": "Herc Rentals (8533) - Edmonton AB",
+      "address": "8801 24 Street Northwest",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6E 1L2",
+      "phone": "780-400-0998",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sey8LAAR",
+      "branch_name": "Herc Rentals (8502) - Fort McMurray AB",
+      "address": "105 Mackay Crescent",
+      "city": "Fort McMurray",
+      "state": "AB",
+      "zip": "T9H 4C9",
+      "phone": "780-743-6233",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyJ9AAJ",
+      "branch_name": "Herc Rentals (8518) - Peace River AB",
+      "address": "8121 74 Street",
+      "city": "Peace River",
+      "state": "AB",
+      "zip": "T8S 0A5",
+      "phone": "780-624-2929",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyPbAAJ",
+      "branch_name": "Herc Rentals (8507) -  Surrey BC",
+      "address": "12135 86 Avenue",
+      "city": "Surrey",
+      "state": "BC",
+      "zip": "V3W 3H8",
+      "phone": "604-599-7368",
+      "email": "mike.wait@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sey5gAAB",
+      "branch_name": "Herc Rentals (8578) - Edmonton AB",
+      "address": "8660 61 Avenue Northwest",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6E 5P6",
+      "phone": "780-435-3711",
+      "email": "tony.grandison@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sey1ZAAR",
+      "branch_name": "Herc Rentals (8532) - Edmonton AB",
+      "address": "8801 24 Street Northwest",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T6E 1L2",
+      "phone": "780-400-0997",
+      "email": "errorderdesk@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyEsAAJ",
+      "branch_name": "Herc Rentals (8513) - Grande Prairie AB",
+      "address": "10801 78 Avenue",
+      "city": "Grande Prairie",
+      "state": "AB",
+      "zip": "T8W 2L2",
+      "phone": "780-538-9499",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyGoAAJ",
+      "branch_name": "Herc Rentals (8576) - Hinton AB",
+      "address": "113 King Street",
+      "city": "Hinton",
+      "state": "AB",
+      "zip": "T7V 1G7",
+      "phone": "780-740-0236",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyLKAAZ",
+      "branch_name": "Herc Rentals (8501) - Red Deer AB",
+      "address": "7899 Gaetz Avenue",
+      "city": "Red Deer",
+      "state": "AB",
+      "zip": "T4P 2S4",
+      "phone": "403-342-7220",
+      "email": "cody.rochon@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyCIAAZ",
+      "branch_name": "Herc Rentals (8530) - Fort Saskatchewan AB",
+      "address": "88 Avenue",
+      "city": "Fort Saskatchewan",
+      "state": "AB",
+      "zip": "T8L 3W5",
+      "phone": "780-992-7218",
+      "email": "larry.gustafson@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyNLAAZ",
+      "branch_name": "Herc Rentals (8521) - Whitecourt AB",
+      "address": "5221 59 Street",
+      "city": "Whitecourt",
+      "state": "AB",
+      "zip": "T7S 1N9",
+      "phone": "780-778-4411",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sez4aAAB",
+      "branch_name": "Herc Rentals (8239) - Goderich ON",
+      "address": "561 Bayfield Road",
+      "city": "Goderich",
+      "state": "ON",
+      "zip": "N7A 3X8",
+      "phone": "519-440-5942",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeybOAAR",
+      "branch_name": "Herc Rentals (8510) - Winnipeg MB",
+      "address": "1600 Gamble Place",
+      "city": "Winnipeg",
+      "state": "MB",
+      "zip": "R3T 3L7",
+      "phone": "204-488-4929",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SezWAAAZ",
+      "branch_name": "Herc Rentals (8204) - Ottawa ON",
+      "address": "860 Belfast Road",
+      "city": "Ottawa",
+      "state": "ON",
+      "zip": "K1G 0Z6",
+      "phone": "613-244-4388",
+      "email": "akshay.patil@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SezF9AAJ",
+      "branch_name": "Herc Rentals (8208) - Kingston ON",
+      "address": "15 Terry Fox Drive",
+      "city": "Kingston",
+      "state": "ON",
+      "zip": "K7M 7K5",
+      "phone": "613-530-3741",
+      "email": "wesley.young@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SeyvJAAR",
+      "branch_name": "Herc Rentals (8240) - Cambridge ON",
+      "address": "500 Collier Macmillan Drive",
+      "city": "Cambridge",
+      "state": "ON",
+      "zip": "N1R 6R5",
+      "phone": "519-624-7940",
+      "email": "gtacentralorders@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sez8DAAR",
+      "branch_name": "Herc Rentals (8222) - Hamilton ON",
+      "address": "2418 Barton Street East",
+      "city": "Hamilton",
+      "state": "ON",
+      "zip": "L8E 2W7",
+      "phone": "905-545-2233",
+      "email": "gtacentralorders@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SezJGAAZ",
+      "branch_name": "Herc Rentals (8224) - London ON",
+      "address": "26 Royce Court",
+      "city": "London",
+      "state": "ON",
+      "zip": "N6E 1L1",
+      "phone": "519-649-7014",
+      "email": "ritch.venhuizen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SezNcAAJ",
+      "branch_name": "Herc Rentals (8223) - Oshawa ON",
+      "address": "411 Bloor Street West",
+      "city": "Oshawa",
+      "state": "ON",
+      "zip": "L1J 5Y5",
+      "phone": "905-404-8411",
+      "email": "gtacentralorders@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SezwhAAB",
+      "branch_name": "Herc Rentals (8207) - Sarnia ON",
+      "address": "526 Vidal Street South",
+      "city": "Sarnia",
+      "state": "ON",
+      "zip": "N7T 2V6",
+      "phone": "519-336-4020",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SezydAAB",
+      "branch_name": "Herc Rentals (8205) - St Catharines ON",
+      "address": "278 Saint Paul Street West",
+      "city": "St. Catharines",
+      "state": "ON",
+      "zip": "L2S 2E7",
+      "phone": "905-687-8255",
+      "email": "bradley.finamore@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sf1eVAAR",
+      "branch_name": "Herc Rentals (8515) - Saskatoon SK",
+      "address": "3611 Arthur Rose Avenue",
+      "city": "Saskatoon",
+      "state": "SK",
+      "zip": "S7K 4K2",
+      "phone": "306-242-5853",
+      "email": "olha.shuliak@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sf06rAAB",
+      "branch_name": "Herc Rentals (8252) - Toronto ON",
+      "address": "6900 Finch Avenue West",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M9W 0A8",
+      "phone": "416-679-4180",
+      "email": "gtacentralorders@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sf0CuAAJ",
+      "branch_name": "Herc Rentals (8206) - Windsor ON",
+      "address": "5225 County Road 42",
+      "city": "Tecumseh",
+      "state": "ON",
+      "zip": "N8N 2M1",
+      "phone": "519-972-8144",
+      "email": "cori.vallee@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sf05FAAR",
+      "branch_name": "Herc Rentals (8203) - Toronto ON",
+      "address": "6900 Finch Avenue West",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "",
+      "phone": "416-679-4180",
+      "email": "gtacentralreservations@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Sf0qKAAR",
+      "branch_name": "Herc Rentals (8514) - Regina SK",
+      "address": "625 Winnipeg Street",
+      "city": "Regina",
+      "state": "SK",
+      "zip": "S4P 3C6",
+      "phone": "306-775-2214",
+      "email": "devin.chobanik@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001guyUEAAY",
+      "branch_name": "Herc Rentals (9777) - Kapolei HI",
+      "address": "91-209 Kalaeloa Boulevard",
+      "city": "Kapolei",
+      "state": "HI",
+      "zip": "96707",
+      "phone": "808-682-8200",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001V5gA4AAJ",
+      "branch_name": "Herc (Rapid) - Toronto ON",
+      "address": "5 Saint Regis Crescent North",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M3J 1Y9",
+      "phone": "647-598-5030",
+      "email": "orderdesk@rapid-rents.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001V5gJpAAJ",
+      "branch_name": "Herc (Rapid) - Barrie ON",
+      "address": "720 Bayview Dr",
+      "city": "Barrie",
+      "state": "ON",
+      "zip": "L4N 9A6",
+      "phone": "705-798-1040",
+      "email": "orderdesk@rapid-rents.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001V5gNRAAZ",
+      "branch_name": "Herc (Rapid) - Ajax ON",
+      "address": "232 Mackenzie Avenue",
+      "city": "Ajax",
+      "state": "ON",
+      "zip": "L1S 2E8",
+      "phone": "905-427-7444",
+      "email": "orderdesk@rapid-rents.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001JYrN9AAL",
+      "branch_name": "Herc Rentals - Lebanon TN",
+      "address": "1325 W. Main St.",
+      "city": "Lebanon",
+      "state": "TN",
+      "zip": "37087",
+      "phone": "615-443-7368",
+      "email": "joshua.eatherly@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001JZi3nAAD",
+      "branch_name": "Herc Rentals (9372) - Orlando FL",
+      "address": "10655 Central Port Drive",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "407-240-2132",
+      "email": "carlos.bunton@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001JZmlbAAD",
+      "branch_name": "Herc Rentals (9350) - Miami",
+      "address": "5850 Northwest 77th Court",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33166",
+      "phone": "305-592-5770",
+      "email": "blake.davis@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001NfOZqAAN",
+      "branch_name": "Herc Rentals (9212) - Manalapan NJ",
+      "address": "397 New Jersey 33",
+      "city": "Manalapan Township",
+      "state": "NJ",
+      "zip": "07726",
+      "phone": "732-901-7368",
+      "email": "jennifer.wiamer@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001QKSzUAAX",
+      "branch_name": "Herc Rentals 9951 - Astoria NY (Formerly Durante Rentals)",
+      "address": "20-19 42nd Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "11105",
+      "phone": "929-464-8995",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001QKhUMAA1",
+      "branch_name": "Herc Rentals (9351)  - Riviera Beach, FL",
+      "address": "3849 West Blue Heron Boulevard",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "zip": "33404",
+      "phone": "561-848-4336",
+      "email": "mike.malterer@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001QN8nLAAT",
+      "branch_name": "Herc Rentals (9469) - Longview, TX",
+      "address": "5001 West Loop 281",
+      "city": "Longview",
+      "state": "TX",
+      "zip": "75603",
+      "phone": "903-757-4171",
+      "email": "justin.holman@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaOEXAA3",
+      "branch_name": "Herc Rentals (9355) - Madison AL",
+      "address": "212 Lime Quarry Road",
+      "city": "Madison",
+      "state": "AL",
+      "zip": "35758",
+      "phone": "256-461-7384",
+      "email": "nicholas.boren@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaOQiAAN",
+      "branch_name": "Herc Rentals (9268) - Mobile AL",
+      "address": "1907 North Beltline Highway",
+      "city": "Mobile",
+      "state": "AL",
+      "zip": "36618",
+      "phone": "251-470-8600",
+      "email": "hayden.haynes@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaOSyAAN",
+      "branch_name": "Herc Rentals (9354) - Pelham AL",
+      "address": "2150 Pelham Parkway",
+      "city": "Pelham",
+      "state": "AL",
+      "zip": "35124",
+      "phone": "205-988-8530",
+      "email": "aaron.stewart@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaNxnAAF",
+      "branch_name": "Herc Equipment Rentals - Bonita Springs, FL - Corporate HQ",
+      "address": "27500 Riverview Center Boulevard",
+      "city": "Bonita Springs",
+      "state": "FL",
+      "zip": "34134",
+      "phone": "239-301-1000",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaOwHAAV",
+      "branch_name": "Herc Rentals (9632) - Tucson AZ",
+      "address": "6902 South Nogales Highway",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85756",
+      "phone": "520-573-1344",
+      "email": "azcentralservices@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaPgzAAF",
+      "branch_name": "Herc Rentals (9237) - Little Rock AR",
+      "address": "10800 Interstate 30",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72209",
+      "phone": "501-455-0009",
+      "email": "ffilipi@dozr.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaQbUAAV",
+      "branch_name": "Herc Rentals (9748) - Benicia CA",
+      "address": "5251 Industrial Way",
+      "city": "Benicia",
+      "state": "CA",
+      "zip": "94510",
+      "phone": "707-747-4444",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaOnFAAV",
+      "branch_name": "Herc Rentals (9630) - Phoenix, AZ",
+      "address": "2010 North Black Canyon Highway",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85009",
+      "phone": "602-269-5931",
+      "email": "azcentralservices@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaPK9AAN",
+      "branch_name": "Herc Rentals (9428) - Peoria AZ",
+      "address": "12040 North 91st Avenue",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip": "85345",
+      "phone": "623-760-0631",
+      "email": "azcentralservices@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaPt7AAF",
+      "branch_name": "Herc Rentals (9438) - Springdale AR",
+      "address": "4269 Wagon Wheel Road",
+      "city": "Springdale",
+      "state": "AR",
+      "zip": "72762",
+      "phone": "479-750-3313",
+      "email": "blake.curtis@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaTatAAF",
+      "branch_name": "Herc Rentals (9746) - Livermore CA",
+      "address": "5237 Southfront Road",
+      "city": "Livermore",
+      "state": "CA",
+      "zip": "94551",
+      "phone": "925-373-4444",
+      "email": "noa.fabris@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaR1zAAF",
+      "branch_name": "Herc Rentals (9638) - Carson CA",
+      "address": "22422 Alameda Street",
+      "city": "Carson",
+      "state": "CA",
+      "zip": "90810",
+      "phone": "310-233-5000",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaQh4AAF",
+      "branch_name": "Herc Rentals (9747) - Berkely CA",
+      "address": "1475 Eastshore Highway",
+      "city": "Berkeley",
+      "state": "CA",
+      "zip": "94710",
+      "phone": "510-559-4444",
+      "email": "eric.jones1@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaT3GAAV",
+      "branch_name": "Herc Rentals (9641)- Indio CA",
+      "address": "81-495 Industrial Place",
+      "city": "Indio",
+      "state": "CA",
+      "zip": "92201",
+      "phone": "760-342-9008",
+      "email": "la_central_ordering_group@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaPyHAAV",
+      "branch_name": "Herc Rentals (9649) - Adelanto CA",
+      "address": "16600 Koala Road",
+      "city": "Adelanto",
+      "state": "CA",
+      "zip": "92301",
+      "phone": "760-246-0370",
+      "email": "la_central_ordering_group@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaRHeAAN",
+      "branch_name": "Herc Rentals (9740) - Corte Madera CA",
+      "address": "5750 Paradise Drive",
+      "city": "Corte Madera",
+      "state": "CA",
+      "zip": "94925",
+      "phone": "415-924-4444",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaThpAAF",
+      "branch_name": "Herc Rentals (9733) - Modesto CA",
+      "address": "2030 Crows Landing Road",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95358",
+      "phone": "209-581-9782",
+      "email": "jesus.segura@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaOfTAAV",
+      "branch_name": "Herc Rentals (9631) - Gilbert AZ",
+      "address": "755 East Baseline Road",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "85233",
+      "phone": "480-507-1680",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaSw0AAF",
+      "branch_name": "Herc Rentals (9644) - Fresno CA",
+      "address": "3057 South Golden State Frontage Road",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93725",
+      "phone": "559-497-1960",
+      "email": "wisaak@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaRYCAA3",
+      "branch_name": "Herc Rentals (9647) - Foothill Ranch CA",
+      "address": "25831 Wright Street",
+      "city": "Lake Forest",
+      "state": "CA",
+      "zip": "92610",
+      "phone": "949-581-7712",
+      "email": "lindsay.henderson@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RanqpAAB",
+      "branch_name": "Herc Rentals (9637) - San Diego CA",
+      "address": "8014 Miramar Road",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92126",
+      "phone": "858-566-5500",
+      "email": "la_central_ordering_group@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaR1pAAF",
+      "branch_name": "Herc Rentals (9371) Sarasota, FL",
+      "address": "3450 North Washington Boulevard",
+      "city": "Sarasota",
+      "state": "FL",
+      "zip": "34234",
+      "phone": "941-360-9552",
+      "email": "kaden.clark@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RamK4AAJ",
+      "branch_name": "Herc Rentals (9634) - Riverside CA",
+      "address": "929 West La Cadena Drive",
+      "city": "Riverside",
+      "state": "CA",
+      "zip": "92501",
+      "phone": "951-684-4991",
+      "email": "la_central_ordering_group@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RamOGAAZ",
+      "branch_name": "Herc Rentals (9741) - Rohnert Park CA",
+      "address": "5500 Commerce Boulevard",
+      "city": "Rohnert Park",
+      "state": "CA",
+      "zip": "94928",
+      "phone": "707-586-6491",
+      "email": "gina.moyer@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaoqiAAB",
+      "branch_name": "Herc Rentals (9744) - Ukiah CA",
+      "address": "100 West Lake Mendocino Drive",
+      "city": "Ukiah",
+      "state": "CA",
+      "zip": "95482",
+      "phone": "707-463-5844",
+      "email": "heath.dowdy@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rao5uAAB",
+      "branch_name": "Herc Rentals (9749) - San Francisco CA",
+      "address": "435 South Van Ness Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94103",
+      "phone": "415-865-4444",
+      "email": "michael.peloquin@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaontAAB",
+      "branch_name": "Herc Rentals (9646) - Taft CA",
+      "address": "800 Black Gold Court",
+      "city": "Taft",
+      "state": "CA",
+      "zip": "93268",
+      "phone": "661-763-1061",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaQ66AAF",
+      "branch_name": "Herc Rentals (9635) - Anaheim CA",
+      "address": "3040 East Miraloma Avenue",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "92806",
+      "phone": "714-666-3100",
+      "email": "la_central_ordering_group@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RanDxAAJ",
+      "branch_name": "Herc Rentals (9735) - Salinas CA",
+      "address": "718 Abbott Street",
+      "city": "Salinas",
+      "state": "CA",
+      "zip": "93901",
+      "phone": "831-751-2444",
+      "email": "reynaldo.salazar@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Raoh2AAB",
+      "branch_name": "Herc Rentals (9738) - San Jose CA",
+      "address": "1695 North 4th Street",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95112",
+      "phone": "408-451-9320",
+      "email": "jason.gomes@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaoieAAB",
+      "branch_name": "Herc Rentals (9640) - Santa Maria CA",
+      "address": "3475 Orcutt Road",
+      "city": "Santa Maria",
+      "state": "CA",
+      "zip": "93455",
+      "phone": "805-934-0564",
+      "email": "joann.jaime@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rar0dAAB",
+      "branch_name": "Herc Rentals (9639) - Ventura CA",
+      "address": "3500 Market Street",
+      "city": "Ventura",
+      "state": "CA",
+      "zip": "93003",
+      "phone": "805-658-9100",
+      "email": "joel.alejo@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RalqtAAB",
+      "branch_name": "Herc Rentals (9633) - North Hollywood CA",
+      "address": "5556 Vineland Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "91601",
+      "phone": "818-762-9282",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Ran6FAAR",
+      "branch_name": "Herc Rentals (9732) - Roseville CA",
+      "address": "10680 Industrial Avenue",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "95678",
+      "phone": "916-781-9400",
+      "email": "a_central_ordering_group@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaR9UAAV",
+      "branch_name": "Herc Rentals (9725) - Chico CA",
+      "address": "571 Country Drive",
+      "city": "Chico",
+      "state": "CA",
+      "zip": "95928",
+      "phone": "530-566-9335",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RamBWAAZ",
+      "branch_name": "Herc Rentals (9726) - Pacheco CA",
+      "address": "30 South Buchanan Circle",
+      "city": "Pacheco",
+      "state": "CA",
+      "zip": "94553",
+      "phone": "925-680-0316",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaQTZAA3",
+      "branch_name": "Herc Rentals (9643) - Bakersfield CA",
+      "address": "6315 Snow Road",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93308",
+      "phone": "661-392-3661",
+      "email": "dylan.moore@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaRcJAAV",
+      "branch_name": "Herc Rentals (9731) - French Camp CA",
+      "address": "11285 Vallejo Court",
+      "city": "French Camp",
+      "state": "CA",
+      "zip": "95231",
+      "phone": "209-982-9670",
+      "email": "jazmin.ortega@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RaTQUAA3",
+      "branch_name": "Herc Rentals (9645) - Lancaster CA",
+      "address": "45710 23rd Street West",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93536",
+      "phone": "661-945-1180",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RamHZAAZ",
+      "branch_name": "Herc Rentals (9625) - Paso Robles CA",
+      "address": "2140 Tractor Street",
+      "city": "Paso Robles",
+      "state": "CA",
+      "zip": "93446",
+      "phone": "805-237-3745",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb0mpAAB",
+      "branch_name": "Herc Rentals (9348) - Fort Myers FL",
+      "address": "2401 North Airport Road",
+      "city": "Fort Myers",
+      "state": "FL",
+      "zip": "33907",
+      "phone": "239-936-2700",
+      "email": "andrew.mehan@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RarfeAAB",
+      "branch_name": "Herc's Rentals (9172) - North Haven CT",
+      "address": "440 Sackett Point Road",
+      "city": "North Haven",
+      "state": "CT",
+      "zip": "06473",
+      "phone": "203-287-0160",
+      "email": "eric.luersen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RarByAAJ",
+      "branch_name": "Herc Rentals (9730) - Sacramento CA",
+      "address": "901 Stillwater Road",
+      "city": "West Sacramento",
+      "state": "CA",
+      "zip": "95605",
+      "phone": "916-372-2266",
+      "email": "jazmin.ortega@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RarX6AAJ",
+      "branch_name": "Herc Rentals (9671) - Henderson CO ",
+      "address": "7750 East 96th Avenue",
+      "city": "Henderson",
+      "state": "CO",
+      "zip": "80640",
+      "phone": "303-650-9000",
+      "email": "chad.stoner@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb0vsAAB",
+      "branch_name": "Herc Rentals (9373) - Jacksonville FL",
+      "address": "11451 Philips Highway",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32256",
+      "phone": "904-262-5838",
+      "email": "ryan.fitzpatrick@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb1hDAAR",
+      "branch_name": "Herc Rentals (9274) - Pensacola FL",
+      "address": "3838 West Navy Boulevard",
+      "city": "Pensacola",
+      "state": "FL",
+      "zip": "32507",
+      "phone": "850-455-3928",
+      "email": "christa.pettijohn@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb15EAAR",
+      "branch_name": "Herc Rentals (9370) - Lakeland FL",
+      "address": "4609 U.S. 92",
+      "city": "Lakeland",
+      "state": "FL",
+      "zip": "33801",
+      "phone": "863-668-0393",
+      "email": "blake.davis@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb2PUAAZ",
+      "branch_name": "Herc Rentals (9375) - Sanford FL",
+      "address": "1501 West 1st Street",
+      "city": "Sanford",
+      "state": "FL",
+      "zip": "32771",
+      "phone": "407-268-3964",
+      "email": "jean.lumaine@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb1ydAAB",
+      "branch_name": "Herc Rentals (9367) - Pompano Beach FL",
+      "address": "470 Southwest 9th Terrace",
+      "city": "Pompano Beach",
+      "state": "FL",
+      "zip": "33069",
+      "phone": "954-970-6880",
+      "email": "cody.hatch@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb3plAAB",
+      "branch_name": "Herc Rentals (9333) - Augusta GA",
+      "address": "2017 Rawley Road",
+      "city": "Augusta",
+      "state": "GA",
+      "zip": "30906",
+      "phone": "706-796-0823",
+      "email": "kenneth.holden@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbAlMAAV",
+      "branch_name": "Herc Rentals (9113) - Chicago IL",
+      "address": "4039 South Peoria Street",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60609",
+      "phone": "773-247-6297",
+      "email": "ffilipi@dozr.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbA3bAAF",
+      "branch_name": "Herc Rentals (9346) - Savannah GA",
+      "address": "514 Bourne Avenue",
+      "city": "Savannah",
+      "state": "GA",
+      "zip": "31408",
+      "phone": "912-964-9474",
+      "email": "christy.parker@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbCLBAA3",
+      "branch_name": "Herc Rentals (9102) - Fort Wayne IN",
+      "address": "3250 Coliseum Boulevard West",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46808",
+      "phone": "260-482-2224",
+      "email": "hunter.massingill@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RboUlAAJ",
+      "branch_name": "Herc Rentals (9242) - Kenner LA",
+      "address": "141 West Airline Highway",
+      "city": "Kenner",
+      "state": "LA",
+      "zip": "70062",
+      "phone": "504-441-8100",
+      "email": "derek.torregano@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpEhAAJ",
+      "branch_name": "Herc Rentals (9169) - Washington DC",
+      "address": "8400 Westphalia Road",
+      "city": "Upper Marlboro",
+      "state": "MD",
+      "zip": "",
+      "phone": "301-684-4319",
+      "email": "dccounter@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbpv3AAB",
+      "branch_name": "Herc Rentals (9128) - Romulus MI",
+      "address": "29125 Smith Road",
+      "city": "Romulus",
+      "state": "MI",
+      "zip": "48174",
+      "phone": "734-595-7075",
+      "email": "hunter.massingill@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqQ2AAJ",
+      "branch_name": "Herc Rentals (9213) - Tupelo MS",
+      "address": "1175 D L Collums Drive",
+      "city": "Tupelo",
+      "state": "MS",
+      "zip": "38801",
+      "phone": "662-680-3183",
+      "email": "daniel.whitehead@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqSmAAJ",
+      "branch_name": "Herc Rentals (9472) - Joplin MO",
+      "address": "2315 East 7th Street",
+      "city": "Joplin",
+      "state": "MO",
+      "zip": "64801",
+      "phone": "417-659-8763",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb43YAAR",
+      "branch_name": "Herc Rentals (9336) - College Park GA",
+      "address": "4916 Clark Howell Highway",
+      "city": "College Park",
+      "state": "GA",
+      "zip": "30349",
+      "phone": "404-765-9226",
+      "email": "brian.yeager@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb72UAAR",
+      "branch_name": "Herc Rentals (9339) - Marietta GA",
+      "address": "1013 Sandy Plains Road",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30066",
+      "phone": "770-420-8300",
+      "email": "aidan.goricki@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbCBkAAN",
+      "branch_name": "Herc Rentals (9137) - Naperville IL",
+      "address": "31W350 Diehl Road",
+      "city": "Naperville",
+      "state": "IL",
+      "zip": "60563",
+      "phone": "312-842-7114",
+      "email": "naperville_complex@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbo7cAAB",
+      "branch_name": "Herc Rentals (9288) -  Pump and Power - Harvey LA",
+      "address": "1421 MacArthur Avenue",
+      "city": "Harvey",
+      "state": "LA",
+      "zip": "70058",
+      "phone": "504-371-6631",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpLdAAJ",
+      "branch_name": "Herc Rentals (9114) - Frederick MD",
+      "address": "4622 Wedgewood Boulevard",
+      "city": "Frederick",
+      "state": "MD",
+      "zip": "21703",
+      "phone": "301-696-3040",
+      "email": "brett.zimmerman@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpXZAAZ",
+      "branch_name": "Herc Rentals (9108) - Worcester MA",
+      "address": "183 Southwest Cutoff",
+      "city": "Worcester",
+      "state": "MA",
+      "zip": "01604",
+      "phone": "508-719-8646",
+      "email": "worcestercounter@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbvYuAAJ",
+      "branch_name": "Herc Rentals (9167) - Newark NJ",
+      "address": "67 Doremus Avenue",
+      "city": "Newark",
+      "state": "NJ",
+      "zip": "07105",
+      "phone": "973-567-3461",
+      "email": "newarkcounter@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb2yiAAB",
+      "branch_name": "Herc Rentals (9368) - Tampa FL",
+      "address": "5725 East Adamo Drive",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33619",
+      "phone": "813-623-6581",
+      "email": "sarah.mitchell@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpALAAZ",
+      "branch_name": "Herc Rentals (9180) - Scarborough ME",
+      "address": "148 Pleasant Hill Road",
+      "city": "Scarborough",
+      "state": "ME",
+      "zip": "04074",
+      "phone": "207-885-0101",
+      "email": "richard.chelton@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqklAAB",
+      "branch_name": "Herc Rentals (9661) - Las Vegas NV",
+      "address": "4555 South Wynn Road",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89103",
+      "phone": "702-791-1100",
+      "email": "michael.byrne@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbvyYAAR",
+      "branch_name": "Herc Rentals (9175) - South Hackensack NJ",
+      "address": "49 Wesley Street",
+      "city": "South Hackensack",
+      "state": "NJ",
+      "zip": "07606",
+      "phone": "201-645-4257",
+      "email": "newarkcounter@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb4OHAAZ",
+      "branch_name": "Herc Rentals (9347) - LaGrange GA",
+      "address": "200 South Davis Road",
+      "city": "LaGrange",
+      "state": "GA",
+      "zip": "30241",
+      "phone": "706-883-6172",
+      "email": "jeremy.monroe@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbmzDAAR",
+      "branch_name": "Herc Rentals (9123) - Portage IN",
+      "address": "6611 Shepherd Avenue",
+      "city": "Portage",
+      "state": "IN",
+      "zip": "46368",
+      "phone": "219-934-7148",
+      "email": "kaley.munguia@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbn19AAB",
+      "branch_name": "Herc Rentals (9166) - Louisville KY",
+      "address": "13159 Middletown Industrial Boulevard",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40223",
+      "phone": "502-245-8211",
+      "email": "jake.ford@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbvVhAAJ",
+      "branch_name": "Herc Rentals (9140) - Fairfield NJ",
+      "address": "19 Route 46",
+      "city": "Fairfield",
+      "state": "NJ",
+      "zip": "07004",
+      "phone": "973-567-3898",
+      "email": "jordan.rothbart@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbw1wAAB",
+      "branch_name": "Herc Rentals (9604) - Albuquerque NM",
+      "address": "3601 Osuna Road Northeast",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87109",
+      "phone": "505-344-5500",
+      "email": "brandon.rice@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEZlAAN",
+      "branch_name": "Herc Rentals (9511) - Bethany OK",
+      "address": "7940 Northwest 39th Expressway",
+      "city": "Bethany",
+      "state": "OK",
+      "zip": "73008",
+      "phone": "405-495-8383",
+      "email": "jacob.gaddis@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdCqTAAV",
+      "branch_name": "Herc Rentals (9329) - Arden NC",
+      "address": "30 Walden Drive",
+      "city": "Arden",
+      "state": "NC",
+      "zip": "28704",
+      "phone": "828-654-7376",
+      "email": "turner.swafford@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbw9EAAR",
+      "branch_name": "Herc Rentals (9178) - Bronx NY",
+      "address": "3967 Provost Ave",
+      "city": "Bronx",
+      "state": "NY",
+      "zip": "10466",
+      "phone": "718-231-7693",
+      "email": "devon.bennett@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdDC1AAN",
+      "branch_name": "Herc Rentals (9340) - Fayetteville NC",
+      "address": "608 Middle Road",
+      "city": "Fayetteville",
+      "state": "NC",
+      "zip": "28301",
+      "phone": "910-483-9666",
+      "email": "danny.hunt@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdDdMAAV",
+      "branch_name": "Herc Rentals (9325) - Raleigh NC",
+      "address": "1409 Capital Boulevard",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "27603",
+      "phone": "919-834-2527",
+      "email": "mary.raynor@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdDfXAAV",
+      "branch_name": "Herc Rentals (9313) - Shelby NC",
+      "address": "1859 East Dixon Boulevard",
+      "city": "Shelby",
+      "state": "NC",
+      "zip": "28152",
+      "phone": "704-482-4223",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEeHAAV",
+      "branch_name": "Herc Rentals (9506) - Chickasha OK",
+      "address": "725 East Choctaw Avenue",
+      "city": "Chickasha",
+      "state": "OK",
+      "zip": "73018",
+      "phone": "405-224-0164",
+      "email": "haggen.bolan@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEqcAAF",
+      "branch_name": "Herc Rentals (9507) - Lawton OK",
+      "address": "901 Southeast Interstate Drive",
+      "city": "Lawton",
+      "state": "OK",
+      "zip": "73501",
+      "phone": "580-351-0333",
+      "email": "candice.desouza@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEidAAF",
+      "branch_name": "Herc Rentals (9509) - Durant OK - BRANCH CLOSED",
+      "address": "2800 North 1st Avenue",
+      "city": "Durant",
+      "state": "OK",
+      "zip": "74701",
+      "phone": "580-924-5683",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFDbAAN",
+      "branch_name": "Herc Rentals (9502) - Shawnee OK",
+      "address": "14103 U.S. 177",
+      "city": "Shawnee",
+      "state": "OK",
+      "zip": "74804",
+      "phone": "405-273-7530",
+      "email": "ryan.daws@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbw5pAAB",
+      "branch_name": "Herc Rentals (9151) - Astoria NY",
+      "address": "19-1 Steinway Street",
+      "city": "Astoria",
+      "state": "NY",
+      "zip": "11105",
+      "phone": "718-777-5126",
+      "email": "james.mcgrane@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rc1beAAB",
+      "branch_name": "Herc Rentals (9191) - Farmingdale NY",
+      "address": "206 New York 109",
+      "city": "Farmingdale",
+      "state": "NY",
+      "zip": "11735",
+      "phone": "631-693-6718",
+      "email": "angela.gatto@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFIgAAN",
+      "branch_name": "Herc Rentals (9459) - Tulsa OK",
+      "address": "4445 South Mingo Road",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74146",
+      "phone": "918-622-7150",
+      "email": "ryan.burris@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rc1t4AAB",
+      "branch_name": "Herc's Rentals (9139) - Latham NY",
+      "address": "3 Avis Drive",
+      "city": "Latham",
+      "state": "NY",
+      "zip": "12110",
+      "phone": "518-576-7609",
+      "email": "robert.schraver@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdCjwAAF",
+      "branch_name": "Herc Rentals (9319) - Apex NC",
+      "address": "2016 Lufkin Road",
+      "city": "Apex",
+      "state": "NC",
+      "zip": "27502",
+      "phone": "919-303-6758",
+      "email": "jeffrey.heintzelman@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdD0PAAV",
+      "branch_name": "Herc Rentals (9320) - Charlotte NC",
+      "address": "901 Westinghouse Boulevard",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28273",
+      "phone": "704-504-8539",
+      "email": "nathan.hamilton@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdD8OAAV",
+      "branch_name": "Herc Rentals (9324) - Durham NC",
+      "address": "1002 Ellis Road",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "phone": "919-598-1935",
+      "email": "jacob.wiggins@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb8ySAAR",
+      "branch_name": "Herc Rentals (9342) - Valdosta GA",
+      "address": "1624 North Valdosta Road",
+      "city": "Valdosta",
+      "state": "GA",
+      "zip": "31602",
+      "phone": "229-244-8301",
+      "email": "richard.story@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb3ZdAAJ",
+      "branch_name": "Herc Rentals (9337) - Atlanta GA",
+      "address": "1361 Southland Circle",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30318",
+      "phone": "404-351-5920",
+      "email": "herc123@herc.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb9oIAAR",
+      "branch_name": "Herc Rentals (9344) - Winston GA",
+      "address": "2750 Strawn Road",
+      "city": "Winston",
+      "state": "GA",
+      "zip": "30187",
+      "phone": "678-838-0481",
+      "email": "justin.shelby@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbCU3AAN",
+      "branch_name": "Herc Rentals (9132) - Indianapolis IN",
+      "address": "9010 Corporation Drive",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46256",
+      "phone": "317-849-5124",
+      "email": "kolan.lemaster@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RboixAAB",
+      "branch_name": "Herc Rentals (9445) - Sulphur LA",
+      "address": "1853 Patton Street",
+      "city": "Sulphur",
+      "state": "LA",
+      "zip": "70665",
+      "phone": "337-625-3551",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpU1AAJ",
+      "branch_name": "Herc Rentals (9162) - Boston Ma",
+      "address": "45 Gerard Street",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02119",
+      "phone": "617-466-6691",
+      "email": "elliot.flaharty@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqJ1AAJ",
+      "branch_name": "Herc Rentals (9239) - Richland MS",
+      "address": "320 U.S. 49 Frontage Road",
+      "city": "Richland",
+      "state": "MS",
+      "zip": "39218",
+      "phone": "601-939-0986",
+      "email": "robert.summerlin@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqbAAAR",
+      "branch_name": "Herc Rentals (9423) - Springfield MO",
+      "address": "1907 East Bergman Street",
+      "city": "Springfield",
+      "state": "MO",
+      "zip": "65802",
+      "phone": "417-865-5561",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEwaAAF",
+      "branch_name": "Herc Rentals (9505) - Newcastle OK",
+      "address": "3231 North Meridian Avenue",
+      "city": "Newcastle",
+      "state": "OK",
+      "zip": "73065",
+      "phone": "405-876-8653",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbneFAAR",
+      "branch_name": "Herc Rentals (9441) - Bossier City LA",
+      "address": "5000 Industrial Drive Ext",
+      "city": "Bossier City",
+      "state": "LA",
+      "zip": "71112",
+      "phone": "318-752-4414",
+      "email": "kmorgan@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb7DIAAZ",
+      "branch_name": "Herc Rentals (9338) - Norcross GA",
+      "address": "6664 Dawson Boulevard",
+      "city": "Norcross",
+      "state": "GA",
+      "zip": "30093",
+      "phone": "770-448-6780",
+      "email": "robert.pope@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpiFAAR",
+      "branch_name": "Herc Rentals (9127) - Erie MI",
+      "address": "6333 South Dixie Highway",
+      "city": "Erie",
+      "state": "MI",
+      "zip": "48133",
+      "phone": "734-585-2961",
+      "email": "cody.kahn@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbpCWAAZ",
+      "branch_name": "Herc Rentals (9112) - Baltimore MD",
+      "address": "5501 O Donnell Street",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21224",
+      "phone": "410-633-7000",
+      "email": "will.cunningham@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqpbAAB",
+      "branch_name": "Herc Rentals (9720) - Sparks NV",
+      "address": "1610 Kleppe Lane",
+      "city": "Sparks",
+      "state": "NV",
+      "zip": "89431",
+      "phone": "775-359-9090",
+      "email": "adolfo.olveda@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdCueAAF",
+      "branch_name": "Herc Rentals (9238) - Ayden NC",
+      "address": "5886 Ernest Taylor Road",
+      "city": "Ayden",
+      "state": "NC",
+      "zip": "28513",
+      "phone": "252-746-8911",
+      "email": "bailey.connors@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rc21NAAR",
+      "branch_name": "Herc's Rentals (9147) - Tonawanda NY",
+      "address": "125 Milens Road",
+      "city": "Tonawanda",
+      "state": "NY",
+      "zip": "14150",
+      "phone": "716-391-0581",
+      "email": "franklin.ambrose@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdD76AAF",
+      "branch_name": "Herc Rentals (9314) - Clayton NC",
+      "address": "7950 U.S. 70",
+      "city": "Clayton",
+      "state": "NC",
+      "zip": "",
+      "phone": "919-359-3570",
+      "email": "matthew.dickey@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdENDAA3",
+      "branch_name": "Herc Rentals (9138) - New Philadelphia OH",
+      "address": "1140 West High St",
+      "city": "New Philadelphia",
+      "state": "OH",
+      "zip": "44663",
+      "phone": "330-974-1416",
+      "email": "seth.ferguson@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdDnRAAV",
+      "branch_name": "Herc Rentals (9323) - Winston Salem NC",
+      "address": "1400 South Martin Luther King Junior Drive",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "zip": "27107",
+      "phone": "336-788-8640",
+      "email": "kaytlin.moon@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFHOAA3",
+      "branch_name": "Herc Rentals (9503) - Stillwater OK",
+      "address": "123 South Perkins Road",
+      "city": "Stillwater",
+      "state": "OK",
+      "zip": "74074",
+      "phone": "405-372-7666",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEImAAN",
+      "branch_name": "Herc Rentals (9154) - Bedford Heights OH",
+      "address": "21913 Aurora Road",
+      "city": "Bedford Heights",
+      "state": "OH",
+      "zip": "44146",
+      "phone": "216-820-9401",
+      "email": "dominick.crisalli@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEJzAAN",
+      "branch_name": "Herc Rentals (9153) - Cincinnati OH",
+      "address": "1438 East Galbraith Road",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45215",
+      "phone": "513-242-8106",
+      "email": "tyler.allison@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdF40AAF",
+      "branch_name": "Herc Rentals (9460) - Oklahoma City OK",
+      "address": "5222 North Bryant Avenue",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73121",
+      "phone": "405-424-8822",
+      "email": "john.gilmore@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdF9oAAF",
+      "branch_name": "Herc Rentals (9501) - Ponca City OK",
+      "address": "1415 West South Ave",
+      "city": "Ponca City",
+      "state": "OK",
+      "zip": "74601",
+      "phone": "580-765-6956",
+      "email": "spenser.bedore@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb3AoAAJ",
+      "branch_name": "Herc Rentals (9369) - Tarpon Springs FL",
+      "address": "39418 US Hwy 19 N",
+      "city": "Tarpon Springs",
+      "state": "FL",
+      "zip": "34689",
+      "phone": "727-938-5922",
+      "email": "greg.decaire@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb3MpAAJ",
+      "branch_name": "Herc Rentals (9335) - Athens GA",
+      "address": "1750 Monroe Highway",
+      "city": "Bogart",
+      "state": "GA",
+      "zip": "30622",
+      "phone": "770-725-2092",
+      "email": "dylan.conley@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rb62HAAR",
+      "branch_name": "Herc Rentals (9327) - Macon GA",
+      "address": "4690 Broadway",
+      "city": "Macon",
+      "state": "GA",
+      "zip": "31206",
+      "phone": "478-788-1333",
+      "email": "cameron.key@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbnahAAB",
+      "branch_name": "Herc Rentals (9240) - Baton Rouge LA",
+      "address": "8080 Airline Highway",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "zip": "70815",
+      "phone": "225-926-9239",
+      "email": "kevin.galloway@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbnk3AAB",
+      "branch_name": "Herc Rentals (9243) - Gonzales LA",
+      "address": "37486 East Highway 30",
+      "city": "Gonzales",
+      "state": "LA",
+      "zip": "70737",
+      "phone": "225-647-2500",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rbqd1AAB",
+      "branch_name": "Herc Rentals (9456) - St Louis MO",
+      "address": "3030 Market Street",
+      "city": "Saint Louis",
+      "state": "MO",
+      "zip": "63103",
+      "phone": "314-534-8300",
+      "email": "donovan.pipkens@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001RbqexAAB",
+      "branch_name": "Herc Rentals (9448) - Omaha NE",
+      "address": "5604 Center Street",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68106",
+      "phone": "402-551-3447",
+      "email": "kris.konou@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001Rc1xkAAB",
+      "branch_name": "Herc's Rentals (9145) - Liverpool NY",
+      "address": "4578 Buckley Road",
+      "city": "Liverpool",
+      "state": "NY",
+      "zip": "13086",
+      "phone": "315-883-8342",
+      "email": "ffilipi@dozr.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdDlQAAV",
+      "branch_name": "Herc Rentals (9326) - Wilmington NC",
+      "address": "5935 Market Street",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28405",
+      "phone": "910-799-9751",
+      "email": "trenton.tabor@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdDxMAAV",
+      "branch_name": "Herc Rentals (9452) - Bismarck ND",
+      "address": "2300 Vermont Avenue",
+      "city": "Bismarck",
+      "state": "ND",
+      "zip": "58504",
+      "phone": "701-224-3500",
+      "email": "jamie.goergen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdE5xAAF",
+      "branch_name": "Herc Rentals (9461) - Williston ND",
+      "address": "5823 Jefferson Lane",
+      "city": "Williston",
+      "state": "ND",
+      "zip": "58801",
+      "phone": "701-609-5561",
+      "email": "brenda.reopelle@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdEL7AAN",
+      "branch_name": "Herc Rentals (9131) - Columbus OH",
+      "address": "523 Stimmel Road",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43223",
+      "phone": "614-918-8978",
+      "email": "jamie.gerritsen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFn6AAF",
+      "branch_name": "Herc Rentals (9716) - Coburg OR",
+      "address": "90675 Roberts Road",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97408",
+      "phone": "541-431-1170",
+      "email": "lori.painter@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdG5PAAV",
+      "branch_name": "Herc Rentals (9161) - Glenshaw PA",
+      "address": "2001 William Flinn Highway",
+      "city": "Glenshaw",
+      "state": "PA",
+      "zip": "15116",
+      "phone": "412-487-7919",
+      "email": "derek.tare@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFpMAAV",
+      "branch_name": "Herc Rentals (9724) - Portland OR",
+      "address": "4939 Northeast Columbia Boulevard",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97218",
+      "phone": "503-287-5789",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdGAoAAN",
+      "branch_name": "Herc Rentals (9150) - Harrisburg PA",
+      "address": "470 Penhar Street",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17111",
+      "phone": "717-561-2245",
+      "email": "tyler.mcdonald@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFubAAF",
+      "branch_name": "Herc Rentals (9718) - Salem OR",
+      "address": "3640 Cherry Avenue Northeast",
+      "city": "Salem",
+      "state": "OR",
+      "zip": "97303",
+      "phone": "503-390-1945",
+      "email": "taylor.hughes@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001SdFzRAAV",
+      "branch_name": "Herc Rentals (9136) - Allentown PA",
+      "address": "4950 Tilghman Street",
+      "city": "Allentown",
+      "state": "PA",
+      "zip": "18104",
+      "phone": "610-816-0429",
+      "email": "patrick.reilly@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001VI0xKAAT",
+      "branch_name": "Herc Rentals - Rosenberg TX (formerly Quality Rentals)",
+      "address": "1609 Avenue H",
+      "city": "Rosenberg",
+      "state": "TX",
+      "zip": "77471",
+      "phone": "281-342-9090",
+      "email": "randy.hundley@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001w1rpUAAQ",
+      "branch_name": "Herc (Rapid)  - Mississauga ON",
+      "address": "1640 Enterprise Road",
+      "city": "Mississauga",
+      "state": "ON",
+      "zip": "L4W 4L4",
+      "phone": "844-738-7007",
+      "email": "john.maida@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "00141000020cUwZAAU",
+      "branch_name": "Herc Rentals (9280) - Panama City Fl",
+      "address": "8308 Panama City Beach Parkway",
+      "city": "Panama City Beach",
+      "state": "FL",
+      "zip": "32407",
+      "phone": "850-316-9016",
+      "email": "mike.carney@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002IVtKWQA1",
+      "branch_name": "Herc (formally Champion Rentals Inc)- Houston TX",
+      "address": "6903 N Shepherd Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77091",
+      "phone": "346-980-4222",
+      "email": "jhorsley@champrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002EWWQ1QAP",
+      "branch_name": "Herc Rentals - Bradenton FL",
+      "address": "5103 53rd Avenue East",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34203",
+      "phone": "941-755-0333",
+      "email": "allstarequipmentbradenton@gmail.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002FWdi3QAD",
+      "branch_name": "Herc Rentals (9252) - Casselberry FL",
+      "address": "575 Florida 436",
+      "city": "Casselberry",
+      "state": "FL",
+      "zip": "32707",
+      "phone": "407-331-1944",
+      "email": "chris.delany@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002KYvqTQAT",
+      "branch_name": "Herc Rentals (9379) - Apopka FL",
+      "address": "2620 W Orange Blossom Trail",
+      "city": "Apopka",
+      "state": "FL",
+      "zip": "32712",
+      "phone": "407-553-4400",
+      "email": "angel.najar@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L2xgbQAB",
+      "branch_name": "Herc Rentals (9760) - Honolulu HI",
+      "address": "1176 Mikole St",
+      "city": "Honolulu",
+      "state": "HI",
+      "zip": "96819",
+      "phone": "808-848-1016",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L2xvHQAR",
+      "branch_name": "Herc Rentals (9778) - Kahluli HI",
+      "address": "150 Paahana St",
+      "city": "Kahului",
+      "state": "HI",
+      "zip": "96732",
+      "phone": "808-666-7040",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L2uFWQAZ",
+      "branch_name": "Herc Rentals (9343) - Covington GA",
+      "address": "11689 GA-142",
+      "city": "Covington",
+      "state": "GA",
+      "zip": "30014",
+      "phone": "678-660-7500",
+      "email": "mitchell.owen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L2qEBQAZ",
+      "branch_name": "Herc Rentals (9670) - Englewood (South Denver) CO",
+      "address": "13202 E Adam Aircraft Cir",
+      "city": "Englewood",
+      "state": "CO",
+      "zip": "80112",
+      "phone": "303-927-5300",
+      "email": "customercare@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L2xu4QAB",
+      "branch_name": "Herc Rentals (9779) - Kailua Kona HI",
+      "address": "74 Honokohau St",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "zip": "96740",
+      "phone": "808-331-1304",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L6EHmQAN",
+      "branch_name": "Herc Rentals (9487) - Waxahachie TX",
+      "address": "3851 S Interstate 35 East Service Rd",
+      "city": "Waxahachie",
+      "state": "TX",
+      "zip": "75165",
+      "phone": "469-383-7620",
+      "email": "russell.brazir@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L6EDBQA3",
+      "branch_name": "Herc Rentals (9404) - Houston TX",
+      "address": "3920 North Freeway",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "",
+      "phone": "713-884-8066",
+      "email": "houcentralres@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L6EE4QAN",
+      "branch_name": "Herc Rentals (9522) - McKinney TX",
+      "address": "193 Industrial Blvd",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75069",
+      "phone": "469-796-4130",
+      "email": "drake.vincent@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L6JVQQA3",
+      "branch_name": "Herc Rentals (9782) - Spokane Valley WA",
+      "address": "328 N Fancher Rd",
+      "city": "Spokane Valley",
+      "state": "WA",
+      "zip": "99212",
+      "phone": "509-535-4261",
+      "email": "connor.meinhold@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L3IFXQA3",
+      "branch_name": "Herc Rentals (9107) - Billerica MA",
+      "address": "257 Boston Rd",
+      "city": "Billerica",
+      "state": "MA",
+      "zip": "01862",
+      "phone": "978-313-2700",
+      "email": "katelynd.kasper@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L3dpgQAB",
+      "branch_name": "Herc Rentals (9133) - Knightdale NC",
+      "address": "532 Three Sisters Rd",
+      "city": "Knightdale",
+      "state": "NC",
+      "zip": "27545",
+      "phone": "919-679-6009",
+      "email": "terrie.mozingo@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L3ZlxQAF",
+      "branch_name": "Herc Rentals (9426) - St Peters MO",
+      "address": "8016 Veterans Memorial Pkwy",
+      "city": "St Peters",
+      "state": "MO",
+      "zip": "63376",
+      "phone": "636-696-4004",
+      "email": "michael.olsen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002L3aVKQAZ",
+      "branch_name": "Herc Rentals (9179) - Toms River NJ",
+      "address": "1408 Lakewood Rd",
+      "city": "Toms River",
+      "state": "NJ",
+      "zip": "08755",
+      "phone": "732-504-0880",
+      "email": "sarah.gallini@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002ObhR3QAJ",
+      "branch_name": "Herc Rentals - Garden Grove CA (Formerly Summit Equipment Rentals)",
+      "address": "7572 Anthony Ave",
+      "city": "Garden Grove",
+      "state": "CA",
+      "zip": "92841",
+      "phone": "951-246-3313",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002ObhOOQAZ",
+      "branch_name": "Herc Rentals - Chula Vista CA (Formerly Summit Equipment Rentals)",
+      "address": "128 Mace St",
+      "city": "Chula Vista",
+      "state": "CA",
+      "zip": "91911",
+      "phone": "619-585-7368",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002ObhQPQAZ",
+      "branch_name": "Herc Rentals - Menifee CA (formerly Summit Equipment Rentals)",
+      "address": "26105 Sherman Rd",
+      "city": "Menifee",
+      "state": "CA",
+      "zip": "92585",
+      "phone": "951-246-3313",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002OzMvzQAF",
+      "branch_name": "Herc Rentals - San Mateo CA",
+      "address": "1414 E 3rd Ave",
+      "city": "San Mateo",
+      "state": "CA",
+      "zip": "94401",
+      "phone": "650-342-8941",
+      "email": "rob.gottula@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QjMZPQA3",
+      "branch_name": "Herc Rentals 9953 - Hasbrouck Heights NJ (formerly Durante Rentals)",
+      "address": "50-54 New Jersey 17",
+      "city": "Hasbrouck Heights",
+      "state": "NJ",
+      "zip": "",
+      "phone": "201-720-6969",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002TABQrQAP",
+      "branch_name": "Herc (formerly Alltrade)  - Brampton ON",
+      "address": "89 Heart Lake Road South",
+      "city": "Brampton",
+      "state": "ON",
+      "zip": "",
+      "phone": "416-798-6600",
+      "email": "ronnie.welsh@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002TAJ2fQAH",
+      "branch_name": "Herc Rentals (9570) - Houston (Shepherd Drive) TX",
+      "address": "6903 North Shepherd Drive",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "",
+      "phone": "713-694-0133",
+      "email": "houcentralres@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002TWXt4QAH",
+      "branch_name": "Herc Rentals (9216) - Daytona Beach FL",
+      "address": "874 South Nova Road",
+      "city": "Ormond Beach",
+      "state": "FL",
+      "zip": "",
+      "phone": "386-252-8296",
+      "email": "william.green@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002So3KNQAZ",
+      "branch_name": "Herc Rentals (Formerly Otay Mesa Sales Inc) - San Diego CA",
+      "address": "1596 Radar Rd",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "",
+      "phone": "844-682-9725",
+      "email": "austin.baker@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002VP1YiQAL",
+      "branch_name": "Herc Rentals (9555) - Bryan TX",
+      "address": "2787 N Earl Rudder Fwy",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "",
+      "phone": "979-606-0227",
+      "email": "sherry.speed@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002WMhBRQA1",
+      "branch_name": "Herc Rentals (9488) -TRUCKS- Grand Prarie TX",
+      "address": "3606 E Jefferson St",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "",
+      "phone": "469-674-7300",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002X5cbkQAB",
+      "branch_name": "Herc Rentals - Denver CO (Formerly Rental Equipment Center)",
+      "address": "220 E 56th Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "",
+      "phone": "303-288-2271",
+      "email": "chris.dewey@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002XE6FmQAL",
+      "branch_name": "Herc Rentals (9364) - Tampa FL",
+      "address": "6515 N 50th St",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "",
+      "phone": "813-577-7850",
+      "email": "joey.conover@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002X8MUtQAN",
+      "branch_name": "Herc Rentals (9186) - Londonderry NH",
+      "address": "3 Symmes Dr",
+      "city": "Londonderry",
+      "state": "NH",
+      "zip": "",
+      "phone": "603-668-0129",
+      "email": "clayton.stewart@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000003dRXqIAM",
+      "branch_name": "HERC (Formerly MAC Equipment) - Albany NY",
+      "address": "120 Watervliet Ave",
+      "city": "Albany",
+      "state": "NY",
+      "zip": "",
+      "phone": "518-272-2700",
+      "email": "linda@dozr.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000003i8A2IAI",
+      "branch_name": "Herc Rentals - Ocala FL",
+      "address": "512 N Magnolia Ave",
+      "city": "Ocala",
+      "state": "FL",
+      "zip": "",
+      "phone": "352-421-6970",
+      "email": "jackson.bennett@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000043lvVIAQ",
+      "branch_name": "Herc Rentals (Formerly Otay Mesa Sales Inc) - Phoenix AZ",
+      "address": "1649 S 59th Ave",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "",
+      "phone": "866-871-6188",
+      "email": "armando.rimadaramirez@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000043lyKIAQ",
+      "branch_name": "Herc Rentals (Formerly Otay Mesa Sales Inc) - Yuma AZ",
+      "address": "2632 E 16th St",
+      "city": "Yuma",
+      "state": "AZ",
+      "zip": "",
+      "phone": "619-933-3231",
+      "email": "christopher.heck@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000047cikIAA",
+      "branch_name": "Herc Rentals (9563)- Berea OH",
+      "address": "1004 W Bagley Rd",
+      "city": "Berea",
+      "state": "OH",
+      "zip": "",
+      "phone": "440-234-8800",
+      "email": "tudor.vidican@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004BfqfIAC",
+      "branch_name": "Herc Rentals (9263) - Streamwood IL",
+      "address": "1339 Yorkshire Dr",
+      "city": "Streamwood",
+      "state": "IL",
+      "zip": "",
+      "phone": "630-289-6666",
+      "email": "mina.lurvey@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004CwXdIAK",
+      "branch_name": "Herc Rentals (9129) - Pontiac MI",
+      "address": "959 Cesar E Chavez Ave",
+      "city": "Pontiac",
+      "state": "MI",
+      "zip": "",
+      "phone": "248-648-6888",
+      "email": "mark.murdock@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004GsMeIAK",
+      "branch_name": "Herc Rentals - Columbus MS",
+      "address": "4335 Motley Rd",
+      "city": "Columbus",
+      "state": "MS",
+      "zip": "",
+      "phone": "662-242-1907",
+      "email": "yonesha.james@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004JmERIA0",
+      "branch_name": "Herc Rentals (9187) - Dover NH",
+      "address": "349 Mast Rd",
+      "city": "Dover",
+      "state": "NH",
+      "zip": "",
+      "phone": "603-343-4583",
+      "email": "steve.fitzgerald@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004QULpIAO",
+      "branch_name": "Herc Rentals (9923) - Chandler AZ (formerly MAK Equipment Rentals & Sales)",
+      "address": "331 S Price Rd",
+      "city": "Chandler",
+      "state": "AZ",
+      "zip": "",
+      "phone": "602-269-5931",
+      "email": "scott.brown@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-16:00",
+        "tuesday": "07:00-16:00",
+        "wednesday": "07:00-16:00",
+        "thursday": "07:00-16:00",
+        "friday": "07:00-16:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004fNJ3IAM",
+      "branch_name": "Herc Rentals (9564)- Bridgeville PA",
+      "address": "1889 Mayview Rd",
+      "city": "Bridgeville",
+      "state": "PA",
+      "zip": "",
+      "phone": "412-838-7600",
+      "email": "ryan.smith@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6393afc8fbbac5001a8d389b",
+      "branch_name": "Herc Rentals - 9717 Des Moines WA",
+      "address": "22868 Pacific Hwy S",
+      "city": "Des Moines",
+      "state": "WA",
+      "zip": "",
+      "phone": "253-796-5070",
+      "email": "drew.neidigh@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "639c6efba0d0760013706b26",
+      "branch_name": "Herc Rentals (9110) - Boston MA",
+      "address": "1675 Main St",
+      "city": "Brockton",
+      "state": "MA",
+      "zip": "",
+      "phone": "508-513-2900",
+      "email": "samantha.allen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "63aee4f896f3970013d077b2",
+      "branch_name": "Herc Rentals (9548) - Austin TX",
+      "address": "10926 South Highway 183",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "",
+      "phone": "512-243-9822",
+      "email": "jeremy.davis@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000005lSBXIA2",
+      "branch_name": "Herc Rentals (3545) - Tyler TX",
+      "address": "401 N NE Loop 323",
+      "city": "Tyler",
+      "state": "TX",
+      "zip": "",
+      "phone": "903-595-3820",
+      "email": "ricohmfd@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000005q5kFIAQ",
+      "branch_name": "Herc Rentals (9669) - Littleton CO",
+      "address": "9791 Titan Park Cir",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "",
+      "phone": "888-238-3808",
+      "email": "stephen.leddy@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000005vT1FIAU",
+      "branch_name": "Herc Rentals (9543) - Houston TX",
+      "address": "8660 S Loop E",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "",
+      "phone": "713-643-1300",
+      "email": "rebeca.garcia@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000005ygYYIAY",
+      "branch_name": "Herc Rentals (9573) - Cypress TX",
+      "address": "15226 Cypress North Houston Rd",
+      "city": "Cypress",
+      "state": "TX",
+      "zip": "77429",
+      "phone": "346-980-4222",
+      "email": "houcentralres@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000065eWSIAY",
+      "branch_name": "Herc Rentals (9266) - Louisville KY",
+      "address": "130 Outer Loop",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40214",
+      "phone": "502-780-5814",
+      "email": "noah.roehrig@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000068jZtIAI",
+      "branch_name": "Herc Rentals (9771) - Hillsboro OR",
+      "address": "4505 SE Witch Hazel Rd",
+      "city": "Hillsboro",
+      "state": "OR",
+      "zip": "97123",
+      "phone": "503-648-9292",
+      "email": "nick.gardner@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000069i8nIAA",
+      "branch_name": "Herc Rentals (9121) - Williamsburg VA",
+      "address": "1700 Endeavor Dr",
+      "city": "Williamsburg",
+      "state": "VA",
+      "zip": "23185",
+      "phone": "757-527-6200",
+      "email": "chris.johnston1@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "642c6390971a590012ffb498",
+      "branch_name": "Herc Rentals (9251) - Naples FL",
+      "address": "6167 Taylor Rd",
+      "city": "Naples",
+      "state": "FL",
+      "zip": "34109",
+      "phone": "239-594-0075",
+      "email": "bradley.bolock@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006Sg90IAC",
+      "branch_name": "Herc Rentals -  Loveland CO (formerly Rental Equipment Center)",
+      "address": "4000 Patton Ave",
+      "city": "Loveland",
+      "state": "CO",
+      "zip": "80538",
+      "phone": "303-766-3892",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006ZfTdIAK",
+      "branch_name": "Herc Rentals (9227) - Bensenville IL",
+      "address": "770 Larsen Ln",
+      "city": "Bensenville",
+      "state": "IL",
+      "zip": "60106",
+      "phone": "630-613-0000",
+      "email": "brett.martinez@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006bwRRIAY",
+      "branch_name": "Herc Rental (8542) - Edmonton AB",
+      "address": "15811 118 Ave NW",
+      "city": "Edmonton",
+      "state": "AB",
+      "zip": "T5V 1B7",
+      "phone": "780-452-4410",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006ms9lIAA",
+      "branch_name": "Herc Rentals (9561) - Oak Park MI",
+      "address": "13133 Cloverdale St",
+      "city": "Oak Park",
+      "state": "MI",
+      "zip": "48237",
+      "phone": "248-399-6600",
+      "email": "timothy.alwardt@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006xOzbIAE",
+      "branch_name": "Herc Rentals (8534) - Port Coquitlam BC",
+      "address": "1464 Spitfire Pl",
+      "city": "Port Coquitlam",
+      "state": "BC",
+      "zip": "V3C 6L4",
+      "phone": "604-465-1377",
+      "email": "rhys.cratty@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000001YmHmYAK",
+      "branch_name": "Herc Rentals 9901 - St Louis MO",
+      "address": "5411 Brown Ave",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63120",
+      "phone": "314-385-2222",
+      "email": "caleb.riess@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002a4wqYAA",
+      "branch_name": "Herc Rentals (9556) - Carlsbad NM",
+      "address": "4620 National Parks Hwy",
+      "city": "Carlsbad",
+      "state": "NM",
+      "zip": "88220",
+      "phone": "575-689-2299",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ0000034OtFYAU",
+      "branch_name": "Herc Rentals (9267) - Bloomfield CT",
+      "address": "9 Belden Rd",
+      "city": "Bloomfield",
+      "state": "CT",
+      "zip": "06002",
+      "phone": "959-900-5900",
+      "email": "louis.migliozzi@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000004FzYIYA0",
+      "branch_name": "Herc Rentals (9902) - Scott City MO",
+      "address": "2620 E Outer Rd",
+      "city": "Scott City",
+      "state": "MO",
+      "zip": "63780",
+      "phone": "573-803-1514",
+      "email": "conner.mckinney@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000007gVWcYAM",
+      "branch_name": "Herc Rentals (233) - Rockledge FL",
+      "address": "1100 Viera Blvd",
+      "city": "Rockledge",
+      "state": "FL",
+      "zip": "32955",
+      "phone": "321-456-8980",
+      "email": "nick.desantis@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000007hA08YAE",
+      "branch_name": "Herc Rentals (8272) - Toronto ON",
+      "address": "309 Cherry St",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M5A 3L3",
+      "phone": "647-577-5353",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000007hQUfYAM",
+      "branch_name": "Herc Rentals (8215) - Toronto ON",
+      "address": "6 Carlaw Ave",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M4M 2R5",
+      "phone": "866-913-4704",
+      "email": "troy.mcclure@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000009fpFuYAI",
+      "branch_name": "Herc Rentals (9444) - Mandeville LA",
+      "address": "22004 Alpha Blvd",
+      "city": "Mandeville",
+      "state": "LA",
+      "zip": "70471",
+      "phone": "985-875-5380",
+      "email": "dane.ziegler@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000009gd7pYAA",
+      "branch_name": "Herc Rentals (9519) - Moore OK",
+      "address": "3315 I-35 Frontage Rd",
+      "city": "Moore",
+      "state": "OK",
+      "zip": "73160",
+      "phone": "405-300-6670",
+      "email": "tyler.price@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000BXRWEYA5",
+      "branch_name": "Herc Rentals (9269) - Joliet QC",
+      "address": "100 Barney Dr",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60435",
+      "phone": "815-531-8660",
+      "email": "selyna.nugent@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000BZ8EVYA1",
+      "branch_name": "Herc Rentals (9273) - North Jacksonville FL",
+      "address": "1140 New Berlin Rd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32218",
+      "phone": "904-865-6707",
+      "email": "accounting@dozr.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000CoCruYAF",
+      "branch_name": "Herc Rentals (9920) - West Haven UT",
+      "address": "3115 S 1900 W",
+      "city": "West Haven",
+      "state": "UT",
+      "zip": "84401",
+      "phone": "833-544-2697",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000CxS7pYAF",
+      "branch_name": "Herc Rentals (9220) - Rochester NY",
+      "address": "737 Atlantic Ave",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "14609",
+      "phone": "585-678-8235",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000EFFRiYAP",
+      "branch_name": "Herc Rentals (950) - Honolulu HI",
+      "address": "1019 Ulupono St",
+      "city": "Honolulu",
+      "state": "HI",
+      "zip": "96819",
+      "phone": "808-847-4267",
+      "email": "myron.tagovailoaamosa@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000FyqnvYAB",
+      "branch_name": "Herc Rentas (9942) - Neenah WI",
+      "address": "2380 Holly Rd",
+      "city": "Neenah",
+      "state": "WI",
+      "zip": "54956",
+      "phone": "920-749-9500",
+      "email": "hayden.freeman@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000GvdxvYAB",
+      "branch_name": "Herc Rentals (9572) - Porter TX",
+      "address": "24850 US-59",
+      "city": "Porter",
+      "state": "TX",
+      "zip": "77365",
+      "phone": "281-815-8742",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Gx0u5YAB",
+      "branch_name": "Herc Rentals (9247) - Piedmont SC",
+      "address": "121 Hurricane Creek Rd",
+      "city": "Piedmont",
+      "state": "SC",
+      "zip": "29673",
+      "phone": "864-781-0165",
+      "email": "dr.silkwood@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Kn9g9YAB",
+      "branch_name": "Herc Rentals (9270) - Maple Grove MN",
+      "address": "10939 89th Ave N",
+      "city": "Maple Grove",
+      "state": "MN",
+      "zip": "55369",
+      "phone": "763-347-3930",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000LHDsqYAH",
+      "branch_name": "Herc Rentals (9292) - Statesville NC",
+      "address": "1470 Salisbury Rd",
+      "city": "Statesville",
+      "state": "NC",
+      "zip": "28677",
+      "phone": "336-377-8076",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000LLMeBYAX",
+      "branch_name": "Herc Rentals (8271) - Mississauga ON",
+      "address": "6900 Finch Ave W",
+      "city": "Toronto",
+      "state": "ON",
+      "zip": "M9W 0A8",
+      "phone": "416-679-4180",
+      "email": "misorderdesk@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000MMthAYAT",
+      "branch_name": "Herc Rentals (9264) - Ashland VA",
+      "address": "10990 Air Park Rd",
+      "city": "Ashland",
+      "state": "VA",
+      "zip": "23005",
+      "phone": "804-406-6150",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000OOktYYAT",
+      "branch_name": "Herc Rentals (9941) - Sussex WI",
+      "address": "W230 N6080 Hi Tech Dr",
+      "city": "Sussex",
+      "state": "WI",
+      "zip": "53089",
+      "phone": "262-246-9300",
+      "email": "bruce.vriezen@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000SuyivYAB",
+      "branch_name": "Herc Rentals (9552) - Caddo Mills TX",
+      "address": "4899 I-30 Frontage Rd",
+      "city": "Caddo Mills",
+      "state": "TX",
+      "zip": "75135",
+      "phone": "903-213-9100",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000UO50UYAT",
+      "branch_name": "Herc Rentals (9525) - Cedar Hill TX",
+      "address": "914 Cedarview Dr",
+      "city": "Cedar Hill",
+      "state": "TX",
+      "zip": "75104",
+      "phone": "469-780-6095",
+      "email": "alexis.serna1@hercrentals.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6862f7f01a74570018691590",
+      "branch_name": "Herc Rentals - St Louis (West) MO",
+      "address": "10022 Meeks Blvd",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63132",
+      "phone": "314-669-0500",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "697a588dd617d4001ec275b4",
+      "branch_name": "Herc Rentals",
+      "address": "9200 E 96th Ave",
+      "city": "Commerce City",
+      "state": "CO",
+      "zip": "80640",
+      "phone": "720-506-9729",
+      "email": "ronnie.federico@hercrentals.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "session_started": "2026-02-19",
+  "last_updated": "2026-02-19",
+  "status": "WEB EXTRACTION COMPLETE",
+  "summary": "Comprehensive branch data extracted from both OMS system and supplier websites.",
+  "extraction_results": {
+    "sunstate": {
+      "supplier": "Sunstate Equipment",
+      "oms_branches": 84,
+      "oms_enabled": 84,
+      "oms_file": "sunstate_oms_branches.json",
+      "web_branches": 216,
+      "web_file": "sunstate_web_branches.json",
+      "status": "COMPLETE - 216 web branches + 84 OMS branches (OMS has detailed contact info)"
+    },
+    "herc": {
+      "supplier": "Herc Rentals",
+      "oms_branches": 316,
+      "oms_enabled": 3,
+      "oms_file": "herc_oms_branches.json",
+      "web_branches": 0,
+      "web_file": null,
+      "status": "OMS ONLY - Website not scraped (800+ branches on site)"
+    },
+    "sunbelt": {
+      "supplier": "Sunbelt Rentals",
+      "oms_branches": 707,
+      "oms_enabled": 0,
+      "oms_file": "sunbelt_oms_branches.json",
+      "web_branches": 156,
+      "web_file": "sunbelt_all_branches.json",
+      "status": "PARTIAL - Website blocking access, 156 branches from search results"
+    },
+    "equipmentshare": {
+      "supplier": "EquipmentShare",
+      "oms_branches": 194,
+      "oms_enabled": 0,
+      "oms_file": "equipmentshare_oms_branches.json",
+      "web_branches": 289,
+      "web_file": "equipmentshare_web_branches.json",
+      "status": "COMPLETE - 289 web branches across all 45 states"
+    }
+  },
+  "totals": {
+    "oms_branches": 1301,
+    "oms_enabled": 87,
+    "web_branches": 661,
+    "unique_combined": "~1500+ (some overlap between OMS and web)"
+  },
+  "data_files": [
+    "sunstate_oms_branches.json",
+    "herc_oms_branches.json",
+    "sunbelt_oms_branches.json",
+    "equipmentshare_oms_branches.json",
+    "sunstate_web_branches.json",
+    "sunbelt_all_branches.json",
+    "equipmentshare_web_branches.json",
+    "All_Supplier_Branches_OMS_Report.xlsx"
+  ],
+  "notes": [
+    "OMS export provides comprehensive branch data with addresses, phones, emails, and hours",
+    "Only Sunstate has all branches OMS-enabled (84/84)",
+    "Herc has only 3/316 branches enabled",
+    "Sunbelt and EquipmentShare have 0 branches enabled in OMS",
+    "EquipmentShare web extraction captured 289 branches (373 claimed on website)",
+    "Sunstate web extraction captured 216 branches",
+    "Sunbelt website blocking automated access - only partial data from search results",
+    "ACTION: 1,214 branches need OMS enabling (313 Herc + 707 Sunbelt + 194 EquipmentShare)"
+  ]
+}

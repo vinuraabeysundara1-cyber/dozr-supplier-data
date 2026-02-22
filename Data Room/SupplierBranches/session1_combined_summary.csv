@@ -1,0 +1,125 @@
+SESSION 1 - SUPPLIER BRANCH MAPPING COMBINED SUMMARY
+Generated: 2026-02-19
+
+================================================================================
+EXECUTIVE SUMMARY
+================================================================================
+Total Suppliers Analyzed,4
+Total OMS Branches,1300
+Total OMS Enabled,87
+Total Website Branches (Est.),1811
+Total New Branches Opportunity,~870
+Immediate Action,Enable 1213 existing OMS branches
+
+================================================================================
+SUPPLIER BREAKDOWN
+================================================================================
+
+Supplier,OMS Branches,OMS Enabled,Website Branches,New Branches,Status
+Sunstate Equipment,84,84,109,4,COMPLETED
+Herc Rentals,316,3,822,~506,COMPLETED
+Sunbelt Rentals,707,0,N/A (errors),N/A,PARTIAL
+EquipmentShare,193,0,373,~180,COMPLETED
+
+================================================================================
+SUNSTATE EQUIPMENT
+================================================================================
+Status: COMPLETED
+OMS Branches: 84 (ALL ENABLED - Best example!)
+Website Branches: 109
+New Branches Found: 4
+New Branch Locations: Greensboro NC, Conroe TX, La Porte TX, Rosenberg TX
+Coverage: 16 states
+Action Items:
+- Add 4 new Texas/NC branches to OMS
+- Already fully enabled - model supplier
+
+================================================================================
+HERC RENTALS
+================================================================================
+Status: COMPLETED
+OMS Branches: 316
+OMS Enabled: 3 (ONLY 1% ENABLED!)
+Website Branches (Est.): 822
+New Branches to Add: ~506
+DOZR-Relevant Branches: 65%
+Service Categories:
+- Relevant: General Rentals, Aerial, Earthmoving, Material Handling, ProTruck
+- Limited: ProSolutions, Pump Power & Climate, CRC, Entertainment
+Action Items:
+- Enable remaining 313 OMS branches immediately
+- Add ~506 new branches from website
+- Focus on relevant service branches
+
+================================================================================
+SUNBELT RENTALS
+================================================================================
+Status: PARTIAL - Website errors during capture
+OMS Branches: 707 (BEST OMS COVERAGE)
+OMS Enabled: 0 (ZERO ENABLED!)
+OMS States: 49 (Only missing AK and VT)
+Website Status: Errors prevented full capture
+Location Types Observed:
+- General Equipment & Tools (Green markers - RELEVANT)
+- Climate Control Services, Pump Solutions, Power & HVAC, Industrial (Yellow - Specialty)
+Action Items:
+- PRIORITY: Enable all 707 OMS branches immediately
+- Retry website capture when site is stable
+- Check for AK and VT locations on retry
+
+================================================================================
+EQUIPMENTSHARE
+================================================================================
+Status: COMPLETED
+OMS Branches: 193
+OMS Enabled: 0 (ZERO ENABLED!)
+Website Branches: 373
+Website States: 45
+New Branches to Add: ~180
+New States Found: WV, WY, ME, NE
+Top Expansion Opportunities:
+- Texas: +29 branches (56 website vs 27 OMS)
+- California: +13 branches
+- Florida: +9 branches
+- Washington: +7 branches
+Action Items:
+- Enable all 193 OMS branches immediately
+- Add ~180 new branches from website
+- Add coverage for 4 new states
+
+================================================================================
+PRIORITY ACTIONS - IMMEDIATE
+================================================================================
+1. ENABLE OMS BRANCHES (NO NEW DATA NEEDED)
+   - Sunbelt Rentals: 707 branches
+   - EquipmentShare: 193 branches
+   - Herc Rentals: 313 branches
+   TOTAL: 1,213 branches can be enabled immediately
+
+2. ADD NEW BRANCHES FROM WEBSITE
+   - Herc Rentals: ~506 new branches
+   - EquipmentShare: ~180 new branches
+   - Sunstate Equipment: 4 new branches
+   TOTAL: ~690 new branches to add
+
+3. RETRY FAILED CAPTURES
+   - Sunbelt Rentals website (had errors)
+
+================================================================================
+STATE COVERAGE GAPS
+================================================================================
+Alaska (AK): Missing from Sunbelt OMS
+Vermont (VT): Missing from Sunbelt OMS
+West Virginia (WV): NEW - EquipmentShare website only
+Wyoming (WY): NEW - EquipmentShare website only
+Maine (ME): NEW - EquipmentShare website only
+Nebraska (NE): NEW - EquipmentShare website only
+
+================================================================================
+KEY INSIGHTS
+================================================================================
+1. Sunstate is the ONLY supplier with all OMS branches enabled (84/84)
+2. Sunbelt has best OMS coverage (707 branches) but ZERO enabled
+3. 93% of OMS branches across all suppliers are DISABLED
+4. Website data shows ~40% more locations than OMS across suppliers
+5. Texas is top expansion state for all suppliers

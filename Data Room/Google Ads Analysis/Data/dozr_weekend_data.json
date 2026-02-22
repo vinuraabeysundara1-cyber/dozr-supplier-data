@@ -1,0 +1,3900 @@
+{
+  "dow_data": {
+    "23312986075_MONDAY": {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "MONDAY",
+      "spend": 2082.360575,
+      "clicks": 264,
+      "impressions": 4990,
+      "conversions": 52.000074,
+      "conv_value": 2179.164806889
+    },
+    "23312986075_TUESDAY": {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "TUESDAY",
+      "spend": 3586.38482,
+      "clicks": 441,
+      "impressions": 7814,
+      "conversions": 105.166666,
+      "conv_value": 23608.894962236
+    },
+    "23312986075_WEDNESDAY": {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "WEDNESDAY",
+      "spend": 2665.40464,
+      "clicks": 381,
+      "impressions": 7663,
+      "conversions": 68.333334,
+      "conv_value": 13330.025774741
+    },
+    "23312986075_THURSDAY": {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "THURSDAY",
+      "spend": 2516.677189,
+      "clicks": 381,
+      "impressions": 7658,
+      "conversions": 69.232471,
+      "conv_value": 8767.777559281
+    },
+    "23312986075_FRIDAY": {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "FRIDAY",
+      "spend": 2458.945586,
+      "clicks": 230,
+      "impressions": 4515,
+      "conversions": 35.0,
+      "conv_value": 8860.49869614
+    },
+    "23476824168_SUNDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "SUNDAY",
+      "spend": 142.528777,
+      "clicks": 45,
+      "impressions": 531,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23476824168_MONDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "MONDAY",
+      "spend": 232.228446,
+      "clicks": 68,
+      "impressions": 585,
+      "conversions": 4.0,
+      "conv_value": 320.740125572
+    },
+    "23476824168_TUESDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "TUESDAY",
+      "spend": 228.950809,
+      "clicks": 54,
+      "impressions": 540,
+      "conversions": 4.499999,
+      "conv_value": 783.194212325
+    },
+    "23476824168_WEDNESDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "spend": 205.677019,
+      "clicks": 55,
+      "impressions": 585,
+      "conversions": 3.0,
+      "conv_value": 50.0
+    },
+    "23476824168_THURSDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "THURSDAY",
+      "spend": 181.094404,
+      "clicks": 42,
+      "impressions": 540,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23476824168_FRIDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "FRIDAY",
+      "spend": 259.755848,
+      "clicks": 26,
+      "impressions": 226,
+      "conversions": 3.0,
+      "conv_value": 1.0
+    },
+    "23476824168_SATURDAY": {
+      "campaign_id": 23476824168,
+      "campaign_name": "Search-Backhoe-Core-Geos-US",
+      "day": "SATURDAY",
+      "spend": 210.389489,
+      "clicks": 51,
+      "impressions": 561,
+      "conversions": 1.0,
+      "conv_value": 0.0
+    },
+    "23312986204_MONDAY": {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "MONDAY",
+      "spend": 6056.274675,
+      "clicks": 603,
+      "impressions": 15238,
+      "conversions": 91.967604,
+      "conv_value": 23284.31289246
+    },
+    "23312986204_TUESDAY": {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "TUESDAY",
+      "spend": 8761.567472,
+      "clicks": 844,
+      "impressions": 19081,
+      "conversions": 136.096432,
+      "conv_value": 30040.857997632
+    },
+    "23312986204_WEDNESDAY": {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "WEDNESDAY",
+      "spend": 5506.572795,
+      "clicks": 609,
+      "impressions": 14795,
+      "conversions": 112.78654,
+      "conv_value": 41635.242665126
+    },
+    "23312986204_THURSDAY": {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "THURSDAY",
+      "spend": 4472.987767,
+      "clicks": 548,
+      "impressions": 12042,
+      "conversions": 86.687761,
+      "conv_value": 26502.283322398
+    },
+    "23312986204_FRIDAY": {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "FRIDAY",
+      "spend": 3690.342154,
+      "clicks": 416,
+      "impressions": 9399,
+      "conversions": 64.750216,
+      "conv_value": 7114.245794955
+    },
+    "23469369975_MONDAY": {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "MONDAY",
+      "spend": 122.849889,
+      "clicks": 25,
+      "impressions": 132,
+      "conversions": 4.0,
+      "conv_value": 1128.19
+    },
+    "23469369975_TUESDAY": {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "TUESDAY",
+      "spend": 94.59,
+      "clicks": 21,
+      "impressions": 93,
+      "conversions": 3.0,
+      "conv_value": 1912.04
+    },
+    "23469369975_WEDNESDAY": {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "WEDNESDAY",
+      "spend": 88.03635,
+      "clicks": 17,
+      "impressions": 56,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23469369975_THURSDAY": {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "THURSDAY",
+      "spend": 59.187552,
+      "clicks": 10,
+      "impressions": 41,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23469369975_FRIDAY": {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "FRIDAY",
+      "spend": 163.846554,
+      "clicks": 17,
+      "impressions": 38,
+      "conversions": 2.0,
+      "conv_value": 0.0
+    },
+    "23312986207_MONDAY": {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "MONDAY",
+      "spend": 79.858069,
+      "clicks": 26,
+      "impressions": 86,
+      "conversions": 2.006535,
+      "conv_value": 1435.308249434
+    },
+    "23312986207_TUESDAY": {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "TUESDAY",
+      "spend": 218.735355,
+      "clicks": 37,
+      "impressions": 130,
+      "conversions": 4.0,
+      "conv_value": 2.0
+    },
+    "23312986207_WEDNESDAY": {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "WEDNESDAY",
+      "spend": 124.500362,
+      "clicks": 28,
+      "impressions": 96,
+      "conversions": 8.0,
+      "conv_value": 1334.358089217
+    },
+    "23312986207_THURSDAY": {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "THURSDAY",
+      "spend": 81.01,
+      "clicks": 14,
+      "impressions": 73,
+      "conversions": 3.0,
+      "conv_value": 1.0
+    },
+    "23312986207_FRIDAY": {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "FRIDAY",
+      "spend": 70.246299,
+      "clicks": 18,
+      "impressions": 78,
+      "conversions": 6.993465,
+      "conv_value": 432.349116753
+    },
+    "23474073503_MONDAY": {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "MONDAY",
+      "spend": 459.215225,
+      "clicks": 110,
+      "impressions": 1073,
+      "conversions": 12.0,
+      "conv_value": 272.06822105
+    },
+    "23474073503_TUESDAY": {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "TUESDAY",
+      "spend": 457.017445,
+      "clicks": 108,
+      "impressions": 1190,
+      "conversions": 25.0,
+      "conv_value": 2787.138650512
+    },
+    "23474073503_WEDNESDAY": {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "WEDNESDAY",
+      "spend": 304.365968,
+      "clicks": 70,
+      "impressions": 746,
+      "conversions": 6.0,
+      "conv_value": 437.181778067
+    },
+    "23474073503_THURSDAY": {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "THURSDAY",
+      "spend": 246.375138,
+      "clicks": 77,
+      "impressions": 728,
+      "conversions": 16.0,
+      "conv_value": 25737.319467039
+    },
+    "23474073503_FRIDAY": {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "FRIDAY",
+      "spend": 249.37687,
+      "clicks": 55,
+      "impressions": 762,
+      "conversions": 5.0,
+      "conv_value": 2.0
+    },
+    "23479017787_MONDAY": {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "MONDAY",
+      "spend": 347.063385,
+      "clicks": 22,
+      "impressions": 326,
+      "conversions": 2.0,
+      "conv_value": 668.73
+    },
+    "23479017787_TUESDAY": {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "TUESDAY",
+      "spend": 300.262886,
+      "clicks": 15,
+      "impressions": 246,
+      "conversions": 3.0,
+      "conv_value": 176.03
+    },
+    "23479017787_WEDNESDAY": {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "spend": 203.327507,
+      "clicks": 18,
+      "impressions": 263,
+      "conversions": 1.0,
+      "conv_value": 0.0
+    },
+    "23479017787_THURSDAY": {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "THURSDAY",
+      "spend": 302.997208,
+      "clicks": 28,
+      "impressions": 266,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23479017787_FRIDAY": {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "FRIDAY",
+      "spend": 110.411602,
+      "clicks": 16,
+      "impressions": 152,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23463978135_MONDAY": {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "MONDAY",
+      "spend": 659.801966,
+      "clicks": 131,
+      "impressions": 1891,
+      "conversions": 10.0,
+      "conv_value": 3119.789673642
+    },
+    "23463978135_TUESDAY": {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "TUESDAY",
+      "spend": 662.976943,
+      "clicks": 138,
+      "impressions": 1493,
+      "conversions": 13.500001,
+      "conv_value": 9467.809861644
+    },
+    "23463978135_WEDNESDAY": {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "spend": 416.135779,
+      "clicks": 87,
+      "impressions": 1476,
+      "conversions": 7.0,
+      "conv_value": 7266.532218521
+    },
+    "23463978135_THURSDAY": {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "THURSDAY",
+      "spend": 403.00153,
+      "clicks": 79,
+      "impressions": 1075,
+      "conversions": 2.0,
+      "conv_value": 180.290536771
+    },
+    "23463978135_FRIDAY": {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "FRIDAY",
+      "spend": 415.121666,
+      "clicks": 66,
+      "impressions": 1224,
+      "conversions": 6.0,
+      "conv_value": 291.565623083
+    },
+    "23474259539_MONDAY": {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "MONDAY",
+      "spend": 1144.863988,
+      "clicks": 72,
+      "impressions": 1146,
+      "conversions": 21.999996,
+      "conv_value": 7561.170041591
+    },
+    "23474259539_TUESDAY": {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "TUESDAY",
+      "spend": 1177.246106,
+      "clicks": 75,
+      "impressions": 950,
+      "conversions": 12.0,
+      "conv_value": 1718.751903297
+    },
+    "23474259539_WEDNESDAY": {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "spend": 916.989042,
+      "clicks": 56,
+      "impressions": 630,
+      "conversions": 15.0,
+      "conv_value": 3283.98890488
+    },
+    "23474259539_THURSDAY": {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "THURSDAY",
+      "spend": 786.623808,
+      "clicks": 45,
+      "impressions": 488,
+      "conversions": 16.0,
+      "conv_value": 6806.144181794
+    },
+    "23474259539_FRIDAY": {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "FRIDAY",
+      "spend": 721.750228,
+      "clicks": 54,
+      "impressions": 932,
+      "conversions": 20.0,
+      "conv_value": 2067.843565566
+    },
+    "23474406392_MONDAY": {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "MONDAY",
+      "spend": 170.36,
+      "clicks": 18,
+      "impressions": 172,
+      "conversions": 5.0,
+      "conv_value": 2006.42
+    },
+    "23474406392_TUESDAY": {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "TUESDAY",
+      "spend": 244.62,
+      "clicks": 42,
+      "impressions": 309,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23474406392_WEDNESDAY": {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "spend": 227.427752,
+      "clicks": 27,
+      "impressions": 205,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23474406392_THURSDAY": {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "THURSDAY",
+      "spend": 252.793611,
+      "clicks": 19,
+      "impressions": 173,
+      "conversions": 3.0,
+      "conv_value": 1212.15
+    },
+    "23474406392_FRIDAY": {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "FRIDAY",
+      "spend": 124.058434,
+      "clicks": 12,
+      "impressions": 100,
+      "conversions": 4.0,
+      "conv_value": 50.0
+    },
+    "23474258597_MONDAY": {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "MONDAY",
+      "spend": 550.613743,
+      "clicks": 99,
+      "impressions": 1760,
+      "conversions": 8.0,
+      "conv_value": 306.489248197
+    },
+    "23474258597_TUESDAY": {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "TUESDAY",
+      "spend": 467.159391,
+      "clicks": 93,
+      "impressions": 1350,
+      "conversions": 13.0,
+      "conv_value": 866.470082505
+    },
+    "23474258597_WEDNESDAY": {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "spend": 343.235324,
+      "clicks": 77,
+      "impressions": 1282,
+      "conversions": 13.0,
+      "conv_value": 2962.709515821
+    },
+    "23474258597_THURSDAY": {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "THURSDAY",
+      "spend": 283.352191,
+      "clicks": 63,
+      "impressions": 989,
+      "conversions": 7.0,
+      "conv_value": 1016.116562285
+    },
+    "23474258597_FRIDAY": {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "FRIDAY",
+      "spend": 147.682153,
+      "clicks": 37,
+      "impressions": 868,
+      "conversions": 16.0,
+      "conv_value": 3811.227394018
+    },
+    "23479016824_MONDAY": {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "MONDAY",
+      "spend": 508.330392,
+      "clicks": 33,
+      "impressions": 398,
+      "conversions": 6.0,
+      "conv_value": 287.19
+    },
+    "23479016824_TUESDAY": {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "TUESDAY",
+      "spend": 339.34,
+      "clicks": 24,
+      "impressions": 237,
+      "conversions": 3.0,
+      "conv_value": 74.47
+    },
+    "23479016824_WEDNESDAY": {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "spend": 223.695123,
+      "clicks": 29,
+      "impressions": 211,
+      "conversions": 5.0,
+      "conv_value": 0.0
+    },
+    "23479016824_THURSDAY": {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "THURSDAY",
+      "spend": 150.37,
+      "clicks": 15,
+      "impressions": 181,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23479016824_FRIDAY": {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "FRIDAY",
+      "spend": 289.637597,
+      "clicks": 18,
+      "impressions": 164,
+      "conversions": 5.0,
+      "conv_value": 334.12
+    },
+    "23469193560_MONDAY": {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "MONDAY",
+      "spend": 872.938671,
+      "clicks": 117,
+      "impressions": 1656,
+      "conversions": 24.0,
+      "conv_value": 3676.895222167
+    },
+    "23469193560_TUESDAY": {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "TUESDAY",
+      "spend": 1054.954107,
+      "clicks": 113,
+      "impressions": 1490,
+      "conversions": 6.0,
+      "conv_value": 131.957453863
+    },
+    "23469193560_WEDNESDAY": {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "spend": 824.232149,
+      "clicks": 85,
+      "impressions": 1259,
+      "conversions": 10.0,
+      "conv_value": 234.230767206
+    },
+    "23469193560_THURSDAY": {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "THURSDAY",
+      "spend": 714.39663,
+      "clicks": 75,
+      "impressions": 1334,
+      "conversions": 8.0,
+      "conv_value": 1201.331555491
+    },
+    "23469193560_FRIDAY": {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "FRIDAY",
+      "spend": 592.427738,
+      "clicks": 63,
+      "impressions": 1209,
+      "conversions": 3.0,
+      "conv_value": 87.047420019
+    },
+    "23479017811_MONDAY": {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "MONDAY",
+      "spend": 161.604553,
+      "clicks": 10,
+      "impressions": 112,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23479017811_TUESDAY": {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "TUESDAY",
+      "spend": 228.74,
+      "clicks": 17,
+      "impressions": 284,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23479017811_WEDNESDAY": {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "spend": 209.141108,
+      "clicks": 16,
+      "impressions": 263,
+      "conversions": 3.0,
+      "conv_value": 1054.262851862
+    },
+    "23479017811_THURSDAY": {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "THURSDAY",
+      "spend": 299.87,
+      "clicks": 21,
+      "impressions": 161,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23479017811_FRIDAY": {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "FRIDAY",
+      "spend": 221.7,
+      "clicks": 11,
+      "impressions": 84,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23478855283_MONDAY": {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "MONDAY",
+      "spend": 404.15627,
+      "clicks": 43,
+      "impressions": 950,
+      "conversions": 1.0,
+      "conv_value": 0.0
+    },
+    "23478855283_TUESDAY": {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "TUESDAY",
+      "spend": 629.479672,
+      "clicks": 42,
+      "impressions": 681,
+      "conversions": 9.0,
+      "conv_value": 1962.546250037
+    },
+    "23478855283_WEDNESDAY": {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "spend": 280.95286,
+      "clicks": 34,
+      "impressions": 957,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23478855283_THURSDAY": {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "THURSDAY",
+      "spend": 289.14,
+      "clicks": 28,
+      "impressions": 611,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "23478855283_FRIDAY": {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "FRIDAY",
+      "spend": 279.505163,
+      "clicks": 20,
+      "impressions": 567,
+      "conversions": 1.978906,
+      "conv_value": 71.726188886
+    }
+  },
+  "dow_conv": {
+    "23312986075_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 10.0,
+        "value": 2112.308060383
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 45.856672507
+      },
+      "Calls from ads": {
+        "conv": 21.000074,
+        "value": 21.000074
+      },
+      "Phone Call": {
+        "conv": 20.0,
+        "value": 0.0
+      }
+    },
+    "23312986204_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 16.0,
+        "value": 6540.621753762
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 3.0,
+        "value": 150.0
+      },
+      "Calls from ads": {
+        "conv": 24.0,
+        "value": 24.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 2.9676,
+        "value": 14054.493802175
+      },
+      "Phone Call": {
+        "conv": 45.000004,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 2515.197336523
+      }
+    },
+    "23312986207_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 1434.301714434
+      },
+      "Calls from ads": {
+        "conv": 1.006535,
+        "value": 1.006535
+      }
+    },
+    "23463978135_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 4.0,
+        "value": 3119.789673642
+      },
+      "Phone Call": {
+        "conv": 6.0,
+        "value": 0.0
+      }
+    },
+    "23469193560_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 5.0,
+        "value": 527.143201997
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 100.452874921
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 623.018081703
+      },
+      "Phone Call": {
+        "conv": 14.0,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 2425.281063546
+      }
+    },
+    "23469369975_MONDAY": {
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 1128.19
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23474073503_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 218.06822105
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 50.0
+      },
+      "Calls from ads": {
+        "conv": 4.0,
+        "value": 4.0
+      },
+      "Phone Call": {
+        "conv": 6.0,
+        "value": 0.0
+      }
+    },
+    "23474258597_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 306.489248197
+      },
+      "Phone Call": {
+        "conv": 6.0,
+        "value": 0.0
+      }
+    },
+    "23474259539_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 6.0,
+        "value": 3326.333391763
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 2.0,
+        "value": 4234.836649828
+      },
+      "Phone Call": {
+        "conv": 13.999996,
+        "value": 0.0
+      }
+    },
+    "23474406392_MONDAY": {
+      "Phone Call": {
+        "conv": 4.0,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 2006.42
+      }
+    },
+    "23476824168_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 270.740125572
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 50.0
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23478855283_MONDAY": {
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23479016824_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 287.19
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23479017787_MONDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 668.73
+      },
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23312986075_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 16.0,
+        "value": 5815.815060187
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 76.070448171
+      },
+      "Calls from ads": {
+        "conv": 24.5,
+        "value": 24.5
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 4.0,
+        "value": 13360.105553945
+      },
+      "Phone Call": {
+        "conv": 57.666666,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 2.0,
+        "value": 4332.403899933
+      }
+    },
+    "23312986204_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 19.0,
+        "value": 10262.593597851
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 7.347532,
+        "value": 753.093562282
+      },
+      "Calls from ads": {
+        "conv": 41.0,
+        "value": 41.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 6.3489,
+        "value": 15561.865326719
+      },
+      "Phone Call": {
+        "conv": 61.4,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 3422.305510779
+      }
+    },
+    "23312986207_TUESDAY": {
+      "Calls from ads": {
+        "conv": 2.0,
+        "value": 2.0
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23463978135_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 1783.593910292
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 489.501715082
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.666667,
+        "value": 7194.71423627
+      },
+      "Phone Call": {
+        "conv": 8.833334,
+        "value": 0.0
+      }
+    },
+    "23469193560_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 129.957453863
+      },
+      "Calls from ads": {
+        "conv": 2.0,
+        "value": 2.0
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23469369975_TUESDAY": {
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 1912.04
+      }
+    },
+    "23474073503_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 397.641783406
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 100.0
+      },
+      "Calls from ads": {
+        "conv": 4.0,
+        "value": 4.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 2285.496867107
+      },
+      "Phone Call": {
+        "conv": 16.0,
+        "value": 0.0
+      }
+    },
+    "23474258597_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 812.470082505
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 50.0
+      },
+      "Calls from ads": {
+        "conv": 4.0,
+        "value": 4.0
+      },
+      "Phone Call": {
+        "conv": 7.0,
+        "value": 0.0
+      }
+    },
+    "23474259539_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 5.0,
+        "value": 1613.054450806
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 105.697452491
+      },
+      "Phone Call": {
+        "conv": 6.0,
+        "value": 0.0
+      }
+    },
+    "23476824168_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 339.352363951
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 0.333333,
+        "value": 443.841848374
+      },
+      "Phone Call": {
+        "conv": 3.166666,
+        "value": 0.0
+      }
+    },
+    "23478855283_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 1961.546250037
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Phone Call": {
+        "conv": 5.0,
+        "value": 0.0
+      }
+    },
+    "23479016824_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 74.47
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23479017787_TUESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 176.03
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23312986075_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 9.0,
+        "value": 2293.772260528
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 534.877102056
+      },
+      "Calls from ads": {
+        "conv": 23.5,
+        "value": 23.5
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 3.0,
+        "value": 10477.876412157
+      },
+      "Phone Call": {
+        "conv": 30.833334,
+        "value": 0.0
+      }
+    },
+    "23312986204_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 20.0,
+        "value": 9550.479656355
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.652468,
+        "value": 381.867854837
+      },
+      "Calls from ads": {
+        "conv": 25.999638,
+        "value": 25.999638
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 9.701101,
+        "value": 28416.858551627
+      },
+      "Phone Call": {
+        "conv": 53.433333,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 3260.036964306
+      }
+    },
+    "23312986207_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 1334.358089217
+      },
+      "Phone Call": {
+        "conv": 5.0,
+        "value": 0.0
+      }
+    },
+    "23463978135_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 991.0889206
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 6275.443297921
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23469193560_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 233.230767206
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Phone Call": {
+        "conv": 6.0,
+        "value": 0.0
+      }
+    },
+    "23474073503_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 436.181778067
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23474258597_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 550.016693529
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 100.0
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Phone Call": {
+        "conv": 7.0,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 2311.692822292
+      }
+    },
+    "23474259539_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 285.433232402
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 142.223348456
+      },
+      "Calls from ads": {
+        "conv": 2.0,
+        "value": 2.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 2854.332324022
+      },
+      "Phone Call": {
+        "conv": 9.0,
+        "value": 0.0
+      }
+    },
+    "23476824168_WEDNESDAY": {
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 50.0
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23479016824_WEDNESDAY": {
+      "Phone Call": {
+        "conv": 5.0,
+        "value": 0.0
+      }
+    },
+    "23479017787_WEDNESDAY": {
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23479017811_WEDNESDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 1054.262851862
+      },
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23312986075_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 12.0,
+        "value": 2586.118894537
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 283.336460873
+      },
+      "Calls from ads": {
+        "conv": 15.500072,
+        "value": 15.500072
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 2.982399,
+        "value": 5882.822131872
+      },
+      "Phone Call": {
+        "conv": 36.75,
+        "value": 0.0
+      }
+    },
+    "23312986204_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 17.0,
+        "value": 9326.906114318
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.021094,
+        "value": 652.352261036
+      },
+      "Calls from ads": {
+        "conv": 19.5,
+        "value": 19.5
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 2.0,
+        "value": 13548.870881426
+      },
+      "Phone Call": {
+        "conv": 45.166667,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 2954.654065618
+      }
+    },
+    "23312986207_THURSDAY": {
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23463978135_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 180.290536771
+      },
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23469193560_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 1151.331555491
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 50.0
+      },
+      "Phone Call": {
+        "conv": 4.0,
+        "value": 0.0
+      }
+    },
+    "23474073503_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 3008.333119332
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 112.460568869
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 2.0,
+        "value": 22616.525778838
+      },
+      "Phone Call": {
+        "conv": 9.0,
+        "value": 0.0
+      }
+    },
+    "23474258597_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 3.0,
+        "value": 1016.116562285
+      },
+      "Phone Call": {
+        "conv": 4.0,
+        "value": 0.0
+      }
+    },
+    "23474259539_THURSDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 7.0,
+        "value": 1508.898850568
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 5296.245331226
+      },
+      "Phone Call": {
+        "conv": 7.0,
+        "value": 0.0
+      }
+    },
+    "23474406392_THURSDAY": {
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      },
+      "Purchase (Google Analytics event purchase)": {
+        "conv": 1.0,
+        "value": 1212.15
+      }
+    },
+    "23312986075_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 2573.01334939
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 100.0
+      },
+      "Calls from ads": {
+        "conv": 9.0,
+        "value": 9.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 3.0,
+        "value": 6178.48534675
+      },
+      "Phone Call": {
+        "conv": 19.0,
+        "value": 0.0
+      }
+    },
+    "23312986204_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 11.0,
+        "value": 2957.022282003
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 148.024668824
+      },
+      "Calls from ads": {
+        "conv": 15.000216,
+        "value": 15.000216
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 2.0,
+        "value": 3994.198628129
+      },
+      "Phone Call": {
+        "conv": 34.75,
+        "value": 0.0
+      }
+    },
+    "23312986207_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 427.355651753
+      },
+      "Calls from ads": {
+        "conv": 4.993465,
+        "value": 4.993465
+      },
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23463978135_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 291.565623083
+      },
+      "Phone Call": {
+        "conv": 5.0,
+        "value": 0.0
+      }
+    },
+    "23469193560_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 1.0,
+        "value": 87.047420019
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23469369975_FRIDAY": {
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23474073503_FRIDAY": {
+      "Calls from ads": {
+        "conv": 2.0,
+        "value": 2.0
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23474258597_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 4.0,
+        "value": 845.54557113
+      },
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 2964.681822888
+      },
+      "Phone Call": {
+        "conv": 10.0,
+        "value": 0.0
+      }
+    },
+    "23474259539_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 6.0,
+        "value": 764.550266686
+      },
+      "AdWords Qualified Calls May 2025": {
+        "conv": 2.0,
+        "value": 137.293030673
+      },
+      "Closed Won Deals From AdWords Caller May 2025": {
+        "conv": 1.0,
+        "value": 1166.000268208
+      },
+      "Phone Call": {
+        "conv": 11.0,
+        "value": 0.0
+      }
+    },
+    "23474406392_FRIDAY": {
+      "AdWords Qualified Calls May 2025": {
+        "conv": 1.0,
+        "value": 50.0
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23476824168_FRIDAY": {
+      "Calls from ads": {
+        "conv": 1.0,
+        "value": 1.0
+      },
+      "Phone Call": {
+        "conv": 2.0,
+        "value": 0.0
+      }
+    },
+    "23478855283_FRIDAY": {
+      "AdWords Qualified Calls May 2025": {
+        "conv": 0.978906,
+        "value": 71.726188886
+      },
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    },
+    "23479016824_FRIDAY": {
+      "AdWords Caller requested a quote May 2025": {
+        "conv": 2.0,
+        "value": 334.12
+      },
+      "Phone Call": {
+        "conv": 3.0,
+        "value": 0.0
+      }
+    },
+    "23476824168_SATURDAY": {
+      "Phone Call": {
+        "conv": 1.0,
+        "value": 0.0
+      }
+    }
+  },
+  "schedules": [
+    {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23312986075,
+      "campaign_name": "DSA-AllPages-Tier1-New-US-2",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23312986204,
+      "campaign_name": "Search-Demand-Boom-Lifts",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23312986207,
+      "campaign_name": "Search-Demand-Brand-US",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23463978135,
+      "campaign_name": "Search-Excavator-Core-Geos-US",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 17,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343268
+    },
+    {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23469193560,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-US",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23469369975,
+      "campaign_name": "Search-Demand-Brand-CA",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23474073503,
+      "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23474258597,
+      "campaign_name": "Search-Loader-Core-Geos-US",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23474259539,
+      "campaign_name": "Search-Forklift-Core-Geos-US",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23474406392,
+      "campaign_name": "Search-Loader-Core-Geos-CA",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23478855283,
+      "campaign_name": "Search-Telehandler-Core-Geos-US",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23479016824,
+      "campaign_name": "Search-Scissor-Lift-Core-Geos-CA",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23479017787,
+      "campaign_name": "Search-Excavator-Core-Geos-CA",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    },
+    {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "MONDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 303276
+    },
+    {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "TUESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 313276
+    },
+    {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "WEDNESDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 323276
+    },
+    {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "THURSDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 19,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 333276
+    },
+    {
+      "campaign_id": 23479017811,
+      "campaign_name": "Search-Telehandler-Core-Geos-CA",
+      "day": "FRIDAY",
+      "start_hour": 8,
+      "start_min": "ZERO",
+      "end_hour": 16,
+      "end_min": "ZERO",
+      "bid_modifier": 0.0,
+      "criterion_id": 343264
+    }
+  ],
+  "hour_data": {
+    "MONDAY_8": {
+      "day": "MONDAY",
+      "hour": 8,
+      "spend": 925.9944839999999,
+      "clicks": 86,
+      "conversions": 22.000073999999998,
+      "conv_value": 5913.660276582999
+    },
+    "MONDAY_9": {
+      "day": "MONDAY",
+      "hour": 9,
+      "spend": 1290.9103989999999,
+      "clicks": 137,
+      "conversions": 21.0,
+      "conv_value": 2206.295340696
+    },
+    "MONDAY_10": {
+      "day": "MONDAY",
+      "hour": 10,
+      "spend": 1303.5998159999997,
+      "clicks": 133,
+      "conversions": 37.9676,
+      "conv_value": 13895.790239779999
+    },
+    "MONDAY_11": {
+      "day": "MONDAY",
+      "hour": 11,
+      "spend": 1417.416203,
+      "clicks": 170,
+      "conversions": 30.0,
+      "conv_value": 3291.081266577
+    },
+    "MONDAY_12": {
+      "day": "MONDAY",
+      "hour": 12,
+      "spend": 1220.444162,
+      "clicks": 146,
+      "conversions": 14.0,
+      "conv_value": 889.794959967
+    },
+    "MONDAY_13": {
+      "day": "MONDAY",
+      "hour": 13,
+      "spend": 1787.4687950000002,
+      "clicks": 192,
+      "conversions": 35.5,
+      "conv_value": 4122.935776017999
+    },
+    "MONDAY_14": {
+      "day": "MONDAY",
+      "hour": 14,
+      "spend": 1642.539547,
+      "clicks": 204,
+      "conversions": 24.5,
+      "conv_value": 4490.710300388
+    },
+    "MONDAY_15": {
+      "day": "MONDAY",
+      "hour": 15,
+      "spend": 1636.182583,
+      "clicks": 200,
+      "conversions": 18.999998,
+      "conv_value": 709.792950172
+    },
+    "MONDAY_16": {
+      "day": "MONDAY",
+      "hour": 16,
+      "spend": 1177.2782169999998,
+      "clicks": 162,
+      "conversions": 18.0,
+      "conv_value": 6648.353090613
+    },
+    "MONDAY_17": {
+      "day": "MONDAY",
+      "hour": 17,
+      "spend": 890.1810799999998,
+      "clicks": 102,
+      "conversions": 8.999998,
+      "conv_value": 173.859548601
+    },
+    "MONDAY_18": {
+      "day": "MONDAY",
+      "hour": 18,
+      "spend": 525.0720699999999,
+      "clicks": 91,
+      "conversions": 13.006539,
+      "conv_value": 3904.194731607
+    },
+    "TUESDAY_8": {
+      "day": "TUESDAY",
+      "hour": 8,
+      "spend": 1380.6114279999997,
+      "clicks": 125,
+      "conversions": 17.0,
+      "conv_value": 568.182036329
+    },
+    "TUESDAY_9": {
+      "day": "TUESDAY",
+      "hour": 9,
+      "spend": 1813.943404,
+      "clicks": 189,
+      "conversions": 37.0,
+      "conv_value": 11475.091888361
+    },
+    "TUESDAY_10": {
+      "day": "TUESDAY",
+      "hour": 10,
+      "spend": 2168.03823,
+      "clicks": 229,
+      "conversions": 39.522324,
+      "conv_value": 12704.759854044001
+    },
+    "TUESDAY_11": {
+      "day": "TUESDAY",
+      "hour": 11,
+      "spend": 2738.4228020000005,
+      "clicks": 258,
+      "conversions": 43.0,
+      "conv_value": 12532.151523863999
+    },
+    "TUESDAY_12": {
+      "day": "TUESDAY",
+      "hour": 12,
+      "spend": 2315.725471,
+      "clicks": 242,
+      "conversions": 41.022323,
+      "conv_value": 19367.115624178998
+    },
+    "TUESDAY_13": {
+      "day": "TUESDAY",
+      "hour": 13,
+      "spend": 1846.9602859999995,
+      "clicks": 219,
+      "conversions": 42.166665,
+      "conv_value": 2653.489573117
+    },
+    "TUESDAY_14": {
+      "day": "TUESDAY",
+      "hour": 14,
+      "spend": 2344.6629719999996,
+      "clicks": 268,
+      "conversions": 47.333336,
+      "conv_value": 6324.686076304
+    },
+    "TUESDAY_15": {
+      "day": "TUESDAY",
+      "hour": 15,
+      "spend": 1589.0064579999996,
+      "clicks": 187,
+      "conversions": 30.051783999999998,
+      "conv_value": 5881.714028239
+    },
+    "TUESDAY_16": {
+      "day": "TUESDAY",
+      "hour": 16,
+      "spend": 1115.250381,
+      "clicks": 146,
+      "conversions": 18.666666,
+      "conv_value": 296.33726600800003
+    },
+    "TUESDAY_17": {
+      "day": "TUESDAY",
+      "hour": 17,
+      "spend": 746.4451859999999,
+      "clicks": 117,
+      "conversions": 8.5,
+      "conv_value": 3.5
+    },
+    "TUESDAY_18": {
+      "day": "TUESDAY",
+      "hour": 18,
+      "spend": 357.428388,
+      "clicks": 68,
+      "conversions": 13.0,
+      "conv_value": 1725.133503607
+    },
+    "WEDNESDAY_8": {
+      "day": "WEDNESDAY",
+      "hour": 8,
+      "spend": 767.504837,
+      "clicks": 88,
+      "conversions": 7.410693,
+      "conv_value": 779.5010410689999
+    },
+    "WEDNESDAY_9": {
+      "day": "WEDNESDAY",
+      "hour": 9,
+      "spend": 1250.2795589999998,
+      "clicks": 155,
+      "conversions": 20.121707,
+      "conv_value": 14071.187945782001
+    },
+    "WEDNESDAY_10": {
+      "day": "WEDNESDAY",
+      "hour": 10,
+      "spend": 1719.9729110000003,
+      "clicks": 199,
+      "conversions": 34.749638,
+      "conv_value": 5945.559727043
+    },
+    "WEDNESDAY_11": {
+      "day": "WEDNESDAY",
+      "hour": 11,
+      "spend": 1790.808179,
+      "clicks": 217,
+      "conversions": 30.775892,
+      "conv_value": 3947.619875386
+    },
+    "WEDNESDAY_12": {
+      "day": "WEDNESDAY",
+      "hour": 12,
+      "spend": 1283.312758,
+      "clicks": 160,
+      "conversions": 33.876827,
+      "conv_value": 4316.406927765
+    },
+    "WEDNESDAY_13": {
+      "day": "WEDNESDAY",
+      "hour": 13,
+      "spend": 1263.439232,
+      "clicks": 150,
+      "conversions": 30.0,
+      "conv_value": 5095.295077101
+    },
+    "WEDNESDAY_14": {
+      "day": "WEDNESDAY",
+      "hour": 14,
+      "spend": 1384.872936,
+      "clicks": 185,
+      "conversions": 26.851782999999998,
+      "conv_value": 7994.438409651
+    },
+    "WEDNESDAY_15": {
+      "day": "WEDNESDAY",
+      "hour": 15,
+      "spend": 1316.980305,
+      "clicks": 160,
+      "conversions": 31.5,
+      "conv_value": 10328.397117576002
+    },
+    "WEDNESDAY_16": {
+      "day": "WEDNESDAY",
+      "hour": 16,
+      "spend": 907.479212,
+      "clicks": 132,
+      "conversions": 9.0,
+      "conv_value": 2841.955674154
+    },
+    "WEDNESDAY_17": {
+      "day": "WEDNESDAY",
+      "hour": 17,
+      "spend": 682.435433,
+      "clicks": 99,
+      "conversions": 21.833334,
+      "conv_value": 14782.417328627998
+    },
+    "WEDNESDAY_18": {
+      "day": "WEDNESDAY",
+      "hour": 18,
+      "spend": 126.57012700000003,
+      "clicks": 28,
+      "conversions": 6.0,
+      "conv_value": 1485.753441284
+    },
+    "THURSDAY_8": {
+      "day": "THURSDAY",
+      "hour": 8,
+      "spend": 725.9032320000002,
+      "clicks": 88,
+      "conversions": 12.0,
+      "conv_value": 2092.21423105
+    },
+    "THURSDAY_9": {
+      "day": "THURSDAY",
+      "hour": 9,
+      "spend": 1249.3807390000004,
+      "clicks": 137,
+      "conversions": 23.0,
+      "conv_value": 23291.441318498
+    },
+    "THURSDAY_10": {
+      "day": "THURSDAY",
+      "hour": 10,
+      "spend": 1249.5285079999999,
+      "clicks": 154,
+      "conversions": 12.666667,
+      "conv_value": 3704.58936597
+    },
+    "THURSDAY_11": {
+      "day": "THURSDAY",
+      "hour": 11,
+      "spend": 1082.5463930000003,
+      "clicks": 148,
+      "conversions": 26.0,
+      "conv_value": 1299.474980041
+    },
+    "THURSDAY_12": {
+      "day": "THURSDAY",
+      "hour": 12,
+      "spend": 1274.6623399999996,
+      "clicks": 173,
+      "conversions": 32.529374000000004,
+      "conv_value": 12275.292685216
+    },
+    "THURSDAY_13": {
+      "day": "THURSDAY",
+      "hour": 13,
+      "spend": 1302.8116619999998,
+      "clicks": 162,
+      "conversions": 17.521093999999998,
+      "conv_value": 6936.965923622
+    },
+    "THURSDAY_14": {
+      "day": "THURSDAY",
+      "hour": 14,
+      "spend": 1319.467651,
+      "clicks": 150,
+      "conversions": 25.0,
+      "conv_value": 2088.485918224
+    },
+    "THURSDAY_15": {
+      "day": "THURSDAY",
+      "hour": 15,
+      "spend": 998.341705,
+      "clicks": 127,
+      "conversions": 20.0,
+      "conv_value": 3237.869203139
+    },
+    "THURSDAY_16": {
+      "day": "THURSDAY",
+      "hour": 16,
+      "spend": 903.0305559999998,
+      "clicks": 136,
+      "conversions": 13.0,
+      "conv_value": 915.2886958639999
+    },
+    "THURSDAY_17": {
+      "day": "THURSDAY",
+      "hour": 17,
+      "spend": 652.902364,
+      "clicks": 108,
+      "conversions": 24.203097,
+      "conv_value": 12502.548624294
+    },
+    "THURSDAY_18": {
+      "day": "THURSDAY",
+      "hour": 18,
+      "spend": 259.801878,
+      "clicks": 54,
+      "conversions": 5.0,
+      "conv_value": 3080.242239142
+    },
+    "FRIDAY_8": {
+      "day": "FRIDAY",
+      "hour": 8,
+      "spend": 867.4502670000002,
+      "clicks": 90,
+      "conversions": 19.0,
+      "conv_value": 4421.909703717
+    },
+    "FRIDAY_9": {
+      "day": "FRIDAY",
+      "hour": 9,
+      "spend": 1284.0434150000003,
+      "clicks": 148,
+      "conversions": 19.993465,
+      "conv_value": 365.164328189
+    },
+    "FRIDAY_10": {
+      "day": "FRIDAY",
+      "hour": 10,
+      "spend": 1864.9900609999997,
+      "clicks": 178,
+      "conversions": 27.0,
+      "conv_value": 9152.56698512
+    },
+    "FRIDAY_11": {
+      "day": "FRIDAY",
+      "hour": 11,
+      "spend": 2084.7478640000004,
+      "clicks": 193,
+      "conversions": 26.333332,
+      "conv_value": 2675.076193854
+    },
+    "FRIDAY_12": {
+      "day": "FRIDAY",
+      "hour": 12,
+      "spend": 1199.3973260000002,
+      "clicks": 139,
+      "conversions": 22.91674,
+      "conv_value": 1959.478044016
+    },
+    "FRIDAY_13": {
+      "day": "FRIDAY",
+      "hour": 13,
+      "spend": 1068.2469759999997,
+      "clicks": 133,
+      "conversions": 32.500144,
+      "conv_value": 3539.256104635
+    },
+    "FRIDAY_14": {
+      "day": "FRIDAY",
+      "hour": 14,
+      "spend": 847.1409040000001,
+      "clicks": 88,
+      "conversions": 4.0,
+      "conv_value": 88.293030673
+    },
+    "FRIDAY_15": {
+      "day": "FRIDAY",
+      "hour": 15,
+      "spend": 542.779404,
+      "clicks": 78,
+      "conversions": 17.978906,
+      "conv_value": 921.8794092160001
+    },
+    "FRIDAY_16": {
+      "day": "FRIDAY",
+      "hour": 16,
+      "spend": 18.73,
+      "clicks": 5,
+      "conversions": 3.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_0": {
+      "day": "SUNDAY",
+      "hour": 0,
+      "spend": 3.12,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_1": {
+      "day": "SUNDAY",
+      "hour": 1,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_2": {
+      "day": "SUNDAY",
+      "hour": 2,
+      "spend": 1.68,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_3": {
+      "day": "SUNDAY",
+      "hour": 3,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_4": {
+      "day": "SUNDAY",
+      "hour": 4,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_5": {
+      "day": "SUNDAY",
+      "hour": 5,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_6": {
+      "day": "SUNDAY",
+      "hour": 6,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_7": {
+      "day": "SUNDAY",
+      "hour": 7,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_8": {
+      "day": "SUNDAY",
+      "hour": 8,
+      "spend": 6.35,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_9": {
+      "day": "SUNDAY",
+      "hour": 9,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_10": {
+      "day": "SUNDAY",
+      "hour": 10,
+      "spend": 7.25,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_11": {
+      "day": "SUNDAY",
+      "hour": 11,
+      "spend": 11.67,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_12": {
+      "day": "SUNDAY",
+      "hour": 12,
+      "spend": 29.1818,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_13": {
+      "day": "SUNDAY",
+      "hour": 13,
+      "spend": 10.2,
+      "clicks": 5,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_14": {
+      "day": "SUNDAY",
+      "hour": 14,
+      "spend": 9.69,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_15": {
+      "day": "SUNDAY",
+      "hour": 15,
+      "spend": 7.98,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_16": {
+      "day": "SUNDAY",
+      "hour": 16,
+      "spend": 11.78,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_17": {
+      "day": "SUNDAY",
+      "hour": 17,
+      "spend": 11.09,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_18": {
+      "day": "SUNDAY",
+      "hour": 18,
+      "spend": 15.857504,
+      "clicks": 6,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_19": {
+      "day": "SUNDAY",
+      "hour": 19,
+      "spend": 6.132021,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_20": {
+      "day": "SUNDAY",
+      "hour": 20,
+      "spend": 0.66,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_21": {
+      "day": "SUNDAY",
+      "hour": 21,
+      "spend": 5.597452,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_22": {
+      "day": "SUNDAY",
+      "hour": 22,
+      "spend": 1.8,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SUNDAY_23": {
+      "day": "SUNDAY",
+      "hour": 23,
+      "spend": 2.49,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_0": {
+      "day": "MONDAY",
+      "hour": 0,
+      "spend": 1.33,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_1": {
+      "day": "MONDAY",
+      "hour": 1,
+      "spend": 0.64,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_2": {
+      "day": "MONDAY",
+      "hour": 2,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_3": {
+      "day": "MONDAY",
+      "hour": 3,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_4": {
+      "day": "MONDAY",
+      "hour": 4,
+      "spend": 1.83,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_5": {
+      "day": "MONDAY",
+      "hour": 5,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_6": {
+      "day": "MONDAY",
+      "hour": 6,
+      "spend": 2.56,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_7": {
+      "day": "MONDAY",
+      "hour": 7,
+      "spend": 5.262491,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_19": {
+      "day": "MONDAY",
+      "hour": 19,
+      "spend": 1.25,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_20": {
+      "day": "MONDAY",
+      "hour": 20,
+      "spend": 12.98,
+      "clicks": 4,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_21": {
+      "day": "MONDAY",
+      "hour": 21,
+      "spend": 1.9,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_22": {
+      "day": "MONDAY",
+      "hour": 22,
+      "spend": 4.2,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "MONDAY_23": {
+      "day": "MONDAY",
+      "hour": 23,
+      "spend": 3.48,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_0": {
+      "day": "TUESDAY",
+      "hour": 0,
+      "spend": 0.97,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_1": {
+      "day": "TUESDAY",
+      "hour": 1,
+      "spend": 6.52,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_2": {
+      "day": "TUESDAY",
+      "hour": 2,
+      "spend": 8.0,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_3": {
+      "day": "TUESDAY",
+      "hour": 3,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_4": {
+      "day": "TUESDAY",
+      "hour": 4,
+      "spend": 5.92,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_5": {
+      "day": "TUESDAY",
+      "hour": 5,
+      "spend": 1.4,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_6": {
+      "day": "TUESDAY",
+      "hour": 6,
+      "spend": 2.72,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_7": {
+      "day": "TUESDAY",
+      "hour": 7,
+      "spend": 2.36,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_19": {
+      "day": "TUESDAY",
+      "hour": 19,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_20": {
+      "day": "TUESDAY",
+      "hour": 20,
+      "spend": 3.95,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_21": {
+      "day": "TUESDAY",
+      "hour": 21,
+      "spend": 1.06,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_22": {
+      "day": "TUESDAY",
+      "hour": 22,
+      "spend": 0.66,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "TUESDAY_23": {
+      "day": "TUESDAY",
+      "hour": 23,
+      "spend": 1.97,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_0": {
+      "day": "WEDNESDAY",
+      "hour": 0,
+      "spend": 5.96,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_1": {
+      "day": "WEDNESDAY",
+      "hour": 1,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_2": {
+      "day": "WEDNESDAY",
+      "hour": 2,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_3": {
+      "day": "WEDNESDAY",
+      "hour": 3,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_4": {
+      "day": "WEDNESDAY",
+      "hour": 4,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_5": {
+      "day": "WEDNESDAY",
+      "hour": 5,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_6": {
+      "day": "WEDNESDAY",
+      "hour": 6,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_7": {
+      "day": "WEDNESDAY",
+      "hour": 7,
+      "spend": 8.38,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_19": {
+      "day": "WEDNESDAY",
+      "hour": 19,
+      "spend": 13.46,
+      "clicks": 4,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_20": {
+      "day": "WEDNESDAY",
+      "hour": 20,
+      "spend": 3.678289,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_21": {
+      "day": "WEDNESDAY",
+      "hour": 21,
+      "spend": 10.07,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_22": {
+      "day": "WEDNESDAY",
+      "hour": 22,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "WEDNESDAY_23": {
+      "day": "WEDNESDAY",
+      "hour": 23,
+      "spend": 4.49,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_0": {
+      "day": "THURSDAY",
+      "hour": 0,
+      "spend": 4.07,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_1": {
+      "day": "THURSDAY",
+      "hour": 1,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_2": {
+      "day": "THURSDAY",
+      "hour": 2,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_3": {
+      "day": "THURSDAY",
+      "hour": 3,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_4": {
+      "day": "THURSDAY",
+      "hour": 4,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_5": {
+      "day": "THURSDAY",
+      "hour": 5,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_6": {
+      "day": "THURSDAY",
+      "hour": 6,
+      "spend": 2.87,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_7": {
+      "day": "THURSDAY",
+      "hour": 7,
+      "spend": 9.67,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_19": {
+      "day": "THURSDAY",
+      "hour": 19,
+      "spend": 4.18,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_20": {
+      "day": "THURSDAY",
+      "hour": 20,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_21": {
+      "day": "THURSDAY",
+      "hour": 21,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_22": {
+      "day": "THURSDAY",
+      "hour": 22,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "THURSDAY_23": {
+      "day": "THURSDAY",
+      "hour": 23,
+      "spend": 0.71,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_0": {
+      "day": "FRIDAY",
+      "hour": 0,
+      "spend": 2.731675,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_1": {
+      "day": "FRIDAY",
+      "hour": 1,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_2": {
+      "day": "FRIDAY",
+      "hour": 2,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_3": {
+      "day": "FRIDAY",
+      "hour": 3,
+      "spend": 6.93,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_4": {
+      "day": "FRIDAY",
+      "hour": 4,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_5": {
+      "day": "FRIDAY",
+      "hour": 5,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_6": {
+      "day": "FRIDAY",
+      "hour": 6,
+      "spend": 4.64,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "FRIDAY_7": {
+      "day": "FRIDAY",
+      "hour": 7,
+      "spend": 2.98,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_0": {
+      "day": "SATURDAY",
+      "hour": 0,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_1": {
+      "day": "SATURDAY",
+      "hour": 1,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_2": {
+      "day": "SATURDAY",
+      "hour": 2,
+      "spend": 1.97,
+      "clicks": 1,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_3": {
+      "day": "SATURDAY",
+      "hour": 3,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_4": {
+      "day": "SATURDAY",
+      "hour": 4,
+      "spend": 0.0,
+      "clicks": 0,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_5": {
+      "day": "SATURDAY",
+      "hour": 5,
+      "spend": 4.66,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_6": {
+      "day": "SATURDAY",
+      "hour": 6,
+      "spend": 3.76,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_7": {
+      "day": "SATURDAY",
+      "hour": 7,
+      "spend": 8.3,
+      "clicks": 1,
+      "conversions": 1.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_8": {
+      "day": "SATURDAY",
+      "hour": 8,
+      "spend": 1.91,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_9": {
+      "day": "SATURDAY",
+      "hour": 9,
+      "spend": 11.3,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_10": {
+      "day": "SATURDAY",
+      "hour": 10,
+      "spend": 35.53,
+      "clicks": 9,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_11": {
+      "day": "SATURDAY",
+      "hour": 11,
+      "spend": 48.508057,
+      "clicks": 11,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_12": {
+      "day": "SATURDAY",
+      "hour": 12,
+      "spend": 34.48,
+      "clicks": 5,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_13": {
+      "day": "SATURDAY",
+      "hour": 13,
+      "spend": 14.32,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_14": {
+      "day": "SATURDAY",
+      "hour": 14,
+      "spend": 19.821432,
+      "clicks": 6,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_15": {
+      "day": "SATURDAY",
+      "hour": 15,
+      "spend": 18.23,
+      "clicks": 3,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    },
+    "SATURDAY_16": {
+      "day": "SATURDAY",
+      "hour": 16,
+      "spend": 7.6,
+      "clicks": 2,
+      "conversions": 0.0,
+      "conv_value": 0.0
+    }
+  },
+  "weekend_experiment_feb2026": {
+    "experiment_date": "2026-02-07 to 2026-02-08",
+    "experiment_name": "Weekend Ads Test - Dozers & Excavator",
+    "analysis_date": "2026-02-11",
+    "campaigns_tested": [
+      {
+        "campaign_id": "23474073503",
+        "campaign_name": "Search-Dozers-Core-Geos-US-V3",
+        "saturday": {
+          "date": "2026-02-07",
+          "spend": 311.33,
+          "clicks": 88,
+          "impressions": 1002,
+          "ctr": 8.78,
+          "cpc": 3.54,
+          "conversions": {
+            "calls_from_ads": 1,
+            "phone_calls": 10,
+            "qualified_calls": 0,
+            "quote_requested": 4,
+            "deals_closed": 1
+          },
+          "total_conversions": 16,
+          "conversion_value": 2264.68,
+          "cpa": 19.46,
+          "roas": 7.27
+        },
+        "sunday": {
+          "date": "2026-02-08",
+          "spend": 147.52,
+          "clicks": 59,
+          "impressions": 551,
+          "ctr": 10.71,
+          "cpc": 2.5,
+          "conversions": {
+            "calls_from_ads": 0,
+            "phone_calls": 0,
+            "qualified_calls": 0,
+            "quote_requested": 0,
+            "deals_closed": 0
+          },
+          "total_conversions": 0,
+          "conversion_value": 0,
+          "cpa": null,
+          "roas": 0
+        },
+        "weekday_avg_30day": {
+          "spend": 147.94,
+          "clicks": 36.8,
+          "calls": 3.6,
+          "qualified_calls": 0.33,
+          "quote_requested": 0.89,
+          "deals_closed": 0.28,
+          "conversion_value": 2801.68,
+          "cpa": 28.79,
+          "roas": 18.94
+        }
+      },
+      {
+        "campaign_id": "23463978135",
+        "campaign_name": "Search-Excavator-Core-Geos-US",
+        "saturday": {
+          "date": "2026-02-07",
+          "spend": 360.93,
+          "clicks": 66,
+          "impressions": 655,
+          "ctr": 10.08,
+          "cpc": 5.47,
+          "conversions": {
+            "calls_from_ads": 4,
+            "phone_calls": 1,
+            "qualified_calls": 0,
+            "quote_requested": 1,
+            "deals_closed": 0
+          },
+          "total_conversions": 6,
+          "conversion_value": 183.52,
+          "cpa": 60.15,
+          "roas": 0.51
+        },
+        "sunday": {
+          "date": "2026-02-08",
+          "spend": 84.8,
+          "clicks": 29,
+          "impressions": 365,
+          "ctr": 7.95,
+          "cpc": 2.92,
+          "conversions": {
+            "calls_from_ads": 0,
+            "phone_calls": 0,
+            "qualified_calls": 0,
+            "quote_requested": 0,
+            "deals_closed": 0
+          },
+          "total_conversions": 0,
+          "conversion_value": 0,
+          "cpa": null,
+          "roas": 0
+        },
+        "weekday_avg_30day": {
+          "spend": 213.6,
+          "clicks": 41.2,
+          "calls": 1.6,
+          "qualified_calls": 0.06,
+          "quote_requested": 0.67,
+          "deals_closed": 0.15,
+          "conversion_value": 1187.91,
+          "cpa": 86.4,
+          "roas": 5.56
+        }
+      }
+    ],
+    "twilio_cross_reference": {
+      "total_calls_weekend": 28,
+      "saturday_calls": 22,
+      "sunday_calls": 6,
+      "by_source": {
+        "direct_web_traffic": 12,
+        "search_google_ads": 8,
+        "search_microsoft_ads": 1,
+        "inbound_repeat_customer": 5,
+        "bing": 2
+      },
+      "google_ads_calls_detail": [
+        {
+          "time": "2026-02-07T13:53:46",
+          "city": "Garden City",
+          "phone": "+15166525139"
+        },
+        {
+          "time": "2026-02-07T15:44:46",
+          "city": "New York",
+          "phone": "+16462391516"
+        },
+        {
+          "time": "2026-02-07T16:13:52",
+          "city": "Houston",
+          "phone": "+13468318251"
+        },
+        {
+          "time": "2026-02-07T18:12:13",
+          "city": "Oswego",
+          "phone": "+13155322554"
+        },
+        {
+          "time": "2026-02-07T18:19:32",
+          "city": "Jasper",
+          "phone": "+14095945573"
+        },
+        {
+          "time": "2026-02-07T19:18:54",
+          "city": "Minot",
+          "phone": "+17017203421"
+        },
+        {
+          "time": "2026-02-07T20:40:21",
+          "city": "Lake City",
+          "phone": "+13863659023"
+        },
+        {
+          "time": "2026-02-07T20:44:49",
+          "city": "New Orleans",
+          "phone": "+15042144855"
+        }
+      ]
+    },
+    "crm_data": {
+      "opportunities_created": {
+        "saturday": 23,
+        "sunday": 8
+      },
+      "outcomes": {
+        "closed_won": 1,
+        "closed_lost": 1,
+        "in_qualification": 29
+      },
+      "loss_reasons": {
+        "business_mini_ex": 4,
+        "business_skid_steer": 3,
+        "home_skid_steer": 3,
+        "business_dozer": 1,
+        "home_mini_ex": 1,
+        "home_towable_boom": 1,
+        "pickup_truck": 1
+      },
+      "deal_cancelled": true,
+      "effective_close_rate": 0
+    },
+    "competition_analysis": {
+      "dozers": {
+        "saturday_cpc_vs_weekday": "-11%",
+        "saturday_impression_share": "42.4%",
+        "weekday_impression_share": "36.1%",
+        "sunday_cpc_vs_weekday": "-37%",
+        "insight": "Less competition on weekends, cheaper CPCs"
+      },
+      "excavator": {
+        "saturday_cpc_vs_weekday": "+5%",
+        "sunday_cpc_vs_weekday": "-44%",
+        "saturday_lost_is_rank": "33.6%",
+        "weekday_lost_is_rank": "38.3%",
+        "insight": "Competitors bidding less aggressively on weekends"
+      }
+    },
+    "analysis_summary": {
+      "key_findings": [
+        "Sunday had ZERO conversions across both campaigns - $232.32 wasted",
+        "Saturday CPA was 32-65% better than weekday average",
+        "Saturday ROAS was significantly worse (7.27x vs 18.94x for Dozers)",
+        "The 1 deal that closed on Saturday was later cancelled",
+        "~85% of Saturday leads wanted different equipment than searched (mini ex, skid steer)",
+        "Weekend searchers are small businesses/individuals wanting same-day rentals",
+        "Cannot fulfill same-day weekend orders due to supply sourcing"
+      ],
+      "recommendation": "Turn off weekend ads",
+      "rationale": [
+        "Zero effective conversions (deal cancelled)",
+        "High equipment mismatch rate - wrong customer profile",
+        "Cannot fulfill same-day weekend orders",
+        "Low CPA is misleading - leads don't convert to revenue",
+        "Cheap acquisition doesn't matter if customers have poor first experience"
+      ],
+      "alternative_strategies": [
+        "Run brand-only campaigns on Saturday",
+        "Use weekend landing page with Monday callback option",
+        "Pause Sunday entirely",
+        "Focus budget on weekdays where fulfillment is possible"
+      ]
+    }
+  }
+}

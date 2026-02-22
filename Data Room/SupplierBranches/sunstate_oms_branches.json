@@ -1,0 +1,1689 @@
+{
+  "supplier": "Sunstate Equipment Co.",
+  "source": "OMS Export",
+  "export_date": "2026-02-19",
+  "total_branches": 84,
+  "oms_enabled_count": 84,
+  "branches": [
+    {
+      "branch_id": "0011K00002GoiyNQAR",
+      "branch_name": "Sunstate Equipment - Houston East TX",
+      "address": "5121 Oates Road",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77013",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojULQAZ",
+      "branch_name": "Sunstate Equipment - Orlando FL",
+      "address": "9075 Sidney Hayes Road",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Gohz2QAB",
+      "branch_name": "Sunstate Equipment - Baldwin Park CA",
+      "address": "12905 Garvey Ave",
+      "city": "Baldwin Park",
+      "state": "CA",
+      "zip": "",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojZqQAJ",
+      "branch_name": "Sunstate Equipment - Pueblo CO",
+      "address": "4125 North Elizabeth Street",
+      "city": "Pueblo",
+      "state": "CO",
+      "zip": "81008",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojH1QAJ",
+      "branch_name": "Sunstate Equipment - Oakland CA",
+      "address": "8001 Oakport Street",
+      "city": "Oakland",
+      "state": "CA",
+      "zip": "94621",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojBiQAJ",
+      "branch_name": "Sunstate Equipment - Memphis TN",
+      "address": "3017 Ferrell Park Cove",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38116",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiCaQAJ",
+      "branch_name": "Sunstate Equipment - Carrollton TX",
+      "address": "1110 West Jackson Road",
+      "city": "Carrollton",
+      "state": "TX",
+      "zip": "75006",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "00141000012IJ9GAAW",
+      "branch_name": "Sunstate Equipment - Phoenix AZ",
+      "address": "5425 East Washington Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85034",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002DeddKQAR",
+      "branch_name": "Sunstate Equipment - Woodinville WA",
+      "address": "21818 76th Drive Southeast",
+      "city": "Woodinville",
+      "state": "WA",
+      "zip": "98072",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GohuLQAR",
+      "branch_name": "Sunstate Equipment - Atlanta GA",
+      "address": "4460 Moreland Ave",
+      "city": "Conley",
+      "state": "GA",
+      "zip": "",
+      "phone": "678-268-6590",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goi5EQAR",
+      "branch_name": "Sunstate Equipment - Burbank CA",
+      "address": "205 West Magnolia Boulevard",
+      "city": "Burbank",
+      "state": "CA",
+      "zip": "91502",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiaRQAR",
+      "branch_name": "Sunstate Equipment - Fort Collins CO",
+      "address": "4228 East Mulberry Street",
+      "city": "Fort Collins",
+      "state": "CO",
+      "zip": "80524",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goi41QAB",
+      "branch_name": "Sunstate Equipment - Bryan TX",
+      "address": "1747 North Earl Rudder Freeway",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77803",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiP4QAJ",
+      "branch_name": "Sunstate Equipment - Colorado Springs CO",
+      "address": "1211 East Cheyenne Road",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80905",
+      "phone": "719-577-9750",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Gohz1QAB",
+      "branch_name": "Sunstate Equipment - Balch Springs TX",
+      "address": "5005 South Peachtree Road",
+      "city": "Balch Springs",
+      "state": "TX",
+      "zip": "75180",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiQ2QAJ",
+      "branch_name": "Sunstate Equipment - Concord (Pachecho) CA",
+      "address": "5737 Pacheco Boulevard",
+      "city": "Pacheco",
+      "state": "CA",
+      "zip": "94553",
+      "phone": "925-681-1138",
+      "email": "bryan.checchia@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goj1MQAR",
+      "branch_name": "Sunstate Equipment - Killeen TX",
+      "address": "2102 Martin Luther King Junior Boulevard",
+      "city": "Killeen",
+      "state": "TX",
+      "zip": "76543",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiDnQAJ",
+      "branch_name": "Sunstate Equipment - Carson CA",
+      "address": "17310 South Main Street",
+      "city": "Carson",
+      "state": "CA",
+      "zip": "90745",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiJGQAZ",
+      "branch_name": "Sunstate Equipment - Casa Grande AZ",
+      "address": "3097 North Piper Avenue",
+      "city": "Casa Grande",
+      "state": "AZ",
+      "zip": "85122",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiflQAB",
+      "branch_name": "Sunstate Equipment - Forth Worth TX",
+      "address": "701 Westport Parkway",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76177",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoigFQAR",
+      "branch_name": "Sunstate Equipment - South Fort Worth, TX",
+      "address": "8000 South Freeway",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76134",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Gohw7QAB",
+      "branch_name": "Sunstate Equipment - Austin TX",
+      "address": "16436 North Interstate Highway 35",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78728",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiRAQAZ",
+      "branch_name": "Sunstate Equipment - Deer Valley AZ",
+      "address": "22830 North 19th Avenue",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85027",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiS3QAJ",
+      "branch_name": "Sunstate Equipment - Denver CO",
+      "address": "5420 Dahlia Street",
+      "city": "Commerce City",
+      "state": "CO",
+      "zip": "80022",
+      "phone": "720-322-7000",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoilHQAR",
+      "branch_name": "Sunstate Equipment - Houston  (Cypress) TX ",
+      "address": "21229 FM 529",
+      "city": "Katy",
+      "state": "TX",
+      "zip": "77449",
+      "phone": "281-492-3400",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GohvdQAB",
+      "branch_name": "Sunstate Equipment - Marietta GA",
+      "address": "800 Pickens Industrial Drive North East",
+      "city": "Marietta",
+      "state": "GA",
+      "zip": "30062",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiDoQAJ",
+      "branch_name": "Sunstate Equipment - Charlotte NC",
+      "address": "5130 Davidson Highway",
+      "city": "Concord",
+      "state": "NC",
+      "zip": "28027",
+      "phone": "704-490-4706",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiSrQAJ",
+      "branch_name": "Sunstate Equipment - Dallas TX (Duncanville)",
+      "address": "4100 Duncanville Road",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75236",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiVMQAZ",
+      "branch_name": "Sunstate Equipment - El Paso TX",
+      "address": "8660 Castner Drive",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79907",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoigGQAR",
+      "branch_name": "Sunstate Equipment - Fremont CA",
+      "address": "2115 Warm Springs Court",
+      "city": "Fremont",
+      "state": "CA",
+      "zip": "94539",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goij6QAB",
+      "branch_name": "Sunstate Equipment - Grand Junction CO",
+      "address": "2320 Interstate Avenue",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81505",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GohtXQAR",
+      "branch_name": "Sunstate Equipment - Anaheim CA",
+      "address": "4460 East La Palma Avenue",
+      "city": "Anaheim",
+      "state": "CA",
+      "zip": "",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiOlQAJ",
+      "branch_name": "Sunstate Equipment - Dove Valley (Englewood) CO",
+      "address": "12550 East Broncos Parkway",
+      "city": "Englewood",
+      "state": "CO",
+      "zip": "80112",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoiZOQAZ",
+      "branch_name": "Sunstate Equipment - Flagstaff AZ",
+      "address": "320 South Babbitt Drive",
+      "city": "Flagstaff",
+      "state": "AZ",
+      "zip": "86001",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GoinSQAR",
+      "branch_name": "Sunstate Equipment - North Houston TX",
+      "address": "1111 North Sam Houston Parkway East",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77032",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojZ1QAJ",
+      "branch_name": "Sunstate Equipment - Portland OR",
+      "address": "5413 Northeast Columbia Boulevard",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97218",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goj76QAB",
+      "branch_name": "Sunstate Equipment - Mckinney TX",
+      "address": "10041 West University Drive",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75071",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojMlQAJ",
+      "branch_name": "Sunstate Equipment - Oklahoma City OK",
+      "address": "2001 North Moore Avenue",
+      "city": "Moore",
+      "state": "OK",
+      "zip": "73160",
+      "phone": "405-793-8600",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojkOQAR",
+      "branch_name": "Sunstate Equipment - Romoland (Perris) CA",
+      "address": "25201 Trumble Road",
+      "city": "Perris",
+      "state": "CA",
+      "zip": "92571",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojvlQAB",
+      "branch_name": "Sunstate Equipment - Seattle (Kent) WA",
+      "address": "8612 South 218th Street",
+      "city": "Kent",
+      "state": "WA",
+      "zip": "98031",
+      "phone": "253-993-5091",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojvRQAR",
+      "branch_name": "Sunstate Equipment - Scottsdale AZ",
+      "address": "7424 East Adobe Drive",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zip": "85255",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Gok0WQAR",
+      "branch_name": "Sunstate Equipment - Stockton (French Camp) CA",
+      "address": "75 E Equipment Ct",
+      "city": "French Camp",
+      "state": "CA",
+      "zip": "",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goj3wQAB",
+      "branch_name": "Sunstate Equipment - Las Vegas (Henderson) NV",
+      "address": "250 Elliott Road",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89011",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojjVQAR",
+      "branch_name": "Sunstate Equipment - Rio Rancho NM",
+      "address": "221 Rio Rancho Drive Northeast",
+      "city": "Rio Rancho",
+      "state": "NM",
+      "zip": "87124",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojnmQAB",
+      "branch_name": "Sunstate Equipment - San Antonio TX",
+      "address": "6035 Northeast Interstate 410 Loop",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78218",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojykQAB",
+      "branch_name": "Sunstate Equipment - Southlake TX",
+      "address": "300 Bank Street",
+      "city": "Southlake",
+      "state": "TX",
+      "zip": "76092",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Gok1tQAB",
+      "branch_name": "Sunstate Equipment - Tucson AZ",
+      "address": "1835 West Grant Road",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85745",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojmjQAB",
+      "branch_name": "Sunstate Equipment - Salt Lake City UT",
+      "address": "2051 North Redwood Road",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84116",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojFeQAJ",
+      "branch_name": "Sunstate Equipment - Nashville TN",
+      "address": "1111 Polk Avenue",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37210",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojIOQAZ",
+      "branch_name": "Sunstate Equipment - Odessa TX",
+      "address": "1250 South John Ben Shepperd Parkway",
+      "city": "Odessa",
+      "state": "TX",
+      "zip": "79761",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojreQAB",
+      "branch_name": "Sunstate Equipment - San Diego CA",
+      "address": "5590 Eastgate Mall",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92121",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojBjQAJ",
+      "branch_name": "Sunstate Equipment - Mesa AZ",
+      "address": "1945 South Lee Circle",
+      "city": "Mesa",
+      "state": "AZ",
+      "zip": "85204",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojJRQAZ",
+      "branch_name": "Sunstate Equipment - Ogden UT",
+      "address": "West 1350 South",
+      "city": "Ogden",
+      "state": "UT",
+      "zip": "84401",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojV9QAJ",
+      "branch_name": "Sunstate Equipment - Peoria AZ",
+      "address": "7722 West Olive Avenue",
+      "city": "Peoria",
+      "state": "AZ",
+      "zip": "85345",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojhUQAR",
+      "branch_name": "Sunstate Equipment - Reno NV",
+      "address": "750 South Rock Boulevard",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojkPQAR",
+      "branch_name": "Sunstate Equipment - Sacramento CA",
+      "address": "2661 Evergreen Avenue",
+      "city": "West Sacramento",
+      "state": "CA",
+      "zip": "95691",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojtGQAR",
+      "branch_name": "Sunstate Equipment - San Jose CA",
+      "address": "2233 South 7th Street",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95112",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Gok3zQAB",
+      "branch_name": "Sunstate Equipment - Tulsa OK",
+      "address": "1315 North 105th East Avenue",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74116",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Goj6NQAR",
+      "branch_name": "Sunstate Equipment - Lindon UT",
+      "address": "West 300 South",
+      "city": "Lindon",
+      "state": "UT",
+      "zip": "84042",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GojZpQAJ",
+      "branch_name": "Sunstate Equipment - Prescott Valley AZ",
+      "address": "9351 East Lorna Lane",
+      "city": "Prescott Valley",
+      "state": "AZ",
+      "zip": "86314",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002GokD1QAJ",
+      "branch_name": "Sunstate Equipment - Tampa FL",
+      "address": "5730 East Columbus Drive",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33619",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Oz6kSQAR",
+      "branch_name": "Sunstate Equipment - Lakewood WA",
+      "address": "8909 S Tacoma Way",
+      "city": "Tacoma",
+      "state": "WA",
+      "zip": "98499",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Oz6aDQAR",
+      "branch_name": "Sunstate Equipment - Benicia CA",
+      "address": "3110 Bayshore Rd",
+      "city": "Benicia",
+      "state": "CA",
+      "zip": "94510",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Oz6baQAB",
+      "branch_name": "Sunstate Equipment - Buckeye AZ",
+      "address": "1015 N 195th Ave",
+      "city": "Buckeye",
+      "state": "AZ",
+      "zip": "",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Oz6dlQAB",
+      "branch_name": "Sunstate Equipment - Buda TX",
+      "address": "14901 S I-35 Frontage Rd",
+      "city": "Buda",
+      "state": "TX",
+      "zip": "",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Oz6eoQAB",
+      "branch_name": "Sunstate Equipment - Buford GA",
+      "address": "6000 Lanier Islands Pkwy",
+      "city": "Buford",
+      "state": "GA",
+      "zip": "30518",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Oz6p3QAB",
+      "branch_name": "Sunstate Equipment - Roseville CA",
+      "address": "8200 Industrial Ave",
+      "city": "Roseville",
+      "state": "CA",
+      "zip": "",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002OzCCnQAN",
+      "branch_name": "Sunstate Equipment - Colton CA",
+      "address": "3000 S Iowa Ave",
+      "city": "Colton",
+      "state": "CA",
+      "zip": "",
+      "phone": "800-894-7368",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:30-17:00",
+        "tuesday": "06:30-17:00",
+        "wednesday": "06:30-17:00",
+        "thursday": "06:30-17:00",
+        "friday": "06:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Rg5zUQAR",
+      "branch_name": "Sunstate Equipment - Beaumont TX",
+      "address": "4745 Jerry Ware Dr",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77705",
+      "phone": "855-808-8875",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "63a0c130a0d076001370c846",
+      "branch_name": "Sunstate Equipment - Jacksonville FL",
+      "address": "6800 Broadway Ave",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "",
+      "phone": "904-902-9030",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "65845d76689ac3002339c7fa",
+      "branch_name": "Sunstate Equipment - Apache Junction AZ",
+      "address": "3375 S Winchester Rd",
+      "city": "Apache Junction",
+      "state": "AZ",
+      "zip": "",
+      "phone": "602-275-0601",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:30-17:00",
+        "tuesday": "07:30-17:00",
+        "wednesday": "07:30-17:00",
+        "thursday": "07:30-17:00",
+        "friday": "07:30-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "65849c51228ebc001c5cd97f",
+      "branch_name": "Sunstate Equipment - Corpus Christi TX",
+      "address": "232 N Padre Island Dr",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "",
+      "phone": "361-371-8850",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6584ac6a5208d5001c1ee82f",
+      "branch_name": "Sunstate Equipment - El Cajon CA",
+      "address": "1360 Magnolia Ave",
+      "city": "El Cajon",
+      "state": "CA",
+      "zip": "",
+      "phone": "619-558-2924",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "06:00-17:00",
+        "tuesday": "06:00-17:00",
+        "wednesday": "06:00-17:00",
+        "thursday": "06:00-17:00",
+        "friday": "06:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "65858d857ef9ea001cc63281",
+      "branch_name": "Sunstate Equipment - Freeport (Clute) TX",
+      "address": "211 W Plantation Dr",
+      "city": "Clute",
+      "state": "TX",
+      "zip": "",
+      "phone": "1979487113",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "65859edff4f19d001c39f85e",
+      "branch_name": "Sunstate Equipment - South Houston TX",
+      "address": "15518 Beamer Rd",
+      "city": "Friendswood",
+      "state": "TX",
+      "zip": "",
+      "phone": "281-492-3400",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6585a05a10981f001ca7d5f7",
+      "branch_name": "Sunstate Equipment - La Vergne TN",
+      "address": "1500 J P Hennessy Dr",
+      "city": "La Vergne",
+      "state": "TN",
+      "zip": "",
+      "phone": "615-823-4174",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6585a0eb5208d5001c1fea65",
+      "branch_name": "Sunstate Equipment - Mead CO",
+      "address": "4005 N Valley Dr",
+      "city": "Longmont",
+      "state": "CO",
+      "zip": "",
+      "phone": "303-276-8941",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6585b00278043e001cd6dfbd",
+      "branch_name": "Sunstate Equipment - Raleigh (Garner) NC",
+      "address": "1128 US-70",
+      "city": "Garner",
+      "state": "NC",
+      "zip": "",
+      "phone": "984-884-1994",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000GhV4AYAV",
+      "branch_name": "Sunstate Equipment - Sulphur LA",
+      "address": "2525 Calcasieu Industrial Dr",
+      "city": "Sulphur",
+      "state": "LA",
+      "zip": "70665",
+      "phone": "337-358-6830",
+      "email": "",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000ISgTNYA1",
+      "branch_name": "Sunstate Equipment - Saint Gabriel LA",
+      "address": "3500 Delta Dr",
+      "city": "St Gabriel",
+      "state": "LA",
+      "zip": "70776",
+      "phone": "225-681-9995",
+      "email": "",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000IsaCKYAZ",
+      "branch_name": "Sunstate Equipment - Conley GA",
+      "address": "4460 Moreland Ave",
+      "city": "Conley",
+      "state": "GA",
+      "zip": "30288",
+      "phone": "678-268-6590",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "66e19b2cc77a160022920aa0",
+      "branch_name": "Sunstate Equipment - Charleston SC",
+      "address": "7221 Cross Park Dr",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip": "",
+      "phone": "854-800-6882",
+      "email": "dozr@sunstateequip.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002TVxgvQAD",
+      "branch_name": "Sunstate Equipment - Krum TX (formerly AJ Equipment Rentals)",
+      "address": "16450 US-380",
+      "city": "Krum",
+      "state": "TX",
+      "zip": "76249",
+      "phone": "940-482-3340",
+      "email": "logan@ajdallas.com",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68c0421701b61f0017fd12b8",
+      "branch_name": "Sunstate Equipment - Bradenton FL",
+      "address": "5928 21st St E",
+      "city": "Bradenton",
+      "state": "FL",
+      "zip": "34203",
+      "phone": "941-218-2620",
+      "email": "",
+      "oms_enabled": true,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    }
+  ]
+}

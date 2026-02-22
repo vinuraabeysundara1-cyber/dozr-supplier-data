@@ -1,0 +1,3889 @@
+{
+  "supplier": "EquipmentShare",
+  "source": "OMS Export",
+  "export_date": "2026-02-19",
+  "total_branches": 194,
+  "oms_enabled_count": 0,
+  "branches": [
+    {
+      "branch_id": "001OJ00000K4EAaYAN",
+      "branch_name": "Equipment Share - Catlett VA",
+      "address": "4184 Old Calverton Rd",
+      "city": "Catlett",
+      "state": "VA",
+      "zip": "20119",
+      "phone": "571-781-9225",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000TAlL8YAL",
+      "branch_name": "Equipment Share - Seekonk MA",
+      "address": "45 Industrial Ct",
+      "city": "Seekonk",
+      "state": "MA",
+      "zip": "02771",
+      "phone": "774-991-8750",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000G3ekXYAR",
+      "branch_name": "Equipment Share - Caddo Mills TX",
+      "address": "4047 I-30",
+      "city": "Caddo Mills",
+      "state": "TX",
+      "zip": "75135",
+      "phone": "972-853-6380",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4VCQAZ",
+      "branch_name": "Equipment Share - Houston (Tomball) TX",
+      "address": "22311 Hufsmith - Kohrville Rd",
+      "city": "Tomball",
+      "state": "TX",
+      "zip": "77375",
+      "phone": "832-271-7778",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmVDQAZ",
+      "branch_name": "Equipment Share - Virginia Beach VA",
+      "address": "740 S Military Hwy",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23464",
+      "phone": "757-612-4450",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000TJlovYAD",
+      "branch_name": "Equipment Share - Fort Pierce FL",
+      "address": "15701 Orange Ave",
+      "city": "Fort Pierce",
+      "state": "FL",
+      "zip": "34945",
+      "phone": "772-710-1600",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000042dAdIAI",
+      "branch_name": "Equipment Share - Spokane WA",
+      "address": "4009 E Francis Ave",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99217",
+      "phone": "509-309-6510",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmUoQAJ",
+      "branch_name": "Equipment Share - Milwaukee WI",
+      "address": "11721 W Carmen Ave",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53225",
+      "phone": "414-930-3910",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmX4QAJ",
+      "branch_name": "Equipment Share - Charleston SC",
+      "address": "10179 US-78",
+      "city": "Ladson",
+      "state": "SC",
+      "zip": "29456",
+      "phone": "843-410-7717",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000IEGc5YAH",
+      "branch_name": "Equipment Share - Perry GA",
+      "address": "204 Valley Dr",
+      "city": "Perry",
+      "state": "GA",
+      "zip": "31069",
+      "phone": "478-313-7200",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000SOqbdYAD",
+      "branch_name": "Equipment Share - Port Charlotte FL",
+      "address": "19500 Peachland Blvd",
+      "city": "Port Charlotte",
+      "state": "FL",
+      "zip": "33948",
+      "phone": "941-267-8990",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn1ljQAB",
+      "branch_name": "Equipment Share - Oklahoma City OK",
+      "address": "1535 SE 25th St",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73129",
+      "phone": "405-310-8700",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000TRkXVYA1",
+      "branch_name": "Equipment Share - Odessa TX",
+      "address": "16611 W Basin St",
+      "city": "Odessa",
+      "state": "TX",
+      "zip": "79763",
+      "phone": "432-280-0055",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000005CEaeYAG",
+      "branch_name": "Equipment Share - Anderson SC",
+      "address": "109 Ryder Ln",
+      "city": "Anderson",
+      "state": "SC",
+      "zip": "29625",
+      "phone": "864-533-8643",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RKjroQAD",
+      "branch_name": "Equipment Share - Austin (Hutto) TX",
+      "address": "1251 Co Rd 118",
+      "city": "Hutto",
+      "state": "TX",
+      "zip": "78634",
+      "phone": "512-851-1055",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RKk8pQAD",
+      "branch_name": "Equipment Share - San Antonio TX",
+      "address": "5433 Randolph Blvd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78233",
+      "phone": "830-201-3334",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004344gIAA",
+      "branch_name": "Equipment Share - Tucson AZ",
+      "address": "5401 S Arcadia Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85706",
+      "phone": "520-307-1435",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN4VuQAL",
+      "branch_name": "Equipment Share - Fort Worth (South) TX",
+      "address": "16615 US-377",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76126",
+      "phone": "682-540-5013",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001WYUOVAA5",
+      "branch_name": "Equipment Share - Tampa FL",
+      "address": "1504 Tampa East Boulevard",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33619",
+      "phone": "813-341-4646",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmUyQAJ",
+      "branch_name": "Equipment Share - Louisville KY",
+      "address": "9012 Vista Hills Blvd",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40291",
+      "phone": "502-888-7501",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000003z5tuYAA",
+      "branch_name": "Equipment Share - Calvert City",
+      "address": "277 Cypress Creek Dr",
+      "city": "Calvert City",
+      "state": "KY",
+      "zip": "42029",
+      "phone": "270-816-9536",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002eZXOYA2",
+      "branch_name": "Equipment Share - Madera CA",
+      "address": "23349 Ave 18 1/2",
+      "city": "Madera",
+      "state": "CA",
+      "zip": "93638",
+      "phone": "559-317-9678",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Ceu6DYAR",
+      "branch_name": "Equipment Share - Palmetto FL",
+      "address": "11504 31st Terrace E",
+      "city": "Palmetto",
+      "state": "FL",
+      "zip": "34221",
+      "phone": "407-473-2839",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000734kRIAQ",
+      "branch_name": "Equipment Share - Colorado Springs CO",
+      "address": "1145 S El Paso St",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80903",
+      "phone": "720-241-4636",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmRlQAJ",
+      "branch_name": "Equipment Share - Baltimore MD",
+      "address": "Shannon Dr",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21213",
+      "phone": "443-928-0156",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmUjQAJ",
+      "branch_name": "Equipment Share - Indianapolis IN",
+      "address": "6901 E 38th St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46226",
+      "phone": "463-777-6002",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmOxQAJ",
+      "branch_name": "Equipment Share - Seattle WA",
+      "address": "13535 68th Ave S",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98178",
+      "phone": "206-962-2828",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001JZ0BoAAL",
+      "branch_name": "Equipment Share - Irving TX (Formerly Landmark Equipment Rental)",
+      "address": "1351 S Loop 12",
+      "city": "Irving",
+      "state": "TX",
+      "zip": "75060",
+      "phone": "972-579-9999",
+      "email": "a.gutierrez@landmarkeq.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001GlmnCAAR",
+      "branch_name": "Equipment Share - Miami FL",
+      "address": "12601 West Okeechobee Road",
+      "city": "Hialeah",
+      "state": "FL",
+      "zip": "33018",
+      "phone": "305-821-2273",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0014100001WYURFAA5",
+      "branch_name": "Equipment Share - Fort Myers FL",
+      "address": "3051 Hanson Street",
+      "city": "Fort Myers",
+      "state": "FL",
+      "zip": "33916",
+      "phone": "813-341-4646",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "60897e321e0bbe21e8cdeadb",
+      "branch_name": "Equipment Share - Wichita KS",
+      "address": "3250 N Hydraulic Ave",
+      "city": "Wichita",
+      "state": "KS",
+      "zip": "67219",
+      "phone": "316-838-3346",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmMDQAZ",
+      "branch_name": "Equipment Share - Newark CA",
+      "address": "6565 Smith Ave",
+      "city": "Newark",
+      "state": "CA",
+      "zip": "94560",
+      "phone": "510-400-5024",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmSdQAJ",
+      "branch_name": "Equipment Share - Carlsbad NM",
+      "address": "2580 S Canal St",
+      "city": "Carlsbad",
+      "state": "NM",
+      "zip": "88220",
+      "phone": "575-885-5455",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmUKQAZ",
+      "branch_name": "Equipment Share - Philadelphia (Camden) NJ",
+      "address": "1521 Admiral Wilson Blvd",
+      "city": "Pennsauken Township",
+      "state": "NJ",
+      "zip": "08109",
+      "phone": "609-922-6713",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmRpQAJ",
+      "branch_name": "Equipment Share - El Paso TX",
+      "address": "14061 Montana Ave",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79938",
+      "phone": "915-260-6662",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmOYQAZ",
+      "branch_name": "Equipment Share - Portland OR",
+      "address": "17311 NE Halsey St",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97230",
+      "phone": "971-277-2887",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmRLQAZ",
+      "branch_name": "Equipment Share - Albuquerque NM",
+      "address": "8301 Broadway Blvd SE",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87105",
+      "phone": "505-379-0913",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmTRQAZ",
+      "branch_name": "Equipment Share - Casper WY",
+      "address": "8655 Delta Dr",
+      "city": "Casper",
+      "state": "WY",
+      "zip": "82604",
+      "phone": "307-248-3804",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmTgQAJ",
+      "branch_name": "Equipment Share - Centennial (Denver) CO",
+      "address": "15427 E Fremont Dr",
+      "city": "Englewood",
+      "state": "CO",
+      "zip": "80112",
+      "phone": "720-414-2044",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmUtQAJ",
+      "branch_name": "Equipment Share - Richmond VA",
+      "address": "1800 Ruffin Mill Cir",
+      "city": "Colonial Heights",
+      "state": "VA",
+      "zip": "23834",
+      "phone": "804-835-2062",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmLyQAJ",
+      "branch_name": "Equipment Share - San Diego CA",
+      "address": "2590 Main St",
+      "city": "Chula Vista",
+      "state": "CA",
+      "zip": "91911",
+      "phone": "619-510-6825",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmTbQAJ",
+      "branch_name": "Equipment Share - Fort Lupton CO",
+      "address": "15549 State Hwy 52",
+      "city": "Fort Lupton",
+      "state": "CO",
+      "zip": "80621",
+      "phone": "303-718-0642",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmVXQAZ",
+      "branch_name": "Equipment Share - Nashville TN",
+      "address": "4235 Murfreesboro Pike",
+      "city": "La Vergne",
+      "state": "TN",
+      "zip": "37086",
+      "phone": "615-933-8118",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmMcQAJ",
+      "branch_name": "Equipment Share - Sacramento CA",
+      "address": "7400 14th Ave",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95820",
+      "phone": "916-333-7833",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmU0QAJ",
+      "branch_name": "Equipment Share - Columbus OH",
+      "address": "1605 Thrailkill Rd",
+      "city": "Grove City",
+      "state": "OH",
+      "zip": "43123",
+      "phone": "614-600-8981",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmMrQAJ",
+      "branch_name": "Equipment Share - Phoenix AZ",
+      "address": "2035 W Mountain View Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85021",
+      "phone": "480-463-4999",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmO9QAJ",
+      "branch_name": "Equipment Share - Reno NV",
+      "address": "3223 Mill St",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "phone": "775-525-4572",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmPHQAZ",
+      "branch_name": "Equipment Share - Pasco WA",
+      "address": "1125 E Spokane St",
+      "city": "Pasco",
+      "state": "WA",
+      "zip": "99301",
+      "phone": "509-380-6044",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmNGQAZ",
+      "branch_name": "Equipment Share - Las Vegas NV",
+      "address": "412 E Gowan Rd",
+      "city": "North Las Vegas",
+      "state": "NV",
+      "zip": "89032",
+      "phone": "725-221-0051",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmQhQAJ",
+      "branch_name": "Equipment Share - Salt Lake City UT",
+      "address": "295 S Redwood Rd",
+      "city": "North Salt Lake",
+      "state": "UT",
+      "zip": "84054",
+      "phone": "801-893-6388",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmSsQAJ",
+      "branch_name": "Equipment Share - Garden City (Boise) ID",
+      "address": "4665 W Chinden Blvd",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83714",
+      "phone": "208-781-1404",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXEQAZ",
+      "branch_name": "Equipment Share - Memphis TN",
+      "address": "4033 Lamar Ave",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38118",
+      "phone": "662-352-8588",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXiQAJ",
+      "branch_name": "Equipment Share - Springfield MO",
+      "address": "7096 W Carnahan St",
+      "city": "Springfield",
+      "state": "MO",
+      "zip": "65802",
+      "phone": "417-708-4400",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXOQAZ",
+      "branch_name": "Equipment Share - Alabaster (Birmingham) AL",
+      "address": "1959 Fulton Springs Rd",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "phone": "205-730-0770",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXYQAZ",
+      "branch_name": "Equipment Share - Savannah GA",
+      "address": "145 Thunderbird Dr",
+      "city": "Richmond Hill",
+      "state": "GA",
+      "zip": "31324",
+      "phone": "912-525-2505",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXsQAJ",
+      "branch_name": "Equipment Share - Springdale AR",
+      "address": "1951 Electric Ave",
+      "city": "Springdale",
+      "state": "AR",
+      "zip": "72764",
+      "phone": "479-316-2212",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXnQAJ",
+      "branch_name": "Equipment Share - Little Rock AR",
+      "address": "4726 Thibault Rd",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72206",
+      "phone": "501-490-9974",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmY7QAJ",
+      "branch_name": "Equipment Share - Pine Bluff (Whitehall) AR",
+      "address": "6514 W Barraque St",
+      "city": "White Hall",
+      "state": "AR",
+      "zip": "71602",
+      "phone": "870-550-9223",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmYHQAZ",
+      "branch_name": "Equipment Share - Jacksonville FL",
+      "address": "11250 Business Park Blvd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32256",
+      "phone": "904-574-5151",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmYRQAZ",
+      "branch_name": "Equipment Share - Tulsa OK",
+      "address": "1703 N 161st E Ave",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74116",
+      "phone": "918-921-1800",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmWpQAJ",
+      "branch_name": "Equipment Share - Atlanta (Conyers) GA",
+      "address": "1890 Dogwood Dr SE",
+      "city": "Conyers",
+      "state": "GA",
+      "zip": "30013",
+      "phone": "678-971-2022",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmVwQAJ",
+      "branch_name": "Equipment Share - Chattanooga TN",
+      "address": "4840 Geminus Dr",
+      "city": "Chattanooga",
+      "state": "TN",
+      "zip": "37416",
+      "phone": "423-497-1122",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmVmQAJ",
+      "branch_name": "Equipment Share - Weldon Spring (St Louis) MO",
+      "address": "801 Westwood Industrial Park Dr",
+      "city": "Weldon Spring",
+      "state": "MO",
+      "zip": "63304",
+      "phone": "636-481-0033",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmXTQAZ",
+      "branch_name": "Equipment Share - Kansas City MO",
+      "address": "7201 E Front St",
+      "city": "KCMO",
+      "state": "MO",
+      "zip": "64120",
+      "phone": "816-216-6550",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002QmmYlQAJ",
+      "branch_name": "Equipment Share - Monroe LA",
+      "address": "7600 US-165",
+      "city": "Monroe",
+      "state": "LA",
+      "zip": "71203",
+      "phone": "318-302-8788",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn1h3QAB",
+      "branch_name": "Equipment Share - Sanford FL",
+      "address": "3219 S Orlando Dr",
+      "city": "Sanford",
+      "state": "FL",
+      "zip": "32773",
+      "phone": "321-270-7272",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn1kHQAR",
+      "branch_name": "Equipment Share - Shreveport LA",
+      "address": "5620 N Industry Rd",
+      "city": "Shreveport",
+      "state": "LA",
+      "zip": "71107",
+      "phone": "318-588-8688",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4IHQAZ",
+      "branch_name": "Equipment Share - Tyler TX",
+      "address": "1761 S Tyler St",
+      "city": "Gladewater",
+      "state": "TX",
+      "zip": "75647",
+      "phone": "903-421-3931",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4NcQAJ",
+      "branch_name": "Equipment Share - Lake Charles LA",
+      "address": "2919 E Napoleon St",
+      "city": "Sulphur",
+      "state": "LA",
+      "zip": "70663",
+      "phone": "337-516-2020",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4OLQAZ",
+      "branch_name": "Equipment Share - Grand Prairie (Dallas) TX",
+      "address": "3205 Roy Orr Blvd",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75050",
+      "phone": "972-737-1919",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4VRQAZ",
+      "branch_name": "Equipment Share - Pasadena TX",
+      "address": "5826 Red Bluff Rd",
+      "city": "Pasadena",
+      "state": "TX",
+      "zip": "77505",
+      "phone": "281-819-3313",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn3sqQAB",
+      "branch_name": "Equipment Share - New Orleans LA",
+      "address": "2450 Destrehan Ave",
+      "city": "Harvey",
+      "state": "LA",
+      "zip": "70058",
+      "phone": "504-330-3208",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4P4QAJ",
+      "branch_name": "Equipment Share - Ft Worth (Keller) TX",
+      "address": "1675 S Main St",
+      "city": "Keller",
+      "state": "TX",
+      "zip": "76248",
+      "phone": "817-717-7616",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn43dQAB",
+      "branch_name": "Equipment Share - Baton Rouge LA",
+      "address": "2555 E Hwy 30",
+      "city": "St Gabriel",
+      "state": "LA",
+      "zip": "70776",
+      "phone": "225-713-3223",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002Qn4PxQAJ",
+      "branch_name": "Equipment Share - Beaumont TX",
+      "address": "10097 US-90",
+      "city": "Beaumont",
+      "state": "TX",
+      "zip": "77713",
+      "phone": "409-209-4004",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RKjxCQAT",
+      "branch_name": "Equipment Share - Houston Southwest TX",
+      "address": "6811 McHard Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77053",
+      "phone": "346-435-2899",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RKk7rQAD",
+      "branch_name": "Equipment Share - Victoria TX",
+      "address": "1809 John Stockbauer Dr",
+      "city": "Victoria",
+      "state": "TX",
+      "zip": "77901",
+      "phone": "361-333-5560",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RKkBFQA1",
+      "branch_name": "Equipment Share - Midland TX",
+      "address": "2323 E County Rd 123",
+      "city": "Midland",
+      "state": "TX",
+      "zip": "79706",
+      "phone": "432-217-5789",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RKk79QAD",
+      "branch_name": "Equipment Share - Corpus Christi TX",
+      "address": "5530 Transport Industrial Dr",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "zip": "78405",
+      "phone": "361-520-4445",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN4FcQAL",
+      "branch_name": "Equipment Share - Joplin MO",
+      "address": "5430 State Hwy 43",
+      "city": "Joplin",
+      "state": "MO",
+      "zip": "64804",
+      "phone": "417-781-8222",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN4EeQAL",
+      "branch_name": "Equipment Share - Olive Branch MS",
+      "address": "7400 Craft-Goodman Rd",
+      "city": "Olive Branch",
+      "state": "MS",
+      "zip": "38654",
+      "phone": "662-352-8588",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN4zfQAD",
+      "branch_name": "Equipment Share - Colton CA",
+      "address": "15495 Arrow Route",
+      "city": "Fontana",
+      "state": "CA",
+      "zip": "92335",
+      "phone": "900-955-4485",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN4MnQAL",
+      "branch_name": "Equipment Share - Cincinnati OH",
+      "address": "8340 N Gilmore Rd",
+      "city": "Hamilton",
+      "state": "OH",
+      "zip": "45015",
+      "phone": "513-520-0371",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN3z5QAD",
+      "branch_name": "Equipment Share - Topeka KS",
+      "address": "1305 SW 42nd St",
+      "city": "Topeka",
+      "state": "KS",
+      "zip": "66609",
+      "phone": "785-783-4944",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002RN4CJQA1",
+      "branch_name": "Equipment Share - Garden City KS",
+      "address": "2203 Jones Ave",
+      "city": "Garden City",
+      "state": "KS",
+      "zip": "67846",
+      "phone": "620-275-1996",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002TvNR2QAN",
+      "branch_name": "Equipment Share - Stafford VA",
+      "address": "40 Venture Dr",
+      "city": "Stafford",
+      "state": "VA",
+      "zip": "22554",
+      "phone": "540-834-9159",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002TWVS7QAP",
+      "branch_name": "Equipment Share - Charlotte NC",
+      "address": "10601 Reames Rd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28269",
+      "phone": "980-316-9244",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002SlBrnQAF",
+      "branch_name": "Equipment Share - Eugene OR",
+      "address": "2435 Prairie Rd",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97402",
+      "phone": "458-210-4701",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002X7g32QAB",
+      "branch_name": "Equipment Share - Belle Vernon PA",
+      "address": "203 Finley Rd",
+      "city": "Belle Vernon",
+      "state": "PA",
+      "zip": "15012",
+      "phone": "724-366-4942",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002X9GFCQA3",
+      "branch_name": "Equipment Share - Fontana CA",
+      "address": "15495 Arrow Route",
+      "city": "Fontana",
+      "state": "CA",
+      "zip": "92335",
+      "phone": "909-219-0084",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "0011K00002X9HFCQA3",
+      "branch_name": "Equipment Share - Theodore (Mobile) AL",
+      "address": "8765 Bellingrath Rd",
+      "city": "Theodore",
+      "state": "AL",
+      "zip": "36582",
+      "phone": "251-654-8394",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000042ULwIAM",
+      "branch_name": "Equipment Share - Southwest Chicago IL",
+      "address": "4044 McDonough St",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60431",
+      "phone": "630-740-0609",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000042dUiIAI",
+      "branch_name": "Equipment Share - Billings MT",
+      "address": "7070 Niehenke Ave",
+      "city": "Billings",
+      "state": "MT",
+      "zip": "59101",
+      "phone": "406-601-0333",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000042dZTIAY",
+      "branch_name": "Equipment Share - Grand Juction CO",
+      "address": "719 Arrowest Ct",
+      "city": "Grand Junction",
+      "state": "CO",
+      "zip": "81505",
+      "phone": "970-200-9068",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000042dbZIAQ",
+      "branch_name": "Equipment Share - Williston ND",
+      "address": "5060 Bennett Loop",
+      "city": "Williston",
+      "state": "ND",
+      "zip": "58801",
+      "phone": "701-651-7011",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000433i9IAA",
+      "branch_name": "Equipment Share - Gallup NM",
+      "address": "2323 U.S. Rt. 66",
+      "city": "Gallup",
+      "state": "NM",
+      "zip": "87301",
+      "phone": "505-879-1093",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000043497IAA",
+      "branch_name": "Equipment Share - Yuma AZ",
+      "address": "3251 Gila Ridge Rd",
+      "city": "Yuma",
+      "state": "AZ",
+      "zip": "85365",
+      "phone": "928-200-2530",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000434AZIAY",
+      "branch_name": "Equipment Share - Abilene TX",
+      "address": "1358 Scott St",
+      "city": "Tye",
+      "state": "TX",
+      "zip": "79563",
+      "phone": "325-725-0534",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000434CLIAY",
+      "branch_name": "Equipment Share - Amarillo TX",
+      "address": "12760 I-27",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip": "79119",
+      "phone": "806-690-1833",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000434DdIAI",
+      "branch_name": "Equipment Share - Lubbock TX",
+      "address": "614 E County Rd 7200",
+      "city": "Lubbock",
+      "state": "TX",
+      "zip": "79404",
+      "phone": "806-686-6939",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000434GhIAI",
+      "branch_name": "Equipment Share - Cape Girardeau MO",
+      "address": "281 Rambler Dr",
+      "city": "Cape Girardeau",
+      "state": "MO",
+      "zip": "63701",
+      "phone": "573-979-2818",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000434I4IAI",
+      "branch_name": "Equipment Share - Ardmore OK",
+      "address": "3213 Prairie Valley Rd",
+      "city": "Ardmore",
+      "state": "OK",
+      "zip": "73401",
+      "phone": "580-798-6152",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000004368AIAQ",
+      "branch_name": "Equipment Share - CPE Jacksonville FL",
+      "address": "9235 Busch Dr N",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32218",
+      "phone": "904-516-5380",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6399d417a0d07600137015e7",
+      "branch_name": "Equipment Share - Council Bluffs IA",
+      "address": "13665 192nd St",
+      "city": "Council Bluffs",
+      "state": "IA",
+      "zip": "51503",
+      "phone": "402-619-1653",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "639ce4bfaa15fb0013bd5419",
+      "branch_name": "Equipment Share - Wichita Falls TX",
+      "address": "2785 Fisher Rd",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "zip": "76302",
+      "phone": "940-280-6324",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "639ce98caa15fb0013bd550d",
+      "branch_name": "Equipment Share - Baytown TX",
+      "address": "12825 Upland Wy",
+      "city": "Baytown",
+      "state": "TX",
+      "zip": "77523",
+      "phone": "281-838-2605",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "639cf0bf7af3260012b7be9c",
+      "branch_name": "Equipment Share - West Palm Beach (Lake Worth) FL",
+      "address": "1150 Barnett Dr",
+      "city": "Lake Worth Beach",
+      "state": "FL",
+      "zip": "33461",
+      "phone": "561-296-9710",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "63a30a89e897400019ab7b7d",
+      "branch_name": "Equipment Share - Orlando FL",
+      "address": "385 W Landstreet Rd",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "407-888-0024",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah0000069FDxIAM",
+      "branch_name": "Equipment Share - McKinney TX",
+      "address": "1000 E University Dr",
+      "city": "McKinney",
+      "state": "TX",
+      "zip": "75069",
+      "phone": "469-712-0938",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "64402259d105050012b17e4c",
+      "branch_name": "Equipment Share - Columbia (Gaston) SC",
+      "address": "49 Palmetto Ct",
+      "city": "Gaston",
+      "state": "SC",
+      "zip": "29053",
+      "phone": "803-683-6924",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6441a4f9adbf90001290062e",
+      "branch_name": "Equipment Share - Toledo OH",
+      "address": "3145 York St",
+      "city": "Oregon",
+      "state": "OH",
+      "zip": "43605",
+      "phone": "567-686-3660",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006bt1gIAA",
+      "branch_name": "Equipment Share - Harlingen TX",
+      "address": "Harlingen Rd",
+      "city": "Harlingen",
+      "state": "TX",
+      "zip": "78550",
+      "phone": "346-554-1094",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006lku4IAA",
+      "branch_name": "Equipment Share - Fort Smith OK",
+      "address": "4505 Main St",
+      "city": "Arkoma",
+      "state": "OK",
+      "zip": "74901",
+      "phone": "479-263-3766",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000006vvWoIAI",
+      "branch_name": "Equipment Share - Bryan TX",
+      "address": "1680 Independence Ave",
+      "city": "Bryan",
+      "state": "TX",
+      "zip": "77803",
+      "phone": "979-485-3032",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah00000737NCIAY",
+      "branch_name": "Equipment Share - Spanish Fork UT",
+      "address": "665 W 1000 N",
+      "city": "Spanish Fork",
+      "state": "UT",
+      "zip": "84660",
+      "phone": "385-307-4335",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001Ah000007ALwgIAG",
+      "branch_name": "Equipment Share - Gladewater TX",
+      "address": "1761 US-271",
+      "city": "Gladewater",
+      "state": "TX",
+      "zip": "75647",
+      "phone": "903-421-3931",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000001J6kIYAS",
+      "branch_name": "Equipment Share - Jackson MS",
+      "address": "5246 Greenway Dr",
+      "city": "Jackson",
+      "state": "MS",
+      "zip": "39204",
+      "phone": "601-397-1405",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000001cHs7YAE",
+      "branch_name": "Equipment Share - Detroit MI",
+      "address": "2741 Schaefer Rd",
+      "city": "Melvindale",
+      "state": "MI",
+      "zip": "48122",
+      "phone": "734-460-5224",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000001o0dnYAA",
+      "branch_name": "Equipment Share - Algona IA",
+      "address": "1621 US-18",
+      "city": "Algona",
+      "state": "IA",
+      "zip": "50511",
+      "phone": "515-395-7368",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002CfZMYA0",
+      "branch_name": "Equipment Share - Camden NJ",
+      "address": "1521 Admiral Wilson Blvd",
+      "city": "Pennsauken Township",
+      "state": "NJ",
+      "zip": "08109",
+      "phone": "609-922-6713",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002GO3jYAG",
+      "branch_name": "Equipment Share - Yelm WA",
+      "address": "10812 Bald Hill Rd SE",
+      "city": "Yelm",
+      "state": "WA",
+      "zip": "98597",
+      "phone": "253-999-0680",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002gSgHYAU",
+      "branch_name": "Equipment Share - South Plainfield NJ",
+      "address": "456 Hollywood Ave",
+      "city": "South Plainfield",
+      "state": "NJ",
+      "zip": "07080",
+      "phone": "757-876-4523",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002mLp4YAE",
+      "branch_name": "Equipment Share - Waco TX",
+      "address": "17140 N Interstate 35 Frontage Rd",
+      "city": "West",
+      "state": "TX",
+      "zip": "76691",
+      "phone": "254-653-5500",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002mWCbYAM",
+      "branch_name": "Equipment Share - Elwood KS",
+      "address": "Roseport Rd",
+      "city": "Elwood",
+      "state": "KS",
+      "zip": "66090",
+      "phone": "816-538-3457",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000002tw5TYAQ",
+      "branch_name": "Equipment Share - San Angelo TX",
+      "address": "933 W 19th St",
+      "city": "San Angelo",
+      "state": "TX",
+      "zip": "76903",
+      "phone": "325-650-3960",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000005bVRmYAM",
+      "branch_name": "Equipment Share - Emporia VA",
+      "address": "2155 Sussex Dr",
+      "city": "Emporia",
+      "state": "VA",
+      "zip": "23847",
+      "phone": "434-907-1183",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000007IOW9YAO",
+      "branch_name": "Equipment Share - Panama City FL",
+      "address": "3621 Frankford Ave",
+      "city": "Panama City",
+      "state": "FL",
+      "zip": "32405",
+      "phone": "850-804-1625",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ000009Yc5lYAC",
+      "branch_name": "Equipment Share - Lakeland (Mulberry) FL",
+      "address": "5070 State Rd 60",
+      "city": "Mulberry",
+      "state": "FL",
+      "zip": "33860",
+      "phone": "863-400-3418",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Awex1YAB",
+      "branch_name": "Equipment Share - Sherman TX",
+      "address": "18873 US-82",
+      "city": "Sherman",
+      "state": "TX",
+      "zip": "75092",
+      "phone": "903-294-5001",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000AzK0rYAF",
+      "branch_name": "Equipment Share - Knoxville TN",
+      "address": "10924 McBride Ln",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37932",
+      "phone": "888-807-3687",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000BVqQcYAL",
+      "branch_name": "Equipment Share - Pueblo West CO",
+      "address": "12 N Research Dr",
+      "city": "Pueblo West",
+      "state": "CO",
+      "zip": "81007",
+      "phone": "719-653-1190",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000CgFRzYAN",
+      "branch_name": "Equipment Share - Kentwood MI",
+      "address": "4250 52nd St SE",
+      "city": "Kentwood",
+      "state": "MI",
+      "zip": "49512",
+      "phone": "616-286-0990",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000DDBnlYAH",
+      "branch_name": "Equipment Share - Osceola AR",
+      "address": "1581 AR-181",
+      "city": "Osceola",
+      "state": "AR",
+      "zip": "72370",
+      "phone": "870-576-1400",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000DbGHdYAN",
+      "branch_name": "Equipment Share - Hartford CT",
+      "address": "317 W Service Rd",
+      "city": "Hartford",
+      "state": "CT",
+      "zip": "06120",
+      "phone": "959-333-3470",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000DyLmsYAF",
+      "branch_name": "Equipment Share - Laredo TX",
+      "address": "5663 TX-359",
+      "city": "Laredo",
+      "state": "TX",
+      "zip": "78043",
+      "phone": "361-500-5636",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000EhpKBYAZ",
+      "branch_name": "Equipment Share - Lancaster CA",
+      "address": "811 Columbia Way",
+      "city": "Lancaster",
+      "state": "CA",
+      "zip": "93535",
+      "phone": "661-571-0274",
+      "email": "carl.howard@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000EvRjRYAV",
+      "branch_name": "Equipment Share - Lake Forest CA",
+      "address": "20772 Civic Center Dr",
+      "city": "Lake Forest",
+      "state": "CA",
+      "zip": "92630",
+      "phone": "949-739-0930",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000FSPIzYAP",
+      "branch_name": "Equipment Share - Lakeville MN",
+      "address": "24670 Larson Ln",
+      "city": "Lakeville",
+      "state": "MN",
+      "zip": "55044",
+      "phone": "903-590-9185",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000GPZMNYA5",
+      "branch_name": "Equipment Share - Richmond CA",
+      "address": "211 Parr Blvd",
+      "city": "Richmond",
+      "state": "CA",
+      "zip": "94801",
+      "phone": "415-650-0085",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000GwiPJYAZ",
+      "branch_name": "Equipment Share - Broussard LA",
+      "address": "1001 Petroleum Pkwy",
+      "city": "Broussard",
+      "state": "LA",
+      "zip": "70518",
+      "phone": "337-224-7489",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000IMEbYYAX",
+      "branch_name": "Equipment Share - Jackson SC",
+      "address": "18214 Atomic Rd",
+      "city": "Jackson",
+      "state": "SC",
+      "zip": "29831",
+      "phone": "803-471-5136",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000JFWnpYAH",
+      "branch_name": "Equipment Share - Sioux City IA",
+      "address": "33041 Frelon Dr",
+      "city": "Sioux City",
+      "state": "IA",
+      "zip": "51108",
+      "phone": "712-569-1108",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000JS3w5YAD",
+      "branch_name": "Equipment Share - Nampa ID",
+      "address": "8780 Birch Ln",
+      "city": "Nampa",
+      "state": "ID",
+      "zip": "83687",
+      "phone": "208-616-1850",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000JuZeZYAV",
+      "branch_name": "Equipment Share - La Porte TX",
+      "address": "3401 Awesome Ln",
+      "city": "La Porte",
+      "state": "TX",
+      "zip": "77571",
+      "phone": "346-577-4789",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000JyU3XYAV",
+      "branch_name": "Equipment Share - Tallahassee FL",
+      "address": "2830 Plant St",
+      "city": "Tallahassee",
+      "state": "FL",
+      "zip": "32304",
+      "phone": "850-518-3260",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000KD78EYAT",
+      "branch_name": "Equipment Share - Seaford DE",
+      "address": "25939 Campers Ln",
+      "city": "Seaford",
+      "state": "DE",
+      "zip": "19973",
+      "phone": "+1302907888",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000KnQtwYAF",
+      "branch_name": "Equipment Share - Hialeah Gardens FL",
+      "address": "12601 W Okeechobee Rd",
+      "city": "Hialeah",
+      "state": "FL",
+      "zip": "33018",
+      "phone": "786-983-4184",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000KnrMFYAZ",
+      "branch_name": "Equipment Share - Texarkana AR",
+      "address": "4015 E 9th St",
+      "city": "Texarkana",
+      "state": "AR",
+      "zip": "71854",
+      "phone": "870-330-4920",
+      "email": "carl.howard@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000LVEPFYA5",
+      "branch_name": "Equipment Share - Angleton TX",
+      "address": "771 County Rd 44",
+      "city": "Angleton",
+      "state": "TX",
+      "zip": "77515",
+      "phone": "979-291-3627",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000McojxYAB",
+      "branch_name": "Equipment Share - Whittier CA",
+      "address": "12393 Slauson Ave",
+      "city": "Whittier",
+      "state": "CA",
+      "zip": "90606",
+      "phone": "562-358-3830",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000OOoh1YAD",
+      "branch_name": "Equipment Share - Rapid City SD",
+      "address": "4551 Seger Dr",
+      "city": "Rapid City",
+      "state": "SD",
+      "zip": "57701",
+      "phone": "605-646-9900",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Od8G6YAJ",
+      "branch_name": "Equipment Share - Apopka FL",
+      "address": "100 Hermit Smith Rd",
+      "city": "Apopka",
+      "state": "FL",
+      "zip": "32703",
+      "phone": "689-910-0100",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Q4HD4YAN",
+      "branch_name": "Equipment Share - Dothan AL",
+      "address": "125 Commerce Dr",
+      "city": "Enterprise",
+      "state": "AL",
+      "zip": "36330",
+      "phone": "334-838-7128",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000QRXNYYA5",
+      "branch_name": "Equipment Share - Grand Terrace CA",
+      "address": "21506 Main St",
+      "city": "Grand Terrace",
+      "state": "CA",
+      "zip": "92313",
+      "phone": "909-219-0084",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Qo1MvYAJ",
+      "branch_name": "Equipment Share - Geneva NY",
+      "address": "33 Forge Ave",
+      "city": "Geneva",
+      "state": "NY",
+      "zip": "14456",
+      "phone": "680-444-8210",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Rsg4QYAR",
+      "branch_name": "Equipment Share - North Palm Springs CA",
+      "address": "63665 19th Ave",
+      "city": "North Palm Springs",
+      "state": "CA",
+      "zip": "92258",
+      "phone": "442-212-1621",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000Rt0PeYAJ",
+      "branch_name": "Equipment Share - Madison AL",
+      "address": "250 Royal Dr",
+      "city": "Madison",
+      "state": "AL",
+      "zip": "35758",
+      "phone": "256-556-1000",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000SZcQTYA1",
+      "branch_name": "Skyworks Equipment Rental - Scranton (Olyphant) PA",
+      "address": "950 Underwood Rd",
+      "city": "Olyphant",
+      "state": "PA",
+      "zip": "18447",
+      "phone": "272-235-5200",
+      "email": "rental024@skyworksllc.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000T1e17YAB",
+      "branch_name": "Equipment Share - Flint MI",
+      "address": "2501 Lippincott Blvd",
+      "city": "Flint",
+      "state": "MI",
+      "zip": "48507",
+      "phone": "810-776-2230",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000URNbxYAH",
+      "branch_name": "Equipment Share - Hollister CA",
+      "address": "1135 San Felipe Rd",
+      "city": "Hollister",
+      "state": "CA",
+      "zip": "95023",
+      "phone": "831-623-8004",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000URpJlYAL",
+      "branch_name": "Equipment Share - Lacombe LA",
+      "address": "28734 Krentel Rd",
+      "city": "Lacombe",
+      "state": "LA",
+      "zip": "70445",
+      "phone": "985-282-8220",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000UnwbBYAR",
+      "branch_name": "Equipment Share - Niagara Falls NY",
+      "address": "2181 Lockport Rd",
+      "city": "Niagara Falls",
+      "state": "NY",
+      "zip": "14304",
+      "phone": "903-590-9185",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000UynsbYAB",
+      "branch_name": "Equipment Share - Hurricane UT",
+      "address": "Purgatory Rd",
+      "city": "Hurricane",
+      "state": "UT",
+      "zip": "84737",
+      "phone": "435-216-1449",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000V9Fh8YAF",
+      "branch_name": "Equipment Share - Kannapolis NC",
+      "address": "1411 Dale Earnhardt Blvd",
+      "city": "Kannapolis",
+      "state": "NC",
+      "zip": "28083",
+      "phone": "980-499-6260",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000VDI71YAH",
+      "branch_name": "Equipment Share - Joliet IL",
+      "address": "4044 McDonough St",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60431",
+      "phone": "779-707-9398",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000VTtk1YAD",
+      "branch_name": "Equipment Share - Cartersville GA",
+      "address": "2111 US-411",
+      "city": "Cartersville",
+      "state": "GA",
+      "zip": "30121",
+      "phone": "470-348-6696",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "001OJ00000VXIh4YAH",
+      "branch_name": "Equipment Share - Las Vegas (Boulder Hwy) NV",
+      "address": "6037 Boulder Hwy",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89122",
+      "phone": "725-249-8081",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "682233ed20d8ea001716753e",
+      "branch_name": "Equipment Share - Frankfort IL",
+      "address": "9194 Gulfstream Rd",
+      "city": "Frankfort",
+      "state": "IL",
+      "zip": "60423",
+      "phone": "847-846-0708",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6825dab95e7fff0016a5be1f",
+      "branch_name": "Equipment Share - Logan UT",
+      "address": "1555 N 1000 W",
+      "city": "Logan",
+      "state": "UT",
+      "zip": "84321",
+      "phone": "435-534-0090",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "682f155f6edcac0017182e25",
+      "branch_name": "Equipment Share - Kountze TX",
+      "address": "1025 N Pine St",
+      "city": "Kountze",
+      "state": "TX",
+      "zip": "77625",
+      "phone": "409-219-0083",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "682f335e6edcac0017188a84",
+      "branch_name": "Equipment Share - Alachua FL",
+      "address": "20613 N State Rd 121",
+      "city": "La Crosse",
+      "state": "FL",
+      "zip": "32658",
+      "phone": "352-474-3625",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "683065ce439d5a0017a896e2",
+      "branch_name": "Equipment Share - Santa Maria CA",
+      "address": "2115 Sinton Rd",
+      "city": "Santa Maria",
+      "state": "CA",
+      "zip": "93458",
+      "phone": "805-867-6777",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6835e119b104e60018de271e",
+      "branch_name": "Equipment Share - Cibolo TX",
+      "address": "1021 Schneider Dr",
+      "city": "Cibolo",
+      "state": "TX",
+      "zip": "78108",
+      "phone": "830-201-3334",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6838addeb315990018bfb4c0",
+      "branch_name": "Equipment Share - Youngsville NC",
+      "address": "94 Cypress Dr",
+      "city": "Youngsville",
+      "state": "NC",
+      "zip": "27596",
+      "phone": "984-884-0010",
+      "email": "",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68405f70deb1b10018682b1f",
+      "branch_name": "Equipment Share - Alexandria LA",
+      "address": "3612 Coliseum Blvd",
+      "city": "Alexandria",
+      "state": "LA",
+      "zip": "71303",
+      "phone": "318-451-1371",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "6841b2b3deb1b100186a78b4",
+      "branch_name": "Equipment Share - Ladson SC",
+      "address": "10179 US-78",
+      "city": "Ladson",
+      "state": "SC",
+      "zip": "29456",
+      "phone": "843-410-7717",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "684748de4c8ca80017d51cde",
+      "branch_name": "Equipment Share - Kennedale TX",
+      "address": "6990 Kennedale Pkwy",
+      "city": "Kennedale",
+      "state": "TX",
+      "zip": "76060",
+      "phone": "682-351-0150",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "684aecdd4c8ca80017da8dd7",
+      "branch_name": "Equipment Share - Lenexa KS",
+      "address": "9600 Dice Ln",
+      "city": "Lenexa",
+      "state": "KS",
+      "zip": "66215",
+      "phone": "913-529-8680",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68555e613935e400175bad5c",
+      "branch_name": "Equipment Share - Union Gap WA",
+      "address": "1101 Industrial Way",
+      "city": "Union Gap",
+      "state": "WA",
+      "zip": "98903",
+      "phone": "509-317-8591",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "685d576d1a74570018638f09",
+      "branch_name": "Equipment Share - Cleveland TX",
+      "address": "24976 TX-321",
+      "city": "Cleveland",
+      "state": "TX",
+      "zip": "77327",
+      "phone": "903-590-9185",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "686e8bd61a7457001876e82a",
+      "branch_name": "Equipment Share - Grand Prarie TX",
+      "address": "1717 W Shady Grove Rd",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75050",
+      "phone": "972-737-1919",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "686e8c521a7457001876e82b",
+      "branch_name": "Equipment Share - Grand Prarie TX",
+      "address": "1717 W Shady Grove Rd",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75050",
+      "phone": "972-737-1919",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "686e8d491a7457001876e82c",
+      "branch_name": "Equipment Share - Grand Prairie TX",
+      "address": "1717 W Shady Grove Rd",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75050",
+      "phone": "972-737-1919",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "686e91301a7457001876e82d",
+      "branch_name": "Equipment Share - Grand Prairie TX",
+      "address": "1717 W Shady Grove Rd",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "zip": "75050",
+      "phone": "972-737-1919",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": null,
+        "tuesday": null,
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68793b859afed90017d2d63c",
+      "branch_name": "Equipment Share - Atlanta (Morrow) GA",
+      "address": "1690 Forest Pkwy",
+      "city": "Morrow",
+      "state": "GA",
+      "zip": "30260",
+      "phone": "972-737-1919",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "687a6c039afed90017d46945",
+      "branch_name": "Equipment Share - Bakersfield CA",
+      "address": "2111 Bricyn Ln",
+      "city": "Bakersfield",
+      "state": "CA",
+      "zip": "93308",
+      "phone": "661-624-9656",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "689a44a9d67487001749e940",
+      "branch_name": "Equipment Share -Hobbs NM",
+      "address": "3215 N Enterprise Dr",
+      "city": "Hobbs",
+      "state": "NM",
+      "zip": "88240",
+      "phone": "575-665-9400",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68a46cc4bbfb200017c9e07f",
+      "branch_name": "Equipment Share - Temecula CA",
+      "address": "43169 Vía Dos Picos",
+      "city": "Temecula",
+      "state": "CA",
+      "zip": "92590",
+      "phone": "951-466-2490",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68a48d6ebbfb200017ca3c76",
+      "branch_name": "Equipment Share - Brookshire TX",
+      "address": "2875 Woods Rd",
+      "city": "Brookshire",
+      "state": "TX",
+      "zip": "77423",
+      "phone": "346-573-2674",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68af0446c0444700197b7fe9",
+      "branch_name": "Equipment Share - Helena MT",
+      "address": "1500 Blaine St",
+      "city": "Helena",
+      "state": "MT",
+      "zip": "59601",
+      "phone": "406-438-9790",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68b08ef3c0444700197e3c01",
+      "branch_name": "Equipment Share - Elgin TX",
+      "address": "9511 Brown Ln",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78754",
+      "phone": "737-313-5560",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68b6ed74c04447001983c661",
+      "branch_name": "Equipment Share - Camp Hill PA",
+      "address": "2875 Appleton St",
+      "city": "Camp Hill",
+      "state": "PA",
+      "zip": "17011",
+      "phone": "717-303-5740",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68b9a644c6d9460019599769",
+      "branch_name": "Equipment Share - Trotwood OH",
+      "address": "2 Stratacache Wy",
+      "city": "Trotwood",
+      "state": "OH",
+      "zip": "45426",
+      "phone": "937-977-1460",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    },
+    {
+      "branch_id": "68bb1fd801b61f0017f8f76b",
+      "branch_name": "Equipment Share - Victorville CA",
+      "address": "18173 Osborne Rd",
+      "city": "Victorville",
+      "state": "CA",
+      "zip": "92394",
+      "phone": "442-219-3800",
+      "email": "eddie.parsons@equipmentshare.com",
+      "oms_enabled": false,
+      "hours": {
+        "monday": "07:00-17:00",
+        "tuesday": "07:00-17:00",
+        "wednesday": "07:00-17:00",
+        "thursday": "07:00-17:00",
+        "friday": "07:00-17:00",
+        "saturday": null,
+        "sunday": null
+      }
+    }
+  ]
+}

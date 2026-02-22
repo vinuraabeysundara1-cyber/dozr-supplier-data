@@ -1,0 +1,22 @@
+[
+  {
+    "row": 152,
+    "branch_name": "Sunbelt Rentals Hastings NE",
+    "city": "Hastings",
+    "state": "NE",
+    "address_filled": "406 E J St",
+    "zip_filled": "68901",
+    "phone_found": "(402) 462-2252",
+    "source": "Google Maps"
+  },
+  {
+    "row": 154,
+    "branch_name": "Sunbelt Rentals Fairmont WV",
+    "city": "Fairmont",
+    "state": "WV",
+    "address_filled": "2039 Pleasant Valley Rd",
+    "zip_filled": "26554",
+    "phone_found": "(304) 363-7918",
+    "source": "Google Maps"
+  }
+]

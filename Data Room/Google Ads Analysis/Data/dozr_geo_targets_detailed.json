@@ -1,0 +1,1819 @@
+{
+  "total_geo_targets": 102,
+  "by_type": {
+    "Country": 2,
+    "State": 25,
+    "DMA Region": 30,
+    "City": 37,
+    "Neighborhood": 2,
+    "Municipality": 1,
+    "County": 2,
+    "Region": 1
+  },
+  "us_targets": [
+    {
+      "resource": "geoTargetConstants/2840",
+      "id": 2840,
+      "name": "United States",
+      "country": "US",
+      "type": "Country",
+      "canonical": "United States",
+      "parent": null
+    },
+    {
+      "resource": "geoTargetConstants/21133",
+      "id": 21133,
+      "name": "Alabama",
+      "country": "US",
+      "type": "State",
+      "canonical": "Alabama,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21135",
+      "id": 21135,
+      "name": "Arkansas",
+      "country": "US",
+      "type": "State",
+      "canonical": "Arkansas,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21136",
+      "id": 21136,
+      "name": "Arizona",
+      "country": "US",
+      "type": "State",
+      "canonical": "Arizona,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21137",
+      "id": 21137,
+      "name": "California",
+      "country": "US",
+      "type": "State",
+      "canonical": "California,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21139",
+      "id": 21139,
+      "name": "Connecticut",
+      "country": "US",
+      "type": "State",
+      "canonical": "Connecticut,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21142",
+      "id": 21142,
+      "name": "Florida",
+      "country": "US",
+      "type": "State",
+      "canonical": "Florida,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21143",
+      "id": 21143,
+      "name": "Georgia",
+      "country": "US",
+      "type": "State",
+      "canonical": "Georgia,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21146",
+      "id": 21146,
+      "name": "Idaho",
+      "country": "US",
+      "type": "State",
+      "canonical": "Idaho,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21147",
+      "id": 21147,
+      "name": "Illinois",
+      "country": "US",
+      "type": "State",
+      "canonical": "Illinois,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21150",
+      "id": 21150,
+      "name": "Kentucky",
+      "country": "US",
+      "type": "State",
+      "canonical": "Kentucky,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21155",
+      "id": 21155,
+      "name": "Michigan",
+      "country": "US",
+      "type": "State",
+      "canonical": "Michigan,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21156",
+      "id": 21156,
+      "name": "Minnesota",
+      "country": "US",
+      "type": "State",
+      "canonical": "Minnesota,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21160",
+      "id": 21160,
+      "name": "North Carolina",
+      "country": "US",
+      "type": "State",
+      "canonical": "North Carolina,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21161",
+      "id": 21161,
+      "name": "North Dakota",
+      "country": "US",
+      "type": "State",
+      "canonical": "North Dakota,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21163",
+      "id": 21163,
+      "name": "New Hampshire",
+      "country": "US",
+      "type": "State",
+      "canonical": "New Hampshire,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21167",
+      "id": 21167,
+      "name": "New York",
+      "country": "US",
+      "type": "State",
+      "canonical": "New York,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21168",
+      "id": 21168,
+      "name": "Ohio",
+      "country": "US",
+      "type": "State",
+      "canonical": "Ohio,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21169",
+      "id": 21169,
+      "name": "Oklahoma",
+      "country": "US",
+      "type": "State",
+      "canonical": "Oklahoma,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21170",
+      "id": 21170,
+      "name": "Oregon",
+      "country": "US",
+      "type": "State",
+      "canonical": "Oregon,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21171",
+      "id": 21171,
+      "name": "Pennsylvania",
+      "country": "US",
+      "type": "State",
+      "canonical": "Pennsylvania,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21173",
+      "id": 21173,
+      "name": "South Carolina",
+      "country": "US",
+      "type": "State",
+      "canonical": "South Carolina,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21175",
+      "id": 21175,
+      "name": "Tennessee",
+      "country": "US",
+      "type": "State",
+      "canonical": "Tennessee,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21176",
+      "id": 21176,
+      "name": "Texas",
+      "country": "US",
+      "type": "State",
+      "canonical": "Texas,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21178",
+      "id": 21178,
+      "name": "Virginia",
+      "country": "US",
+      "type": "State",
+      "canonical": "Virginia,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21179",
+      "id": 21179,
+      "name": "Vermont",
+      "country": "US",
+      "type": "State",
+      "canonical": "Vermont,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200501",
+      "id": 200501,
+      "name": "New York, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "New York, NY,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200507",
+      "id": 200507,
+      "name": "Savannah, GA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Savannah, GA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200514",
+      "id": 200514,
+      "name": "Buffalo, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Buffalo, NY,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200517",
+      "id": 200517,
+      "name": "Charlotte, NC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Charlotte, NC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200518",
+      "id": 200518,
+      "name": "Greensboro-High Point-Winston Salem, NC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200519",
+      "id": 200519,
+      "name": "Charleston, SC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Charleston, SC,South Carolina,United States",
+      "parent": "geoTargetConstants/21173"
+    },
+    {
+      "resource": "geoTargetConstants/200524",
+      "id": 200524,
+      "name": "Atlanta, GA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Atlanta, GA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200528",
+      "id": 200528,
+      "name": "Miami-Ft. Lauderdale, FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200531",
+      "id": 200531,
+      "name": "Tri-Cities, TN-VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Tri-Cities, TN-VA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200532",
+      "id": 200532,
+      "name": "Albany-Schenectady-Troy, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Albany-Schenectady-Troy, NY,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200534",
+      "id": 200534,
+      "name": "Orlando-Daytona Beach-Melbourne, FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200538",
+      "id": 200538,
+      "name": "Rochester, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Rochester, NY,New York,United States",
+      "parent": "geoTargetConstants/21167"
+    },
+    {
+      "resource": "geoTargetConstants/200539",
+      "id": 200539,
+      "name": "Tampa-St Petersburg (Sarasota), FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200544",
+      "id": 200544,
+      "name": "Norfolk-Portsmouth-Newport News, VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200548",
+      "id": 200548,
+      "name": "West Palm Beach-Ft. Pierce, FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200555",
+      "id": 200555,
+      "name": "Syracuse, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Syracuse, NY,New York,United States",
+      "parent": "geoTargetConstants/21167"
+    },
+    {
+      "resource": "geoTargetConstants/200556",
+      "id": 200556,
+      "name": "Richmond-Petersburg, VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+      "parent": "geoTargetConstants/21178"
+    },
+    {
+      "resource": "geoTargetConstants/200557",
+      "id": 200557,
+      "name": "Knoxville, TN",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Knoxville, TN,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200560",
+      "id": 200560,
+      "name": "Raleigh-Durham (Fayetteville), NC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200567",
+      "id": 200567,
+      "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200584",
+      "id": 200584,
+      "name": "Charlottesville, VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Charlottesville, VA,Virginia,United States",
+      "parent": "geoTargetConstants/21178"
+    },
+    {
+      "resource": "geoTargetConstants/200618",
+      "id": 200618,
+      "name": "Houston, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Houston, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200623",
+      "id": 200623,
+      "name": "Dallas-Ft. Worth, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200625",
+      "id": 200625,
+      "name": "Waco-Temple-Bryan, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200635",
+      "id": 200635,
+      "name": "Austin, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Austin, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200640",
+      "id": 200640,
+      "name": "Memphis, TN",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Memphis, TN,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200641",
+      "id": 200641,
+      "name": "San Antonio, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "San Antonio, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200659",
+      "id": 200659,
+      "name": "Nashville, TN",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Nashville, TN,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200803",
+      "id": 200803,
+      "name": "Los Angeles, CA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Los Angeles, CA,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/200825",
+      "id": 200825,
+      "name": "San Diego, CA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "San Diego, CA,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/1013462",
+      "id": 1013462,
+      "name": "Phoenix",
+      "country": "US",
+      "type": "City",
+      "canonical": "Phoenix,Arizona,United States",
+      "parent": "geoTargetConstants/21136"
+    },
+    {
+      "resource": "geoTargetConstants/1013857",
+      "id": 1013857,
+      "name": "Hesperia",
+      "country": "US",
+      "type": "City",
+      "canonical": "Hesperia,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/1013954",
+      "id": 1013954,
+      "name": "Loma Linda",
+      "country": "US",
+      "type": "City",
+      "canonical": "Loma Linda,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/1015339",
+      "id": 1015339,
+      "name": "Elberton",
+      "country": "US",
+      "type": "City",
+      "canonical": "Elberton,Georgia,United States",
+      "parent": "geoTargetConstants/21143"
+    },
+    {
+      "resource": "geoTargetConstants/9057037",
+      "id": 9057037,
+      "name": "Maricopa County",
+      "country": "US",
+      "type": "County",
+      "canonical": "Maricopa County,Arizona,United States",
+      "parent": "geoTargetConstants/21136"
+    },
+    {
+      "resource": "geoTargetConstants/9057040",
+      "id": 9057040,
+      "name": "Pinal County",
+      "country": "US",
+      "type": "County",
+      "canonical": "Pinal County,Arizona,United States",
+      "parent": "geoTargetConstants/21136"
+    },
+    {
+      "resource": "geoTargetConstants/9073451",
+      "id": 9073451,
+      "name": "San Francisco Bay Area",
+      "country": "US",
+      "type": "Region",
+      "canonical": "San Francisco Bay Area,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/9198538",
+      "id": 9198538,
+      "name": "Stonecrest",
+      "country": "US",
+      "type": "City",
+      "canonical": "Stonecrest,Georgia,United States",
+      "parent": "geoTargetConstants/21143"
+    }
+  ],
+  "ca_targets": [
+    {
+      "resource": "geoTargetConstants/2124",
+      "id": 2124,
+      "name": "Canada",
+      "country": "CA",
+      "type": "Country",
+      "canonical": "Canada",
+      "parent": null
+    },
+    {
+      "resource": "geoTargetConstants/1001885",
+      "id": 1001885,
+      "name": "Coquitlam",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Coquitlam,British Columbia,Canada",
+      "parent": "geoTargetConstants/20114"
+    },
+    {
+      "resource": "geoTargetConstants/1001931",
+      "id": 1001931,
+      "name": "North Vancouver",
+      "country": "CA",
+      "type": "City",
+      "canonical": "North Vancouver,British Columbia,Canada",
+      "parent": "geoTargetConstants/20114"
+    },
+    {
+      "resource": "geoTargetConstants/1002168",
+      "id": 1002168,
+      "name": "Aurora",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Aurora,Aurora,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002170",
+      "id": 1002170,
+      "name": "Ayr",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Ayr,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002186",
+      "id": 1002186,
+      "name": "Bolton",
+      "country": "CA",
+      "type": "Neighborhood",
+      "canonical": "Bolton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002188",
+      "id": 1002188,
+      "name": "Bowmanville",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Bowmanville,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002191",
+      "id": 1002191,
+      "name": "Brampton",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Brampton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002197",
+      "id": 1002197,
+      "name": "Burlington",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Burlington,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002199",
+      "id": 1002199,
+      "name": "Caledon",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Caledon,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002200",
+      "id": 1002200,
+      "name": "Cambridge",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Cambridge,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002222",
+      "id": 1002222,
+      "name": "Cobourg",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Cobourg,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002226",
+      "id": 1002226,
+      "name": "Collingwood",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Collingwood,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002259",
+      "id": 1002259,
+      "name": "Essex",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Essex,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002269",
+      "id": 1002269,
+      "name": "Fort Erie",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Fort Erie,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002283",
+      "id": 1002283,
+      "name": "Guelph",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Guelph,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002287",
+      "id": 1002287,
+      "name": "Hamilton",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Hamilton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002298",
+      "id": 1002298,
+      "name": "Innisfil",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Innisfil,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002310",
+      "id": 1002310,
+      "name": "Kingston",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Kingston,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002312",
+      "id": 1002312,
+      "name": "Kitchener",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Kitchener,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002325",
+      "id": 1002325,
+      "name": "London",
+      "country": "CA",
+      "type": "City",
+      "canonical": "London,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002334",
+      "id": 1002334,
+      "name": "Markham",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Markham,Markham,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002347",
+      "id": 1002347,
+      "name": "Milton",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Milton,Milton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002350",
+      "id": 1002350,
+      "name": "Mississauga",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Mississauga,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002362",
+      "id": 1002362,
+      "name": "Newmarket",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Newmarket,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002363",
+      "id": 1002363,
+      "name": "Niagara Falls",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Niagara Falls,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002371",
+      "id": 1002371,
+      "name": "Oakville",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Oakville,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002376",
+      "id": 1002376,
+      "name": "Ottawa",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Ottawa,Ottawa,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002392",
+      "id": 1002392,
+      "name": "Port Elgin",
+      "country": "CA",
+      "type": "Neighborhood",
+      "canonical": "Port Elgin,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002400",
+      "id": 1002400,
+      "name": "Ramara",
+      "country": "CA",
+      "type": "Municipality",
+      "canonical": "Ramara,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002428",
+      "id": 1002428,
+      "name": "St. Catharines",
+      "country": "CA",
+      "type": "City",
+      "canonical": "St. Catharines,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002451",
+      "id": 1002451,
+      "name": "Toronto",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Toronto,Toronto,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002459",
+      "id": 1002459,
+      "name": "Vaughan",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Vaughan,Vaughan,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002464",
+      "id": 1002464,
+      "name": "Waterloo",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Waterloo,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/9047851",
+      "id": 9047851,
+      "name": "Brant",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Brant,Brant,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/9047895",
+      "id": 9047895,
+      "name": "Lambton Shores",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Lambton Shores,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    }
+  ],
+  "all_details": [
+    {
+      "resource": "geoTargetConstants/2124",
+      "id": 2124,
+      "name": "Canada",
+      "country": "CA",
+      "type": "Country",
+      "canonical": "Canada",
+      "parent": null
+    },
+    {
+      "resource": "geoTargetConstants/2840",
+      "id": 2840,
+      "name": "United States",
+      "country": "US",
+      "type": "Country",
+      "canonical": "United States",
+      "parent": null
+    },
+    {
+      "resource": "geoTargetConstants/21133",
+      "id": 21133,
+      "name": "Alabama",
+      "country": "US",
+      "type": "State",
+      "canonical": "Alabama,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21135",
+      "id": 21135,
+      "name": "Arkansas",
+      "country": "US",
+      "type": "State",
+      "canonical": "Arkansas,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21136",
+      "id": 21136,
+      "name": "Arizona",
+      "country": "US",
+      "type": "State",
+      "canonical": "Arizona,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21137",
+      "id": 21137,
+      "name": "California",
+      "country": "US",
+      "type": "State",
+      "canonical": "California,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21139",
+      "id": 21139,
+      "name": "Connecticut",
+      "country": "US",
+      "type": "State",
+      "canonical": "Connecticut,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21142",
+      "id": 21142,
+      "name": "Florida",
+      "country": "US",
+      "type": "State",
+      "canonical": "Florida,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21143",
+      "id": 21143,
+      "name": "Georgia",
+      "country": "US",
+      "type": "State",
+      "canonical": "Georgia,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21146",
+      "id": 21146,
+      "name": "Idaho",
+      "country": "US",
+      "type": "State",
+      "canonical": "Idaho,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21147",
+      "id": 21147,
+      "name": "Illinois",
+      "country": "US",
+      "type": "State",
+      "canonical": "Illinois,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21150",
+      "id": 21150,
+      "name": "Kentucky",
+      "country": "US",
+      "type": "State",
+      "canonical": "Kentucky,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21155",
+      "id": 21155,
+      "name": "Michigan",
+      "country": "US",
+      "type": "State",
+      "canonical": "Michigan,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21156",
+      "id": 21156,
+      "name": "Minnesota",
+      "country": "US",
+      "type": "State",
+      "canonical": "Minnesota,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21160",
+      "id": 21160,
+      "name": "North Carolina",
+      "country": "US",
+      "type": "State",
+      "canonical": "North Carolina,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21161",
+      "id": 21161,
+      "name": "North Dakota",
+      "country": "US",
+      "type": "State",
+      "canonical": "North Dakota,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21163",
+      "id": 21163,
+      "name": "New Hampshire",
+      "country": "US",
+      "type": "State",
+      "canonical": "New Hampshire,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21167",
+      "id": 21167,
+      "name": "New York",
+      "country": "US",
+      "type": "State",
+      "canonical": "New York,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21168",
+      "id": 21168,
+      "name": "Ohio",
+      "country": "US",
+      "type": "State",
+      "canonical": "Ohio,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21169",
+      "id": 21169,
+      "name": "Oklahoma",
+      "country": "US",
+      "type": "State",
+      "canonical": "Oklahoma,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21170",
+      "id": 21170,
+      "name": "Oregon",
+      "country": "US",
+      "type": "State",
+      "canonical": "Oregon,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21171",
+      "id": 21171,
+      "name": "Pennsylvania",
+      "country": "US",
+      "type": "State",
+      "canonical": "Pennsylvania,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21173",
+      "id": 21173,
+      "name": "South Carolina",
+      "country": "US",
+      "type": "State",
+      "canonical": "South Carolina,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21175",
+      "id": 21175,
+      "name": "Tennessee",
+      "country": "US",
+      "type": "State",
+      "canonical": "Tennessee,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21176",
+      "id": 21176,
+      "name": "Texas",
+      "country": "US",
+      "type": "State",
+      "canonical": "Texas,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21178",
+      "id": 21178,
+      "name": "Virginia",
+      "country": "US",
+      "type": "State",
+      "canonical": "Virginia,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/21179",
+      "id": 21179,
+      "name": "Vermont",
+      "country": "US",
+      "type": "State",
+      "canonical": "Vermont,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200501",
+      "id": 200501,
+      "name": "New York, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "New York, NY,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200507",
+      "id": 200507,
+      "name": "Savannah, GA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Savannah, GA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200514",
+      "id": 200514,
+      "name": "Buffalo, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Buffalo, NY,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200517",
+      "id": 200517,
+      "name": "Charlotte, NC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Charlotte, NC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200518",
+      "id": 200518,
+      "name": "Greensboro-High Point-Winston Salem, NC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200519",
+      "id": 200519,
+      "name": "Charleston, SC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Charleston, SC,South Carolina,United States",
+      "parent": "geoTargetConstants/21173"
+    },
+    {
+      "resource": "geoTargetConstants/200524",
+      "id": 200524,
+      "name": "Atlanta, GA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Atlanta, GA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200528",
+      "id": 200528,
+      "name": "Miami-Ft. Lauderdale, FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200531",
+      "id": 200531,
+      "name": "Tri-Cities, TN-VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Tri-Cities, TN-VA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200532",
+      "id": 200532,
+      "name": "Albany-Schenectady-Troy, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Albany-Schenectady-Troy, NY,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200534",
+      "id": 200534,
+      "name": "Orlando-Daytona Beach-Melbourne, FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200538",
+      "id": 200538,
+      "name": "Rochester, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Rochester, NY,New York,United States",
+      "parent": "geoTargetConstants/21167"
+    },
+    {
+      "resource": "geoTargetConstants/200539",
+      "id": 200539,
+      "name": "Tampa-St Petersburg (Sarasota), FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200544",
+      "id": 200544,
+      "name": "Norfolk-Portsmouth-Newport News, VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200548",
+      "id": 200548,
+      "name": "West Palm Beach-Ft. Pierce, FL",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+      "parent": "geoTargetConstants/21142"
+    },
+    {
+      "resource": "geoTargetConstants/200555",
+      "id": 200555,
+      "name": "Syracuse, NY",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Syracuse, NY,New York,United States",
+      "parent": "geoTargetConstants/21167"
+    },
+    {
+      "resource": "geoTargetConstants/200556",
+      "id": 200556,
+      "name": "Richmond-Petersburg, VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+      "parent": "geoTargetConstants/21178"
+    },
+    {
+      "resource": "geoTargetConstants/200557",
+      "id": 200557,
+      "name": "Knoxville, TN",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Knoxville, TN,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200560",
+      "id": 200560,
+      "name": "Raleigh-Durham (Fayetteville), NC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200567",
+      "id": 200567,
+      "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200584",
+      "id": 200584,
+      "name": "Charlottesville, VA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Charlottesville, VA,Virginia,United States",
+      "parent": "geoTargetConstants/21178"
+    },
+    {
+      "resource": "geoTargetConstants/200618",
+      "id": 200618,
+      "name": "Houston, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Houston, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200623",
+      "id": 200623,
+      "name": "Dallas-Ft. Worth, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200625",
+      "id": 200625,
+      "name": "Waco-Temple-Bryan, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200635",
+      "id": 200635,
+      "name": "Austin, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Austin, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200640",
+      "id": 200640,
+      "name": "Memphis, TN",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Memphis, TN,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200641",
+      "id": 200641,
+      "name": "San Antonio, TX",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "San Antonio, TX,Texas,United States",
+      "parent": "geoTargetConstants/21176"
+    },
+    {
+      "resource": "geoTargetConstants/200659",
+      "id": 200659,
+      "name": "Nashville, TN",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Nashville, TN,United States",
+      "parent": "geoTargetConstants/2840"
+    },
+    {
+      "resource": "geoTargetConstants/200803",
+      "id": 200803,
+      "name": "Los Angeles, CA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "Los Angeles, CA,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/200825",
+      "id": 200825,
+      "name": "San Diego, CA",
+      "country": "US",
+      "type": "DMA Region",
+      "canonical": "San Diego, CA,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/1001885",
+      "id": 1001885,
+      "name": "Coquitlam",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Coquitlam,British Columbia,Canada",
+      "parent": "geoTargetConstants/20114"
+    },
+    {
+      "resource": "geoTargetConstants/1001931",
+      "id": 1001931,
+      "name": "North Vancouver",
+      "country": "CA",
+      "type": "City",
+      "canonical": "North Vancouver,British Columbia,Canada",
+      "parent": "geoTargetConstants/20114"
+    },
+    {
+      "resource": "geoTargetConstants/1002168",
+      "id": 1002168,
+      "name": "Aurora",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Aurora,Aurora,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002170",
+      "id": 1002170,
+      "name": "Ayr",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Ayr,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002186",
+      "id": 1002186,
+      "name": "Bolton",
+      "country": "CA",
+      "type": "Neighborhood",
+      "canonical": "Bolton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002188",
+      "id": 1002188,
+      "name": "Bowmanville",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Bowmanville,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002191",
+      "id": 1002191,
+      "name": "Brampton",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Brampton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002197",
+      "id": 1002197,
+      "name": "Burlington",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Burlington,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002199",
+      "id": 1002199,
+      "name": "Caledon",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Caledon,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002200",
+      "id": 1002200,
+      "name": "Cambridge",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Cambridge,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002222",
+      "id": 1002222,
+      "name": "Cobourg",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Cobourg,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002226",
+      "id": 1002226,
+      "name": "Collingwood",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Collingwood,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002259",
+      "id": 1002259,
+      "name": "Essex",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Essex,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002269",
+      "id": 1002269,
+      "name": "Fort Erie",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Fort Erie,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002283",
+      "id": 1002283,
+      "name": "Guelph",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Guelph,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002287",
+      "id": 1002287,
+      "name": "Hamilton",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Hamilton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002298",
+      "id": 1002298,
+      "name": "Innisfil",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Innisfil,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002310",
+      "id": 1002310,
+      "name": "Kingston",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Kingston,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002312",
+      "id": 1002312,
+      "name": "Kitchener",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Kitchener,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002325",
+      "id": 1002325,
+      "name": "London",
+      "country": "CA",
+      "type": "City",
+      "canonical": "London,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002334",
+      "id": 1002334,
+      "name": "Markham",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Markham,Markham,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002347",
+      "id": 1002347,
+      "name": "Milton",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Milton,Milton,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002350",
+      "id": 1002350,
+      "name": "Mississauga",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Mississauga,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002362",
+      "id": 1002362,
+      "name": "Newmarket",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Newmarket,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002363",
+      "id": 1002363,
+      "name": "Niagara Falls",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Niagara Falls,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002371",
+      "id": 1002371,
+      "name": "Oakville",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Oakville,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002376",
+      "id": 1002376,
+      "name": "Ottawa",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Ottawa,Ottawa,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002392",
+      "id": 1002392,
+      "name": "Port Elgin",
+      "country": "CA",
+      "type": "Neighborhood",
+      "canonical": "Port Elgin,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002400",
+      "id": 1002400,
+      "name": "Ramara",
+      "country": "CA",
+      "type": "Municipality",
+      "canonical": "Ramara,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002428",
+      "id": 1002428,
+      "name": "St. Catharines",
+      "country": "CA",
+      "type": "City",
+      "canonical": "St. Catharines,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002451",
+      "id": 1002451,
+      "name": "Toronto",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Toronto,Toronto,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002459",
+      "id": 1002459,
+      "name": "Vaughan",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Vaughan,Vaughan,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1002464",
+      "id": 1002464,
+      "name": "Waterloo",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Waterloo,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/1013462",
+      "id": 1013462,
+      "name": "Phoenix",
+      "country": "US",
+      "type": "City",
+      "canonical": "Phoenix,Arizona,United States",
+      "parent": "geoTargetConstants/21136"
+    },
+    {
+      "resource": "geoTargetConstants/1013857",
+      "id": 1013857,
+      "name": "Hesperia",
+      "country": "US",
+      "type": "City",
+      "canonical": "Hesperia,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/1013954",
+      "id": 1013954,
+      "name": "Loma Linda",
+      "country": "US",
+      "type": "City",
+      "canonical": "Loma Linda,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/1015339",
+      "id": 1015339,
+      "name": "Elberton",
+      "country": "US",
+      "type": "City",
+      "canonical": "Elberton,Georgia,United States",
+      "parent": "geoTargetConstants/21143"
+    },
+    {
+      "resource": "geoTargetConstants/9047851",
+      "id": 9047851,
+      "name": "Brant",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Brant,Brant,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/9047895",
+      "id": 9047895,
+      "name": "Lambton Shores",
+      "country": "CA",
+      "type": "City",
+      "canonical": "Lambton Shores,Ontario,Canada",
+      "parent": "geoTargetConstants/20121"
+    },
+    {
+      "resource": "geoTargetConstants/9057037",
+      "id": 9057037,
+      "name": "Maricopa County",
+      "country": "US",
+      "type": "County",
+      "canonical": "Maricopa County,Arizona,United States",
+      "parent": "geoTargetConstants/21136"
+    },
+    {
+      "resource": "geoTargetConstants/9057040",
+      "id": 9057040,
+      "name": "Pinal County",
+      "country": "US",
+      "type": "County",
+      "canonical": "Pinal County,Arizona,United States",
+      "parent": "geoTargetConstants/21136"
+    },
+    {
+      "resource": "geoTargetConstants/9073451",
+      "id": 9073451,
+      "name": "San Francisco Bay Area",
+      "country": "US",
+      "type": "Region",
+      "canonical": "San Francisco Bay Area,California,United States",
+      "parent": "geoTargetConstants/21137"
+    },
+    {
+      "resource": "geoTargetConstants/9198538",
+      "id": 9198538,
+      "name": "Stonecrest",
+      "country": "US",
+      "type": "City",
+      "canonical": "Stonecrest,Georgia,United States",
+      "parent": "geoTargetConstants/21143"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+supplierId,supplierName,erpId,branchId,branchName,branchAddress,branchPhoneNumber,branchEmailAddress,omsEmailAddresses,omsPhoneNumbers,hoursMonday,hoursTuesday,hoursWednesday,hoursThursday,hoursFriday,hoursSaturday,hoursSunday,omsEnabled,isDeleted,createdDate,lastModifiedDate
+5cc1d3f88e6b63e7728f604f,GMW Equipment,,0011K000024eEbzQAE,GMW Equipment - San Juan TX,"650 East Expressway 83, San Juan, United States",9563355000,,raul@gmwrental.com,,08:30-17:30,08:30-17:30,08:30-17:30,08:30-17:30,08:30-17:30,09:30-13:00,,TRUE,FALSE,2025-03-26T09:45:10.638Z,2025-03-26T09:45:10.638Z

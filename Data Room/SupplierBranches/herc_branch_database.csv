@@ -1,0 +1,41 @@
+HERC RENTALS BRANCH DATABASE - SUMMARY
+Capture Date: 2026-02-19
+
+OVERVIEW
+OMS Branches,316
+OMS Enabled,3
+Website Branches (Est.),822
+New Branches to Add (Est.),~500
+DOZR Relevant Branches (%),65%
+
+SAMPLE DATA - SOUTHEAST REGION (332 branches)
+State,Total,DOZR Relevant,Limited Services
+TX,94,63,31
+FL,62,39,23
+GA,32,20,12
+LA,29,16,13
+NC,20,12,8
+TN,18,9,9
+AL,15,10,5
+SC,14,7,7
+OK,13,10,3
+AR,8,7,1
+MO,4,4,0
+MS,3,2,1
+VA,1,1,0
+
+SERVICE CATEGORIES
+"Relevant to DOZR: General Rentals, Aerial, Earthmoving, Material Handling, ProTruck"
+"Limited Services: ProSolutions, Pump Power & Climate, CRC, Entertainment"
+
+KEY FINDINGS
+"1. Website has ~2.6x more branches than OMS (822 vs 316)"
+"2. Only 3 of 316 OMS branches are enabled - major opportunity"
+"3. ~65% of branches offer DOZR-relevant services"
+"4. Strong coverage in TX, FL, GA - focus areas for onboarding"
+
+NEXT STEPS
+"1. Full branch extraction needed for complete comparison"
+"2. Enable more OMS branches (currently only 3)"
+"3. Add ~500 new branches from website"
+"4. Prioritize branches with relevant services"

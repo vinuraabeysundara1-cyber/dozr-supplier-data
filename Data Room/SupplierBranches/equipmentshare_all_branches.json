@@ -1,0 +1,89 @@
+{
+  "supplier": "EquipmentShare",
+  "extraction_date": "2026-02-19",
+  "total_locations": 373,
+  "states_count": 45,
+  "branches": [
+    {
+      "branch_name": "Birmingham - Alabaster #15965",
+      "services": "Core Solutions",
+      "address": "2039 Fulton Springs Rd",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "phone": "(205) 730-0770"
+    },
+    {
+      "branch_name": "Birmingham - Alabaster #62846",
+      "services": "Advanced Solutions",
+      "address": "281 Commercial Ct",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "phone": "(205) 847-0257"
+    },
+    {
+      "branch_name": "Huntsville - Decatur #40686",
+      "services": "Core Solutions",
+      "address": "540 Steed Rd, Building B",
+      "city": "Decatur",
+      "state": "AL",
+      "zip": "35601",
+      "phone": "(256) 308-8993"
+    },
+    {
+      "branch_name": "Dothan - Enterprise #103045",
+      "services": "Core Solutions",
+      "address": "125 Commerce Dr",
+      "city": "Enterprise",
+      "state": "AL",
+      "zip": "36330",
+      "phone": "(334) 828-7128"
+    },
+    {
+      "branch_name": "Huntsville - Madison #85156",
+      "services": null,
+      "address": "250 Royal Dr",
+      "city": "Madison",
+      "state": "AL",
+      "zip": "35758",
+      "phone": "(256) 556-1000"
+    },
+    {
+      "branch_name": "Anniston - Oxford #140181",
+      "services": "Core Solutions",
+      "address": "90 Industrial Drive",
+      "city": "Oxford",
+      "state": "AL",
+      "zip": "36203",
+      "phone": "(256) 905-8339"
+    },
+    {
+      "branch_name": "Mobile - Theodore #33163",
+      "services": "Core Solutions",
+      "address": "8765 Bellingrath Rd",
+      "city": "Theodore",
+      "state": "AL",
+      "zip": "36582",
+      "phone": "(251) 481-6240"
+    },
+    {
+      "branch_name": "Mobile - Theodore #56716",
+      "services": null,
+      "address": "5750 I 10 Industrial Pkwy N",
+      "city": "Theodore",
+      "state": "AL",
+      "zip": "36582",
+      "phone": "(251) 401-3669"
+    },
+    {
+      "branch_name": "Tuscaloosa #165781",
+      "services": "Core Solutions",
+      "address": "3020 Fosters Ferry Rd",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "35401",
+      "phone": "(659) 228-0411"
+    }
+  ]
+}

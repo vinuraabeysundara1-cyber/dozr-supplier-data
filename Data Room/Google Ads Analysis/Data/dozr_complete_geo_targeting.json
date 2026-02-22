@@ -1,0 +1,4161 @@
+{
+  "DSA-AllPages-Tier1-New-US-2": {
+    "id": 23312986075,
+    "locations": {
+      "State": [
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 3,
+    "excluded": 98
+  },
+  "Search-Backhoe-Core-Geos-US": {
+    "id": 23476824168,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 0
+  },
+  "Search-Demand-Boom-Lifts": {
+    "id": 23312986204,
+    "locations": {
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 33,
+    "excluded": 98
+  },
+  "Search-Demand-Brand-CA": {
+    "id": 23469369975,
+    "locations": {
+      "City": [
+        {
+          "id": 1001885,
+          "name": "Coquitlam",
+          "canonical": "Coquitlam,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1001931,
+          "name": "North Vancouver",
+          "canonical": "North Vancouver,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002168,
+          "name": "Aurora",
+          "canonical": "Aurora,Aurora,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002170,
+          "name": "Ayr",
+          "canonical": "Ayr,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002188,
+          "name": "Bowmanville",
+          "canonical": "Bowmanville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002191,
+          "name": "Brampton",
+          "canonical": "Brampton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002197,
+          "name": "Burlington",
+          "canonical": "Burlington,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002199,
+          "name": "Caledon",
+          "canonical": "Caledon,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002200,
+          "name": "Cambridge",
+          "canonical": "Cambridge,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002222,
+          "name": "Cobourg",
+          "canonical": "Cobourg,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002226,
+          "name": "Collingwood",
+          "canonical": "Collingwood,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002259,
+          "name": "Essex",
+          "canonical": "Essex,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002269,
+          "name": "Fort Erie",
+          "canonical": "Fort Erie,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002283,
+          "name": "Guelph",
+          "canonical": "Guelph,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002287,
+          "name": "Hamilton",
+          "canonical": "Hamilton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002298,
+          "name": "Innisfil",
+          "canonical": "Innisfil,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002310,
+          "name": "Kingston",
+          "canonical": "Kingston,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002312,
+          "name": "Kitchener",
+          "canonical": "Kitchener,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002325,
+          "name": "London",
+          "canonical": "London,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002334,
+          "name": "Markham",
+          "canonical": "Markham,Markham,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002347,
+          "name": "Milton",
+          "canonical": "Milton,Milton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002350,
+          "name": "Mississauga",
+          "canonical": "Mississauga,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002362,
+          "name": "Newmarket",
+          "canonical": "Newmarket,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002363,
+          "name": "Niagara Falls",
+          "canonical": "Niagara Falls,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002371,
+          "name": "Oakville",
+          "canonical": "Oakville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002376,
+          "name": "Ottawa",
+          "canonical": "Ottawa,Ottawa,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002428,
+          "name": "St. Catharines",
+          "canonical": "St. Catharines,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002451,
+          "name": "Toronto",
+          "canonical": "Toronto,Toronto,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002459,
+          "name": "Vaughan",
+          "canonical": "Vaughan,Vaughan,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002464,
+          "name": "Waterloo",
+          "canonical": "Waterloo,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047851,
+          "name": "Brant",
+          "canonical": "Brant,Brant,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047895,
+          "name": "Lambton Shores",
+          "canonical": "Lambton Shores,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        }
+      ],
+      "Neighborhood": [
+        {
+          "id": 1002186,
+          "name": "Bolton",
+          "canonical": "Bolton,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        },
+        {
+          "id": 1002392,
+          "name": "Port Elgin",
+          "canonical": "Port Elgin,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        }
+      ],
+      "Municipality": [
+        {
+          "id": 1002400,
+          "name": "Ramara",
+          "canonical": "Ramara,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        },
+        {
+          "id": 9105285,
+          "name": "Severn",
+          "canonical": "Severn,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        }
+      ],
+      "District": [
+        {
+          "id": 9218209,
+          "name": "Renfrew County",
+          "canonical": "Renfrew County,Ontario,Canada",
+          "type": "District",
+          "country": "CA"
+        }
+      ]
+    },
+    "total": 37,
+    "excluded": 4
+  },
+  "Search-Demand-Brand-US": {
+    "id": 23312986207,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 98
+  },
+  "Search-Dozers-Core-Geos-US-V3": {
+    "id": 23474073503,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 0
+  },
+  "Search-Excavator-Core-Geos-CA": {
+    "id": 23479017787,
+    "locations": {
+      "City": [
+        {
+          "id": 1001885,
+          "name": "Coquitlam",
+          "canonical": "Coquitlam,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1001931,
+          "name": "North Vancouver",
+          "canonical": "North Vancouver,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002168,
+          "name": "Aurora",
+          "canonical": "Aurora,Aurora,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002170,
+          "name": "Ayr",
+          "canonical": "Ayr,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002188,
+          "name": "Bowmanville",
+          "canonical": "Bowmanville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002191,
+          "name": "Brampton",
+          "canonical": "Brampton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002197,
+          "name": "Burlington",
+          "canonical": "Burlington,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002199,
+          "name": "Caledon",
+          "canonical": "Caledon,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002200,
+          "name": "Cambridge",
+          "canonical": "Cambridge,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002222,
+          "name": "Cobourg",
+          "canonical": "Cobourg,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002226,
+          "name": "Collingwood",
+          "canonical": "Collingwood,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002259,
+          "name": "Essex",
+          "canonical": "Essex,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002269,
+          "name": "Fort Erie",
+          "canonical": "Fort Erie,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002283,
+          "name": "Guelph",
+          "canonical": "Guelph,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002287,
+          "name": "Hamilton",
+          "canonical": "Hamilton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002298,
+          "name": "Innisfil",
+          "canonical": "Innisfil,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002310,
+          "name": "Kingston",
+          "canonical": "Kingston,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002312,
+          "name": "Kitchener",
+          "canonical": "Kitchener,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002325,
+          "name": "London",
+          "canonical": "London,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002334,
+          "name": "Markham",
+          "canonical": "Markham,Markham,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002347,
+          "name": "Milton",
+          "canonical": "Milton,Milton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002350,
+          "name": "Mississauga",
+          "canonical": "Mississauga,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002362,
+          "name": "Newmarket",
+          "canonical": "Newmarket,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002363,
+          "name": "Niagara Falls",
+          "canonical": "Niagara Falls,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002371,
+          "name": "Oakville",
+          "canonical": "Oakville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002376,
+          "name": "Ottawa",
+          "canonical": "Ottawa,Ottawa,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002428,
+          "name": "St. Catharines",
+          "canonical": "St. Catharines,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002451,
+          "name": "Toronto",
+          "canonical": "Toronto,Toronto,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002459,
+          "name": "Vaughan",
+          "canonical": "Vaughan,Vaughan,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002464,
+          "name": "Waterloo",
+          "canonical": "Waterloo,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047851,
+          "name": "Brant",
+          "canonical": "Brant,Brant,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047895,
+          "name": "Lambton Shores",
+          "canonical": "Lambton Shores,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        }
+      ],
+      "Neighborhood": [
+        {
+          "id": 1002186,
+          "name": "Bolton",
+          "canonical": "Bolton,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        },
+        {
+          "id": 1002392,
+          "name": "Port Elgin",
+          "canonical": "Port Elgin,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        }
+      ],
+      "Municipality": [
+        {
+          "id": 1002400,
+          "name": "Ramara",
+          "canonical": "Ramara,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        },
+        {
+          "id": 9105285,
+          "name": "Severn",
+          "canonical": "Severn,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        }
+      ],
+      "District": [
+        {
+          "id": 9218209,
+          "name": "Renfrew County",
+          "canonical": "Renfrew County,Ontario,Canada",
+          "type": "District",
+          "country": "CA"
+        }
+      ]
+    },
+    "total": 37,
+    "excluded": 4
+  },
+  "Search-Excavator-Core-Geos-US": {
+    "id": 23463978135,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 98
+  },
+  "Search-Forklift-Core-Geos-US": {
+    "id": 23474259539,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 0
+  },
+  "Search-Loader-Core-Geos-CA": {
+    "id": 23474406392,
+    "locations": {
+      "City": [
+        {
+          "id": 1001885,
+          "name": "Coquitlam",
+          "canonical": "Coquitlam,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1001931,
+          "name": "North Vancouver",
+          "canonical": "North Vancouver,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002168,
+          "name": "Aurora",
+          "canonical": "Aurora,Aurora,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002170,
+          "name": "Ayr",
+          "canonical": "Ayr,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002188,
+          "name": "Bowmanville",
+          "canonical": "Bowmanville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002191,
+          "name": "Brampton",
+          "canonical": "Brampton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002197,
+          "name": "Burlington",
+          "canonical": "Burlington,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002199,
+          "name": "Caledon",
+          "canonical": "Caledon,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002200,
+          "name": "Cambridge",
+          "canonical": "Cambridge,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002222,
+          "name": "Cobourg",
+          "canonical": "Cobourg,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002226,
+          "name": "Collingwood",
+          "canonical": "Collingwood,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002259,
+          "name": "Essex",
+          "canonical": "Essex,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002269,
+          "name": "Fort Erie",
+          "canonical": "Fort Erie,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002283,
+          "name": "Guelph",
+          "canonical": "Guelph,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002287,
+          "name": "Hamilton",
+          "canonical": "Hamilton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002298,
+          "name": "Innisfil",
+          "canonical": "Innisfil,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002310,
+          "name": "Kingston",
+          "canonical": "Kingston,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002312,
+          "name": "Kitchener",
+          "canonical": "Kitchener,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002325,
+          "name": "London",
+          "canonical": "London,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002334,
+          "name": "Markham",
+          "canonical": "Markham,Markham,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002347,
+          "name": "Milton",
+          "canonical": "Milton,Milton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002350,
+          "name": "Mississauga",
+          "canonical": "Mississauga,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002362,
+          "name": "Newmarket",
+          "canonical": "Newmarket,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002363,
+          "name": "Niagara Falls",
+          "canonical": "Niagara Falls,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002371,
+          "name": "Oakville",
+          "canonical": "Oakville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002376,
+          "name": "Ottawa",
+          "canonical": "Ottawa,Ottawa,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002428,
+          "name": "St. Catharines",
+          "canonical": "St. Catharines,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002451,
+          "name": "Toronto",
+          "canonical": "Toronto,Toronto,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002459,
+          "name": "Vaughan",
+          "canonical": "Vaughan,Vaughan,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002464,
+          "name": "Waterloo",
+          "canonical": "Waterloo,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047851,
+          "name": "Brant",
+          "canonical": "Brant,Brant,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047895,
+          "name": "Lambton Shores",
+          "canonical": "Lambton Shores,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        }
+      ],
+      "Neighborhood": [
+        {
+          "id": 1002186,
+          "name": "Bolton",
+          "canonical": "Bolton,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        },
+        {
+          "id": 1002392,
+          "name": "Port Elgin",
+          "canonical": "Port Elgin,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        }
+      ],
+      "Municipality": [
+        {
+          "id": 1002400,
+          "name": "Ramara",
+          "canonical": "Ramara,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        },
+        {
+          "id": 9105285,
+          "name": "Severn",
+          "canonical": "Severn,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        }
+      ],
+      "District": [
+        {
+          "id": 9218209,
+          "name": "Renfrew County",
+          "canonical": "Renfrew County,Ontario,Canada",
+          "type": "District",
+          "country": "CA"
+        }
+      ]
+    },
+    "total": 37,
+    "excluded": 4
+  },
+  "Search-Loader-Core-Geos-US": {
+    "id": 23474258597,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 0
+  },
+  "Search-Scissor-Lift-Core-Geos-CA": {
+    "id": 23479016824,
+    "locations": {
+      "City": [
+        {
+          "id": 1001885,
+          "name": "Coquitlam",
+          "canonical": "Coquitlam,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1001931,
+          "name": "North Vancouver",
+          "canonical": "North Vancouver,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002168,
+          "name": "Aurora",
+          "canonical": "Aurora,Aurora,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002170,
+          "name": "Ayr",
+          "canonical": "Ayr,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002188,
+          "name": "Bowmanville",
+          "canonical": "Bowmanville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002191,
+          "name": "Brampton",
+          "canonical": "Brampton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002197,
+          "name": "Burlington",
+          "canonical": "Burlington,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002199,
+          "name": "Caledon",
+          "canonical": "Caledon,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002200,
+          "name": "Cambridge",
+          "canonical": "Cambridge,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002222,
+          "name": "Cobourg",
+          "canonical": "Cobourg,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002226,
+          "name": "Collingwood",
+          "canonical": "Collingwood,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002259,
+          "name": "Essex",
+          "canonical": "Essex,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002269,
+          "name": "Fort Erie",
+          "canonical": "Fort Erie,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002283,
+          "name": "Guelph",
+          "canonical": "Guelph,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002287,
+          "name": "Hamilton",
+          "canonical": "Hamilton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002298,
+          "name": "Innisfil",
+          "canonical": "Innisfil,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002310,
+          "name": "Kingston",
+          "canonical": "Kingston,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002312,
+          "name": "Kitchener",
+          "canonical": "Kitchener,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002325,
+          "name": "London",
+          "canonical": "London,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002334,
+          "name": "Markham",
+          "canonical": "Markham,Markham,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002347,
+          "name": "Milton",
+          "canonical": "Milton,Milton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002350,
+          "name": "Mississauga",
+          "canonical": "Mississauga,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002362,
+          "name": "Newmarket",
+          "canonical": "Newmarket,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002363,
+          "name": "Niagara Falls",
+          "canonical": "Niagara Falls,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002371,
+          "name": "Oakville",
+          "canonical": "Oakville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002376,
+          "name": "Ottawa",
+          "canonical": "Ottawa,Ottawa,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002428,
+          "name": "St. Catharines",
+          "canonical": "St. Catharines,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002451,
+          "name": "Toronto",
+          "canonical": "Toronto,Toronto,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002459,
+          "name": "Vaughan",
+          "canonical": "Vaughan,Vaughan,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002464,
+          "name": "Waterloo",
+          "canonical": "Waterloo,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047851,
+          "name": "Brant",
+          "canonical": "Brant,Brant,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047895,
+          "name": "Lambton Shores",
+          "canonical": "Lambton Shores,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        }
+      ],
+      "Neighborhood": [
+        {
+          "id": 1002186,
+          "name": "Bolton",
+          "canonical": "Bolton,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        },
+        {
+          "id": 1002392,
+          "name": "Port Elgin",
+          "canonical": "Port Elgin,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        }
+      ],
+      "Municipality": [
+        {
+          "id": 1002400,
+          "name": "Ramara",
+          "canonical": "Ramara,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        },
+        {
+          "id": 9105285,
+          "name": "Severn",
+          "canonical": "Severn,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        }
+      ],
+      "District": [
+        {
+          "id": 9218209,
+          "name": "Renfrew County",
+          "canonical": "Renfrew County,Ontario,Canada",
+          "type": "District",
+          "country": "CA"
+        }
+      ]
+    },
+    "total": 37,
+    "excluded": 4
+  },
+  "Search-Scissor-Lift-Core-Geos-US": {
+    "id": 23469193560,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ],
+      "DMA Region": [
+        {
+          "id": 200501,
+          "name": "New York, NY",
+          "canonical": "New York, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200507,
+          "name": "Savannah, GA",
+          "canonical": "Savannah, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200514,
+          "name": "Buffalo, NY",
+          "canonical": "Buffalo, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200517,
+          "name": "Charlotte, NC",
+          "canonical": "Charlotte, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200518,
+          "name": "Greensboro-High Point-Winston Salem, NC",
+          "canonical": "Greensboro-High Point-Winston Salem, NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200519,
+          "name": "Charleston, SC",
+          "canonical": "Charleston, SC,South Carolina,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200524,
+          "name": "Atlanta, GA",
+          "canonical": "Atlanta, GA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200528,
+          "name": "Miami-Ft. Lauderdale, FL",
+          "canonical": "Miami-Ft. Lauderdale, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200531,
+          "name": "Tri-Cities, TN-VA",
+          "canonical": "Tri-Cities, TN-VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200532,
+          "name": "Albany-Schenectady-Troy, NY",
+          "canonical": "Albany-Schenectady-Troy, NY,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200534,
+          "name": "Orlando-Daytona Beach-Melbourne, FL",
+          "canonical": "Orlando-Daytona Beach-Melbourne, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200538,
+          "name": "Rochester, NY",
+          "canonical": "Rochester, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200539,
+          "name": "Tampa-St Petersburg (Sarasota), FL",
+          "canonical": "Tampa-St Petersburg (Sarasota), FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200544,
+          "name": "Norfolk-Portsmouth-Newport News, VA",
+          "canonical": "Norfolk-Portsmouth-Newport News, VA,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200548,
+          "name": "West Palm Beach-Ft. Pierce, FL",
+          "canonical": "West Palm Beach-Ft. Pierce, FL,Florida,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200555,
+          "name": "Syracuse, NY",
+          "canonical": "Syracuse, NY,New York,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200556,
+          "name": "Richmond-Petersburg, VA",
+          "canonical": "Richmond-Petersburg, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200557,
+          "name": "Knoxville, TN",
+          "canonical": "Knoxville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200560,
+          "name": "Raleigh-Durham (Fayetteville), NC",
+          "canonical": "Raleigh-Durham (Fayetteville), NC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200567,
+          "name": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC",
+          "canonical": "Greenville-Spartanburg, SC-Asheville, NC-Anderson, SC,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200584,
+          "name": "Charlottesville, VA",
+          "canonical": "Charlottesville, VA,Virginia,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200618,
+          "name": "Houston, TX",
+          "canonical": "Houston, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200623,
+          "name": "Dallas-Ft. Worth, TX",
+          "canonical": "Dallas-Ft. Worth, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200625,
+          "name": "Waco-Temple-Bryan, TX",
+          "canonical": "Waco-Temple-Bryan, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200635,
+          "name": "Austin, TX",
+          "canonical": "Austin, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200640,
+          "name": "Memphis, TN",
+          "canonical": "Memphis, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200641,
+          "name": "San Antonio, TX",
+          "canonical": "San Antonio, TX,Texas,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200659,
+          "name": "Nashville, TN",
+          "canonical": "Nashville, TN,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200803,
+          "name": "Los Angeles, CA",
+          "canonical": "Los Angeles, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        },
+        {
+          "id": 200825,
+          "name": "San Diego, CA",
+          "canonical": "San Diego, CA,California,United States",
+          "type": "DMA Region",
+          "country": "US"
+        }
+      ],
+      "City": [
+        {
+          "id": 1013462,
+          "name": "Phoenix",
+          "canonical": "Phoenix,Arizona,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013857,
+          "name": "Hesperia",
+          "canonical": "Hesperia,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1013954,
+          "name": "Loma Linda",
+          "canonical": "Loma Linda,California,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 1015339,
+          "name": "Elberton",
+          "canonical": "Elberton,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        },
+        {
+          "id": 9198538,
+          "name": "Stonecrest",
+          "canonical": "Stonecrest,Georgia,United States",
+          "type": "City",
+          "country": "US"
+        }
+      ],
+      "County": [
+        {
+          "id": 9057037,
+          "name": "Maricopa County",
+          "canonical": "Maricopa County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        },
+        {
+          "id": 9057040,
+          "name": "Pinal County",
+          "canonical": "Pinal County,Arizona,United States",
+          "type": "County",
+          "country": "US"
+        }
+      ],
+      "Region": [
+        {
+          "id": 9073451,
+          "name": "San Francisco Bay Area",
+          "canonical": "San Francisco Bay Area,California,United States",
+          "type": "Region",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 46,
+    "excluded": 0
+  },
+  "Search-Telehandler-Core-Geos-CA": {
+    "id": 23479017811,
+    "locations": {
+      "City": [
+        {
+          "id": 1001885,
+          "name": "Coquitlam",
+          "canonical": "Coquitlam,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1001931,
+          "name": "North Vancouver",
+          "canonical": "North Vancouver,British Columbia,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002168,
+          "name": "Aurora",
+          "canonical": "Aurora,Aurora,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002170,
+          "name": "Ayr",
+          "canonical": "Ayr,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002188,
+          "name": "Bowmanville",
+          "canonical": "Bowmanville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002191,
+          "name": "Brampton",
+          "canonical": "Brampton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002197,
+          "name": "Burlington",
+          "canonical": "Burlington,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002199,
+          "name": "Caledon",
+          "canonical": "Caledon,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002200,
+          "name": "Cambridge",
+          "canonical": "Cambridge,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002222,
+          "name": "Cobourg",
+          "canonical": "Cobourg,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002226,
+          "name": "Collingwood",
+          "canonical": "Collingwood,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002259,
+          "name": "Essex",
+          "canonical": "Essex,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002269,
+          "name": "Fort Erie",
+          "canonical": "Fort Erie,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002283,
+          "name": "Guelph",
+          "canonical": "Guelph,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002287,
+          "name": "Hamilton",
+          "canonical": "Hamilton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002298,
+          "name": "Innisfil",
+          "canonical": "Innisfil,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002310,
+          "name": "Kingston",
+          "canonical": "Kingston,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002312,
+          "name": "Kitchener",
+          "canonical": "Kitchener,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002325,
+          "name": "London",
+          "canonical": "London,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002334,
+          "name": "Markham",
+          "canonical": "Markham,Markham,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002347,
+          "name": "Milton",
+          "canonical": "Milton,Milton,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002350,
+          "name": "Mississauga",
+          "canonical": "Mississauga,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002362,
+          "name": "Newmarket",
+          "canonical": "Newmarket,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002363,
+          "name": "Niagara Falls",
+          "canonical": "Niagara Falls,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002371,
+          "name": "Oakville",
+          "canonical": "Oakville,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002376,
+          "name": "Ottawa",
+          "canonical": "Ottawa,Ottawa,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002428,
+          "name": "St. Catharines",
+          "canonical": "St. Catharines,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002451,
+          "name": "Toronto",
+          "canonical": "Toronto,Toronto,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002459,
+          "name": "Vaughan",
+          "canonical": "Vaughan,Vaughan,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 1002464,
+          "name": "Waterloo",
+          "canonical": "Waterloo,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047851,
+          "name": "Brant",
+          "canonical": "Brant,Brant,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        },
+        {
+          "id": 9047895,
+          "name": "Lambton Shores",
+          "canonical": "Lambton Shores,Ontario,Canada",
+          "type": "City",
+          "country": "CA"
+        }
+      ],
+      "Neighborhood": [
+        {
+          "id": 1002186,
+          "name": "Bolton",
+          "canonical": "Bolton,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        },
+        {
+          "id": 1002392,
+          "name": "Port Elgin",
+          "canonical": "Port Elgin,Ontario,Canada",
+          "type": "Neighborhood",
+          "country": "CA"
+        }
+      ],
+      "Municipality": [
+        {
+          "id": 1002400,
+          "name": "Ramara",
+          "canonical": "Ramara,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        },
+        {
+          "id": 9105285,
+          "name": "Severn",
+          "canonical": "Severn,Ontario,Canada",
+          "type": "Municipality",
+          "country": "CA"
+        }
+      ],
+      "District": [
+        {
+          "id": 9218209,
+          "name": "Renfrew County",
+          "canonical": "Renfrew County,Ontario,Canada",
+          "type": "District",
+          "country": "CA"
+        }
+      ]
+    },
+    "total": 37,
+    "excluded": 4
+  },
+  "Search-Telehandler-Core-Geos-US": {
+    "id": 23478855283,
+    "locations": {
+      "State": [
+        {
+          "id": 21136,
+          "name": "Arizona",
+          "canonical": "Arizona,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21137,
+          "name": "California",
+          "canonical": "California,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21139,
+          "name": "Connecticut",
+          "canonical": "Connecticut,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21142,
+          "name": "Florida",
+          "canonical": "Florida,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21143,
+          "name": "Georgia",
+          "canonical": "Georgia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21146,
+          "name": "Idaho",
+          "canonical": "Idaho,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21147,
+          "name": "Illinois",
+          "canonical": "Illinois,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21160,
+          "name": "North Carolina",
+          "canonical": "North Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21161,
+          "name": "North Dakota",
+          "canonical": "North Dakota,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21163,
+          "name": "New Hampshire",
+          "canonical": "New Hampshire,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21167,
+          "name": "New York",
+          "canonical": "New York,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21168,
+          "name": "Ohio",
+          "canonical": "Ohio,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21170,
+          "name": "Oregon",
+          "canonical": "Oregon,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21171,
+          "name": "Pennsylvania",
+          "canonical": "Pennsylvania,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21173,
+          "name": "South Carolina",
+          "canonical": "South Carolina,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21175,
+          "name": "Tennessee",
+          "canonical": "Tennessee,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21176,
+          "name": "Texas",
+          "canonical": "Texas,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21178,
+          "name": "Virginia",
+          "canonical": "Virginia,United States",
+          "type": "State",
+          "country": "US"
+        },
+        {
+          "id": 21179,
+          "name": "Vermont",
+          "canonical": "Vermont,United States",
+          "type": "State",
+          "country": "US"
+        }
+      ]
+    },
+    "total": 19,
+    "excluded": 0
+  }
+}

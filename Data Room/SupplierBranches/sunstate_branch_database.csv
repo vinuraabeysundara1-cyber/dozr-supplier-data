@@ -1,0 +1,18 @@
+Branch Name,Full Address,City,State,Zip,Phone,Services,Status,Source
+Greensboro,105 South Swing Road,Greensboro,NC,27409,336-234-1113,General Rental,NEW - ADD TO OMS,Website
+Conroe,661 Frazier Commerce Drive,Conroe,TX,77303,936-504-3372,General Rental,NEW - ADD TO OMS,Website
+La Porte,4462 Genoa Red Bluff Road,Pasadena,TX,77059,713-424-7001,General Rental + Industrial Solutions,NEW - ADD TO OMS,Website
+Rosenberg,3940 Reese Road,Rosenberg,TX,77471,346-515-4010,General Rental,NEW - ADD TO OMS,Website
+
+SUMMARY
+OMS Branches,84
+Website Branches,109
+New Branches Found,4
+Trench Specialty Locations,~25
+States Covered,16
+New States Found,0
+
+NOTES
+"Baton Rouge LA on website = Saint Gabriel LA in OMS (same address)"
+"25+ Trench Safety specialty locations exist but may serve same areas as main branches"
+"No new states discovered - Sunstate operates in same 16 states as OMS shows"

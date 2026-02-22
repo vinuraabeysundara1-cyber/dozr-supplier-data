@@ -1,0 +1,37 @@
+{
+  "supplier": "Sunbelt Rentals",
+  "website": "https://www.sunbeltrentals.com/location/",
+  "capture_date": "2026-02-19",
+  "status": "PARTIAL - Website experiencing errors during capture",
+  "summary": {
+    "oms_branch_count": 707,
+    "oms_enabled_count": 0,
+    "oms_states_covered": 49,
+    "missing_states_in_oms": ["AK", "VT"],
+    "website_status": "Location page errors persist",
+    "website_total_from_web_search": 1260,
+    "website_source": "ScrapeHero (Jan 2026)",
+    "top_state": "Texas with 146 locations (11% of total)"
+  },
+  "observations_before_error": {
+    "location_types": ["General Equipment & Tools", "Climate Control Services", "Pump Solutions", "Power & HVAC Services", "Industrial Services"],
+    "marker_types": {
+      "green": "General Tools & Equipment (RELEVANT)",
+      "yellow": "Specialty services"
+    },
+    "sample_branches_seen": [
+      {"branch": 555, "address": "3805 Lamar St, Houston, TX 77023", "type": "General Equipment & Tools"},
+      {"branch": 462, "address": "5937 South Loop E, Houston, TX 77033", "type": "Climate Control Services"},
+      {"branch": 1015, "address": "10250 La Porte Fwy, Houston, TX 77017", "type": "Pump Solutions"},
+      {"branch": 231, "address": "320 Richey St, Pasadena, TX 77506", "type": "General"},
+      {"branch": 147, "address": "330 Richey St, Pasadena, TX 77506", "type": "Power & HVAC"}
+    ]
+  },
+  "task_notes": [
+    "OMS already has excellent coverage with 707 branches across 49 states",
+    "Only missing AK and VT from OMS",
+    "Website showed many locations but exact count unavailable due to errors",
+    "Focus should be on enabling the 707 existing branches (currently 0 enabled)",
+    "Recommend retry of full capture when website is stable"
+  ]
+}

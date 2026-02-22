@@ -1,0 +1,1135 @@
+====================================================================================================
+  DOZR GOOGLE ADS — FULL CONVERSION ACTION TECHNICAL AUDIT
+  Customer ID: 8531896842
+====================================================================================================
+
+CONVERSION ACTION TYPE                             COUNT
+---------------------------------------------------------
+AD_CALL                                                1
+CLICK_TO_CALL                                          1
+GOOGLE_ANALYTICS_4_CUSTOM                              8
+GOOGLE_ANALYTICS_4_PURCHASE                            1
+UPLOAD_CLICKS                                          4
+WEBSITE_CALL                                           6
+---------------------------------------------------------
+TOTAL                                                 21
+
+
+
+####################################################################################################
+##  TYPE: AD_CALL  (1 conversion action)
+####################################################################################################
+
+  HOW IT WORKS: Calls from ads — tracks calls made directly from call extensions or call-only ads
+
+----------------------------------------------------------------------------------------------------
+  [1/1]  Calls from ads
+----------------------------------------------------------------------------------------------------
+  ID:                                          7396209491
+  Name:                                        Calls from ads
+  Type:                                        AD_CALL
+  Origin:                                      CALL_FROM_ADS
+    -> Meaning:                                Auto-created by Google Ads for call extensions
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      ENABLED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+  Tag Snippets:                                (none)
+
+
+
+####################################################################################################
+##  TYPE: CLICK_TO_CALL  (1 conversion action)
+####################################################################################################
+
+  HOW IT WORKS: Click-to-call — tracks when someone clicks a phone number on mobile
+
+----------------------------------------------------------------------------------------------------
+  [1/1]  Click to call
+----------------------------------------------------------------------------------------------------
+  ID:                                          7405985996
+  Name:                                        Click to call
+  Type:                                        CLICK_TO_CALL
+  Origin:                                      CALL_FROM_ADS
+    -> Meaning:                                Auto-created by Google Ads for call extensions
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <!-- Event snippet for Click to call conversion page
+      In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+      <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-17759399880/1cRyCMzBucsbEMjfq5RC',
+            'value': 1.0,
+            'currency': 'CAD',
+            'event_callback': callback
+        });
+        return false;
+      }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: AMP
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <amp-analytics type="gtag" data-credentials="include">
+      <script type="application/json">
+      {
+        "vars": {
+          "gtag_id": "AW-940431381",
+          "config": {
+            "AW-940431381": {
+              "groups": "default"
+            }
+          }
+        },
+        "triggers": {
+        }
+      }
+      </script>
+      </amp-analytics>
+    Event Snippet:
+      "C_mp7GtYYfsMI": {
+        "on": "click",
+        "selector": "CSS_SELECTOR",
+        "vars": {
+          "event_name": "conversion",
+          "value": 1.0,
+          "currency": "CAD",
+          "send_to": ["AW-17759399880/1cRyCMzBucsbEMjfq5RC"]
+        }
+      }
+
+
+
+
+####################################################################################################
+##  TYPE: GOOGLE_ANALYTICS_4_CUSTOM  (8 conversion actions)
+####################################################################################################
+
+  HOW IT WORKS: Imported from GA4 (custom event) — a GA4 event imported into Google Ads as a conversion
+
+----------------------------------------------------------------------------------------------------
+  [1/8]  Dozr - Production - GA4 (web) add_to_cart
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184207
+  Name:                                        Dozr - Production - GA4 (web) add_to_cart
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    ADD_TO_CART
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'add_to_cart', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'add_to_cart', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [2/8]  Dozr - Production - GA4 (web) book_by_phone
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184210
+  Name:                                        Dozr - Production - GA4 (web) book_by_phone
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    BOOK_APPOINTMENT
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'book_by_phone', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'book_by_phone', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [3/8]  Dozr - Production - GA4 (web) navbar_phone_click
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184213
+  Name:                                        Dozr - Production - GA4 (web) navbar_phone_click
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'navbar_phone_click', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'navbar_phone_click', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [4/8]  Dozr - Production - GA4 (web) order_reserved_by_admin
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184216
+  Name:                                        Dozr - Production - GA4 (web) order_reserved_by_admin
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PURCHASE
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'order_reserved_by_admin', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'order_reserved_by_admin', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [5/8]  Dozr - Production - GA4 (web) order_assisted_by_admin
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184219
+  Name:                                        Dozr - Production - GA4 (web) order_assisted_by_admin
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PURCHASE
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'order_assisted_by_admin', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'order_assisted_by_admin', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [6/8]  Dozr - Production - GA4 (web) add_address
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184222
+  Name:                                        Dozr - Production - GA4 (web) add_address
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    ADD_TO_CART
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'add_address', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'add_address', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [7/8]  Dozr - Production - GA4 (web) add_contact_info
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184225
+  Name:                                        Dozr - Production - GA4 (web) add_contact_info
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    ADD_TO_CART
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'add_contact_info', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'add_contact_info', {
+          // <event_parameters>
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [8/8]  Dozr - Production - GA4 (web) add_payment_method
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184228
+  Name:                                        Dozr - Production - GA4 (web) add_payment_method
+  Type:                                        GOOGLE_ANALYTICS_4_CUSTOM
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PURCHASE
+  Status:                                      HIDDEN
+  Primary for Goal:                            False
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'add_payment_method', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'add_payment_method', {
+          // <event_parameters>
+        });
+      </script>
+
+
+
+
+####################################################################################################
+##  TYPE: GOOGLE_ANALYTICS_4_PURCHASE  (1 conversion action)
+####################################################################################################
+
+  HOW IT WORKS: Imported from GA4 (purchase event) — GA4 purchase/ecommerce event imported into Google Ads
+
+----------------------------------------------------------------------------------------------------
+  [1/1]  Purchase (Google Analytics event purchase)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7400184204
+  Name:                                        Purchase (Google Analytics event purchase)
+  Type:                                        GOOGLE_ANALYTICS_4_PURCHASE
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PURCHASE
+  Status:                                      ENABLED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           UNKNOWN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBPAGE_ONCLICK
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event - delayed navigation helper -->
+      <script>
+        // Helper function to delay opening a URL until a gtag event is sent.
+        // Call it in response to an action that should navigate to a URL.
+        function gtagSendEvent(url) {
+          var callback = function () {
+            if (typeof url === 'string') {
+              window.location = url;
+            }
+          };
+          gtag('event', 'purchase', {
+            'event_callback': callback,
+            'event_timeout': 2000,
+            // <event_parameters>
+          });
+          return false;
+        }
+      </script>
+
+    --- Snippet 2 ---
+    Tag Type:    WEBPAGE
+    Page Format: HTML
+    Event Snippet:
+      <!-- Google tag (gtag.js) event -->
+      <script>
+        gtag('event', 'purchase', {
+          // <event_parameters>
+        });
+      </script>
+
+
+
+
+####################################################################################################
+##  TYPE: UPLOAD_CLICKS  (4 conversion actions)
+####################################################################################################
+
+  HOW IT WORKS: Offline conversion upload via GCLID matching — conversions happen offline and are uploaded back to Google Ads
+
+----------------------------------------------------------------------------------------------------
+  [1/4]  Closed Won Deals From AdWords Caller May 2025
+----------------------------------------------------------------------------------------------------
+  ID:                                          7403175332
+  Name:                                        Closed Won Deals From AdWords Caller May 2025
+  Type:                                        UPLOAD_CLICKS
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    CONVERTED_LEAD
+  Status:                                      ENABLED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1700.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+  Tag Snippets:                                (none)
+
+----------------------------------------------------------------------------------------------------
+  [2/4]  AdWords Caller requested a quote May 2025
+----------------------------------------------------------------------------------------------------
+  ID:                                          7403250466
+  Name:                                        AdWords Caller requested a quote May 2025
+  Type:                                        UPLOAD_CLICKS
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    REQUEST_QUOTE
+  Status:                                      ENABLED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    540.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+  Tag Snippets:                                (none)
+
+----------------------------------------------------------------------------------------------------
+  [3/4]  AdWords Qualified Calls May 2025
+----------------------------------------------------------------------------------------------------
+  ID:                                          7403409773
+  Name:                                        AdWords Qualified Calls May 2025
+  Type:                                        UPLOAD_CLICKS
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    QUALIFIED_LEAD
+  Status:                                      ENABLED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    50.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+  Tag Snippets:                                (none)
+
+----------------------------------------------------------------------------------------------------
+  [4/4]  Phone Call
+----------------------------------------------------------------------------------------------------
+  ID:                                          7405908410
+  Name:                                        Phone Call
+  Type:                                        UPLOAD_CLICKS
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    CONTACT
+  Status:                                      ENABLED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               MANY_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                1 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    False
+  Phone Call Duration Threshold:               60 seconds
+  Tag Snippets:                                (none)
+
+
+
+####################################################################################################
+##  TYPE: WEBSITE_CALL  (6 conversion actions)
+####################################################################################################
+
+  HOW IT WORKS: Website call — tracks calls from a Google forwarding number displayed on your website
+
+----------------------------------------------------------------------------------------------------
+  [1/6]  Calls from Website (1-833-774-6320)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7405887577
+  Name:                                        Calls from Website (1-833-774-6320)
+  Type:                                        WEBSITE_CALL
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             False
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    50.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBSITE_CALL
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <script>
+        gtag('config', 'AW-17759399880/I0F-CNnAs8sbEMjfq5RC', {
+          'phone_conversion_number': '1-833-774-6320'
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [2/6]  Call (1-833-774-6320) (2)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7405988108
+  Name:                                        Call (1-833-774-6320) (2)
+  Type:                                        WEBSITE_CALL
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBSITE_CALL
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <script>
+        gtag('config', 'AW-17759399880/NQsgCIzSucsbEMjfq5RC', {
+          'phone_conversion_number': '1-833-774-6320'
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [3/6]  Call (1-833-774-6320)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7406044068
+  Name:                                        Call (1-833-774-6320)
+  Type:                                        WEBSITE_CALL
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBSITE_CALL
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <script>
+        gtag('config', 'AW-17759399880/CHWtCKSHvcsbEMjfq5RC', {
+          'phone_conversion_number': '1-833-774-6320'
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [4/6]  Call (1-833-774-6320) (1)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7406107155
+  Name:                                        Call (1-833-774-6320) (1)
+  Type:                                        WEBSITE_CALL
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBSITE_CALL
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <script>
+        gtag('config', 'AW-17759399880/Av1ECJP0wMsbEMjfq5RC', {
+          'phone_conversion_number': '1-833-774-6320'
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [5/6]  Call (1-833-774-6320) (3)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7406121249
+  Name:                                        Call (1-833-774-6320) (3)
+  Type:                                        WEBSITE_CALL
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBSITE_CALL
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <script>
+        gtag('config', 'AW-17759399880/_PEZCKHiwcsbEMjfq5RC', {
+          'phone_conversion_number': '1-833-774-6320'
+        });
+      </script>
+
+
+----------------------------------------------------------------------------------------------------
+  [6/6]  Call (1-833-774-6320) (4)
+----------------------------------------------------------------------------------------------------
+  ID:                                          7406123997
+  Name:                                        Call (1-833-774-6320) (4)
+  Type:                                        WEBSITE_CALL
+  Origin:                                      WEBSITE
+    -> Meaning:                                Created for website-based tracking
+  Category:                                    PHONE_CALL_LEAD
+  Status:                                      REMOVED
+  Primary for Goal:                            True
+  Include in 'Conversions' Metric:             True
+  Counting Type:                               ONE_PER_CLICK
+  Attribution Model:                           GOOGLE_SEARCH_ATTRIBUTION_DATA_DRIVEN
+  Data-Driven Model Status:                    AVAILABLE
+  Click-Through Lookback Window:               30 days
+  View-Through Lookback Window:                30 days
+  Default Conversion Value:                    1.0
+  Always Use Default Value:                    True
+  Phone Call Duration Threshold:               60 seconds
+
+  TAG SNIPPETS:
+    --- Snippet 1 ---
+    Tag Type:    WEBSITE_CALL
+    Page Format: HTML
+    Global Site Tag:
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-940431381"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'AW-940431381');
+      </script>
+    Event Snippet:
+      <script>
+        gtag('config', 'AW-17759399880/Qx8tCN33wcsbEMjfq5RC', {
+          'phone_conversion_number': '1-833-774-6320'
+        });
+      </script>
+
+
+
+
+====================================================================================================
+  GA4-LINKED CONVERSION ACTIONS (Filtered Query)
+====================================================================================================
+
+  Found 9 GA4-linked conversion action(s):
+
+  1. Purchase (Google Analytics event purchase) (ID: 7400184204)
+     Type:   GOOGLE_ANALYTICS_4_PURCHASE
+     Origin: WEBSITE
+
+  2. Dozr - Production - GA4 (web) add_to_cart (ID: 7400184207)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  3. Dozr - Production - GA4 (web) book_by_phone (ID: 7400184210)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  4. Dozr - Production - GA4 (web) navbar_phone_click (ID: 7400184213)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  5. Dozr - Production - GA4 (web) order_reserved_by_admin (ID: 7400184216)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  6. Dozr - Production - GA4 (web) order_assisted_by_admin (ID: 7400184219)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  7. Dozr - Production - GA4 (web) add_address (ID: 7400184222)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  8. Dozr - Production - GA4 (web) add_contact_info (ID: 7400184225)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+  9. Dozr - Production - GA4 (web) add_payment_method (ID: 7400184228)
+     Type:   GOOGLE_ANALYTICS_4_CUSTOM
+     Origin: WEBSITE
+
+
+
+====================================================================================================
+  SUMMARY: ACTIONS INCLUDED IN 'CONVERSIONS' BIDDING COLUMN
+====================================================================================================
+
+  INCLUDED in Conversions column (these drive bidding) - 6 actions:
+
+    [PRIMARY  ] [AD_CALL                            ] Calls from ads (ID: 7396209491)
+    [PRIMARY  ] [GOOGLE_ANALYTICS_4_PURCHASE        ] Purchase (Google Analytics event purchase) (ID: 7400184204)
+    [PRIMARY  ] [UPLOAD_CLICKS                      ] Closed Won Deals From AdWords Caller May 2025 (ID: 7403175332)
+    [PRIMARY  ] [UPLOAD_CLICKS                      ] AdWords Caller requested a quote May 2025 (ID: 7403250466)
+    [PRIMARY  ] [UPLOAD_CLICKS                      ] AdWords Qualified Calls May 2025 (ID: 7403409773)
+    [PRIMARY  ] [UPLOAD_CLICKS                      ] Phone Call (ID: 7405908410)
+
+  NOT INCLUDED (observe only, do not drive bidding) - 0 actions:
+
+
+  REMOVED/HIDDEN - 15 actions:
+
+    [REMOVED] [WEBSITE_CALL] Calls from Website (1-833-774-6320) (ID: 7405887577)
+    [REMOVED] [CLICK_TO_CALL] Click to call (ID: 7405985996)
+    [REMOVED] [WEBSITE_CALL] Call (1-833-774-6320) (2) (ID: 7405988108)
+    [REMOVED] [WEBSITE_CALL] Call (1-833-774-6320) (ID: 7406044068)
+    [REMOVED] [WEBSITE_CALL] Call (1-833-774-6320) (1) (ID: 7406107155)
+    [REMOVED] [WEBSITE_CALL] Call (1-833-774-6320) (3) (ID: 7406121249)
+    [REMOVED] [WEBSITE_CALL] Call (1-833-774-6320) (4) (ID: 7406123997)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) add_to_cart (ID: 7400184207)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) book_by_phone (ID: 7400184210)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) navbar_phone_click (ID: 7400184213)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) order_reserved_by_admin (ID: 7400184216)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) order_assisted_by_admin (ID: 7400184219)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) add_address (ID: 7400184222)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) add_contact_info (ID: 7400184225)
+    [HIDDEN] [GOOGLE_ANALYTICS_4_CUSTOM] Dozr - Production - GA4 (web) add_payment_method (ID: 7400184228)
+
+
+====================================================================================================
+  SUMMARY: PRIMARY vs SECONDARY GOAL ACTIONS (ENABLED ONLY)
+====================================================================================================
+
+  PRIMARY GOAL ACTIONS (6) — these drive Smart Bidding:
+
+    [AD_CALL] [IN conversions] Calls from ads (ID: 7396209491)
+    [GOOGLE_ANALYTICS_4_PURCHASE] [IN conversions] Purchase (Google Analytics event purchase) (ID: 7400184204)
+    [UPLOAD_CLICKS] [IN conversions] Closed Won Deals From AdWords Caller May 2025 (ID: 7403175332)
+    [UPLOAD_CLICKS] [IN conversions] AdWords Caller requested a quote May 2025 (ID: 7403250466)
+    [UPLOAD_CLICKS] [IN conversions] AdWords Qualified Calls May 2025 (ID: 7403409773)
+    [UPLOAD_CLICKS] [IN conversions] Phone Call (ID: 7405908410)
+
+  SECONDARY GOAL ACTIONS (0) — observation only:
+
+
+====================================================================================================
+  REPORT SAVED TO: /Users/vinuraabeysundara/dozr_conversion_actions_report.txt
+  END OF REPORT
+====================================================================================================

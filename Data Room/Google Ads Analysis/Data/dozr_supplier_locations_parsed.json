@@ -1,0 +1,1227 @@
+{
+  "total_locations": 142,
+  "by_state": {
+    "NS": [
+      "Coxheath"
+    ],
+    "GA": [
+      "Buckhead (Atlanta)",
+      "Loganville",
+      "Augusta",
+      "Atlanta"
+    ],
+    "FL": [
+      "Clearwater",
+      "West Palm Beach",
+      "Palmetto",
+      "Altamonte Springs",
+      "Fort Lauderdale",
+      "Naples",
+      "Miami",
+      "Medley, Fl",
+      "Jacksonville",
+      "Deerfield",
+      "Plant City",
+      "Lakeland",
+      "Delray Beach"
+    ],
+    "CO": [
+      "Littleton"
+    ],
+    "NJ": [
+      "North Plainfield",
+      "Hillside",
+      "Fairfield"
+    ],
+    "IL": [
+      "Naperville",
+      "Cary"
+    ],
+    "AR": [
+      "Russellville",
+      "Springdale"
+    ],
+    "TX": [
+      "Conroe",
+      "El Paso",
+      "Dallas",
+      "Houston",
+      "Haltom City",
+      "Beaumont",
+      "Odessa",
+      "McAllen",
+      "Rockwall",
+      "Cypress",
+      "Dallas Fort Worth",
+      "Ponder",
+      "Terrell",
+      "Grande Prairie",
+      "Caldwell",
+      "Midland",
+      "Tyler",
+      "Abilene",
+      "Austin",
+      "San Angelo"
+    ],
+    "ON": [
+      "Brampton",
+      "Barrie",
+      "Vaughan",
+      "Caledon East",
+      "Ottawa",
+      "Cambridge",
+      "Thorold",
+      "Brantford",
+      "New Tecumseth",
+      "Burlington",
+      "Toronto",
+      "Woodbridge",
+      "Hamilton",
+      "Wallenstein"
+    ],
+    "NC": [
+      "Charlotte",
+      "Raleigh"
+    ],
+    "NV": [
+      "Las Vegas"
+    ],
+    "AL": [
+      "Huntsville (North)",
+      "Dothan",
+      "Birmingham"
+    ],
+    "ME": [
+      "Alfred",
+      "Auburn"
+    ],
+    "AZ": [
+      "Apache Junction",
+      "Phoenix",
+      "Tolleson",
+      "Lake Havau City"
+    ],
+    "OK": [
+      "Oklahoma City"
+    ],
+    "PA": [
+      "Mechanicsburg",
+      "CORAOPOLIS",
+      "Monroe",
+      "Horsham"
+    ],
+    "VA": [
+      "Richmond",
+      "Sterling",
+      "Sutherlin",
+      "Wytheville"
+    ],
+    "KS": [
+      "Kansas City"
+    ],
+    "SC": [
+      "Conway",
+      "Orangeburg",
+      "Sumter",
+      "Charleston"
+    ],
+    "CA": [
+      "Ukiah",
+      "Lancaster",
+      "Signal Hill",
+      "Carpinteria",
+      "San Bernardino",
+      "Colton",
+      "Redwood City",
+      "Visalia",
+      "Castaic",
+      "Orangevale",
+      "San Rafael",
+      "Bell Gardens",
+      "Inglewood",
+      "Santa Rosa",
+      "Industry"
+    ],
+    "CT": [
+      "Hamden",
+      "South Windsor",
+      "North Haven"
+    ],
+    "NY": [
+      "New York",
+      "New Windsor",
+      "Bronx",
+      "East Syracuse",
+      "Mount Vernon"
+    ],
+    "IN": [
+      "Indianapolis"
+    ],
+    "MT": [
+      "East Side Great Falls"
+    ],
+    "MD": [
+      "Frederick",
+      "Sykesville",
+      "Baltimore"
+    ],
+    "KY": [
+      "Richmond",
+      "Louisville"
+    ],
+    "MN": [
+      "Brooklyn Park",
+      "Bloomington",
+      "Maple Plain"
+    ],
+    "ID": [
+      "Meridian"
+    ],
+    "TN": [
+      "Johnson City",
+      "Murfreesboro"
+    ],
+    "OH": [
+      "Sharonville",
+      "Massillon",
+      "Perry"
+    ],
+    "MI": [
+      "Rochester Hills",
+      "Alma",
+      "New Hudson (West Detroit)",
+      "Canton"
+    ],
+    "OR": [
+      "Lebanon"
+    ],
+    "WA": [
+      "Moses Lake"
+    ],
+    "AB": [
+      "Edmonton",
+      "Calgary"
+    ],
+    "LA": [
+      "St Rose"
+    ],
+    "MA": [
+      "Rehoboth",
+      "Fitchburg"
+    ],
+    "DE": [
+      "Wilmington"
+    ],
+    "MO": [
+      "Oak Grove",
+      "Maryland Heights"
+    ],
+    "MB": [
+      "Winnipeg"
+    ],
+    "WI": [
+      "Butler"
+    ],
+    "BC": [
+      "Vancouver"
+    ]
+  },
+  "by_city": {
+    "Coxheath, NS": 1,
+    "Atlanta, GA": 1,
+    "Clearwater, FL": 1,
+    "Littleton, CO": 1,
+    "Hillside, NJ": 1,
+    "Palmetto, FL": 1,
+    "Naperville, IL": 1,
+    "Springdale, AR": 1,
+    "Cypress, TX": 1,
+    "Brantford, ON": 1,
+    "Raleigh, NC": 1,
+    "Las Vegas, NV": 1,
+    "El Paso, TX": 1,
+    "Augusta, GA": 1,
+    "Dothan, AL": 1,
+    "Alfred, ME": 1,
+    "Thorold, ON": 1,
+    "Apache Junction, AZ": 1,
+    "Tolleson, AZ": 1,
+    "Rockwall, TX": 1,
+    "Oklahoma City, OK": 1,
+    "CORAOPOLIS, PA": 1,
+    "Richmond, VA": 1,
+    "Fort Lauderdale, FL": 1,
+    "Woodbridge, ON": 1,
+    "Houston, TX": 1,
+    "Kansas City, KS": 1,
+    "Caldwell, TX": 1,
+    "Lakeland, FL": 1,
+    "Mechanicsburg, PA": 1,
+    "Conway, SC": 1,
+    "Inglewood, CA": 1,
+    "North Haven, CT": 1,
+    "New Windsor, NY": 1,
+    "Austin, TX": 1,
+    "Industry, CA": 1,
+    "Indianapolis, IN": 1,
+    "Cambridge, ON": 1,
+    "East Side Great Falls, MT": 1,
+    "Sykesville, MD": 1,
+    "Richmond, KY": 1,
+    "Bronx, NY": 1,
+    "Bloomington, MN": 1,
+    "Orangeburg, SC": 1,
+    "Abilene, TX": 1,
+    "Meridian, ID": 1,
+    "Buckhead (Atlanta), GA": 1,
+    "Jacksonville, FL": 1,
+    "Cary, IL": 1,
+    "East Syracuse, NY": 1,
+    "Colton, CA": 1,
+    "Murfreesboro, TN": 1,
+    "Johnson City, TN": 1,
+    "Massillon, OH": 1,
+    "Horsham, PA": 1,
+    "Haltom City, TX": 1,
+    "Plant City, FL": 1,
+    "Russellville, AR": 1,
+    "New Tecumseth, ON": 1,
+    "Charleston, SC": 1,
+    "Caledon East, ON": 1,
+    "San Bernardino, CA": 1,
+    "North Plainfield, NJ": 1,
+    "San Rafael, CA": 1,
+    "Rochester Hills, MI": 1,
+    "Sutherlin, VA": 1,
+    "Lebanon, OR": 1,
+    "Santa Rosa, CA": 1,
+    "Moses Lake, WA": 1,
+    "Calgary, AB": 1,
+    "Barrie, ON": 1,
+    "Beaumont, TX": 1,
+    "Sharonville, OH": 1,
+    "St Rose, LA": 1,
+    "Brampton, ON": 1,
+    "Perry, OH": 1,
+    "Wytheville, VA": 1,
+    "Fitchburg, MA": 1,
+    "Lancaster, CA": 1,
+    "Ukiah, CA": 1,
+    "Fairfield, NJ": 1,
+    "Wilmington, DE": 1,
+    "Naples, FL": 1,
+    "Wallenstein, ON": 1,
+    "Grande Prairie, TX": 1,
+    "Signal Hill, CA": 1,
+    "Toronto, ON": 1,
+    "McAllen, TX": 1,
+    "Rehoboth, MA": 1,
+    "Mount Vernon, NY": 1,
+    "Conroe, TX": 1,
+    "Sterling, VA": 1,
+    "Bell Gardens, CA": 1,
+    "Alma, MI": 1,
+    "Maple Plain, MN": 1,
+    "Deerfield, FL": 1,
+    "Louisville, KY": 1,
+    "Huntsville (North), AL": 1,
+    "Ponder, TX": 1,
+    "Miami, FL": 1,
+    "Vaughan, ON": 1,
+    "Orangevale, CA": 1,
+    "Brooklyn Park, MN": 1,
+    "Charlotte, NC": 1,
+    "Burlington, ON": 1,
+    "Oak Grove, MO": 1,
+    "Maryland Heights, MO": 1,
+    "Terrell, TX": 1,
+    "Altamonte Springs, FL": 1,
+    "Auburn, ME": 1,
+    "Baltimore, MD": 1,
+    "Midland, TX": 1,
+    "Dallas, TX": 1,
+    "Winnipeg, MB": 1,
+    "Monroe, PA": 1,
+    "Hamilton, ON": 1,
+    "Birmingham, AL": 1,
+    "Phoenix, AZ": 1,
+    "Butler, WI": 1,
+    "Dallas Fort Worth, TX": 1,
+    "Loganville, GA": 1,
+    "Sumter, SC": 1,
+    "Lake Havau City, AZ": 1,
+    "Redwood City, CA": 1,
+    "Canton, MI": 1,
+    "New Hudson (West Detroit), MI": 1,
+    "South Windsor, CT": 1,
+    "Edmonton, AB": 1,
+    "Carpinteria, CA": 1,
+    "Castaic, CA": 1,
+    "Odessa, TX": 1,
+    "Frederick, MD": 1,
+    "Hamden, CT": 1,
+    "Delray Beach, FL": 1,
+    "Vancouver, BC": 1,
+    "Ottawa, ON": 1,
+    "New York, NY": 1,
+    "Visalia, CA": 1,
+    "Tyler, TX": 1,
+    "San Angelo, TX": 1,
+    "Medley, Fl, FL": 1,
+    "West Palm Beach, FL": 1
+  },
+  "locations": [
+    {
+      "city": "Coxheath",
+      "state": "NS",
+      "country": "CA",
+      "raw": "Coxheath, NS"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "raw": "Atlanta, GA"
+    },
+    {
+      "city": "Clearwater",
+      "state": "FL",
+      "country": "US",
+      "raw": "Clearwater, FL"
+    },
+    {
+      "city": "Littleton",
+      "state": "CO",
+      "country": "US",
+      "raw": "Littleton, CO"
+    },
+    {
+      "city": "Hillside",
+      "state": "NJ",
+      "country": "US",
+      "raw": "Hillside, NJ"
+    },
+    {
+      "city": "Palmetto",
+      "state": "FL",
+      "country": "US",
+      "raw": "Palmetto, FL"
+    },
+    {
+      "city": "Naperville",
+      "state": "IL",
+      "country": "US",
+      "raw": "Naperville, IL"
+    },
+    {
+      "city": "Springdale",
+      "state": "AR",
+      "country": "US",
+      "raw": "Springdale, AR"
+    },
+    {
+      "city": "Cypress",
+      "state": "TX",
+      "country": "US",
+      "raw": "Cypress, TX"
+    },
+    {
+      "city": "Brantford",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Brantford, ON"
+    },
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "US",
+      "raw": "Raleigh, NC"
+    },
+    {
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "raw": "Las Vegas, NV"
+    },
+    {
+      "city": "El Paso",
+      "state": "TX",
+      "country": "US",
+      "raw": "El Paso, TX"
+    },
+    {
+      "city": "Augusta",
+      "state": "GA",
+      "country": "US",
+      "raw": "Augusta, GA"
+    },
+    {
+      "city": "Dothan",
+      "state": "AL",
+      "country": "US",
+      "raw": "Dothan, AL"
+    },
+    {
+      "city": "Alfred",
+      "state": "ME",
+      "country": "US",
+      "raw": "Alfred, ME"
+    },
+    {
+      "city": "Thorold",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Thorold, ON"
+    },
+    {
+      "city": "Apache Junction",
+      "state": "AZ",
+      "country": "US",
+      "raw": "Apache Junction, AZ"
+    },
+    {
+      "city": "Tolleson",
+      "state": "AZ",
+      "country": "US",
+      "raw": "Tolleson, AZ"
+    },
+    {
+      "city": "Rockwall",
+      "state": "TX",
+      "country": "US",
+      "raw": "Rockwall, TX"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "country": "US",
+      "raw": "Oklahoma City, OK"
+    },
+    {
+      "city": "CORAOPOLIS",
+      "state": "PA",
+      "country": "US",
+      "raw": "CORAOPOLIS, PA"
+    },
+    {
+      "city": "Richmond",
+      "state": "VA",
+      "country": "US",
+      "raw": "Richmond, VA"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "country": "US",
+      "raw": "Fort Lauderdale, FL"
+    },
+    {
+      "city": "Woodbridge",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Woodbridge, ON"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "raw": "Houston, TX"
+    },
+    {
+      "city": "Kansas City",
+      "state": "KS",
+      "country": "US",
+      "raw": "Kansas City, KS"
+    },
+    {
+      "city": "Caldwell",
+      "state": "TX",
+      "country": "US",
+      "raw": "Caldwell, TX"
+    },
+    {
+      "city": "Lakeland",
+      "state": "FL",
+      "country": "US",
+      "raw": "Lakeland, FL"
+    },
+    {
+      "city": "Mechanicsburg",
+      "state": "PA",
+      "country": "US",
+      "raw": "Mechanicsburg, PA"
+    },
+    {
+      "city": "Conway",
+      "state": "SC",
+      "country": "US",
+      "raw": "Conway, SC"
+    },
+    {
+      "city": "Inglewood",
+      "state": "CA",
+      "country": "US",
+      "raw": "Inglewood, CA"
+    },
+    {
+      "city": "North Haven",
+      "state": "CT",
+      "country": "US",
+      "raw": "North Haven, CT"
+    },
+    {
+      "city": "New Windsor",
+      "state": "NY",
+      "country": "US",
+      "raw": "New Windsor, NY"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "raw": "Austin, TX"
+    },
+    {
+      "city": "Industry",
+      "state": "CA",
+      "country": "US",
+      "raw": "Industry, CA"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "raw": "Indianapolis, IN"
+    },
+    {
+      "city": "Cambridge",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Cambridge, ON"
+    },
+    {
+      "city": "East Side Great Falls",
+      "state": "MT",
+      "country": "US",
+      "raw": "East Side Great Falls, MT"
+    },
+    {
+      "city": "Sykesville",
+      "state": "MD",
+      "country": "US",
+      "raw": "Sykesville, MD"
+    },
+    {
+      "city": "Richmond",
+      "state": "KY",
+      "country": "US",
+      "raw": "Richmond, KY"
+    },
+    {
+      "city": "Bronx",
+      "state": "NY",
+      "country": "US",
+      "raw": "Bronx, NY"
+    },
+    {
+      "city": "Bloomington",
+      "state": "MN",
+      "country": "US",
+      "raw": "Bloomington, MN"
+    },
+    {
+      "city": "Orangeburg",
+      "state": "SC",
+      "country": "US",
+      "raw": "Orangeburg, SC"
+    },
+    {
+      "city": "Abilene",
+      "state": "TX",
+      "country": "US",
+      "raw": "Abilene, TX"
+    },
+    {
+      "city": "Meridian",
+      "state": "ID",
+      "country": "US",
+      "raw": "Meridian, ID"
+    },
+    {
+      "city": "Buckhead (Atlanta)",
+      "state": "GA",
+      "country": "US",
+      "raw": "Buckhead (Atlanta), GA"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "raw": "Jacksonville, FL"
+    },
+    {
+      "city": "Cary",
+      "state": "IL",
+      "country": "US",
+      "raw": "Cary, IL"
+    },
+    {
+      "city": "East Syracuse",
+      "state": "NY",
+      "country": "US",
+      "raw": "East Syracuse, NY"
+    },
+    {
+      "city": "Colton",
+      "state": "CA",
+      "country": "US",
+      "raw": "Colton, CA"
+    },
+    {
+      "city": "Murfreesboro",
+      "state": "TN",
+      "country": "US",
+      "raw": "Murfreesboro, TN"
+    },
+    {
+      "city": "Johnson City",
+      "state": "TN",
+      "country": "US",
+      "raw": "Johnson City, TN"
+    },
+    {
+      "city": "Massillon",
+      "state": "OH",
+      "country": "US",
+      "raw": "Massillon, OH"
+    },
+    {
+      "city": "Horsham",
+      "state": "PA",
+      "country": "US",
+      "raw": "Horsham, PA"
+    },
+    {
+      "city": "Haltom City",
+      "state": "TX",
+      "country": "US",
+      "raw": "Haltom City, TX"
+    },
+    {
+      "city": "Plant City",
+      "state": "FL",
+      "country": "US",
+      "raw": "Plant City, FL"
+    },
+    {
+      "city": "Russellville",
+      "state": "AR",
+      "country": "US",
+      "raw": "Russellville, AR"
+    },
+    {
+      "city": "New Tecumseth",
+      "state": "ON",
+      "country": "CA",
+      "raw": "New Tecumseth, ON"
+    },
+    {
+      "city": "Charleston",
+      "state": "SC",
+      "country": "US",
+      "raw": "Charleston, SC"
+    },
+    {
+      "city": "Caledon East",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Caledon East, ON"
+    },
+    {
+      "city": "San Bernardino",
+      "state": "CA",
+      "country": "US",
+      "raw": "San Bernardino, CA"
+    },
+    {
+      "city": "North Plainfield",
+      "state": "NJ",
+      "country": "US",
+      "raw": "North Plainfield, NJ"
+    },
+    {
+      "city": "San Rafael",
+      "state": "CA",
+      "country": "US",
+      "raw": "San Rafael, CA"
+    },
+    {
+      "city": "Rochester Hills",
+      "state": "MI",
+      "country": "US",
+      "raw": "Rochester Hills, MI"
+    },
+    {
+      "city": "Sutherlin",
+      "state": "VA",
+      "country": "US",
+      "raw": "Sutherlin, VA"
+    },
+    {
+      "city": "Lebanon",
+      "state": "OR",
+      "country": "US",
+      "raw": "Lebanon, OR"
+    },
+    {
+      "city": "Santa Rosa",
+      "state": "CA",
+      "country": "US",
+      "raw": "Santa Rosa, CA"
+    },
+    {
+      "city": "Moses Lake",
+      "state": "WA",
+      "country": "US",
+      "raw": "Moses Lake, WA"
+    },
+    {
+      "city": "Calgary",
+      "state": "AB",
+      "country": "CA",
+      "raw": "Calgary, AB"
+    },
+    {
+      "city": "Barrie",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Barrie, ON"
+    },
+    {
+      "city": "Beaumont",
+      "state": "TX",
+      "country": "US",
+      "raw": "Beaumont, TX"
+    },
+    {
+      "city": "Sharonville",
+      "state": "OH",
+      "country": "US",
+      "raw": "Sharonville, OH"
+    },
+    {
+      "city": "St Rose",
+      "state": "LA",
+      "country": "US",
+      "raw": "St Rose, LA"
+    },
+    {
+      "city": "Brampton",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Brampton, ON"
+    },
+    {
+      "city": "Perry",
+      "state": "OH",
+      "country": "US",
+      "raw": "Perry, OH"
+    },
+    {
+      "city": "Wytheville",
+      "state": "VA",
+      "country": "US",
+      "raw": "Wytheville, VA"
+    },
+    {
+      "city": "Fitchburg",
+      "state": "MA",
+      "country": "US",
+      "raw": "Fitchburg, MA"
+    },
+    {
+      "city": "Lancaster",
+      "state": "CA",
+      "country": "US",
+      "raw": "Lancaster, CA"
+    },
+    {
+      "city": "Ukiah",
+      "state": "CA",
+      "country": "US",
+      "raw": "Ukiah, CA"
+    },
+    {
+      "city": "Fairfield",
+      "state": "NJ",
+      "country": "US",
+      "raw": "Fairfield, NJ"
+    },
+    {
+      "city": "Wilmington",
+      "state": "DE",
+      "country": "US",
+      "raw": "Wilmington, DE"
+    },
+    {
+      "city": "Naples",
+      "state": "FL",
+      "country": "US",
+      "raw": "Naples, FL"
+    },
+    {
+      "city": "Wallenstein",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Wallenstein, ON"
+    },
+    {
+      "city": "Grande Prairie",
+      "state": "TX",
+      "country": "US",
+      "raw": "Grande Prairie, TX"
+    },
+    {
+      "city": "Signal Hill",
+      "state": "CA",
+      "country": "US",
+      "raw": "Signal Hill, CA"
+    },
+    {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Toronto, ON"
+    },
+    {
+      "city": "McAllen",
+      "state": "TX",
+      "country": "US",
+      "raw": "McAllen, TX"
+    },
+    {
+      "city": "Rehoboth",
+      "state": "MA",
+      "country": "US",
+      "raw": "Rehoboth, MA"
+    },
+    {
+      "city": "Mount Vernon",
+      "state": "NY",
+      "country": "US",
+      "raw": "Mount Vernon, NY"
+    },
+    {
+      "city": "Conroe",
+      "state": "TX",
+      "country": "US",
+      "raw": "Conroe, TX"
+    },
+    {
+      "city": "Sterling",
+      "state": "VA",
+      "country": "US",
+      "raw": "Sterling, VA"
+    },
+    {
+      "city": "Bell Gardens",
+      "state": "CA",
+      "country": "US",
+      "raw": "Bell Gardens, CA"
+    },
+    {
+      "city": "Alma",
+      "state": "MI",
+      "country": "US",
+      "raw": "Alma, MI"
+    },
+    {
+      "city": "Maple Plain",
+      "state": "MN",
+      "country": "US",
+      "raw": "Maple Plain, MN"
+    },
+    {
+      "city": "Deerfield",
+      "state": "FL",
+      "country": "US",
+      "raw": "Deerfield, FL"
+    },
+    {
+      "city": "Louisville",
+      "state": "KY",
+      "country": "US",
+      "raw": "Louisville, KY"
+    },
+    {
+      "city": "Huntsville (North)",
+      "state": "AL",
+      "country": "US",
+      "raw": "Huntsville (North), AL"
+    },
+    {
+      "city": "Ponder",
+      "state": "TX",
+      "country": "US",
+      "raw": "Ponder, TX"
+    },
+    {
+      "city": "Miami",
+      "state": "FL",
+      "country": "US",
+      "raw": "Miami, FL"
+    },
+    {
+      "city": "Vaughan",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Vaughan, ON"
+    },
+    {
+      "city": "Orangevale",
+      "state": "CA",
+      "country": "US",
+      "raw": "Orangevale, CA"
+    },
+    {
+      "city": "Brooklyn Park",
+      "state": "MN",
+      "country": "US",
+      "raw": "Brooklyn Park, MN"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "US",
+      "raw": "Charlotte, NC"
+    },
+    {
+      "city": "Burlington",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Burlington, ON"
+    },
+    {
+      "city": "Oak Grove",
+      "state": "MO",
+      "country": "US",
+      "raw": "Oak Grove, MO"
+    },
+    {
+      "city": "Maryland Heights",
+      "state": "MO",
+      "country": "US",
+      "raw": "Maryland Heights, MO"
+    },
+    {
+      "city": "Terrell",
+      "state": "TX",
+      "country": "US",
+      "raw": "Terrell, TX"
+    },
+    {
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "country": "US",
+      "raw": "Altamonte Springs, FL"
+    },
+    {
+      "city": "Auburn",
+      "state": "ME",
+      "country": "US",
+      "raw": "Auburn, ME"
+    },
+    {
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "US",
+      "raw": "Baltimore, MD"
+    },
+    {
+      "city": "Midland",
+      "state": "TX",
+      "country": "US",
+      "raw": "Midland, TX"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "US",
+      "raw": "Dallas, TX"
+    },
+    {
+      "city": "Winnipeg",
+      "state": "MB",
+      "country": "CA",
+      "raw": "Winnipeg, MB"
+    },
+    {
+      "city": "Monroe",
+      "state": "PA",
+      "country": "US",
+      "raw": "Monroe, PA"
+    },
+    {
+      "city": "Hamilton",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Hamilton, ON"
+    },
+    {
+      "city": "Birmingham",
+      "state": "AL",
+      "country": "US",
+      "raw": "Birmingham, AL"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "raw": "Phoenix, AZ"
+    },
+    {
+      "city": "Butler",
+      "state": "WI",
+      "country": "US",
+      "raw": "Butler, WI"
+    },
+    {
+      "city": "Dallas Fort Worth",
+      "state": "TX",
+      "country": "US",
+      "raw": "Dallas Fort Worth, TX"
+    },
+    {
+      "city": "Loganville",
+      "state": "GA",
+      "country": "US",
+      "raw": "Loganville, GA"
+    },
+    {
+      "city": "Sumter",
+      "state": "SC",
+      "country": "US",
+      "raw": "Sumter, SC"
+    },
+    {
+      "city": "Lake Havau City",
+      "state": "AZ",
+      "country": "US",
+      "raw": "Lake Havau City, AZ"
+    },
+    {
+      "city": "Redwood City",
+      "state": "CA",
+      "country": "US",
+      "raw": "Redwood City, CA"
+    },
+    {
+      "city": "Canton",
+      "state": "MI",
+      "country": "US",
+      "raw": "Canton, MI"
+    },
+    {
+      "city": "New Hudson (West Detroit)",
+      "state": "MI",
+      "country": "US",
+      "raw": "New Hudson (West Detroit), MI"
+    },
+    {
+      "city": "South Windsor",
+      "state": "CT",
+      "country": "US",
+      "raw": "South Windsor, CT"
+    },
+    {
+      "city": "Edmonton",
+      "state": "AB",
+      "country": "CA",
+      "raw": "Edmonton, AB"
+    },
+    {
+      "city": "Carpinteria",
+      "state": "CA",
+      "country": "US",
+      "raw": "Carpinteria, CA"
+    },
+    {
+      "city": "Castaic",
+      "state": "CA",
+      "country": "US",
+      "raw": "Castaic, CA"
+    },
+    {
+      "city": "Odessa",
+      "state": "TX",
+      "country": "US",
+      "raw": "Odessa, TX"
+    },
+    {
+      "city": "Frederick",
+      "state": "MD",
+      "country": "US",
+      "raw": "Frederick, MD"
+    },
+    {
+      "city": "Hamden",
+      "state": "CT",
+      "country": "US",
+      "raw": "Hamden, CT"
+    },
+    {
+      "city": "Delray Beach",
+      "state": "FL",
+      "country": "US",
+      "raw": "Delray Beach, FL"
+    },
+    {
+      "city": "Vancouver",
+      "state": "BC",
+      "country": "CA",
+      "raw": "Vancouver, BC"
+    },
+    {
+      "city": "Ottawa",
+      "state": "ON",
+      "country": "CA",
+      "raw": "Ottawa, ON"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "US",
+      "raw": "New York, NY"
+    },
+    {
+      "city": "Visalia",
+      "state": "CA",
+      "country": "US",
+      "raw": "Visalia, CA"
+    },
+    {
+      "city": "Tyler",
+      "state": "TX",
+      "country": "US",
+      "raw": "Tyler, TX"
+    },
+    {
+      "city": "San Angelo",
+      "state": "TX",
+      "country": "US",
+      "raw": "San Angelo, TX"
+    },
+    {
+      "city": "Medley, Fl",
+      "state": "FL",
+      "country": "US",
+      "raw": "Medley, Fl"
+    },
+    {
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "raw": "West Palm Beach, FL"
+    }
+  ]
+}

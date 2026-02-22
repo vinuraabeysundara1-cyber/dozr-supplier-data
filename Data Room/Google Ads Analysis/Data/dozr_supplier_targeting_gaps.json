@@ -1,0 +1,906 @@
+{
+  "total_supplier_locations": 142,
+  "covered_count": 123,
+  "not_covered_count": 19,
+  "not_covered_by_state": {
+    "CO": [
+      "Littleton"
+    ],
+    "NJ": [
+      "North Plainfield",
+      "Hillside",
+      "Fairfield"
+    ],
+    "ME": [
+      "Alfred",
+      "Auburn"
+    ],
+    "KS": [
+      "Kansas City"
+    ],
+    "IN": [
+      "Indianapolis"
+    ],
+    "MT": [
+      "East Side Great Falls"
+    ],
+    "MD": [
+      "Frederick",
+      "Baltimore",
+      "Sykesville"
+    ],
+    "WA": [
+      "Moses Lake"
+    ],
+    "MA": [
+      "Rehoboth",
+      "Fitchburg"
+    ],
+    "DE": [
+      "Wilmington"
+    ],
+    "MO": [
+      "Maryland Heights",
+      "Oak Grove"
+    ],
+    "WI": [
+      "Butler"
+    ]
+  },
+  "covered_suppliers": [
+    {
+      "city": "Coxheath",
+      "state": "NS",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Buckhead (Atlanta)",
+      "state": "GA",
+      "country": "US",
+      "coverage": "State-level (GA)"
+    },
+    {
+      "city": "Loganville",
+      "state": "GA",
+      "country": "US",
+      "coverage": "State-level (GA)"
+    },
+    {
+      "city": "Augusta",
+      "state": "GA",
+      "country": "US",
+      "coverage": "State-level (GA)"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "coverage": "State-level (GA)"
+    },
+    {
+      "city": "Clearwater",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Palmetto",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Altamonte Springs",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Naples",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Miami",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Medley, Fl",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Deerfield",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Plant City",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Lakeland",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Delray Beach",
+      "state": "FL",
+      "country": "US",
+      "coverage": "State-level (FL)"
+    },
+    {
+      "city": "Naperville",
+      "state": "IL",
+      "country": "US",
+      "coverage": "State-level (IL)"
+    },
+    {
+      "city": "Cary",
+      "state": "IL",
+      "country": "US",
+      "coverage": "State-level (IL)"
+    },
+    {
+      "city": "Russellville",
+      "state": "AR",
+      "country": "US",
+      "coverage": "State-level (AR)"
+    },
+    {
+      "city": "Springdale",
+      "state": "AR",
+      "country": "US",
+      "coverage": "State-level (AR)"
+    },
+    {
+      "city": "Conroe",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "El Paso",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Houston",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Haltom City",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Beaumont",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Odessa",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "McAllen",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Rockwall",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Cypress",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Dallas Fort Worth",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Ponder",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Terrell",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Grande Prairie",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Caldwell",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Midland",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Tyler",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Abilene",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "San Angelo",
+      "state": "TX",
+      "country": "US",
+      "coverage": "State-level (TX)"
+    },
+    {
+      "city": "Brampton",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Barrie",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Vaughan",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Caledon East",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Ottawa",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Cambridge",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Thorold",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Brantford",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "New Tecumseth",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Burlington",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Woodbridge",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Hamilton",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Wallenstein",
+      "state": "ON",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Charlotte",
+      "state": "NC",
+      "country": "US",
+      "coverage": "State-level (NC)"
+    },
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "US",
+      "coverage": "State-level (NC)"
+    },
+    {
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "coverage": "DMA (dallas-ft. worth, tx)"
+    },
+    {
+      "city": "Huntsville (North)",
+      "state": "AL",
+      "country": "US",
+      "coverage": "State-level (AL)"
+    },
+    {
+      "city": "Dothan",
+      "state": "AL",
+      "country": "US",
+      "coverage": "State-level (AL)"
+    },
+    {
+      "city": "Birmingham",
+      "state": "AL",
+      "country": "US",
+      "coverage": "State-level (AL)"
+    },
+    {
+      "city": "Apache Junction",
+      "state": "AZ",
+      "country": "US",
+      "coverage": "State-level (AZ)"
+    },
+    {
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "coverage": "State-level (AZ)"
+    },
+    {
+      "city": "Tolleson",
+      "state": "AZ",
+      "country": "US",
+      "coverage": "State-level (AZ)"
+    },
+    {
+      "city": "Lake Havau City",
+      "state": "AZ",
+      "country": "US",
+      "coverage": "State-level (AZ)"
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "OK",
+      "country": "US",
+      "coverage": "State-level (OK)"
+    },
+    {
+      "city": "Mechanicsburg",
+      "state": "PA",
+      "country": "US",
+      "coverage": "State-level (PA)"
+    },
+    {
+      "city": "CORAOPOLIS",
+      "state": "PA",
+      "country": "US",
+      "coverage": "State-level (PA)"
+    },
+    {
+      "city": "Monroe",
+      "state": "PA",
+      "country": "US",
+      "coverage": "State-level (PA)"
+    },
+    {
+      "city": "Horsham",
+      "state": "PA",
+      "country": "US",
+      "coverage": "State-level (PA)"
+    },
+    {
+      "city": "Richmond",
+      "state": "VA",
+      "country": "US",
+      "coverage": "State-level (VA)"
+    },
+    {
+      "city": "Sterling",
+      "state": "VA",
+      "country": "US",
+      "coverage": "State-level (VA)"
+    },
+    {
+      "city": "Sutherlin",
+      "state": "VA",
+      "country": "US",
+      "coverage": "State-level (VA)"
+    },
+    {
+      "city": "Wytheville",
+      "state": "VA",
+      "country": "US",
+      "coverage": "State-level (VA)"
+    },
+    {
+      "city": "Conway",
+      "state": "SC",
+      "country": "US",
+      "coverage": "State-level (SC)"
+    },
+    {
+      "city": "Orangeburg",
+      "state": "SC",
+      "country": "US",
+      "coverage": "State-level (SC)"
+    },
+    {
+      "city": "Sumter",
+      "state": "SC",
+      "country": "US",
+      "coverage": "State-level (SC)"
+    },
+    {
+      "city": "Charleston",
+      "state": "SC",
+      "country": "US",
+      "coverage": "State-level (SC)"
+    },
+    {
+      "city": "Ukiah",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Lancaster",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Signal Hill",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Carpinteria",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "San Bernardino",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Colton",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Redwood City",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Visalia",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Castaic",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Orangevale",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "San Rafael",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Bell Gardens",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Inglewood",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Santa Rosa",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Industry",
+      "state": "CA",
+      "country": "US",
+      "coverage": "State-level (CA)"
+    },
+    {
+      "city": "Hamden",
+      "state": "CT",
+      "country": "US",
+      "coverage": "State-level (CT)"
+    },
+    {
+      "city": "South Windsor",
+      "state": "CT",
+      "country": "US",
+      "coverage": "State-level (CT)"
+    },
+    {
+      "city": "North Haven",
+      "state": "CT",
+      "country": "US",
+      "coverage": "State-level (CT)"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "US",
+      "coverage": "State-level (NY)"
+    },
+    {
+      "city": "New Windsor",
+      "state": "NY",
+      "country": "US",
+      "coverage": "State-level (NY)"
+    },
+    {
+      "city": "Bronx",
+      "state": "NY",
+      "country": "US",
+      "coverage": "State-level (NY)"
+    },
+    {
+      "city": "East Syracuse",
+      "state": "NY",
+      "country": "US",
+      "coverage": "State-level (NY)"
+    },
+    {
+      "city": "Mount Vernon",
+      "state": "NY",
+      "country": "US",
+      "coverage": "State-level (NY)"
+    },
+    {
+      "city": "Richmond",
+      "state": "KY",
+      "country": "US",
+      "coverage": "State-level (KY)"
+    },
+    {
+      "city": "Louisville",
+      "state": "KY",
+      "country": "US",
+      "coverage": "State-level (KY)"
+    },
+    {
+      "city": "Brooklyn Park",
+      "state": "MN",
+      "country": "US",
+      "coverage": "State-level (MN)"
+    },
+    {
+      "city": "Bloomington",
+      "state": "MN",
+      "country": "US",
+      "coverage": "State-level (MN)"
+    },
+    {
+      "city": "Maple Plain",
+      "state": "MN",
+      "country": "US",
+      "coverage": "State-level (MN)"
+    },
+    {
+      "city": "Meridian",
+      "state": "ID",
+      "country": "US",
+      "coverage": "State-level (ID)"
+    },
+    {
+      "city": "Johnson City",
+      "state": "TN",
+      "country": "US",
+      "coverage": "State-level (TN)"
+    },
+    {
+      "city": "Murfreesboro",
+      "state": "TN",
+      "country": "US",
+      "coverage": "State-level (TN)"
+    },
+    {
+      "city": "Sharonville",
+      "state": "OH",
+      "country": "US",
+      "coverage": "State-level (OH)"
+    },
+    {
+      "city": "Massillon",
+      "state": "OH",
+      "country": "US",
+      "coverage": "State-level (OH)"
+    },
+    {
+      "city": "Perry",
+      "state": "OH",
+      "country": "US",
+      "coverage": "State-level (OH)"
+    },
+    {
+      "city": "Rochester Hills",
+      "state": "MI",
+      "country": "US",
+      "coverage": "State-level (MI)"
+    },
+    {
+      "city": "Alma",
+      "state": "MI",
+      "country": "US",
+      "coverage": "State-level (MI)"
+    },
+    {
+      "city": "New Hudson (West Detroit)",
+      "state": "MI",
+      "country": "US",
+      "coverage": "State-level (MI)"
+    },
+    {
+      "city": "Canton",
+      "state": "MI",
+      "country": "US",
+      "coverage": "State-level (MI)"
+    },
+    {
+      "city": "Lebanon",
+      "state": "OR",
+      "country": "US",
+      "coverage": "State-level (OR)"
+    },
+    {
+      "city": "Edmonton",
+      "state": "AB",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Calgary",
+      "state": "AB",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "St Rose",
+      "state": "LA",
+      "country": "US",
+      "coverage": "DMA (charleston, sc)"
+    },
+    {
+      "city": "Winnipeg",
+      "state": "MB",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    },
+    {
+      "city": "Vancouver",
+      "state": "BC",
+      "country": "CA",
+      "coverage": "Country-level (Canada)"
+    }
+  ],
+  "not_covered_suppliers": [
+    {
+      "city": "Littleton",
+      "state": "CO",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "North Plainfield",
+      "state": "NJ",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Hillside",
+      "state": "NJ",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Fairfield",
+      "state": "NJ",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Alfred",
+      "state": "ME",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Auburn",
+      "state": "ME",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Kansas City",
+      "state": "KS",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "East Side Great Falls",
+      "state": "MT",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Frederick",
+      "state": "MD",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Sykesville",
+      "state": "MD",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Moses Lake",
+      "state": "WA",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Rehoboth",
+      "state": "MA",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Fitchburg",
+      "state": "MA",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Wilmington",
+      "state": "DE",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Oak Grove",
+      "state": "MO",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Maryland Heights",
+      "state": "MO",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    },
+    {
+      "city": "Butler",
+      "state": "WI",
+      "country": "US",
+      "coverage": "NOT COVERED"
+    }
+  ]
+}

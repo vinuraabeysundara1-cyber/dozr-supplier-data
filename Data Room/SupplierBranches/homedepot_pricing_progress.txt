@@ -1,0 +1,132 @@
+================================================================================
+HOME DEPOT EQUIPMENT PRICING EXTRACTION - PROGRESS REPORT
+================================================================================
+Generated: February 20, 2026
+Location: West Albuquerque #3504
+
+================================================================================
+COMPLETED EXTRACTIONS
+================================================================================
+
+✓ SCISSOR LIFTS (9 models) - 100% COMPLETE
+----------------------------------------
+1. 19 ft. Scissor Lift (GS1930) - $199/199/398/597
+2. 19 ft. Scissor Lift on Trailer (PX-15) - $239/239/717/1793
+3. 26 ft. Scissor Lift (GS2632) - $259/259/518/932
+4. 26 ft. Scissor Lift on Trailer (700) - $299/299/897/2243
+5. 20 ft. Single Man Lift (CH1200) - $229/229/435/870
+6. 32 ft. Scissor Lift (GS3246) - $309/309/649/1298
+7. 40 ft. Scissor Lift (GS4047) - $419/419/880/1848
+8. 32 ft. Rough Terrain Scissor Lift (1305PR1) - $369/369/812/1624
+9. 40 ft. Rough Terrain Scissor Lift (GS4069RT) - $419/419/1048/2096
+
+Pricing Format: 4-Hour / Daily / Weekly / Monthly
+
+
+================================================================================
+BOOM LIFTS - URLs IDENTIFIED (8 models) - 0% COMPLETE
+================================================================================
+
+TOWABLE BOOMS (2 models):
+1. 35 ft. Towable Boom Lift (JLG T350)
+   https://www.homedepot.com/p/rental/JLG-35-Towable-Boom-Lift-Rental-T350/316821960
+
+2. 50 ft. Towable Boom Lift (S75X)
+   https://www.homedepot.com/p/rental/50-Towable-Boom-Lift-Rental-S75X/316821658
+
+ARTICULATING BOOMS (6 models):
+3. 30-33 ft. Articulating Boom Lift - DC Powered (Genie E300AJP)
+   https://www.homedepot.com/p/rental/Genie-30-33-ft-Articulating-Boom-Lift-E300AJP/328503707
+
+4. 34 ft. Articulating Boom Lift - 4WD (JLG 425D-TP)
+   https://www.homedepot.com/p/rental/JLG-34-Articulating-Boom-Lift-w-Jib-Rental-425D-TP/316821508
+
+5. 45 ft. Articulating Boom Lift - DC Powered (Genie VT3121)
+   https://www.homedepot.com/p/rental/Genie-45-Articulating-Boom-Lift-w-Jib-Rental-VT3121/316821584
+
+6. 45 ft. Articulating Boom Lift (JLG 425D)
+   https://www.homedepot.com/p/rental/JLG-45-Articulating-Boom-Lift-w-Jib-Rental-425D/316821569
+
+7. 60 ft. Articulating Boom Lift (530X)
+   https://www.homedepot.com/p/rental/60-Articulating-Boom-Lift-w-Jib-Rental-530X/316821695
+
+8. 80 ft. Articulating Boom Lift (JLG 532DX-TP)
+   https://www.homedepot.com/p/rental/80-Articulating-Boom-Lift-w-Jib-Rental-532DX-TP/316821726
+
+
+================================================================================
+MINI EXCAVATORS - PENDING
+================================================================================
+Category URL: https://www.homedepot.com/c/mini-excavator-rental
+
+Action Required: Navigate to category page and extract all product URLs
+
+
+================================================================================
+SKID STEERS - PENDING
+================================================================================
+Category URL: https://www.homedepot.com/c/skid-steer-rental
+
+Action Required: Navigate to category page and extract all product URLs
+
+
+================================================================================
+EXTRACTION METHODOLOGY
+================================================================================
+
+For each product page:
+1. Navigate to URL
+2. Wait for page load (2 seconds)
+3. Take screenshot to verify pricing visibility
+4. Extract data:
+   - Model name (from h1)
+   - Model details (from specifications)
+   - Pricing: 4-Hour, Daily, Weekly, Monthly
+   - Specs (key specifications)
+
+Pricing typically displayed in format:
+$XXX^00  $XXX^00  $XXX^00  $X,XXX^00
+4-Hours  Per Day  Per Week  4 Weeks
+
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Models Identified: 17+ (9 scissor lifts, 8 boom lifts, + excavators/skid steers)
+Total Models Extracted: 9 (100% scissor lifts)
+Completion: ~35% (based on identified models only)
+
+Average Pricing (Scissor Lifts):
+- 4-Hour: $304
+- Daily: $304
+- Weekly: $706
+- Monthly: $1,483
+
+Price Range (Scissor Lifts):
+- Lowest Daily: $199 (19 ft. GS1930)
+- Highest Daily: $419 (40 ft. models)
+
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. Extract pricing for 8 boom lift models
+2. Navigate to Mini Excavator category and identify all models
+3. Extract pricing for all mini excavator models
+4. Navigate to Skid Steer category and identify all models
+5. Extract pricing for all skid steer models
+6. Generate final Excel report with all data
+
+
+================================================================================
+OUTPUT FILES
+================================================================================
+
+1. homedepot_pricing.json - JSON array with all extracted data
+2. homedepot_equipment_pricing.xlsx - Excel report (3 sheets)
+3. homedepot_pricing_progress.txt - This progress file
+
+
+================================================================================

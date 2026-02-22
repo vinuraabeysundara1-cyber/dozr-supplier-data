@@ -1,0 +1,51 @@
+Rank,Supplier,GMV,Orders,In_OMS,In_Rented_List,OMS_Book_Rate
+1,Continental Lift Truck - New York NY,19209.69,20,True,True,62.9%
+2,Skye Heavy Equipment Rentals - Asheboro NC,17278.43,1,True,False,100.0%
+3,Sunstate Equipment - Orlando FL,16366.58,5,True,True,0.0%
+4,Tejas Equipment Rental - San Antonio TX ,11568.07,4,True,True,100.0%
+5,Dashino Excavating - Brampton ON,10517.6,1,True,False,100.0%
+6,Cropac Equipment Inc,10234.78,1,True,False,100.0%
+7,Lift X Rentals - Palmetto FL,10003.81,10,True,True,40.7%
+8,Herc Rentals (9316) - Myrtle Beach SC,9844.23,2,True,False,100.0%
+9,St. Jacobs Property Maintenance,8397.37,1,True,True,100.0%
+10,"Sunbelt Rentals 1018 - Manheim, PA",7567.4,1,True,False,100.0%
+11,Skyblack Rentals - Houston TX,7337.45,7,True,True,33.3%
+12,Sunstate Equipment - Portland OR,6917.58,2,True,True,0.0%
+13,CONEQ Rentals - Woodbridge ON,6724.51,10,True,True,28.6%
+14,Aerial Plus - Burlington ON,6468.97,22,True,True,35.5%
+15,Synergy Equipment - Houston TX,5653.85,3,True,True,100.0%
+16,"Sunbelt Rentals 293 - Bangor, ME",5553.3,1,True,False,66.7%
+17,LSR Equipment - Weatherford TX,5534.19,1,True,False,0.0%
+18,"Sunbelt Rentals - North Haven, CT",5533.89,1,True,False,0.0%
+19,Ewald Kubota - Corpus Christi TX,5486.73,1,True,False,100.0%
+20,Leppo Rents (Bobcat of Jacksonville) - Jacksonville FL,5314.24,4,True,True,33.3%
+21,Industry Lift Inc - Industry CA,5152.25,4,True,True,29.4%
+22,Sunstate Equipment - Dallas TX (Duncanville),5100.53,2,True,True,0.0%
+23,Robin Rents - Huntsville (North) AL,4962.88,1,True,True,100.0%
+24,"Ecco Equipment Corporation - Phoenix, AZ",4921.64,1,True,True,100.0%
+25,Sunstate Equipment - Southlake TX,4888.79,3,True,True,0.0%
+26,Sunstate Equipment - Raleigh (Garner) NC,4807.22,4,True,True,0.0%
+27,Herc Rentals,4712.26,1,True,False,100.0%
+28,Sunstate Equipment - Balch Springs TX,4609.98,2,True,True,0.0%
+29,"Sunbelt Rentals 21 - Fayetteville, NC",4539.08,1,True,False,100.0%
+30,Powertrip Rentals - Signal Hill CA,4514.5,15,True,True,48.4%
+31,Sunstate Equipment - Atlanta GA,4486.15,3,True,True,0.0%
+32,Tejas Equipment Rental - Houston TX ,4126.98,2,True,True,100.0%
+33,"Herc Rentals - Jackson, MS",4116.98,1,True,False,100.0%
+34,Equipment Share - Memphis TN,4062.34,1,True,False,100.0%
+35,South Florida Equipment Rentals - West Palm Beach FL,4055.76,2,True,True,71.4%
+36,Tejas Equipment Rental - Alvarado TX,4003.87,5,True,True,100.0%
+37,LGP Equipment Rentals - Bell Gardens CA,3883.09,1,True,True,50.0%
+38,Yancey Cat - Kennesaw GA,3789.75,1,True,False,0.0%
+39,Equipment Share - Tyler TX,3771.41,1,True,False,100.0%
+40,Sunstate Equipment - Oklahoma City OK,3744.81,2,True,True,0.0%
+41,Synergy Equipment - Orlando FL,3649.83,1,True,True,100.0%
+42,Stoney Creek Equipment Rentals - Hamilton ON,3563.19,7,True,True,13.3%
+43,Sunstate Equipment - Denver CO,3539.26,5,True,True,0.0%
+44,Bobcat of York (Crownstone Equipment) - Frederick MD,3485.45,3,True,True,100.0%
+45,Sunstate Equipment - Odessa TX,3457.52,1,True,True,0.0%
+46,Rent Equip - Austin TX,3342.98,1,True,True,100.0%
+47,Equipment Share - Texarkana AR,3340.19,1,True,False,100.0%
+48,"The Rental Hub - Wytheville, VA",3268.24,1,True,True,100.0%
+49,Briggs Equipment - Miami FL,3235.25,1,True,True,0.0%
+50,Synergy Equipment - Austin TX,3057.69,1,True,True,100.0%

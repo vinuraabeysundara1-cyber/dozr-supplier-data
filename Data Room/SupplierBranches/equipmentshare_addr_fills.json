@@ -1,0 +1,93 @@
+[
+  {
+    "row": 41,
+    "branch_name": "Palm Springs -North Palm Springs #128118",
+    "city": "North Palm Springs",
+    "state": "CA",
+    "address_filled": "63665 19th Ave",
+    "zip_filled": "92258",
+    "source": "Google Maps"
+  },
+  {
+    "row": 45,
+    "branch_name": "Sacramento -Sacramento #15964",
+    "city": "Sacramento",
+    "state": "CA",
+    "address_filled": "7400 14th Ave",
+    "zip_filled": "95820",
+    "source": "Google Maps"
+  },
+  {
+    "row": 63,
+    "branch_name": "Bradenton -Bradenton #99181",
+    "city": "Bradenton",
+    "state": "FL",
+    "address_filled": "11504 31st Terrace E",
+    "zip_filled": "34221",
+    "note": "Address is in Palmetto, FL - may serve Bradenton area",
+    "source": "Google Maps"
+  },
+  {
+    "row": 75,
+    "branch_name": "Palmetto -Palmetto #112689",
+    "city": "Palmetto",
+    "state": "FL",
+    "address_filled": "11504 31st Terrace E",
+    "zip_filled": "34221",
+    "source": "Google Maps"
+  },
+  {
+    "row": 103,
+    "branch_name": "Omaha -Council Bluffs #40685",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "address_filled": "13667 192nd St",
+    "zip_filled": "51503",
+    "source": "Google Maps"
+  },
+  {
+    "row": 104,
+    "branch_name": "Davenport -DeWitt #146081",
+    "city": "DeWitt",
+    "state": "IA",
+    "address_filled": "1801 11th St",
+    "zip_filled": "52742",
+    "source": "Google Maps"
+  },
+  {
+    "row": 132,
+    "branch_name": "Grand Rapids -Kentwood #105742",
+    "city": "Kentwood",
+    "state": "MI",
+    "address_filled": "4250 52nd St SE",
+    "zip_filled": "49512",
+    "source": "Google Maps"
+  },
+  {
+    "row": 275,
+    "branch_name": "Seattle -Marysville #125566",
+    "city": "Marysville",
+    "state": "WA",
+    "address_filled": "3520 136th St NE",
+    "zip_filled": "98271",
+    "source": "Google Maps"
+  },
+  {
+    "row": 278,
+    "branch_name": "Seattle -Seattle #15963",
+    "city": "Seattle",
+    "state": "WA",
+    "address_filled": "13535 68th Ave S",
+    "zip_filled": "98178",
+    "source": "Google Maps"
+  },
+  {
+    "row": 281,
+    "branch_name": "Tacoma -Tacoma #90850",
+    "city": "Tacoma",
+    "state": "WA",
+    "address_filled": "2219 112th St E",
+    "zip_filled": "98445",
+    "source": "Google Maps"
+  }
+]

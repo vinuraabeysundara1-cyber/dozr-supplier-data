@@ -1,0 +1,828 @@
+{
+  "state_orders": {
+    "MD": {
+      "won": 2,
+      "total": 4,
+      "equipment": {}
+    },
+    "TX": {
+      "won": 24,
+      "total": 31,
+      "equipment": {}
+    },
+    "CA": {
+      "won": 17,
+      "total": 22,
+      "equipment": {}
+    },
+    "ON": {
+      "won": 11,
+      "total": 17,
+      "equipment": {}
+    },
+    "MT": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "SC": {
+      "won": 7,
+      "total": 7,
+      "equipment": {}
+    },
+    "FL": {
+      "won": 11,
+      "total": 15,
+      "equipment": {}
+    },
+    "NY": {
+      "won": 4,
+      "total": 7,
+      "equipment": {}
+    },
+    "MS": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "GA": {
+      "won": 4,
+      "total": 5,
+      "equipment": {}
+    },
+    "CO": {
+      "won": 9,
+      "total": 9,
+      "equipment": {}
+    },
+    "NJ": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "IL": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "TN": {
+      "won": 2,
+      "total": 5,
+      "equipment": {}
+    },
+    "AR": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "NV": {
+      "won": 1,
+      "total": 3,
+      "equipment": {}
+    },
+    "NM": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "MA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "BC": {
+      "won": 2,
+      "total": 3,
+      "equipment": {}
+    },
+    "NC": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "ME": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "UT": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "VA": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "CT": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "PA": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "AZ": {
+      "won": 4,
+      "total": 4,
+      "equipment": {}
+    },
+    "WA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "OH": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "IN": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "MI": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "KS": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "IA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "AL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    }
+  },
+  "equipment_orders": {
+    "Unknown": {
+      "won": 118,
+      "total": 158,
+      "locations": {}
+    }
+  },
+  "location_orders": {
+    "Baltimore, MD": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "Beaumont, TX": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Placentia, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Riverside, CA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Hamilton, ON": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Altadena, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Los Angeles, CA": {
+      "won": 2,
+      "total": 3,
+      "equipment": {}
+    },
+    "Great Falls, MT": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Missoula, MT": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Kleinburg Station, ON": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Spring, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Putnam, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Toronto, ON": {
+      "won": 6,
+      "total": 8,
+      "equipment": {}
+    },
+    "Greenville, SC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Jacksonville, FL": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "St. Petersburg, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Farmingdale, NY": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Gulfport, MS": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Stone Mountain, GA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Missouri City, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Brighton, CO": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Fruitland Park, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Atlanta, GA": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Markham, ON": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Palm Springs, CA": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "Jersey City, NJ": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Yonkers, NY": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Indian Land, SC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Aventura, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Aurora, CO": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Murphys, CA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Bradenton, FL": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Longboat Key, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "New York, NY": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Elgin, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Lombard, IL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Sarasota, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Laredo, TX": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "San Bruno, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Oxford, MS": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Irving, TX": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "Flower Mound, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Whitchurch-Stouffville, ON": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Austin, TX": {
+      "won": 0,
+      "total": 2,
+      "equipment": {}
+    },
+    "Memphis, TN": {
+      "won": 0,
+      "total": 2,
+      "equipment": {}
+    },
+    "Fontana, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "White, GA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Little Rock, AR": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Rancho Dominguez, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Pinecrest, FL": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Tonopah, NV": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "Brooklyn, NY": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Corpus Christi, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Los Lunas, NM": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Bourne, MA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "New Westminster, BC": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Dade City, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Oakville, ON": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Hollywood, FL": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Charlotte, NC": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Presque Isle, ME": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Salt Lake City, UT": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Rockport, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Myrtle Beach, SC": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "St. Catharines, ON": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Abbotsford, BC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Greeley, CO": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Caledon, ON": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Meherrin, VA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Erie, CO": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Sterling, VA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Lake Forest, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Coconut Creek, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Sherman, CT": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Walton, NY": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Langley Township, BC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Fresno, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Edgewater, MD": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Saint Davids, PA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Cape Coral, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Pleasanton, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "New Boston, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Dallas, TX": {
+      "won": 3,
+      "total": 3,
+      "equipment": {}
+    },
+    "Queen Creek, AZ": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Seattle, WA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Aiken, SC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Towson, MD": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Conroe, TX": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Plano, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Tahoe Vista, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Toledo, OH": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Rocky Top, TN": {
+      "won": 1,
+      "total": 2,
+      "equipment": {}
+    },
+    "Northlake, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Leesburg, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Houston, TX": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Big Spring, TX": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Fountain Inn, SC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Mims, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Macon, GA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Trenton, IL": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Costa Mesa, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Laguna Hills, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Kyle, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Rancho Santa Fe, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "North Charleston, SC": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Lafayette, CA": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Franklin, IN": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Centerton, AR": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Breckenridge, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Las Vegas, NV": {
+      "won": 0,
+      "total": 1,
+      "equipment": {}
+    },
+    "Clifton, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Dumas, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Marion Heights, PA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Mississauga, ON": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Bangor, MI": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Elizabeth, CO": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "San Antonio, TX": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Mesa, AZ": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Wichita, KS": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Sunnyvale, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Opa-locka, FL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Central Square, NY": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Fort Collins, CO": {
+      "won": 2,
+      "total": 2,
+      "equipment": {}
+    },
+    "Tucson, AZ": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Phoenix, AZ": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "New Braunfels, TX": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Marshalltown, IA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Arcadia, CA": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Opelika, AL": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    },
+    "Hendersonville, TN": {
+      "won": 1,
+      "total": 1,
+      "equipment": {}
+    }
+  }
+}

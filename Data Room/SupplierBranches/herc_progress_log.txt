@@ -1,0 +1,19 @@
+HERC RENTALS - BRANCH CAPTURE PROGRESS LOG
+===========================================
+Started: 2026-02-19
+
+OMS Status:
+- 316 branches in OMS (only 3 enabled!)
+- 42 US states + Canada covered
+- Missing states: AK, DE, IA, ID, KS, MT, RI, SD, VT
+
+Website Status:
+- Estimated 800+ locations based on map clusters
+- Significantly more than OMS count
+
+Service Categories (for DOZR relevance):
+RELEVANT: General Rentals, Aerial, Earthmoving, Material Handling, ProTruck
+LIMITED: ProSolutions, Pump Power & Climate
+
+--- CAPTURE LOG ---
+

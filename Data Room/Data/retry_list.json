@@ -1,0 +1,11 @@
+{
+  "description": "Tracks failed searches that need to be retried",
+  "last_updated": "2026-02-18T23:30:00Z",
+  "failed_searches": [],
+  "notes": {
+    "Laredo:78040": "No stores found in search area - this is expected (remote location)",
+    "model_1_status": "All 70 cities completed successfully for 2,000 lb Mini Excavator"
+  },
+  "retry_count": 0,
+  "max_retries": 3
+}

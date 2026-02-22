@@ -1,0 +1,33 @@
+SUNBELT RENTALS BRANCH DATABASE - SUMMARY
+Capture Date: 2026-02-19
+Status: PARTIAL - Website errors during capture
+
+OVERVIEW
+OMS Branches,707
+OMS Enabled,0
+OMS States Covered,49
+Missing States,AK and VT only
+
+WEBSITE OBSERVATIONS (before errors)
+"Location types seen: General Equipment & Tools, Climate Control Services, Pump Solutions, Power & HVAC, Industrial Services"
+"Map markers: Green = General Tools (RELEVANT), Yellow = Specialty"
+
+SAMPLE BRANCHES SEEN
+Branch #,Address,Type
+555,"3805 Lamar St, Houston, TX 77023",General Equipment & Tools
+462,"5937 South Loop E, Houston, TX 77033",Climate Control Services
+1015,"10250 La Porte Fwy, Houston, TX 77017",Pump Solutions
+231,"320 Richey St, Pasadena, TX 77506",General
+147,"330 Richey St, Pasadena, TX 77506",Power & HVAC
+
+KEY FINDINGS
+"1. Sunbelt has BEST OMS coverage of all 4 suppliers (707 branches, 49 states)"
+"2. Only 2 states missing from OMS: Alaska and Vermont"
+"3. ZERO branches currently enabled in OMS - major opportunity"
+"4. Website was experiencing errors - full capture incomplete"
+
+RECOMMENDATIONS
+"1. Enable the 707 existing OMS branches immediately"
+"2. Retry website capture when site is stable"
+"3. Check for AK and VT locations on retry"
+"4. Focus on General Equipment & Tools branches (green markers) as most relevant"

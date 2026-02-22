@@ -1,0 +1,636 @@
+{
+  "total_locations": 152,
+  "locations": [
+    "Coxheath, NS",
+    "Atlanta, GA",
+    "Skid Steers",
+    "Clearwater, FL",
+    "Littleton, CO",
+    "Hillside, NJ",
+    "Palmetto, FL",
+    "Naperville, IL",
+    "Springdale, AR",
+    "Cypress, TX",
+    "Brantford, ON",
+    "Raleigh, NC",
+    "Las Vegas, NV",
+    "El Paso, TX",
+    "Augusta, GA",
+    "Dothan, AL",
+    "Alfred, ME",
+    "Thorold, ON",
+    "Apache Junction, AZ",
+    "Tolleson, AZ",
+    "Rockwall, TX",
+    "Oklahoma City, OK",
+    "CORAOPOLIS, PA",
+    "Richmond, VA",
+    "Fort Lauderdale, FL",
+    "Woodbridge, ON",
+    "Houston, TX",
+    "Kansas City, KS",
+    "Caldwell, TX",
+    "Lakeland, FL",
+    "Mechanicsburg, PA",
+    "Conway, SC",
+    "Inglewood, CA",
+    "North Haven, CT",
+    "New Windsor, NY",
+    "Equipment Type",
+    "Austin, TX",
+    "Industry, CA",
+    "Indianapolis, IN",
+    "Cambridge, ON",
+    "East Side Great Falls, MT",
+    "Sykesville, MD",
+    "Richmond, KY",
+    "Bronx, NY",
+    "Bloomington, MN",
+    "Orangeburg, SC",
+    "Abilene, TX",
+    "Meridian, ID",
+    "Buckhead (Atlanta), GA",
+    "Jacksonville, FL",
+    "Cary, IL",
+    "East Syracuse, NY",
+    "Colton, CA",
+    "Murfreesboro, TN",
+    "Johnson City, TN",
+    "Massillon, OH",
+    "Horsham, PA",
+    "Haltom City, TX",
+    "Plant City, FL",
+    "Russellville, AR",
+    "New Tecumseth, ON",
+    "Boom Lifts",
+    "Telehandlers",
+    "Charleston, SC",
+    "Caledon East, ON",
+    "San Bernardino, CA",
+    "North Plainfield, NJ",
+    "San Rafael, CA",
+    "Rochester Hills, MI",
+    "Sutherlin, VA",
+    "Lebanon, OR",
+    "Santa Rosa, CA",
+    "Moses Lake, WA",
+    "Calgary, AB",
+    "Barrie, ON",
+    "Forklifts",
+    "Beaumont, TX",
+    "Sharonville, OH",
+    "St Rose, LA",
+    "Brampton, ON",
+    "Perry, OH",
+    "Wytheville, VA",
+    "Fitchburg, MA",
+    "Lancaster, CA",
+    "Ukiah, CA",
+    "Fairfield, NJ",
+    "Wilmington, DE",
+    "Naples, FL",
+    "Wallenstein, ON",
+    "Grande Prairie, TX",
+    "Signal Hill, CA",
+    "Toronto, ON",
+    "McAllen, TX",
+    "Rehoboth, MA",
+    "Mount Vernon, NY",
+    "Conroe, TX",
+    "Scissor Lifts",
+    "Sterling, VA",
+    "Bell Gardens, CA",
+    "Excavators",
+    "Alma, MI",
+    "Maple Plain, MN",
+    "Deerfield, FL",
+    "Louisville, KY",
+    "Huntsville (North), AL",
+    "Ponder, TX",
+    "Miami, FL",
+    "Vaughan, ON",
+    "Total Locations: 1",
+    "Orangevale, CA",
+    "Brooklyn Park, MN",
+    "Charlotte, NC",
+    "Burlington, ON",
+    "Loaders",
+    "Oak Grove, MO",
+    "Maryland Heights, MO",
+    "Terrell, TX",
+    "Altamonte Springs, FL",
+    "Auburn, ME",
+    "Baltimore, MD",
+    "Midland, TX",
+    "Dallas, TX",
+    "Winnipeg, MB",
+    "Monroe, PA",
+    "Hamilton, ON",
+    "Birmingham, AL",
+    "Phoenix, AZ",
+    "Butler, WI",
+    "Dallas Fort Worth, TX",
+    "Loganville, GA",
+    "Sumter, SC",
+    "Lake Havau City, AZ",
+    "Redwood City, CA",
+    "Canton, MI",
+    "New Hudson (West Detroit), MI",
+    "South Windsor, CT",
+    "Edmonton, AB",
+    "Carpinteria, CA",
+    "Castaic, CA",
+    "Odessa, TX",
+    "Frederick, MD",
+    "Hamden, CT",
+    "Delray Beach, FL",
+    "Dozers",
+    "Vancouver, BC",
+    "Ottawa, ON",
+    "New York, NY",
+    "Visalia, CA",
+    "Tyler, TX",
+    "San Angelo, TX",
+    "Medley, Fl",
+    "West Palm Beach, FL"
+  ],
+  "location_suppliers": {
+    "Apache Junction, AZ": [
+      "Sunstate Equipment"
+    ],
+    "McAllen, TX": [
+      "Tejas Equipment Rental"
+    ],
+    "Dothan, AL": [
+      "Synergy Equipment"
+    ],
+    "Perry, OH": [
+      "Leppo Rents"
+    ],
+    "Littleton, CO": [
+      "Arapahoe Rental"
+    ],
+    "Springdale, AR": [
+      "National Lift of Arkansas"
+    ],
+    "Frederick, MD": [
+      "Bobcat of York (Crownstone Equi"
+    ],
+    "Thorold, ON": [
+      "Select Total Service"
+    ],
+    "Hillside, NJ": [
+      "Area Rentals Inc"
+    ],
+    "New Tecumseth, ON": [
+      "Nice Guy Heavy Equipment Rental"
+    ],
+    "Santa Rosa, CA": [
+      "101 Equipment Rentals"
+    ],
+    "Coxheath, NS": [
+      "Sam Equipment Rental & Sales"
+    ],
+    "Louisville, KY": [
+      "Equipment Depot"
+    ],
+    "Sutherlin, VA": [
+      "Milam Rental LLC"
+    ],
+    "Mechanicsburg, PA": [
+      "Best Line Equipment"
+    ],
+    "East Side Great Falls, MT": [
+      "Strobel's Rentals"
+    ],
+    "Wytheville, VA": [
+      "The Rental Hub"
+    ],
+    "Toronto, ON": [
+      "NAM Rentals"
+    ],
+    "Augusta, GA": [
+      "Border Equipment (Bobcat of Aug"
+    ],
+    "Richmond, KY": [
+      "Rental Pro"
+    ],
+    "Conway, SC": [
+      "Conway Rental Centre"
+    ],
+    "Beaumont, TX": [
+      "JAC Rentals"
+    ],
+    "Brantford, ON": [
+      "Bobcat of Brantford"
+    ],
+    "Brooklyn Park, MN": [
+      "Atlas Toyota Material Handling"
+    ],
+    "Jacksonville, FL": [
+      "Pioneer Equipment Company"
+    ],
+    "Wallenstein, ON": [
+      "Maynard Brubacher"
+    ],
+    "Cary, IL": [
+      "Illinois Lift Equipment"
+    ],
+    "Caledon East, ON": [
+      "J&J Equipment Rentals"
+    ],
+    "Fort Lauderdale, FL": [
+      "Worldwide Forklifts",
+      "Need a Lift Rentals"
+    ],
+    "Woodbridge, ON": [
+      "CONEQ Rentals"
+    ],
+    "Hamilton, ON": [
+      "Stoney Creek Equipment Rentals"
+    ],
+    "Palmetto, FL": [
+      "Lift X Rentals"
+    ],
+    "Monroe, PA": [
+      "Dominic's Equipment Rental"
+    ],
+    "Houston, TX": [
+      "Skyblack Rentals",
+      "Stewart & Stevenson",
+      "HireQuip",
+      "HTX Material Handling"
+    ],
+    "North Haven, CT": [
+      "Summit Toyotalift"
+    ],
+    "Burlington, ON": [
+      "Aerial Plus"
+    ],
+    "Buckhead (Atlanta), GA": [
+      "Northside Tool Rental"
+    ],
+    "New York, NY": [
+      "Continental Lift Truck"
+    ],
+    "Medley, Fl": [
+      "UpLift Equipment Rentals"
+    ],
+    "Wilmington, DE": [
+      "Superior Equipment Rental"
+    ],
+    "Ponder, TX": [
+      "Silver Line Supply LLC"
+    ],
+    "Charlotte, NC": [
+      "Carolina Industrial Trucks"
+    ],
+    "Phoenix, AZ": [
+      "All Pro Lift and Equipment LLC",
+      "NG Equipment Sales",
+      "Leavitt Machinery"
+    ],
+    "Caldwell, TX": [
+      "Hive Rentals & Co"
+    ],
+    "Visalia, CA": [
+      "Ecco Equipment Corporation"
+    ],
+    "Deerfield, FL": [
+      "High Reach 2"
+    ],
+    "East Syracuse, NY": [
+      "Thompson & Johnson Equipment Co"
+    ],
+    "Johnson City, TN": [
+      "Eastern Tennessee Rent-Alls"
+    ],
+    "Sykesville, MD": [
+      "Rental Solutions and Events LLC"
+    ],
+    "Industry, CA": [
+      "Industry Lift Inc"
+    ],
+    "Richmond, VA": [
+      "JGR Equipment Sales & Rental"
+    ],
+    "South Windsor, CT": [
+      "Great Rate Rentals"
+    ],
+    "Rockwall, TX": [
+      "U-Rent It Sales & Service"
+    ],
+    "Brampton, ON": [
+      "Mcleary Lift Equipment",
+      "Bobcat of Toronto"
+    ],
+    "Vancouver, BC": [
+      "Nors"
+    ],
+    "Massillon, OH": [
+      "General Rent-All"
+    ],
+    "Lebanon, OR": [
+      "Elite Equipment Rental"
+    ],
+    "Plant City, FL": [
+      "Jamco"
+    ],
+    "Butler, WI": [
+      "Bobcat Plus"
+    ],
+    "Sumter, SC": [
+      "Black Oak Equipment Rental"
+    ],
+    "Edmonton, AB": [
+      "Lybroco Rentals"
+    ],
+    "Signal Hill, CA": [
+      "Powertrip Rentals"
+    ],
+    "Tyler, TX": [
+      "Lift Truck Supply"
+    ],
+    "Orangevale, CA": [
+      "Rental Guys"
+    ],
+    "Atlanta, GA": [
+      "Border Equipment"
+    ],
+    "Austin, TX": [
+      "Rent Equip",
+      "Stine Equipment"
+    ],
+    "Miami, FL": [
+      "Briggs Equipment"
+    ],
+    "Rehoboth, MA": [
+      "ATS Equipment"
+    ],
+    "Meridian, ID": [
+      "Western States Cat"
+    ],
+    "Huntsville (North), AL": [
+      "Robin Rents"
+    ],
+    "Alfred, ME": [
+      "MD Rental"
+    ],
+    "CORAOPOLIS, PA": [
+      "H&K EQUIPMENT INC"
+    ],
+    "San Bernardino, CA": [
+      "Ready Equipment Rental"
+    ],
+    "Birmingham, AL": [
+      "Cowin Equipment Company Inc."
+    ],
+    "El Paso, TX": [
+      "Frank's Supply Company"
+    ],
+    "New Windsor, NY": [
+      "Durants Tool Rentals"
+    ],
+    "Dallas Fort Worth, TX": [
+      "Discount Forklift"
+    ],
+    "Charleston, SC": [
+      "G&W Equipment"
+    ],
+    "Mount Vernon, NY": [
+      "Blakley Equipment Inc"
+    ],
+    "Maryland Heights, MO": [
+      "Central Power of St Louis MO"
+    ],
+    "Orangeburg, SC": [
+      "TEC Equipment Rental"
+    ],
+    "Sharonville, OH": [
+      "Art's Rental Equipment & Supply"
+    ],
+    "West Palm Beach, FL": [
+      "South Florida Equipment Rentals"
+    ],
+    "Abilene, TX": [
+      "V-Bar Equipment"
+    ],
+    "Ukiah, CA": [
+      "Defatte Equipment Rentals"
+    ],
+    "Cambridge, ON": [
+      "Atmosphere Rental Inc"
+    ],
+    "Oak Grove, MO": [
+      "Oak Grove Rentals"
+    ],
+    "Castaic, CA": [
+      "Rapid Rentals"
+    ],
+    "Altamonte Springs, FL": [
+      "Best Rental Centers Inc"
+    ],
+    "Bell Gardens, CA": [
+      "LGP Equipment Rentals"
+    ],
+    "Naperville, IL": [
+      "RP Rents"
+    ],
+    "Raleigh, NC": [
+      "Carolina Containers & Transport"
+    ],
+    "Las Vegas, NV": [
+      "Naumann Hobbs Material Handling"
+    ],
+    "Alma, MI": [
+      "Rent Rite"
+    ],
+    "Fitchburg, MA": [
+      "Superior Forklift Repair Inc."
+    ],
+    "Colton, CA": [
+      "Trinity Equipment Rentals"
+    ],
+    "Sterling, VA": [
+      "Carter Cat",
+      "D&B Rentals Sales & Service"
+    ],
+    "Lakeland, FL": [
+      "Alpha Equipment Services"
+    ],
+    "Bronx, NY": [
+      "Empire Tool Rental"
+    ],
+    "Delray Beach, FL": [
+      "Palm Beach Lift Trucks Inc",
+      "Palm Beach Equipment Rentals"
+    ],
+    "Barrie, ON": [
+      "Barrie Rent-All Inc"
+    ],
+    "Conroe, TX": [
+      "Diamond Back Rentals"
+    ],
+    "Odessa, TX": [
+      "Roper, Inc."
+    ],
+    "Ottawa, ON": [
+      "Dickie Moore Rentals"
+    ],
+    "North Plainfield, NJ": [
+      "Astro Rents"
+    ],
+    "Vaughan, ON": [
+      "Best Rental Services Inc"
+    ],
+    "Fairfield, NJ": [
+      "Jesco Inc."
+    ],
+    "St Rose, LA": [
+      "C & B Material Handling"
+    ],
+    "Bloomington, MN": [
+      "Forklifts of Minnesota Inc"
+    ],
+    "Midland, TX": [
+      "Premier Equipment Rentals Inc"
+    ],
+    "Maple Plain, MN": [
+      "Herc-U-Lift Inc"
+    ],
+    "Auburn, ME": [
+      "W.D. Matthews Machinery Co"
+    ],
+    "Redwood City, CA": [
+      "Eldorado Forklift Co",
+      "AAA Rentals"
+    ],
+    "Horsham, PA": [
+      "Eastern Highreach Company Inc."
+    ],
+    "Canton, MI": [
+      "Fraza"
+    ],
+    "Tolleson, AZ": [
+      "Westside Equipment LLC"
+    ],
+    "Cypress, TX": [
+      "CSI Scissor Lift Rentals"
+    ],
+    "San Angelo, TX": [
+      "Longhorn Equipment & Supply"
+    ],
+    "Loganville, GA": [
+      "Bulletproof Rentals"
+    ],
+    "Baltimore, MD": [
+      "Taylor Northeast"
+    ],
+    "Total Locations: 1": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Equipment Type": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Boom Lifts": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Scissor Lifts": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Forklifts": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Excavators": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Dozers": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Loaders": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Skid Steers": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "Telehandlers": [
+      "Beach City Lift",
+      "Rent City of Altus Inc"
+    ],
+    "New Hudson (West Detroit), MI": [
+      "AIS Construction Equipment Corp"
+    ],
+    "Inglewood, CA": [
+      "LAX Equipment Inc"
+    ],
+    "Winnipeg, MB": [
+      "Duron Equipment (Bobcat of Winn"
+    ],
+    "Carpinteria, CA": [
+      "Sun Coast Rentals"
+    ],
+    "Oklahoma City, OK": [
+      "Darr Equipment Co."
+    ],
+    "Grande Prairie, TX": [
+      "Rental Stop"
+    ],
+    "Kansas City, KS": [
+      "Gerken Rent-All"
+    ],
+    "Hamden, CT": [
+      "Tri-Lift Inc"
+    ],
+    "Dallas, TX": [
+      "EZ Equipment Rental"
+    ],
+    "Naples, FL": [
+      "The Equipment Source"
+    ],
+    "Indianapolis, IN": [
+      "BAM Rents"
+    ],
+    "Moses Lake, WA": [
+      "Pro Rentals & Sales"
+    ],
+    "Clearwater, FL": [
+      "Bulldog Equipment Rental & Supp"
+    ],
+    "Calgary, AB": [
+      "The Rental Guys"
+    ],
+    "Haltom City, TX": [
+      "Darr Equipment Co"
+    ],
+    "Russellville, AR": [
+      "Riggs Cat"
+    ],
+    "Rochester Hills, MI": [
+      "Chet's Rent All"
+    ],
+    "Lancaster, CA": [
+      "The Equipment Connection"
+    ],
+    "Murfreesboro, TN": [
+      "H&C Rents"
+    ],
+    "Terrell, TX": [
+      "U-Rent It Sales & Service HQ"
+    ],
+    "Lake Havau City, AZ": [
+      "Rattlesnake Rentals"
+    ],
+    "San Rafael, CA": [
+      "Cal-West Rentals, Inc"
+    ]
+  }
+}

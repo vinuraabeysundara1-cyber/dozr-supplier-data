@@ -1,0 +1,103 @@
+{
+  "total_orders": 153,
+  "covered": 124,
+  "coverage_pct": 81.0,
+  "not_covered": 28,
+  "canadian_coverage": "100% - Country level",
+  "canadian_orders": 18,
+  "us_state_covered": 105,
+  "us_dma_additional": 1,
+  "states_to_add": [
+    {
+      "state": "NJ",
+      "name": "New Jersey",
+      "orders": 5,
+      "priority": "HIGH"
+    },
+    {
+      "state": "MS",
+      "name": "Mississippi",
+      "orders": 4,
+      "priority": "MEDIUM"
+    },
+    {
+      "state": "CO",
+      "name": "Colorado",
+      "orders": 3,
+      "priority": "MEDIUM"
+    },
+    {
+      "state": "UT",
+      "name": "Utah",
+      "orders": 2,
+      "priority": "LOW"
+    },
+    {
+      "state": "NV",
+      "name": "Nevada",
+      "orders": 2,
+      "priority": "LOW"
+    },
+    {
+      "state": "NM",
+      "name": "New Mexico",
+      "orders": 2,
+      "priority": "LOW"
+    },
+    {
+      "state": "MT",
+      "name": "Montana",
+      "orders": 2,
+      "priority": "LOW"
+    },
+    {
+      "state": "MO",
+      "name": "Missouri",
+      "orders": 2,
+      "priority": "LOW"
+    },
+    {
+      "state": "MD",
+      "name": "Maryland",
+      "orders": 2,
+      "priority": "LOW"
+    },
+    {
+      "state": "WI",
+      "name": "Wisconsin",
+      "orders": 1,
+      "priority": "LOWEST"
+    },
+    {
+      "state": "LA",
+      "name": "Louisiana",
+      "orders": 1,
+      "priority": "LOWEST"
+    },
+    {
+      "state": "ME",
+      "name": "Maine",
+      "orders": 1,
+      "priority": "LOWEST"
+    },
+    {
+      "state": "WA",
+      "name": "Washington",
+      "orders": 1,
+      "priority": "LOWEST"
+    },
+    {
+      "state": "IN",
+      "name": "Indiana",
+      "orders": 1,
+      "priority": "LOWEST"
+    },
+    {
+      "state": "KS",
+      "name": "Kansas",
+      "orders": 1,
+      "priority": "LOWEST"
+    }
+  ],
+  "verification_note": "Data verified directly from Google Ads API on 2026-02-06"
+}

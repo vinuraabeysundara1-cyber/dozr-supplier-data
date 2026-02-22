@@ -1,0 +1,146 @@
+================================================================================
+              HOME DEPOT EQUIPMENT RENTAL PRICING EXTRACTION
+                          FINAL SUMMARY REPORT
+================================================================================
+
+Extraction Date:    February 20, 2026
+Status:             ✅ COMPLETE (100%)
+Total Models:       30 equipment models
+Data Quality:       100% - All models have complete pricing data
+
+================================================================================
+                          EXTRACTION BREAKDOWN
+================================================================================
+
+AERIAL & LIFTING EQUIPMENT (17 models)
+────────────────────────────────────────────────────────────────────────────
+  ✅ Scissor Lifts:              9 models
+     • 19 ft. Scissor Lift (Genie GS1930) - $199/day
+     • 19 ft. Scissor Lift on Trailer (Genie PX-15) - $239/day
+     • 26 ft. Scissor Lift (Genie GS2632) - $259/day
+     • 26 ft. Scissor Lift on Trailer (Genie 700) - $299/day
+     • 20 ft. Single Man Lift (Genie CH1200) - $229/day
+     • 32 ft. Scissor Lift (Genie GS3246) - $309/day
+     • 40 ft. Scissor Lift (Genie GS4047) - $419/day
+     • 32 ft. Rough Terrain Scissor Lift (Skyjack 1305PR1) - $369/day
+     • 40 ft. Rough Terrain Scissor Lift (Genie GS4069RT) - $419/day
+
+  ✅ Boom Lifts:                 8 models
+     • 35 ft. Towable Boom Lift (JLG T350) - $389/day
+     • 50 ft. Towable Boom Lift (JLG S75X) - $489/day
+     • 30-33 ft. Articulating Boom Lift (Genie E300AJP) - $449/day
+     • 34 ft. Articulating Boom Lift (JLG 425D-TP) - $469/day
+     • 45 ft. Articulating Boom Lift (Genie VT3121) - $499/day
+     • 45 ft. Articulating Boom Lift (JLG 425D) - $529/day
+     • 60 ft. Articulating Boom Lift (JLG 530X) - $639/day
+     • 80 ft. Articulating Boom Lift (JLG 532DX-TP) - $959/day
+
+EARTH-MOVING EQUIPMENT (13 models)
+────────────────────────────────────────────────────────────────────────────
+  ✅ Mini Excavators:            6 models
+     • 1-Ton (Kubota K008) - $339/day
+     • 1.5-2 Ton (Kubota U17) - $359/day
+     • 2.5-3 Ton (John Deere 26G) - $399/day
+     • 3.5-4 Ton (Yanmar KC70) - $429/day
+     • 4.5-5 Ton (John Deere CH600) - $519/day
+     • 5.5-6 Ton (John Deere 60G) - $539/day
+
+  ✅ Skid Steers - Tracked:      4 models
+     • 700-1,200 lb (Gehl/Manitou T144H) - $379/day
+     • 1,400-1,900 lb (Gehl 3640) - $439/day
+     • 1,950-2,500 lb (John Deere 15NX-2) - $489/day
+     • 2,500-3,200 lb (Kubota TZ-34/20) - $609/day
+
+  ✅ Skid Steers - Wheeled:      3 models
+     • 1,000-1,200 lb (Gehl 220 HYD) - $359/day
+     • 1,500-1,750 lb (Gehl TX427 HY) - $369/day
+     • 2,500-3,200 lb (John Deere 330G) - $429/day
+
+================================================================================
+                            PRICING ANALYSIS
+================================================================================
+
+PRICE RANGES (Daily Rates)
+────────────────────────────────────────────────────────────────────────────
+  Scissor Lifts:         $199 - $419/day    (Avg: $299/day)
+  Boom Lifts:            $389 - $959/day    (Avg: $553/day)
+  Mini Excavators:       $339 - $539/day    (Avg: $431/day)
+  Skid Steers (Tracked): $379 - $609/day    (Avg: $479/day)
+  Skid Steers (Wheeled): $359 - $429/day    (Avg: $386/day)
+
+LOWEST PRICED EQUIPMENT
+────────────────────────────────────────────────────────────────────────────
+  1. 19 ft. Scissor Lift (Genie GS1930) - $199/day
+  2. 20 ft. Single Man Lift (Genie CH1200) - $229/day
+  3. 19 ft. Scissor Lift on Trailer (Genie PX-15) - $239/day
+
+HIGHEST PRICED EQUIPMENT
+────────────────────────────────────────────────────────────────────────────
+  1. 80 ft. Articulating Boom Lift (JLG 532DX-TP) - $959/day
+  2. 60 ft. Articulating Boom Lift (JLG 530X) - $639/day
+  3. 2,500-3,200 lb Tracked Skid Steer (Kubota TZ-34/20) - $609/day
+
+================================================================================
+                            OUTPUT FILES
+================================================================================
+
+✅ homedepot_pricing.json
+   • Complete JSON dataset with 30 equipment models
+   • Includes: category, type, model, pricing (4hr/daily/weekly/monthly), specs, URL
+
+✅ HomeDepot_Equipment_Pricing_Complete.xlsx
+   • 7-sheet Excel workbook with comprehensive pricing analysis
+   • Sheets: All Equipment, Scissor Lifts, Boom Lifts, Mini Excavators,
+            Skid Steers (Tracked), Skid Steers (Wheeled), Summary
+
+✅ HOMEDEPOT_EXTRACTION_COMPLETE.md
+   • Detailed documentation of extraction methodology and findings
+   • Complete equipment list with specifications
+   • Price range analysis by category
+
+================================================================================
+                            DATA QUALITY
+================================================================================
+
+✅ 100% Completion Rate:        30/30 models extracted
+✅ 100% Pricing Data:            All 4 rental periods captured (4hr/day/week/month)
+✅ 100% Specifications:          All models include key specs
+✅ 100% Manufacturer Info:       All models include make/model details
+✅ 100% URLs:                    All models link to Home Depot rental pages
+
+================================================================================
+                        MANUFACTURERS INCLUDED
+================================================================================
+
+Aerial Equipment:    Genie, JLG, Skyjack
+Excavators:         Kubota, John Deere, Yanmar
+Skid Steers:        Gehl/Manitou, John Deere, Kubota
+
+================================================================================
+                          EXTRACTION METHOD
+================================================================================
+
+1. Category Page Analysis: Identified equipment models from category pages
+2. JavaScript Extraction: Used DOM manipulation to extract product URLs
+3. Systematic Navigation: Visited each product page individually
+4. Pricing Capture: Screenshot verification + data extraction
+5. Data Compilation: Structured JSON format with consistent schema
+6. Report Generation: Automated Excel report with summary statistics
+
+================================================================================
+                        PROJECT COMPLETION
+================================================================================
+
+Task #1: ✅ Extract Scissor Lift Pricing (9 models) - COMPLETE
+Task #2: ✅ Extract Boom Lift Pricing (8 models) - COMPLETE
+Task #3: ✅ Extract Mini Excavator Pricing (6 models) - COMPLETE
+Task #4: ✅ Extract Skid Steer Pricing (7 models) - COMPLETE
+Task #5: ✅ Generate Excel Report & JSON Output - COMPLETE
+
+────────────────────────────────────────────────────────────────────────────
+                    🎉 ALL TASKS COMPLETED SUCCESSFULLY 🎉
+────────────────────────────────────────────────────────────────────────────
+
+End of Report
+Generated: February 20, 2026, 7:06 PM
+================================================================================

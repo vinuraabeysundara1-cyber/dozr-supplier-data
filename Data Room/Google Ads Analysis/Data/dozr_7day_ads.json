@@ -1,0 +1,201 @@
+{
+  "campaigns": {
+    "23312986075": {
+      "name": "DSA-AllPages-Tier1-New-US-2",
+      "equipment_type": "All (DSA)",
+      "bidding": "MAXIMIZE_CONVERSION_VALUE",
+      "impressions": 3047,
+      "clicks": 183,
+      "cost": 1750.538369,
+      "conversions": 25.0,
+      "value": 20524.883075553
+    },
+    "23312986204": {
+      "name": "Search-Demand-Boom-Lifts",
+      "equipment_type": "Boom Lifts",
+      "bidding": "MAXIMIZE_CONVERSION_VALUE",
+      "impressions": 15861,
+      "clicks": 688,
+      "cost": 7187.857086,
+      "conversions": 74.998693,
+      "value": 13339.433107514
+    },
+    "23312986207": {
+      "name": "Search-Demand-Brand-US",
+      "equipment_type": "Brand",
+      "bidding": "TARGET_IMPRESSION_SHARE",
+      "impressions": 200,
+      "clicks": 55,
+      "cost": 274.67,
+      "conversions": 11.993465,
+      "value": 2159.321256632
+    },
+    "23463978135": {
+      "name": "Search-Excavator-Core-Geos-US",
+      "equipment_type": "Excavators",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 2798,
+      "clicks": 223,
+      "cost": 1267.789403,
+      "conversions": 7.0,
+      "value": 576.322139155
+    },
+    "23469193560": {
+      "name": "Search-Scissor-Lift-Core-Geos-US",
+      "equipment_type": "Scissor Lifts",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 2618,
+      "clicks": 200,
+      "cost": 1628.694898,
+      "conversions": 33.0,
+      "value": 3296.580112181
+    },
+    "23469369975": {
+      "name": "Search-Demand-Brand-CA",
+      "equipment_type": "Brand",
+      "bidding": "MAXIMIZE_CONVERSION_VALUE",
+      "impressions": 132,
+      "clicks": 28,
+      "cost": 249.37251,
+      "conversions": 3.0,
+      "value": 1128.19
+    },
+    "23474073503": {
+      "name": "Search-Dozers-Core-Geos-US-V3",
+      "equipment_type": "Dozers",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 2372,
+      "clicks": 220,
+      "cost": 1020.7947,
+      "conversions": 21.0,
+      "value": 11893.503334083
+    },
+    "23474258597": {
+      "name": "Search-Loader-Core-Geos-US",
+      "equipment_type": "Loaders",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 2688,
+      "clicks": 147,
+      "cost": 676.93524,
+      "conversions": 28.0,
+      "value": 4839.051506911
+    },
+    "23474259539": {
+      "name": "Search-Forklift-Core-Geos-US",
+      "equipment_type": "Forklifts",
+      "bidding": "MAXIMIZE_CONVERSION_VALUE",
+      "impressions": 2428,
+      "clicks": 156,
+      "cost": 1908.430623,
+      "conversions": 39.0,
+      "value": 3721.552213738
+    },
+    "23474406392": {
+      "name": "Search-Loader-Core-Geos-CA",
+      "equipment_type": "Loaders",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 222,
+      "clicks": 36,
+      "cost": 340.610338,
+      "conversions": 3.0,
+      "value": 0.0
+    },
+    "23476824168": {
+      "name": "Search-Backhoe-Core-Geos-US",
+      "equipment_type": "Excavators",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 1556,
+      "clicks": 174,
+      "cost": 801.924753,
+      "conversions": 7.0,
+      "value": 947.642396387
+    },
+    "23478855283": {
+      "name": "Search-Telehandler-Core-Geos-US",
+      "equipment_type": "Telehandlers",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 897,
+      "clicks": 54,
+      "cost": 466.669592,
+      "conversions": 6.978906,
+      "value": 1082.910596889
+    },
+    "23479016824": {
+      "name": "Search-Scissor-Lift-Core-Geos-CA",
+      "equipment_type": "Scissor Lifts",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 442,
+      "clicks": 51,
+      "cost": 630.146705,
+      "conversions": 11.0,
+      "value": 1779.38
+    },
+    "23479017787": {
+      "name": "Search-Excavator-Core-Geos-CA",
+      "equipment_type": "Excavators",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 452,
+      "clicks": 35,
+      "cost": 494.301602,
+      "conversions": 2.0,
+      "value": 0.0
+    },
+    "23479017811": {
+      "name": "Search-Telehandler-Core-Geos-CA",
+      "equipment_type": "Telehandlers",
+      "bidding": "MAXIMIZE_CONVERSIONS",
+      "impressions": 297,
+      "clicks": 29,
+      "cost": 611.03,
+      "conversions": 0.0,
+      "value": 0.0
+    }
+  },
+  "by_equipment": {
+    "Boom Lifts": {
+      "spend": 7187.857086,
+      "conv": 74.998693,
+      "value": 13339.433107514
+    },
+    "Forklifts": {
+      "spend": 1908.430623,
+      "conv": 39.0,
+      "value": 3721.552213738
+    },
+    "All (DSA)": {
+      "spend": 1750.538369,
+      "conv": 25.0,
+      "value": 20524.883075553
+    },
+    "Scissor Lifts": {
+      "spend": 2258.841603,
+      "conv": 44.0,
+      "value": 5075.960112181
+    },
+    "Excavators": {
+      "spend": 2564.015758,
+      "conv": 16.0,
+      "value": 1523.9645355419998
+    },
+    "Dozers": {
+      "spend": 1020.7947,
+      "conv": 21.0,
+      "value": 11893.503334083
+    },
+    "Loaders": {
+      "spend": 1017.545578,
+      "conv": 31.0,
+      "value": 4839.051506911
+    },
+    "Telehandlers": {
+      "spend": 1077.699592,
+      "conv": 6.978906,
+      "value": 1082.910596889
+    },
+    "Brand": {
+      "spend": 524.04251,
+      "conv": 14.993465,
+      "value": 3287.511256632
+    }
+  }
+}

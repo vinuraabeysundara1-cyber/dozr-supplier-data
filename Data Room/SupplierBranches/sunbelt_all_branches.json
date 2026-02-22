@@ -1,0 +1,1538 @@
+{
+  "supplier": "Sunbelt Rentals",
+  "extraction_date": "2026-02-19",
+  "extraction_method": "Web search aggregation (browser extension unavailable)",
+  "data_sources": [
+    "Yelp business listings",
+    "ScrapeHero location reports",
+    "Sunbelt Rentals official website references"
+  ],
+  "total_branches_estimated": 1260,
+  "branches_captured": 156,
+  "notes": [
+    "Browser extension was disconnected during extraction",
+    "Data compiled from web search results across multiple sources",
+    "ScrapeHero reports 1,260 Sunbelt Rentals locations in US as of Jan 2026",
+    "Texas has the most locations with 146 branches (11% of total)",
+    "OMS has 707 branches (0 enabled) across 49 states - missing AK and VT",
+    "Full extraction requires direct website scraping when browser is available"
+  ],
+  "state_distribution": {
+    "Texas": {"estimated_count": 146, "percentage": "11%"},
+    "California": {"estimated_count": 126, "percentage": "10%"},
+    "Florida": {"estimated_count": 113, "percentage": "9%"}
+  },
+  "location_types": [
+    "General Equipment & Tools",
+    "Climate Control Services",
+    "Pump Solutions",
+    "Power & HVAC Services",
+    "Industrial Services",
+    "Flooring Solutions",
+    "Scaffolding",
+    "Trench Safety",
+    "Temporary Structures"
+  ],
+  "branches": [
+    {
+      "branch_name": "Sunbelt Rentals Houston - Westpark",
+      "address": "10721 Westpark Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77042",
+      "phone": "(832) 242-0200",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Houston - Hempstead",
+      "address": "12416 Hempstead Rd",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Houston - Lamar",
+      "address": "3805 Lamar St",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77023",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Houston - Kopman",
+      "address": "8350 Kopman Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Dallas - Stemmons",
+      "address": "11422 N Stemmons Fwy",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75229",
+      "phone": "(972) 484-6767",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Dallas - Hampton",
+      "address": "9210 S Hampton Rd",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Austin - North",
+      "address": "16256 N Interstate 35",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78728",
+      "phone": "(512) 676-3393",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Austin - South",
+      "address": "8300 S Interstate 35",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78745",
+      "phone": "(512) 291-0065",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals San Antonio - I-10",
+      "address": "5446 Interstate 10 E",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78219",
+      "phone": "(210) 648-8000",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals San Antonio - Austin Hwy",
+      "address": "1802 Austin Hwy",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Conroe",
+      "address": "1314 N Fm 3083 Rd E",
+      "city": "Conroe",
+      "state": "TX",
+      "zip": "77303",
+      "phone": "(936) 760-3349",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Texas City",
+      "address": "3524 1st Ave S",
+      "city": "Texas City",
+      "state": "TX",
+      "zip": "77590",
+      "phone": "(409) 942-4222",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals New Braunfels",
+      "address": "9000 North IH 35",
+      "city": "New Braunfels",
+      "state": "TX",
+      "zip": "78130",
+      "phone": "(512) 392-4555",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Los Angeles",
+      "address": "3311 N San Fernando Rd",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90065",
+      "phone": "(323) 255-0916",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals San Diego",
+      "address": "3860 Sherman St",
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92110",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals West Sacramento",
+      "address": "3751 Commerce Dr",
+      "city": "West Sacramento",
+      "state": "CA",
+      "zip": "95691",
+      "phone": "(916) 372-2555",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals West Sacramento - Flooring",
+      "address": "885 Stillwater Rd, Ste 300",
+      "city": "West Sacramento",
+      "state": "CA",
+      "zip": "95605",
+      "phone": "(916) 503-8942",
+      "services": "Flooring Solutions"
+    },
+    {
+      "branch_name": "Sunbelt Rentals San Francisco",
+      "address": "2065 Oakdale Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Miami",
+      "address": "6550 NW 77th Ct",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33166",
+      "phone": "(305) 470-9277",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tampa - MLK",
+      "address": "8406 E Dr Martin Luther King Jr Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33610",
+      "phone": "(813) 664-8581",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tampa - US 301",
+      "address": "7520 US Highway 301 N",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Orlando - Landstreet",
+      "address": "600 E Landstreet Rd",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32824",
+      "phone": "(407) 251-4313",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Orlando - Jetport",
+      "address": "1272 Jetport Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "32809",
+      "phone": "(407) 855-0050",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Jacksonville - Phillips Hwy",
+      "address": "5415 Phillips Hwy",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32207",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Jacksonville - Oldfield Crossing",
+      "address": "4040 Oldfield Crossing Dr Suite 199",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32223",
+      "phone": "(904) 260-8894",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Jacksonville - Blasius",
+      "address": "11004 Blasius Rd",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Jacksonville - Zoo Pkwy",
+      "address": "301 Zoo Pkwy",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Atlanta - Howell Mill",
+      "address": "1450 Howell Mill Rd NW",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30318",
+      "phone": "(404) 367-0604",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Atlanta - Ralph McGill",
+      "address": "723 Ralph McGill Blvd NE",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30312",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Hiram",
+      "address": "6228 Wendy Bagwell Pkwy",
+      "city": "Hiram",
+      "state": "GA",
+      "zip": "30141",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Snellville",
+      "address": "1615 Scenic Hwy N, Suite 100",
+      "city": "Snellville",
+      "state": "GA",
+      "zip": "30078",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals LaGrange",
+      "address": "102 Fort Dr",
+      "city": "LaGrange",
+      "state": "GA",
+      "zip": "30241",
+      "phone": "(678) 825-3342",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Charlotte - McMullen Creek",
+      "address": "10627 McMullen Creek Pkwy",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28226",
+      "phone": "(704) 544-0818",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Charlotte - Statesville",
+      "address": "7205 Statesville Rd",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Raleigh - Chapel Hill Rd",
+      "address": "5701 Chapel Hill Rd",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Raleigh - Capital Blvd",
+      "address": "3116 Capital Blvd",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Wake Forest",
+      "address": "709 Finger Lakes Dr",
+      "city": "Wake Forest",
+      "state": "NC",
+      "zip": "27587",
+      "phone": "(919) 876-9010",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Greensboro",
+      "address": "102 N Swing Road",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Pineville",
+      "address": "11210 Downs Rd",
+      "city": "Pineville",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Huntersville",
+      "address": "16824 Statesville Rd",
+      "city": "Huntersville",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Indian Trail",
+      "address": "1009 Technology Dr",
+      "city": "Indian Trail",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Winterville",
+      "address": "531 W Fire Tower Rd",
+      "city": "Winterville",
+      "state": "NC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Cleveland",
+      "address": "13800 Brookpark Rd",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip": "44135",
+      "phone": "(216) 362-0300",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Columbus - Polaris",
+      "address": "1461 Polaris Pkwy",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43240",
+      "phone": "(614) 848-4075",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Columbus - Mound St",
+      "address": "1275 W Mound St",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43223",
+      "phone": "(614) 341-9770",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Columbus - Morse Crossing",
+      "address": "4149 Morse Crossing",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Cincinnati - Colerain",
+      "address": "10221 Colerain Ave",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45251",
+      "phone": "(513) 741-6800",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Cincinnati - Spring Grove",
+      "address": "4631 Spring Grove Ave",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Peninsula",
+      "address": "5162 Akron Cleveland Rd",
+      "city": "Peninsula",
+      "state": "OH",
+      "zip": "44264",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Springfield",
+      "address": "1609 N Bechtle Ave",
+      "city": "Springfield",
+      "state": "OH",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Pittsburgh - Babcock",
+      "address": "3038 Babcock Blvd",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15237",
+      "phone": "(412) 931-6655",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Pittsburgh - Rochester",
+      "address": "639 Rochester Rd",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Philadelphia",
+      "address": "7700 Holstein Ave",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19153",
+      "phone": "(215) 492-4995",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Phoenix - Indian School",
+      "address": "4105 W Indian School Rd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85019",
+      "phone": "(602) 269-3251",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Phoenix - 15th St",
+      "address": "2401 N 15th St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "",
+      "phone": "",
+      "services": "Scaffolding"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Phoenix - Melinda Ln",
+      "address": "2202 W Melinda Ln",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85027",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tucson - Fort Lowell",
+      "address": "930 E Fort Lowell Rd",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85719",
+      "phone": "(520) 624-6601",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tucson - Brosius",
+      "address": "6850 S Brosius Ave",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85756",
+      "phone": "(520) 416-7907",
+      "services": "Party Supplies"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tempe",
+      "address": "2066 E University Dr",
+      "city": "Tempe",
+      "state": "AZ",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Gilbert",
+      "address": "1313 E Baseline Rd",
+      "city": "Gilbert",
+      "state": "AZ",
+      "zip": "",
+      "phone": "",
+      "services": "Farming Equipment"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Centennial",
+      "address": "6790 S Dawson Cir",
+      "city": "Centennial",
+      "state": "CO",
+      "zip": "80112",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Littleton",
+      "address": "13109 US Highway 85 N",
+      "city": "Littleton",
+      "state": "CO",
+      "zip": "80125",
+      "phone": "(720) 213-0222",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Boulder",
+      "address": "5401 Pearl Pkwy",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80301",
+      "phone": "(303) 449-2050",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Colorado Springs",
+      "address": "5525 E. Platte Ave",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Broomfield",
+      "address": "12055 Perry St",
+      "city": "Broomfield",
+      "state": "CO",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Seattle",
+      "address": "9230 4th Ave S",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Lynnwood",
+      "address": "2224 196th St SW",
+      "city": "Lynnwood",
+      "state": "WA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Woodinville",
+      "address": "19265 Woodinville Snohomish Rd NE",
+      "city": "Woodinville",
+      "state": "WA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Redmond",
+      "address": "17950 Redmond Way",
+      "city": "Redmond",
+      "state": "WA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Richmond - Broad St",
+      "address": "12570 Broad Street Rd",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23233",
+      "phone": "(804) 364-3026",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Richmond - Burge Ave",
+      "address": "9400 Burge Ave",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Virginia Beach",
+      "address": "4750 Baxter Rd",
+      "city": "Virginia Beach",
+      "state": "VA",
+      "zip": "23462",
+      "phone": "(757) 499-1338",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Chesapeake - Executive Blvd",
+      "address": "1012 Executive Blvd",
+      "city": "Chesapeake",
+      "state": "VA",
+      "zip": "23320",
+      "phone": "(757) 436-2403",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Chesapeake - Bainbridge",
+      "address": "4419 Bainbridge Blvd",
+      "city": "Chesapeake",
+      "state": "VA",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Newport News",
+      "address": "745 Industrial Park Dr",
+      "city": "Newport News",
+      "state": "VA",
+      "zip": "23608",
+      "phone": "(757) 877-1323",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals McLean",
+      "address": "1552 Spring Hill Rd",
+      "city": "McLean",
+      "state": "VA",
+      "zip": "22102",
+      "phone": "(703) 356-6262",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Chicago",
+      "address": "2311 S Blue Island Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60608",
+      "phone": "(773) 254-6027",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Countryside",
+      "address": "6260 Joliet Rd",
+      "city": "Countryside",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Champaign",
+      "address": "1401 N Mattis Ave",
+      "city": "Champaign",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Joliet",
+      "address": "2211 Oak Leaf St",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Moline",
+      "address": "2221 5th Ave",
+      "city": "Moline",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Mount Prospect",
+      "address": "1907 S Busse Rd",
+      "city": "Mount Prospect",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Aurora",
+      "address": "2605 Beverly Dr",
+      "city": "Aurora",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Bloomington IL",
+      "address": "1302 Martin Luther King Dr",
+      "city": "Bloomington",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals East Peoria",
+      "address": "1601 N Main St",
+      "city": "East Peoria",
+      "state": "IL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals DeWitt MI",
+      "address": "14485 S US Highway 27",
+      "city": "DeWitt",
+      "state": "MI",
+      "zip": "48820",
+      "phone": "(517) 487-3055",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Ypsilanti",
+      "address": "4051 Carpenter Rd",
+      "city": "Ypsilanti",
+      "state": "MI",
+      "zip": "48197",
+      "phone": "(734) 971-8330",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Sterling Heights",
+      "address": "36000 Mound Rd",
+      "city": "Sterling Heights",
+      "state": "MI",
+      "zip": "48310",
+      "phone": "(586) 698-9515",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Novi",
+      "address": "48595 Grand River Ave",
+      "city": "Novi",
+      "state": "MI",
+      "zip": "48374",
+      "phone": "(248) 348-7270",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Taylor",
+      "address": "6677 Telegraph Rd",
+      "city": "Taylor",
+      "state": "MI",
+      "zip": "48180",
+      "phone": "(313) 291-3333",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Nashville - Lebanon Pike",
+      "address": "1805 Lebanon Pike",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37210",
+      "phone": "(615) 242-2030",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Nashville - 44th Ave",
+      "address": "920 44th Ave N",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Memphis",
+      "address": "4517 S Mendenhall Rd",
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38141",
+      "phone": "(901) 312-2331",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Madison TN",
+      "address": "1201 Northgate Business Pkwy",
+      "city": "Madison",
+      "state": "TN",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Indianapolis - Beachway",
+      "address": "975 Beachway Dr",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Indianapolis - Harding",
+      "address": "4949 S Harding St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46217",
+      "phone": "(317) 782-1039",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Indianapolis - 25th St",
+      "address": "8801A E 25th St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Bloomington IN",
+      "address": "5092 S Production Dr",
+      "city": "Bloomington",
+      "state": "IN",
+      "zip": "47403",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Columbus IN",
+      "address": "3069 N National Rd",
+      "city": "Columbus",
+      "state": "IN",
+      "zip": "47201",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Noblesville",
+      "address": "18000 Cumberland Rd",
+      "city": "Noblesville",
+      "state": "IN",
+      "zip": "46060",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Evansville",
+      "address": "1015 E Columbia St",
+      "city": "Evansville",
+      "state": "IN",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Baltimore - Pulaski",
+      "address": "7605 Pulaski Hwy",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21237",
+      "phone": "(410) 866-9302",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Baltimore - Harford",
+      "address": "8510 Old Harford Rd",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21234",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Boston",
+      "address": "71 Topeka St",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02118",
+      "phone": "(617) 602-4278",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Woburn",
+      "address": "195 New Boston St",
+      "city": "Woburn",
+      "state": "MA",
+      "zip": "01801",
+      "phone": "(781) 932-0310",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Shrewsbury",
+      "address": "800 Hartford Tpke",
+      "city": "Shrewsbury",
+      "state": "MA",
+      "zip": "01545",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Worcester",
+      "address": "254 SW Cutoff",
+      "city": "Worcester",
+      "state": "MA",
+      "zip": "01604",
+      "phone": "(508) 791-2569",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Hyde Park",
+      "address": "1660 Hyde Park Ave",
+      "city": "Hyde Park",
+      "state": "MA",
+      "zip": "02136",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Minneapolis",
+      "address": "900 E Hennepin Ave",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "",
+      "phone": "(612) 486-4111",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals St. Charles MO",
+      "address": "1300 Charlestown Industrial Dr",
+      "city": "Saint Charles",
+      "state": "MO",
+      "zip": "",
+      "phone": "(636) 946-7700",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals North Kansas City",
+      "address": "1040 Burlington Street",
+      "city": "North Kansas City",
+      "state": "MO",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tuscaloosa",
+      "address": "5100 Old Greensboro Rd",
+      "city": "Tuscaloosa",
+      "state": "AL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Theodore",
+      "address": "5905 Rangeline Rd",
+      "city": "Theodore",
+      "state": "AL",
+      "zip": "36582",
+      "phone": "(251) 408-0800",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Birmingham",
+      "address": "2613 2nd Ave S",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "35233",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Birmingham - Edwards Lake",
+      "address": "1887 Edwards Lake Rd",
+      "city": "Birmingham",
+      "state": "AL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Montgomery",
+      "address": "4223 Troy Hwy",
+      "city": "Montgomery",
+      "state": "AL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Pelham",
+      "address": "160 Commerce Dr",
+      "city": "Pelham",
+      "state": "AL",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Huntsville",
+      "address": "3606 Jack Kendall Way NW",
+      "city": "Huntsville",
+      "state": "AL",
+      "zip": "35806",
+      "phone": "(938) 900-8753",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Mandeville",
+      "address": "68583 Highway 59",
+      "city": "Mandeville",
+      "state": "LA",
+      "zip": "70471",
+      "phone": "(985) 249-6044",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Fort Mill",
+      "address": "2341 Deerfield Dr",
+      "city": "Fort Mill",
+      "state": "SC",
+      "zip": "29715",
+      "phone": "(803) 578-5811",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals North Charleston - King St",
+      "address": "1647 King Street Extension",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals North Charleston - Ashley Phosphate",
+      "address": "3430 Ashley Phosphate Rd",
+      "city": "North Charleston",
+      "state": "SC",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Carlstadt",
+      "address": "125 Commercial Ave",
+      "city": "Carlstadt",
+      "state": "NJ",
+      "zip": "07072",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Perth Amboy",
+      "address": "600 Route 440 Connection",
+      "city": "Perth Amboy",
+      "state": "NJ",
+      "zip": "08861",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Maple Shade",
+      "address": "3090 Route 73 N",
+      "city": "Maple Shade",
+      "state": "NJ",
+      "zip": "08052",
+      "phone": "(856) 779-2772",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Swedesboro",
+      "address": "223 Paulsboro Rd",
+      "city": "Swedesboro",
+      "state": "NJ",
+      "zip": "08085",
+      "phone": "(856) 467-9555",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Hicksville NY",
+      "address": "40 Charlotte Ave",
+      "city": "Hicksville",
+      "state": "NY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Spring Valley",
+      "address": "77 Route 59 E",
+      "city": "Spring Valley",
+      "state": "NY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Rochester NY",
+      "address": "788 W Ridge Rd",
+      "city": "Rochester",
+      "state": "NY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Henderson NV",
+      "address": "175 Pacific Center Dr",
+      "city": "Henderson",
+      "state": "NV",
+      "zip": "89074",
+      "phone": "(702) 644-3555",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Salt Lake City - 2400 S",
+      "address": "55 E 2400 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84115",
+      "phone": "(801) 486-0055",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Salt Lake City - 2100 S",
+      "address": "1555 W 2100 S",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Farr West",
+      "address": "1548 N 2000 W",
+      "city": "Farr West",
+      "state": "UT",
+      "zip": "84404",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Orem",
+      "address": "48 North 1330 West",
+      "city": "Orem",
+      "state": "UT",
+      "zip": "84057",
+      "phone": "(801) 224-7342",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Saratoga Springs",
+      "address": "2196 N Redwood Rd",
+      "city": "Saratoga Springs",
+      "state": "UT",
+      "zip": "84045",
+      "phone": "(801) 331-7000",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Alamogordo",
+      "address": "1317 E 1st St",
+      "city": "Alamogordo",
+      "state": "NM",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Albuquerque",
+      "address": "1924 2nd St NW",
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Portland - Killingsworth",
+      "address": "7610 NE Killingsworth St",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97218",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Shepherdsville",
+      "address": "550 Sparrow Dr",
+      "city": "Shepherdsville",
+      "state": "KY",
+      "zip": "40165",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Bowling Green KY",
+      "address": "3302 Industrial Dr",
+      "city": "Bowling Green",
+      "state": "KY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Louisville - Bashford",
+      "address": "3505 Bashford Ave",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Louisville - Plantside",
+      "address": "2225 Plantside Dr",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Lexington",
+      "address": "1160 E New Circle Rd",
+      "city": "Lexington",
+      "state": "KY",
+      "zip": "40505",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Ashland KY",
+      "address": "12501 Paul Coffey Blvd",
+      "city": "Ashland",
+      "state": "KY",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Tulsa",
+      "address": "14139 E Admiral Pl",
+      "city": "Tulsa",
+      "state": "OK",
+      "zip": "74116",
+      "phone": "(918) 234-7368",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Yukon",
+      "address": "11201 NW 10th St",
+      "city": "Yukon",
+      "state": "OK",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Lenexa",
+      "address": "9101 Rosehill Rd",
+      "city": "Lenexa",
+      "state": "KS",
+      "zip": "66215",
+      "phone": "(913) 307-0212",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Des Moines - Power HVAC",
+      "address": "5330 NE 22nd St",
+      "city": "Des Moines",
+      "state": "IA",
+      "zip": "50313",
+      "phone": "(515) 400-8966",
+      "services": "Power & HVAC"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Grimes",
+      "address": "1500 SE 19th St",
+      "city": "Grimes",
+      "state": "IA",
+      "zip": "50111",
+      "phone": "(515) 706-6951",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Lincoln NE",
+      "address": "5450 Alvo Rd",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "",
+      "phone": "",
+      "services": "HVAC"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Hastings NE",
+      "address": "",
+      "city": "Hastings",
+      "state": "NE",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Ocean Springs",
+      "address": "3412 Bienville Blvd",
+      "city": "Ocean Springs",
+      "state": "MS",
+      "zip": "39564",
+      "phone": "(228) 872-6022",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Fairmont WV",
+      "address": "",
+      "city": "Fairmont",
+      "state": "WV",
+      "zip": "",
+      "phone": "(304) 363-7918",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Dover DE",
+      "address": "724 S West St",
+      "city": "Dover",
+      "state": "DE",
+      "zip": "19904",
+      "phone": "(302) 674-1177",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals North Hampton NH",
+      "address": "170 Lafayette Rd",
+      "city": "North Hampton",
+      "state": "NH",
+      "zip": "03862",
+      "phone": "(603) 964-5422",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Manchester NH",
+      "address": "660 Gold Street",
+      "city": "Manchester",
+      "state": "NH",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Bangor ME",
+      "address": "1216 Hammond St",
+      "city": "Bangor",
+      "state": "ME",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Meridian ID",
+      "address": "483 E Franklin Rd",
+      "city": "Meridian",
+      "state": "ID",
+      "zip": "",
+      "phone": "",
+      "services": "Farming Equipment"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Laramie WY",
+      "address": "1257 N 4th St",
+      "city": "Laramie",
+      "state": "WY",
+      "zip": "82072",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Kapolei HI",
+      "address": "91-255 Hanua St",
+      "city": "Kapolei",
+      "state": "HI",
+      "zip": "96707",
+      "phone": "(808) 693-8771",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Kona",
+      "address": "73-5564 Olowalu St, Ste 1160",
+      "city": "Kailua-Kona",
+      "state": "HI",
+      "zip": "96740",
+      "phone": "(808) 331-0620",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Honolulu",
+      "address": "1038 Ulupono St",
+      "city": "Honolulu",
+      "state": "HI",
+      "zip": "96819",
+      "phone": "(808) 650-6464",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Kahului",
+      "address": "273 Dairy Rd",
+      "city": "Kahului",
+      "state": "HI",
+      "zip": "96732",
+      "phone": "(808) 873-2100",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Hilo",
+      "address": "456 Kalanianaole St",
+      "city": "Hilo",
+      "state": "HI",
+      "zip": "",
+      "phone": "",
+      "services": "General Equipment & Tools"
+    },
+    {
+      "branch_name": "Sunbelt Rentals Fargo",
+      "address": "6109 53rd Ave S",
+      "city": "Fargo",
+      "state": "ND",
+      "zip": "58104",
+      "phone": "(701) 353-6191",
+      "services": "General Equipment & Tools"
+    }
+  ],
+  "states_covered": [
+    "AL", "AZ", "CA", "CO", "DE", "FL", "GA", "HI", "IA", "ID",
+    "IL", "IN", "KS", "KY", "LA", "MA", "MD", "ME", "MI", "MN",
+    "MO", "MS", "NC", "ND", "NE", "NH", "NJ", "NM", "NV", "NY",
+    "OH", "OK", "OR", "PA", "SC", "TN", "TX", "UT", "VA", "WA",
+    "WV", "WY"
+  ],
+  "states_not_found": ["AK", "AR", "CT", "MT", "RI", "SD", "VT", "WI"],
+  "recommendations": [
+    "Complete extraction requires browser automation with working extension",
+    "OMS already has 707 Sunbelt branches - focus on enabling these",
+    "Website reports ~1260 total US locations - significant gap between captured and total",
+    "Texas, California, and Florida represent ~30% of all locations",
+    "Retry full extraction when browser extension is connected"
+  ]
+}

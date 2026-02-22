@@ -1,0 +1,46 @@
+========================================
+YANCEY CAT EXTRACTION LOG
+Started: 2026-02-19
+========================================
+
+[00:00] Starting Task 2 of 3: Yancey Cat
+[00:00] OMS Status: 17 branches in Georgia, 15 enabled
+[00:00] Navigating to Yancey Cat website...
+
+[00:05] Navigated to yanceybros.com/locations
+[00:06] Found locations list page with all Georgia branches
+
+BRANCHES FOUND ON WEBSITE:
+--------------------------
+1. Kennesaw - 2697 McCollum Pkwy. NW, Kennesaw, GA 30144
+2. Albany - 1604 South Slappey Blvd., Albany, GA 31701
+3. Athens/Bogart - 50 Trade Street, Bogart, GA 30622
+4. Augusta - 4165 Mike Padgett Hwy, Augusta, GA 30906
+5. Austell - 330 Lee Industrial Blvd, Austell, GA 30168
+6. Bloomingdale - 2566 U.S. Highway 80, Bloomingdale, GA 31302
+7. Brunswick - 370 Perry Lane Rd, Brunswick, GA 31525
+8. Calhoun - 138 Robinson Rd NW, Calhoun, GA 30701
+9. Columbus - 2946 Smith Road, Columbus, GA 31808
+10. Cumming - 5905 Hubbard Town Rd, Cumming, GA 30028
+11. Dacula/Gwinnett - 335 Hurricane Trail, Dacula, GA 30019
+12. Jefferson - 2623 Bill Wright Rd, Jefferson, GA
+13. Macon - 875 Guy Paine Road, Macon, GA 31206
+14. McDonough - 187 Interstate South Dr, McDonough, GA 30253
+15. Pooler/Savannah - 1459 U.S. 80 East, Pooler, GA 31322
+16. Statesboro - 8555 Highway 301, Statesboro, GA 30458
+17. Valdosta - 2966 HWY U.S. 84 West, Valdosta, GA 31601
+18. Waycross - 1899 Knight Ave, Waycross, GA 31503
+
+CROSS-REFERENCE WITH OMS:
+-------------------------
+- OMS Branches: 17
+- OMS Enabled: 15
+- OMS Disabled: 2 (Bogart, Waycross)
+- Website Branches: 18 (includes Bloomingdale)
+
+OUTPUT FILES:
+- yanceycat_raw_data.json
+- yanceycat_branch_database.xlsx
+
+[00:15] Task 2 COMPLETED
+========================================

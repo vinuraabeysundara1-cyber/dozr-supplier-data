@@ -1,0 +1,1952 @@
+{
+  "supplier": "Sunstate Equipment",
+  "extraction_date": "2026-02-19",
+  "extraction_method": "Web scraping",
+  "total_branches": 216,
+  "branches": [
+    {
+      "branch_name": "Sunstate Equipment - Apache Junction",
+      "address": "3375 S Winchester Road",
+      "city": "Apache Junction",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Buckeye",
+      "address": "",
+      "city": "Buckeye",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Casa Grande",
+      "address": "3097 N Piper Avenue",
+      "city": "Casa Grande",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Deer Valley",
+      "address": "",
+      "city": "Deer Valley",
+      "state": "Arizona",
+      "zip": "22830",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Flagstaff",
+      "address": "320 S Babbitt Drive",
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Mesa",
+      "address": "",
+      "city": "Mesa",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Peoria",
+      "address": "7722 W Olive Avenue",
+      "city": "Peoria",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Phoenix",
+      "address": "5425 E Washington Street",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zip": "16450",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Prescott",
+      "address": "9351 E Lorna Lane",
+      "city": "Prescott",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Scottsdale",
+      "address": "7424 E Adobe Drive",
+      "city": "Scottsdale",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Phoenix",
+      "address": "",
+      "city": "Trench - Phoenix",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Tucson",
+      "address": "",
+      "city": "Trench - Tucson",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Tucson",
+      "address": "1835 W Grant Road",
+      "city": "Tucson",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Anaheim",
+      "address": "4460 E La Palma Avenue",
+      "city": "Anaheim",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Benicia",
+      "address": "3110 Bayshore Road",
+      "city": "Benicia",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Burbank",
+      "address": "205 W Magnolia Boulevard",
+      "city": "Burbank",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Carson",
+      "address": "17310 S Main Street",
+      "city": "Carson",
+      "state": "California",
+      "zip": "17310",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Colton",
+      "address": "3000 S Iowa Avenue",
+      "city": "Colton",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - El Cajon",
+      "address": "1360 N Magnolia Avenue",
+      "city": "El Cajon",
+      "state": "California",
+      "zip": "92020",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fremont",
+      "address": "2115 Warm Springs Court",
+      "city": "Fremont",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Montebello",
+      "address": "812 Washington Blvd",
+      "city": "Montebello",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Oakland",
+      "address": "8001 Oakport Street",
+      "city": "Oakland",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Romoland",
+      "address": "25201 Trumble Road",
+      "city": "Romoland",
+      "state": "California",
+      "zip": "25201",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Roseville",
+      "address": "8200 Industrial Avenue",
+      "city": "Roseville",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Sacramento",
+      "address": "2661 Evergreen Avenue",
+      "city": "Sacramento",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - San Diego",
+      "address": "",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - San Jose",
+      "address": "",
+      "city": "San Jose",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Stockton",
+      "address": "75 E Equipment Court",
+      "city": "Stockton",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - TRENCH - Baldwin Park",
+      "address": "12911 Garvey Ave",
+      "city": "TRENCH - Baldwin Park",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Romoland",
+      "address": "25201 Trumble Road",
+      "city": "Trench - Romoland",
+      "state": "California",
+      "zip": "25201",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - San Bernardino",
+      "address": "",
+      "city": "Trench - San Bernardino",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - San Diego",
+      "address": "",
+      "city": "Trench - San Diego",
+      "state": "California",
+      "zip": "15303",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Colorado Springs",
+      "address": "1211 E Cheyenne Road",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Denver",
+      "address": "5420 Dahlia Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Dove Valley",
+      "address": "",
+      "city": "Dove Valley",
+      "state": "Colorado",
+      "zip": "12550",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fort Collins",
+      "address": "4228 E Mulberry Street",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Grand Junction",
+      "address": "2320 Interstate Avenue",
+      "city": "Grand Junction",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Mead",
+      "address": "4005 N Valley Drive",
+      "city": "Mead",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Pueblo",
+      "address": "4125 N Elizabeth Street",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Bradenton",
+      "address": "",
+      "city": "Bradenton",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Jacksonville",
+      "address": "668 Suemac Road",
+      "city": "Jacksonville",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Orlando",
+      "address": "9075 Sidney Hayes Road",
+      "city": "Orlando",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Tampa",
+      "address": "5730 E Columbus Drive",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Jacksonville",
+      "address": "668 Suemac Road",
+      "city": "Trench - Jacksonville",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Buford",
+      "address": "",
+      "city": "Buford",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Conley",
+      "address": "4460 Moreland Avenue",
+      "city": "Conley",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Marietta",
+      "address": "800 Pickens Industrial Drive",
+      "city": "Marietta",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Atlanta",
+      "address": "4460 Moreland Avenue",
+      "city": "Trench - Atlanta",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Gainesville",
+      "address": "1607 SW Calvary Church Road",
+      "city": "Trench - Gainesville",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Baton Rouge",
+      "address": "3500 Delta Drive",
+      "city": "Baton Rouge",
+      "state": "Louisiana",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Sulphur",
+      "address": "2525 Calcasieu Industrial Drive",
+      "city": "Sulphur",
+      "state": "Louisiana",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Charlotte",
+      "address": "",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Greensboro",
+      "address": "105 South Swing Road",
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Raleigh",
+      "address": "",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Charlotte",
+      "address": "1255 Biscayne Drive",
+      "city": "Trench - Charlotte",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Raleigh",
+      "address": "",
+      "city": "Trench - Raleigh",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Rio Rancho",
+      "address": "221 Rio Rancho Drive",
+      "city": "Rio Rancho",
+      "state": "New Mexico",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Las Vegas",
+      "address": "250 Elliot Road",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Reno",
+      "address": "750 S Rock Boulevard",
+      "city": "Reno",
+      "state": "Nevada",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Oklahoma City",
+      "address": "6711 S Eastern Avenue",
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Tulsa",
+      "address": "",
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Portland",
+      "address": "5413 NE Columbia Boulevard",
+      "city": "Portland",
+      "state": "Oregon",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Portland",
+      "address": "7402 SE Johnson Creek Boulevard",
+      "city": "Trench - Portland",
+      "state": "Oregon",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Salem",
+      "address": "4605 Turner Road",
+      "city": "Trench - Salem",
+      "state": "Oregon",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - North Charleston",
+      "address": "7221 Cross Park Drive",
+      "city": "North Charleston",
+      "state": "South Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - La Vergne",
+      "address": "1500 J P Hennessy Drive",
+      "city": "La Vergne",
+      "state": "Tennessee",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Memphis",
+      "address": "",
+      "city": "Memphis",
+      "state": "Tennessee",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Nashville",
+      "address": "1111 Polk Avenue",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Austin",
+      "address": "",
+      "city": "Austin",
+      "state": "Texas",
+      "zip": "16436",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Balch Springs",
+      "address": "5005 S Peachtree Road",
+      "city": "Balch Springs",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Beaumont",
+      "address": "4745 Jerry Ware Drive",
+      "city": "Beaumont",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Bryan",
+      "address": "",
+      "city": "Bryan",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Buda",
+      "address": "35 Frontage Rd",
+      "city": "Buda",
+      "state": "Texas",
+      "zip": "14901",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Carrollton",
+      "address": "1110 Jackson Road",
+      "city": "Carrollton",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Conroe",
+      "address": "661 Frazier Commerce Drive",
+      "city": "Conroe",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Corpus Christi",
+      "address": "232 N Padre Island Drive",
+      "city": "Corpus Christi",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Duncanville",
+      "address": "4100 Duncanville Road",
+      "city": "Duncanville",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - El Paso",
+      "address": "8660 Castner Drive",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip": "79907",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fort Worth",
+      "address": "",
+      "city": "Fort Worth",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fort Worth - South",
+      "address": "",
+      "city": "Fort Worth - South",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Freeport",
+      "address": "211 W Plantation Drive",
+      "city": "Freeport",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Friendswood",
+      "address": "15518 Beamer Road",
+      "city": "Friendswood",
+      "state": "Texas",
+      "zip": "15518",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Houston",
+      "address": "",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "21229",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Houston-2",
+      "address": "",
+      "city": "Houston-2",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Houston-4",
+      "address": "5121 Oates Road",
+      "city": "Houston-4",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Killeen",
+      "address": "",
+      "city": "Killeen",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Krum",
+      "address": "",
+      "city": "Krum",
+      "state": "Texas",
+      "zip": "16450",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - La Porte",
+      "address": "4462 Genoa Red Bluff Road",
+      "city": "La Porte",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Mckinney",
+      "address": "10041 W University Drive",
+      "city": "Mckinney",
+      "state": "Texas",
+      "zip": "10041",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Odessa",
+      "address": "",
+      "city": "Odessa",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Rosenberg",
+      "address": "3940 Reese Road",
+      "city": "Rosenberg",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - San Antonio",
+      "address": "",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Southlake",
+      "address": "350 Bank Street",
+      "city": "Southlake",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench  - El Paso",
+      "address": "8735 Yermoland Dr",
+      "city": "Trench  - El Paso",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Austin",
+      "address": "",
+      "city": "Trench - Austin",
+      "state": "Texas",
+      "zip": "12916",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Dallas-Fort Worth",
+      "address": "876 Entertainment Way",
+      "city": "Trench - Dallas-Fort Worth",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Houston",
+      "address": "10526 Tanner Road",
+      "city": "Trench - Houston",
+      "state": "Texas",
+      "zip": "10526",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - San Antonio",
+      "address": "4212 N Graytown Road",
+      "city": "Trench - San Antonio",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Lindon",
+      "address": "",
+      "city": "Lindon",
+      "state": "Utah",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Ogden",
+      "address": "",
+      "city": "Ogden",
+      "state": "Utah",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Salt Lake City",
+      "address": "2051 N Redwood Road",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Kent",
+      "address": "",
+      "city": "Kent",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Lakewood",
+      "address": "8909 S Tacoma Way",
+      "city": "Lakewood",
+      "state": "Washington",
+      "zip": "98499",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Kent",
+      "address": "",
+      "city": "Trench - Kent",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Olympia",
+      "address": "",
+      "city": "Trench - Olympia",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Pasco",
+      "address": "4225 East B Street",
+      "city": "Trench - Pasco",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Woodinville",
+      "address": "",
+      "city": "Trench - Woodinville",
+      "state": "Washington",
+      "zip": "21818",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Woodinville",
+      "address": "",
+      "city": "Woodinville",
+      "state": "Washington",
+      "zip": "21818",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Apache Junction",
+      "address": "3375 S Winchester Road",
+      "city": "Apache Junction",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Buckeye",
+      "address": "",
+      "city": "Buckeye",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Casa Grande",
+      "address": "3097 N Piper Avenue",
+      "city": "Casa Grande",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Deer Valley",
+      "address": "",
+      "city": "Deer Valley",
+      "state": "Arizona",
+      "zip": "22830",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Flagstaff",
+      "address": "320 S Babbitt Drive",
+      "city": "Flagstaff",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Mesa",
+      "address": "",
+      "city": "Mesa",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Peoria",
+      "address": "7722 W Olive Avenue",
+      "city": "Peoria",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Phoenix",
+      "address": "5425 E Washington Street",
+      "city": "Phoenix",
+      "state": "Arizona",
+      "zip": "16450",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Prescott",
+      "address": "9351 E Lorna Lane",
+      "city": "Prescott",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Scottsdale",
+      "address": "7424 E Adobe Drive",
+      "city": "Scottsdale",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Phoenix",
+      "address": "",
+      "city": "Trench - Phoenix",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Tucson",
+      "address": "",
+      "city": "Trench - Tucson",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Tucson",
+      "address": "1835 W Grant Road",
+      "city": "Tucson",
+      "state": "Arizona",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Anaheim",
+      "address": "4460 E La Palma Avenue",
+      "city": "Anaheim",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Benicia",
+      "address": "3110 Bayshore Road",
+      "city": "Benicia",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Burbank",
+      "address": "205 W Magnolia Boulevard",
+      "city": "Burbank",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Carson",
+      "address": "17310 S Main Street",
+      "city": "Carson",
+      "state": "California",
+      "zip": "17310",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Colton",
+      "address": "3000 S Iowa Avenue",
+      "city": "Colton",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - El Cajon",
+      "address": "1360 N Magnolia Avenue",
+      "city": "El Cajon",
+      "state": "California",
+      "zip": "92020",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fremont",
+      "address": "2115 Warm Springs Court",
+      "city": "Fremont",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Montebello",
+      "address": "812 Washington Blvd",
+      "city": "Montebello",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Oakland",
+      "address": "8001 Oakport Street",
+      "city": "Oakland",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Romoland",
+      "address": "25201 Trumble Road",
+      "city": "Romoland",
+      "state": "California",
+      "zip": "25201",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Roseville",
+      "address": "8200 Industrial Avenue",
+      "city": "Roseville",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Sacramento",
+      "address": "2661 Evergreen Avenue",
+      "city": "Sacramento",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - San Diego",
+      "address": "",
+      "city": "San Diego",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - San Jose",
+      "address": "",
+      "city": "San Jose",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Stockton",
+      "address": "75 E Equipment Court",
+      "city": "Stockton",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - TRENCH - Baldwin Park",
+      "address": "12911 Garvey Ave",
+      "city": "TRENCH - Baldwin Park",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Romoland",
+      "address": "25201 Trumble Road",
+      "city": "Trench - Romoland",
+      "state": "California",
+      "zip": "25201",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - San Bernardino",
+      "address": "",
+      "city": "Trench - San Bernardino",
+      "state": "California",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - San Diego",
+      "address": "",
+      "city": "Trench - San Diego",
+      "state": "California",
+      "zip": "15303",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Colorado Springs",
+      "address": "1211 E Cheyenne Road",
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Denver",
+      "address": "5420 Dahlia Street",
+      "city": "Denver",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Dove Valley",
+      "address": "",
+      "city": "Dove Valley",
+      "state": "Colorado",
+      "zip": "12550",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fort Collins",
+      "address": "4228 E Mulberry Street",
+      "city": "Fort Collins",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Grand Junction",
+      "address": "2320 Interstate Avenue",
+      "city": "Grand Junction",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Mead",
+      "address": "4005 N Valley Drive",
+      "city": "Mead",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Pueblo",
+      "address": "4125 N Elizabeth Street",
+      "city": "Pueblo",
+      "state": "Colorado",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Bradenton",
+      "address": "",
+      "city": "Bradenton",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Jacksonville",
+      "address": "668 Suemac Road",
+      "city": "Jacksonville",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Orlando",
+      "address": "9075 Sidney Hayes Road",
+      "city": "Orlando",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Tampa",
+      "address": "5730 E Columbus Drive",
+      "city": "Tampa",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Jacksonville",
+      "address": "668 Suemac Road",
+      "city": "Trench - Jacksonville",
+      "state": "Florida",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Buford",
+      "address": "",
+      "city": "Buford",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Conley",
+      "address": "4460 Moreland Avenue",
+      "city": "Conley",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Marietta",
+      "address": "800 Pickens Industrial Drive",
+      "city": "Marietta",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Atlanta",
+      "address": "4460 Moreland Avenue",
+      "city": "Trench - Atlanta",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Gainesville",
+      "address": "1607 SW Calvary Church Road",
+      "city": "Trench - Gainesville",
+      "state": "Georgia",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Baton Rouge",
+      "address": "3500 Delta Drive",
+      "city": "Baton Rouge",
+      "state": "Louisiana",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Sulphur",
+      "address": "2525 Calcasieu Industrial Drive",
+      "city": "Sulphur",
+      "state": "Louisiana",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Charlotte",
+      "address": "",
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Greensboro",
+      "address": "105 South Swing Road",
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Raleigh",
+      "address": "",
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Charlotte",
+      "address": "1255 Biscayne Drive",
+      "city": "Trench - Charlotte",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Raleigh",
+      "address": "",
+      "city": "Trench - Raleigh",
+      "state": "North Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Rio Rancho",
+      "address": "221 Rio Rancho Drive",
+      "city": "Rio Rancho",
+      "state": "New Mexico",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Las Vegas",
+      "address": "250 Elliot Road",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Reno",
+      "address": "750 S Rock Boulevard",
+      "city": "Reno",
+      "state": "Nevada",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Oklahoma City",
+      "address": "6711 S Eastern Avenue",
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Tulsa",
+      "address": "",
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Portland",
+      "address": "5413 NE Columbia Boulevard",
+      "city": "Portland",
+      "state": "Oregon",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Portland",
+      "address": "7402 SE Johnson Creek Boulevard",
+      "city": "Trench - Portland",
+      "state": "Oregon",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Salem",
+      "address": "4605 Turner Road",
+      "city": "Trench - Salem",
+      "state": "Oregon",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - North Charleston",
+      "address": "7221 Cross Park Drive",
+      "city": "North Charleston",
+      "state": "South Carolina",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - La Vergne",
+      "address": "1500 J P Hennessy Drive",
+      "city": "La Vergne",
+      "state": "Tennessee",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Memphis",
+      "address": "",
+      "city": "Memphis",
+      "state": "Tennessee",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Nashville",
+      "address": "1111 Polk Avenue",
+      "city": "Nashville",
+      "state": "Tennessee",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Austin",
+      "address": "",
+      "city": "Austin",
+      "state": "Texas",
+      "zip": "16436",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Balch Springs",
+      "address": "5005 S Peachtree Road",
+      "city": "Balch Springs",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Beaumont",
+      "address": "4745 Jerry Ware Drive",
+      "city": "Beaumont",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Bryan",
+      "address": "",
+      "city": "Bryan",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Buda",
+      "address": "35 Frontage Rd",
+      "city": "Buda",
+      "state": "Texas",
+      "zip": "14901",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Carrollton",
+      "address": "1110 Jackson Road",
+      "city": "Carrollton",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Conroe",
+      "address": "661 Frazier Commerce Drive",
+      "city": "Conroe",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Corpus Christi",
+      "address": "232 N Padre Island Drive",
+      "city": "Corpus Christi",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Duncanville",
+      "address": "4100 Duncanville Road",
+      "city": "Duncanville",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - El Paso",
+      "address": "8660 Castner Drive",
+      "city": "El Paso",
+      "state": "Texas",
+      "zip": "79907",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fort Worth",
+      "address": "",
+      "city": "Fort Worth",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Fort Worth - South",
+      "address": "",
+      "city": "Fort Worth - South",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Freeport",
+      "address": "211 W Plantation Drive",
+      "city": "Freeport",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Friendswood",
+      "address": "15518 Beamer Road",
+      "city": "Friendswood",
+      "state": "Texas",
+      "zip": "15518",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Houston",
+      "address": "",
+      "city": "Houston",
+      "state": "Texas",
+      "zip": "21229",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Houston-2",
+      "address": "",
+      "city": "Houston-2",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Houston-4",
+      "address": "5121 Oates Road",
+      "city": "Houston-4",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Killeen",
+      "address": "",
+      "city": "Killeen",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Krum",
+      "address": "",
+      "city": "Krum",
+      "state": "Texas",
+      "zip": "16450",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - La Porte",
+      "address": "4462 Genoa Red Bluff Road",
+      "city": "La Porte",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Mckinney",
+      "address": "10041 W University Drive",
+      "city": "Mckinney",
+      "state": "Texas",
+      "zip": "10041",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Odessa",
+      "address": "",
+      "city": "Odessa",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Rosenberg",
+      "address": "3940 Reese Road",
+      "city": "Rosenberg",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - San Antonio",
+      "address": "",
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Southlake",
+      "address": "350 Bank Street",
+      "city": "Southlake",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench  - El Paso",
+      "address": "8735 Yermoland Dr",
+      "city": "Trench  - El Paso",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Austin",
+      "address": "",
+      "city": "Trench - Austin",
+      "state": "Texas",
+      "zip": "12916",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Dallas-Fort Worth",
+      "address": "876 Entertainment Way",
+      "city": "Trench - Dallas-Fort Worth",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Houston",
+      "address": "10526 Tanner Road",
+      "city": "Trench - Houston",
+      "state": "Texas",
+      "zip": "10526",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - San Antonio",
+      "address": "4212 N Graytown Road",
+      "city": "Trench - San Antonio",
+      "state": "Texas",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Lindon",
+      "address": "",
+      "city": "Lindon",
+      "state": "Utah",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Ogden",
+      "address": "",
+      "city": "Ogden",
+      "state": "Utah",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Salt Lake City",
+      "address": "2051 N Redwood Road",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Kent",
+      "address": "",
+      "city": "Kent",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Lakewood",
+      "address": "8909 S Tacoma Way",
+      "city": "Lakewood",
+      "state": "Washington",
+      "zip": "98499",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Kent",
+      "address": "",
+      "city": "Trench - Kent",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Olympia",
+      "address": "",
+      "city": "Trench - Olympia",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Pasco",
+      "address": "4225 East B Street",
+      "city": "Trench - Pasco",
+      "state": "Washington",
+      "zip": "",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Trench - Woodinville",
+      "address": "",
+      "city": "Trench - Woodinville",
+      "state": "Washington",
+      "zip": "21818",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    },
+    {
+      "branch_name": "Sunstate Equipment - Woodinville",
+      "address": "",
+      "city": "Woodinville",
+      "state": "Washington",
+      "zip": "21818",
+      "phone": "Questions?Call888-456-4560",
+      "services": ""
+    }
+  ]
+}

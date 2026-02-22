@@ -1,0 +1,691 @@
+{
+  "state_equipment": {
+    "CA": {
+      "Forklifts": 5,
+      "Boom Lifts": 6,
+      "Scissor Lifts": 2,
+      "Excavators": 3,
+      "Unknown": 1
+    },
+    "MT": {
+      "Scissor Lifts": 2
+    },
+    "ON": {
+      "Forklifts": 4,
+      "Unknown": 1,
+      "Scissor Lifts": 2,
+      "Excavators": 1,
+      "Boom Lifts": 3
+    },
+    "TX": {
+      "Unknown": 6,
+      "Dozers": 2,
+      "Forklifts": 9,
+      "Excavators": 1,
+      "Loaders": 3,
+      "Scissor Lifts": 1,
+      "Boom Lifts": 2
+    },
+    "SC": {
+      "Scissor Lifts": 2,
+      "Forklifts": 3,
+      "Loaders": 1,
+      "Unknown": 1
+    },
+    "FL": {
+      "Forklifts": 4,
+      "Boom Lifts": 4,
+      "Excavators": 2,
+      "Unknown": 1
+    },
+    "MS": {
+      "Boom Lifts": 1,
+      "Forklifts": 1
+    },
+    "GA": {
+      "Excavators": 1,
+      "Unknown": 1,
+      "Scissor Lifts": 2
+    },
+    "CO": {
+      "Scissor Lifts": 2,
+      "Forklifts": 6,
+      "Excavators": 1
+    },
+    "NJ": {
+      "Loaders": 1
+    },
+    "NY": {
+      "Scissor Lifts": 2,
+      "Loaders": 1,
+      "Forklifts": 1
+    },
+    "IL": {
+      "Scissor Lifts": 1
+    },
+    "NM": {
+      "Forklifts": 1
+    },
+    "ME": {
+      "Forklifts": 1
+    },
+    "UT": {
+      "Scissor Lifts": 1
+    },
+    "BC": {
+      "Forklifts": 1,
+      "Boom Lifts": 1
+    },
+    "VA": {
+      "Loaders": 1
+    },
+    "NV": {
+      "Forklifts": 1
+    },
+    "CT": {
+      "Excavators": 1
+    },
+    "PA": {
+      "Forklifts": 1,
+      "Boom Lifts": 1
+    },
+    "MD": {
+      "Loaders": 1,
+      "Unknown": 1
+    },
+    "AZ": {
+      "Scissor Lifts": 3,
+      "Boom Lifts": 1
+    },
+    "WA": {
+      "Scissor Lifts": 1
+    },
+    "TN": {
+      "Boom Lifts": 1,
+      "Forklifts": 1
+    },
+    "IN": {
+      "Scissor Lifts": 1
+    },
+    "AR": {
+      "Loaders": 1
+    },
+    "MI": {
+      "Unknown": 1
+    },
+    "KS": {
+      "Forklifts": 1
+    },
+    "IA": {
+      "Scissor Lifts": 1
+    },
+    "AL": {
+      "Forklifts": 1
+    }
+  },
+  "equipment_states": {
+    "Forklifts": {
+      "CA": 5,
+      "ON": 4,
+      "FL": 4,
+      "TX": 9,
+      "CO": 6,
+      "SC": 3,
+      "MS": 1,
+      "NM": 1,
+      "ME": 1,
+      "BC": 1,
+      "NV": 1,
+      "PA": 1,
+      "KS": 1,
+      "NY": 1,
+      "AL": 1,
+      "TN": 1
+    },
+    "Scissor Lifts": {
+      "MT": 2,
+      "SC": 2,
+      "CO": 2,
+      "NY": 2,
+      "IL": 1,
+      "CA": 2,
+      "GA": 2,
+      "ON": 2,
+      "UT": 1,
+      "AZ": 3,
+      "WA": 1,
+      "TX": 1,
+      "IN": 1,
+      "IA": 1
+    },
+    "Unknown": {
+      "TX": 6,
+      "GA": 1,
+      "ON": 1,
+      "MD": 1,
+      "CA": 1,
+      "MI": 1,
+      "FL": 1,
+      "SC": 1
+    },
+    "Dozers": {
+      "TX": 2
+    },
+    "Boom Lifts": {
+      "MS": 1,
+      "FL": 4,
+      "CA": 6,
+      "BC": 1,
+      "ON": 3,
+      "TX": 2,
+      "TN": 1,
+      "PA": 1,
+      "AZ": 1
+    },
+    "Excavators": {
+      "GA": 1,
+      "FL": 2,
+      "TX": 1,
+      "ON": 1,
+      "CT": 1,
+      "CA": 3,
+      "CO": 1
+    },
+    "Loaders": {
+      "NJ": 1,
+      "NY": 1,
+      "TX": 3,
+      "VA": 1,
+      "MD": 1,
+      "SC": 1,
+      "AR": 1
+    }
+  },
+  "equipment_locations": {
+    "Forklifts": {
+      "Placentia, CA": 1,
+      "Altadena, CA": 1,
+      "Kleinburg Station, ON": 1,
+      "St. Petersburg, FL": 1,
+      "Missouri City, TX": 1,
+      "Brighton, CO": 1,
+      "Indian Land, SC": 1,
+      "Los Angeles, CA": 1,
+      "Aventura, FL": 1,
+      "Aurora, CO": 1,
+      "Elgin, TX": 1,
+      "Toronto, ON": 2,
+      "Oxford, MS": 1,
+      "Los Lunas, NM": 1,
+      "Presque Isle, ME": 1,
+      "Myrtle Beach, SC": 1,
+      "St. Catharines, ON": 1,
+      "Abbotsford, BC": 1,
+      "Greeley, CO": 1,
+      "Erie, CO": 1,
+      "Tonopah, NV": 1,
+      "Coconut Creek, FL": 1,
+      "Saint Davids, PA": 1,
+      "Pleasanton, CA": 1,
+      "New Boston, TX": 1,
+      "Dallas, TX": 2,
+      "Aiken, SC": 1,
+      "Leesburg, FL": 1,
+      "Laguna Hills, CA": 1,
+      "Breckenridge, TX": 1,
+      "Clifton, TX": 1,
+      "Dumas, TX": 1,
+      "Wichita, KS": 1,
+      "Central Square, NY": 1,
+      "Fort Collins, CO": 2,
+      "San Antonio, TX": 1,
+      "Opelika, AL": 1,
+      "Hendersonville, TN": 1
+    },
+    "Scissor Lifts": {
+      "Great Falls, MT": 1,
+      "Missoula, MT": 1,
+      "Greenville, SC": 1,
+      "Brighton, CO": 1,
+      "New York, NY": 2,
+      "Lombard, IL": 1,
+      "Fontana, CA": 1,
+      "White, GA": 1,
+      "Toronto, ON": 1,
+      "Aurora, CO": 1,
+      "Salt Lake City, UT": 1,
+      "Atlanta, GA": 1,
+      "Queen Creek, AZ": 1,
+      "Seattle, WA": 1,
+      "Dallas, TX": 1,
+      "Palm Springs, CA": 1,
+      "North Charleston, SC": 1,
+      "Franklin, IN": 1,
+      "Mississauga, ON": 1,
+      "Tucson, AZ": 1,
+      "Phoenix, AZ": 1,
+      "Marshalltown, IA": 1
+    },
+    "Unknown": {
+      "Spring, TX": 1,
+      "Atlanta, GA": 1,
+      "Toronto, ON": 1,
+      "Irving, TX": 1,
+      "Corpus Christi, TX": 1,
+      "Towson, MD": 1,
+      "Conroe, TX": 1,
+      "Northlake, TX": 1,
+      "Kyle, TX": 1,
+      "Rancho Santa Fe, CA": 1,
+      "Bangor, MI": 1,
+      "Opa-locka, FL": 1,
+      "Myrtle Beach, SC": 1
+    },
+    "Dozers": {
+      "Putnam, TX": 1,
+      "Laredo, TX": 1
+    },
+    "Boom Lifts": {
+      "Gulfport, MS": 1,
+      "Fruitland Park, FL": 1,
+      "Longboat Key, FL": 1,
+      "San Bruno, CA": 1,
+      "Rancho Dominguez, CA": 1,
+      "Dade City, FL": 1,
+      "Los Angeles, CA": 1,
+      "Lake Forest, CA": 1,
+      "Langley Township, BC": 1,
+      "Toronto, ON": 2,
+      "Cape Coral, FL": 1,
+      "Plano, TX": 1,
+      "Rocky Top, TN": 1,
+      "Marion Heights, PA": 1,
+      "Mississauga, ON": 1,
+      "San Antonio, TX": 1,
+      "Mesa, AZ": 1,
+      "Sunnyvale, CA": 1,
+      "Arcadia, CA": 1
+    },
+    "Excavators": {
+      "Stone Mountain, GA": 1,
+      "Sarasota, FL": 1,
+      "Flower Mound, TX": 1,
+      "Oakville, ON": 1,
+      "Sherman, CT": 1,
+      "Fresno, CA": 1,
+      "Tahoe Vista, CA": 1,
+      "Mims, FL": 1,
+      "Costa Mesa, CA": 1,
+      "Elizabeth, CO": 1
+    },
+    "Loaders": {
+      "Jersey City, NJ": 1,
+      "Brooklyn, NY": 1,
+      "Rockport, TX": 1,
+      "Sterling, VA": 1,
+      "Baltimore, MD": 1,
+      "Conroe, TX": 1,
+      "Fountain Inn, SC": 1,
+      "Centerton, AR": 1,
+      "New Braunfels, TX": 1
+    }
+  },
+  "location_equipment": {
+    "Placentia, CA": {
+      "Forklifts": 1
+    },
+    "Altadena, CA": {
+      "Forklifts": 1
+    },
+    "Great Falls, MT": {
+      "Scissor Lifts": 1
+    },
+    "Missoula, MT": {
+      "Scissor Lifts": 1
+    },
+    "Kleinburg Station, ON": {
+      "Forklifts": 1
+    },
+    "Spring, TX": {
+      "Unknown": 1
+    },
+    "Putnam, TX": {
+      "Dozers": 1
+    },
+    "Greenville, SC": {
+      "Scissor Lifts": 1
+    },
+    "St. Petersburg, FL": {
+      "Forklifts": 1
+    },
+    "Gulfport, MS": {
+      "Boom Lifts": 1
+    },
+    "Stone Mountain, GA": {
+      "Excavators": 1
+    },
+    "Missouri City, TX": {
+      "Forklifts": 1
+    },
+    "Brighton, CO": {
+      "Scissor Lifts": 1,
+      "Forklifts": 1
+    },
+    "Fruitland Park, FL": {
+      "Boom Lifts": 1
+    },
+    "Atlanta, GA": {
+      "Unknown": 1,
+      "Scissor Lifts": 1
+    },
+    "Jersey City, NJ": {
+      "Loaders": 1
+    },
+    "Indian Land, SC": {
+      "Forklifts": 1
+    },
+    "Los Angeles, CA": {
+      "Forklifts": 1,
+      "Boom Lifts": 1
+    },
+    "Aventura, FL": {
+      "Forklifts": 1
+    },
+    "Aurora, CO": {
+      "Forklifts": 1,
+      "Scissor Lifts": 1
+    },
+    "Longboat Key, FL": {
+      "Boom Lifts": 1
+    },
+    "New York, NY": {
+      "Scissor Lifts": 2
+    },
+    "Elgin, TX": {
+      "Forklifts": 1
+    },
+    "Toronto, ON": {
+      "Forklifts": 2,
+      "Unknown": 1,
+      "Scissor Lifts": 1,
+      "Boom Lifts": 2
+    },
+    "Lombard, IL": {
+      "Scissor Lifts": 1
+    },
+    "Sarasota, FL": {
+      "Excavators": 1
+    },
+    "San Bruno, CA": {
+      "Boom Lifts": 1
+    },
+    "Oxford, MS": {
+      "Forklifts": 1
+    },
+    "Irving, TX": {
+      "Unknown": 1
+    },
+    "Flower Mound, TX": {
+      "Excavators": 1
+    },
+    "Fontana, CA": {
+      "Scissor Lifts": 1
+    },
+    "White, GA": {
+      "Scissor Lifts": 1
+    },
+    "Rancho Dominguez, CA": {
+      "Boom Lifts": 1
+    },
+    "Brooklyn, NY": {
+      "Loaders": 1
+    },
+    "Corpus Christi, TX": {
+      "Unknown": 1
+    },
+    "Los Lunas, NM": {
+      "Forklifts": 1
+    },
+    "Dade City, FL": {
+      "Boom Lifts": 1
+    },
+    "Oakville, ON": {
+      "Excavators": 1
+    },
+    "Presque Isle, ME": {
+      "Forklifts": 1
+    },
+    "Salt Lake City, UT": {
+      "Scissor Lifts": 1
+    },
+    "Rockport, TX": {
+      "Loaders": 1
+    },
+    "Myrtle Beach, SC": {
+      "Forklifts": 1,
+      "Unknown": 1
+    },
+    "St. Catharines, ON": {
+      "Forklifts": 1
+    },
+    "Abbotsford, BC": {
+      "Forklifts": 1
+    },
+    "Greeley, CO": {
+      "Forklifts": 1
+    },
+    "Erie, CO": {
+      "Forklifts": 1
+    },
+    "Sterling, VA": {
+      "Loaders": 1
+    },
+    "Tonopah, NV": {
+      "Forklifts": 1
+    },
+    "Lake Forest, CA": {
+      "Boom Lifts": 1
+    },
+    "Coconut Creek, FL": {
+      "Forklifts": 1
+    },
+    "Sherman, CT": {
+      "Excavators": 1
+    },
+    "Langley Township, BC": {
+      "Boom Lifts": 1
+    },
+    "Fresno, CA": {
+      "Excavators": 1
+    },
+    "Saint Davids, PA": {
+      "Forklifts": 1
+    },
+    "Baltimore, MD": {
+      "Loaders": 1
+    },
+    "Cape Coral, FL": {
+      "Boom Lifts": 1
+    },
+    "Pleasanton, CA": {
+      "Forklifts": 1
+    },
+    "New Boston, TX": {
+      "Forklifts": 1
+    },
+    "Dallas, TX": {
+      "Forklifts": 2,
+      "Scissor Lifts": 1
+    },
+    "Queen Creek, AZ": {
+      "Scissor Lifts": 1
+    },
+    "Seattle, WA": {
+      "Scissor Lifts": 1
+    },
+    "Aiken, SC": {
+      "Forklifts": 1
+    },
+    "Towson, MD": {
+      "Unknown": 1
+    },
+    "Conroe, TX": {
+      "Unknown": 1,
+      "Loaders": 1
+    },
+    "Plano, TX": {
+      "Boom Lifts": 1
+    },
+    "Tahoe Vista, CA": {
+      "Excavators": 1
+    },
+    "Rocky Top, TN": {
+      "Boom Lifts": 1
+    },
+    "Northlake, TX": {
+      "Unknown": 1
+    },
+    "Leesburg, FL": {
+      "Forklifts": 1
+    },
+    "Fountain Inn, SC": {
+      "Loaders": 1
+    },
+    "Mims, FL": {
+      "Excavators": 1
+    },
+    "Palm Springs, CA": {
+      "Scissor Lifts": 1
+    },
+    "Costa Mesa, CA": {
+      "Excavators": 1
+    },
+    "Laguna Hills, CA": {
+      "Forklifts": 1
+    },
+    "Kyle, TX": {
+      "Unknown": 1
+    },
+    "Rancho Santa Fe, CA": {
+      "Unknown": 1
+    },
+    "North Charleston, SC": {
+      "Scissor Lifts": 1
+    },
+    "Franklin, IN": {
+      "Scissor Lifts": 1
+    },
+    "Centerton, AR": {
+      "Loaders": 1
+    },
+    "Breckenridge, TX": {
+      "Forklifts": 1
+    },
+    "Clifton, TX": {
+      "Forklifts": 1
+    },
+    "Dumas, TX": {
+      "Forklifts": 1
+    },
+    "Marion Heights, PA": {
+      "Boom Lifts": 1
+    },
+    "Mississauga, ON": {
+      "Scissor Lifts": 1,
+      "Boom Lifts": 1
+    },
+    "Bangor, MI": {
+      "Unknown": 1
+    },
+    "Elizabeth, CO": {
+      "Excavators": 1
+    },
+    "San Antonio, TX": {
+      "Boom Lifts": 1,
+      "Forklifts": 1
+    },
+    "Mesa, AZ": {
+      "Boom Lifts": 1
+    },
+    "Wichita, KS": {
+      "Forklifts": 1
+    },
+    "Sunnyvale, CA": {
+      "Boom Lifts": 1
+    },
+    "Opa-locka, FL": {
+      "Unknown": 1
+    },
+    "Central Square, NY": {
+      "Forklifts": 1
+    },
+    "Fort Collins, CO": {
+      "Forklifts": 2
+    },
+    "Tucson, AZ": {
+      "Scissor Lifts": 1
+    },
+    "Laredo, TX": {
+      "Dozers": 1
+    },
+    "Phoenix, AZ": {
+      "Scissor Lifts": 1
+    },
+    "New Braunfels, TX": {
+      "Loaders": 1
+    },
+    "Marshalltown, IA": {
+      "Scissor Lifts": 1
+    },
+    "Arcadia, CA": {
+      "Boom Lifts": 1
+    },
+    "Opelika, AL": {
+      "Forklifts": 1
+    },
+    "Hendersonville, TN": {
+      "Forklifts": 1
+    }
+  },
+  "totals": {
+    "Forklifts": 41,
+    "Boom Lifts": 20,
+    "Scissor Lifts": 23,
+    "Excavators": 10,
+    "Unknown": 13,
+    "Dozers": 2,
+    "Loaders": 9
+  },
+  "state_totals": {
+    "CA": 17,
+    "MT": 2,
+    "ON": 11,
+    "TX": 24,
+    "SC": 7,
+    "FL": 11,
+    "MS": 2,
+    "GA": 4,
+    "CO": 9,
+    "NJ": 1,
+    "NY": 4,
+    "IL": 1,
+    "NM": 1,
+    "ME": 1,
+    "UT": 1,
+    "BC": 2,
+    "VA": 1,
+    "NV": 1,
+    "CT": 1,
+    "PA": 2,
+    "MD": 2,
+    "AZ": 4,
+    "WA": 1,
+    "TN": 2,
+    "IN": 1,
+    "AR": 1,
+    "MI": 1,
+    "KS": 1,
+    "IA": 1,
+    "AL": 1
+  }
+}

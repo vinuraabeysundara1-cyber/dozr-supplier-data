@@ -1,0 +1,54 @@
+# Cities searched:
+Los Angeles, CA - 16 branches
+Houston, TX - 20 branches
+New York, NY - 16 branches
+
+# Cities to search:
+Atlanta, GA
+Chicago, IL
+Dallas, TX
+Phoenix, AZ
+Seattle, WA
+Miami, FL
+Denver, CO
+Philadelphia, PA
+Boston, MA
+Detroit, MI
+Minneapolis, MN
+San Francisco, CA
+San Diego, CA
+Tampa, FL
+Orlando, FL
+Charlotte, NC
+Nashville, TN
+Las Vegas, NV
+Portland, OR
+Austin, TX
+San Antonio, TX
+Jacksonville, FL
+Columbus, OH
+Indianapolis, IN
+Cleveland, OH
+Pittsburgh, PA
+Cincinnati, OH
+Kansas City, MO
+St. Louis, MO
+New Orleans, LA
+Birmingham, AL
+Memphis, TN
+Raleigh, NC
+Richmond, VA
+Baltimore, MD
+Hartford, CT
+Buffalo, NY
+Syracuse, NY
+Albany, NY
+Providence, RI
+Salt Lake City, UT
+Albuquerque, NM
+Tucson, AZ
+Oklahoma City, OK
+Tulsa, OK
+Omaha, NE
+Louisville, KY
+Milwaukee, WI

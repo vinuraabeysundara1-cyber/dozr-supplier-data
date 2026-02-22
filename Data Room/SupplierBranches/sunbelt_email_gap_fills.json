@@ -1,0 +1,274 @@
+{
+  "task": "Sunbelt Rentals Email Gap Fill",
+  "completed": "2026-02-21",
+  "status": "COMPLETE",
+  "summary": {
+    "total_missing": 43,
+    "filled": 21,
+    "still_missing": 22,
+    "fill_rate": "48.8%"
+  },
+  "methods_used": [
+    "Pattern matching: pcm{branch_number}@sunbeltrentals.com",
+    "Google Search for acquisitions (CRS, etc.)"
+  ],
+  "email_fills": [
+    {
+      "row": 4,
+      "branch_name": "CRS Contractors Rental Supply",
+      "email_filled": "barrie@crsr.ca",
+      "source": "Google Search - CRS website"
+    },
+    {
+      "row": 8,
+      "branch_name": "CRS - Oshawa",
+      "email_filled": "stodd@crsrents.ca",
+      "source": "Google Search - CRS Oshawa"
+    },
+    {
+      "row": 13,
+      "branch_name": "Sunbelt Rentals 1508 - Morris IL",
+      "branch_number": "1508",
+      "email_filled": "pcm1508@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 18,
+      "branch_name": "Sunbelt Rentals 320",
+      "branch_number": "320",
+      "email_filled": "pcm320@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 161,
+      "branch_name": "Sunbelt Rentals 1308 - Dayton OH",
+      "branch_number": "1308",
+      "email_filled": "pcm1308@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 162,
+      "branch_name": "Sunbelt Rentals 1328 - San Diego CA",
+      "branch_number": "1328",
+      "email_filled": "pcm1328@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 166,
+      "branch_name": "Sunbelt Rentals 4014 - Orem UT",
+      "branch_number": "4014",
+      "email_filled": "pcm4014@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 167,
+      "branch_name": "Sunbelt Rentals 1620 - Long Beach CA",
+      "branch_number": "1620",
+      "email_filled": "pcm1620@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 677,
+      "branch_name": "Sunbelt Rentals 410 - Carmel IN",
+      "branch_number": "410",
+      "email_filled": "pcm410@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 678,
+      "branch_name": "Sunbelt 1611 - Bakersfield CA (formerly Lalonde Equipment Rental)",
+      "branch_number": "1611",
+      "email_filled": "pcm1611@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 679,
+      "branch_name": "Sunbelt 1637 - Tracy CA (formerly Lalonde Equipment Rental)",
+      "branch_number": "1637",
+      "email_filled": "pcm1637@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 680,
+      "branch_name": "Sunbelt Rentals 4014 - American Fork UT",
+      "branch_number": "4014",
+      "email_filled": "pcm4014@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 681,
+      "branch_name": "Sunbelt Rentals 1777 - Charleston SC",
+      "branch_number": "1777",
+      "email_filled": "pcm1777@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 687,
+      "branch_name": "Sunbelt Rentals 1635 - Tuscumbia AL",
+      "branch_number": "1635",
+      "email_filled": "pcm1635@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 688,
+      "branch_name": "Sunbelt Rentals 1481 - Meadville PA",
+      "branch_number": "1481",
+      "email_filled": "pcm1481@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 689,
+      "branch_name": "Sunbelt Rentals 1154 - Wall Township NJ",
+      "branch_number": "1154",
+      "email_filled": "pcm1154@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 690,
+      "branch_name": "Sunbelt Rentals 1087 - Stockton CA",
+      "branch_number": "1087",
+      "email_filled": "pcm1087@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 699,
+      "branch_name": "Sunbelt Rentals 1691 - Oak Harbor WA",
+      "branch_number": "1691",
+      "email_filled": "pcm1691@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 701,
+      "branch_name": "Sunbelt Rentals 1374 - Everett WA",
+      "branch_number": "1374",
+      "email_filled": "pcm1374@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 703,
+      "branch_name": "Sunbelt Rentals 569 - Houston TX",
+      "branch_number": "569",
+      "email_filled": "pcm569@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    },
+    {
+      "row": 708,
+      "branch_name": "Sunbelt Rentals 1433 - Woodland CA",
+      "branch_number": "1433",
+      "email_filled": "pcm1433@sunbeltrentals.com",
+      "source": "Pattern Match (pcm{number}@sunbeltrentals.com)"
+    }
+  ],
+  "still_missing": [
+    {
+      "row": 2,
+      "branch_name": "Sunbelt Rentals (formerly Voisin's Equipment Rentals) - Puslinch ON",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 3,
+      "branch_name": "Sunbelt Rentals (formally Lift Services Inc). - Windsor, ON",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 6,
+      "branch_name": "Sunbelt Rentals (formerly Universal Rental Services) HQ - Guelph ON",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 14,
+      "branch_name": "Gauer Rental",
+      "reason": "No public email available (Gauer Rental)"
+    },
+    {
+      "row": 15,
+      "branch_name": "Hull Brothers Rental",
+      "reason": "PERMANENTLY CLOSED (Hull Brothers Rental)"
+    },
+    {
+      "row": 16,
+      "branch_name": "Sunbelt Rentals - Paulsboro NJ",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 60,
+      "branch_name": "Sunbelt Rentals (formerly Universal Rental Services) - Fergus ON",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 61,
+      "branch_name": "Sunbelt Rentals (formerly Universal Rental Services) - Orangeville ON",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 62,
+      "branch_name": "Sunbelt (formally Shale Equipment Rental & Services) - Carrizo Springs TX",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 163,
+      "branch_name": "Beaupre Aerial Equipment",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 164,
+      "branch_name": "Sunbelt Rentals - Miami (55th St) FL",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 169,
+      "branch_name": "Sunbelt Rental - Griffin GA",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 172,
+      "branch_name": "Texas State Rentals - Harlingen, TX",
+      "reason": "Texas State Rentals - no individual branch emails (contact form only)"
+    },
+    {
+      "row": 173,
+      "branch_name": "Texas State Rentals - San Antonio, TX",
+      "reason": "Texas State Rentals - no individual branch emails (contact form only)"
+    },
+    {
+      "row": 174,
+      "branch_name": "Texas State Rentals - New Braunfels, TX",
+      "reason": "Texas State Rentals - no individual branch emails (contact form only)"
+    },
+    {
+      "row": 175,
+      "branch_name": "Texas State Rentals - Tomball, TX",
+      "reason": "Texas State Rentals - no individual branch emails (contact form only)"
+    },
+    {
+      "row": 176,
+      "branch_name": "Texas State Rentals - Halletsville, TX",
+      "reason": "Texas State Rentals - no individual branch emails (contact form only)"
+    },
+    {
+      "row": 178,
+      "branch_name": "Sunbelt Rentals Truck and Equipment  - Tridelphia WV",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 676,
+      "branch_name": "Sunbelt Rentals (formerly Elms Equipment Rental) - Brawley CA",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 683,
+      "branch_name": "Sunbelt Rentals - Klamath Falls OR (formerly Bullet Rentals)",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 695,
+      "branch_name": "Sunbelt Rentals - Norco CA",
+      "reason": "No branch number - requires manual lookup"
+    },
+    {
+      "row": 707,
+      "branch_name": "Sunbelt Rentals - Escebana MI ( Formerly Bosk Equipment) ",
+      "reason": "No branch number - requires manual lookup"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "gaps": [
+    {
+      "state": "MT",
+      "equipment": "Scissor Lifts",
+      "orders": 2,
+      "suppliers": 1,
+      "risk": "MEDIUM"
+    },
+    {
+      "state": "MS",
+      "equipment": "Boom Lifts",
+      "orders": 1,
+      "suppliers": 0,
+      "risk": "HIGH"
+    },
+    {
+      "state": "MS",
+      "equipment": "Forklifts",
+      "orders": 1,
+      "suppliers": 0,
+      "risk": "HIGH"
+    },
+    {
+      "state": "BC",
+      "equipment": "Forklifts",
+      "orders": 1,
+      "suppliers": 0,
+      "risk": "HIGH"
+    },
+    {
+      "state": "BC",
+      "equipment": "Boom Lifts",
+      "orders": 1,
+      "suppliers": 0,
+      "risk": "HIGH"
+    },
+    {
+      "state": "IA",
+      "equipment": "Scissor Lifts",
+      "orders": 1,
+      "suppliers": 0,
+      "risk": "HIGH"
+    }
+  ],
+  "opportunities": [
+    {
+      "state": "AZ",
+      "equipment": "Loaders",
+      "suppliers": 13,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "AZ",
+      "equipment": "Boom Lifts",
+      "suppliers": 13,
+      "orders": 1,
+      "potential": "HIGH"
+    },
+    {
+      "state": "AZ",
+      "equipment": "Forklifts",
+      "suppliers": 13,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "AZ",
+      "equipment": "Excavators",
+      "suppliers": 13,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "AZ",
+      "equipment": "Skid Steers",
+      "suppliers": 3,
+      "orders": 0,
+      "potential": "MEDIUM"
+    },
+    {
+      "state": "CA",
+      "equipment": "Loaders",
+      "suppliers": 28,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "CA",
+      "equipment": "Skid Steers",
+      "suppliers": 14,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "CO",
+      "equipment": "Loaders",
+      "suppliers": 13,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "CO",
+      "equipment": "Boom Lifts",
+      "suppliers": 13,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "CO",
+      "equipment": "Excavators",
+      "suppliers": 13,
+      "orders": 1,
+      "potential": "HIGH"
+    },
+    {
+      "state": "CO",
+      "equipment": "Skid Steers",
+      "suppliers": 7,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "FL",
+      "equipment": "Loaders",
+      "suppliers": 23,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "FL",
+      "equipment": "Scissor Lifts",
+      "suppliers": 26,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "FL",
+      "equipment": "Dozers",
+      "suppliers": 15,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "FL",
+      "equipment": "Skid Steers",
+      "suppliers": 22,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "FL",
+      "equipment": "Telehandlers",
+      "suppliers": 6,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "GA",
+      "equipment": "Loaders",
+      "suppliers": 12,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "GA",
+      "equipment": "Boom Lifts",
+      "suppliers": 12,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "GA",
+      "equipment": "Forklifts",
+      "suppliers": 11,
+      "orders": 0,
+      "potential": "HIGH"
+    },
+    {
+      "state": "GA",
+      "equipment": "Excavators",
+      "suppliers": 12,
+      "orders": 1,
+      "potential": "HIGH"
+    }
+  ],
+  "ads_by_equip": {
+    "Boom Lifts": {
+      "spend": 7187.857086,
+      "conv": 74.998693,
+      "value": 13339.433107514
+    },
+    "Forklifts": {
+      "spend": 1908.430623,
+      "conv": 39.0,
+      "value": 3721.552213738
+    },
+    "All (DSA)": {
+      "spend": 1750.538369,
+      "conv": 25.0,
+      "value": 20524.883075553
+    },
+    "Scissor Lifts": {
+      "spend": 2258.841603,
+      "conv": 44.0,
+      "value": 5075.960112181
+    },
+    "Excavators": {
+      "spend": 2564.015758,
+      "conv": 16.0,
+      "value": 1523.9645355419998
+    },
+    "Dozers": {
+      "spend": 1020.7947,
+      "conv": 21.0,
+      "value": 11893.503334083
+    },
+    "Loaders": {
+      "spend": 1017.545578,
+      "conv": 31.0,
+      "value": 4839.051506911
+    },
+    "Telehandlers": {
+      "spend": 1077.699592,
+      "conv": 6.978906,
+      "value": 1082.910596889
+    },
+    "Brand": {
+      "spend": 524.04251,
+      "conv": 14.993465,
+      "value": 3287.511256632
+    }
+  },
+  "order_by_equip": {
+    "Forklifts": 41,
+    "Boom Lifts": 20,
+    "Scissor Lifts": 23,
+    "Excavators": 10,
+    "Unknown": 13,
+    "Dozers": 2,
+    "Loaders": 9
+  }
+}

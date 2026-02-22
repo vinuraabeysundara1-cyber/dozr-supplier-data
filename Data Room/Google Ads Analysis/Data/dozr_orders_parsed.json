@@ -1,0 +1,1667 @@
+{
+  "total_orders": 155,
+  "by_country": {
+    "US": 136,
+    "CA": 19
+  },
+  "by_state": {
+    "CO": 3,
+    "MS": 4,
+    "TX": 24,
+    "PA": 2,
+    "UT": 2,
+    "NY": 8,
+    "FL": 19,
+    "NV": 2,
+    "IL": 2,
+    "AZ": 10,
+    "CA": 16,
+    "ON": 15,
+    "SC": 4,
+    "NC": 3,
+    "WI": 1,
+    "QC": 1,
+    "OR": 2,
+    "GA": 4,
+    "NJ": 6,
+    "LA": 1,
+    "AB": 1,
+    "AR": 1,
+    "OH": 2,
+    "NM": 2,
+    "CT": 2,
+    "OK": 2,
+    "AL": 1,
+    "VA": 2,
+    "MT": 2,
+    "MO": 2,
+    "BC": 2,
+    "ME": 1,
+    "MD": 2,
+    "WA": 1,
+    "TN": 1,
+    "IN": 1,
+    "KS": 1
+  },
+  "by_city": {
+    "Avenue Toronto, ON": 3,
+    "Drive Kyle, TX": 2,
+    "Street Toronto, ON": 2,
+    "Street Denver, CO": 1,
+    "Street Jackson, MS": 1,
+    "Road Houston, TX": 1,
+    "Drive Washington, PA": 1,
+    "Boulevard Louisville, CO": 1,
+    "Center Midvale, UT": 1,
+    "8th Avenue, NY": 1,
+    "Unknown, FL": 1,
+    "Las Vegas, NV": 1,
+    "Hickory Hills, IL": 1,
+    "Drive Sparks, NV": 1,
+    "Lane Surprise, AZ": 1,
+    "Street Hesperia, CA": 1,
+    "Road Baytown, TX": 1,
+    "Street Yuma, AZ": 1,
+    "#5 Markham, ON": 1,
+    "Drive Columbia, SC": 1,
+    "Haltom City, TX": 1,
+    "Avenue Tampa, FL": 1,
+    "Crystal Beach, TX": 1,
+    "Road Pelham, NC": 1,
+    "Suite Sunnyvale, TX": 1,
+    "Boulevard Miramar, FL": 1,
+    "Avenue Waukesha, WI": 1,
+    "Unknown, NY": 1,
+    "Route Notre-Dame-des-Prairies, QC": 1,
+    "Boulevard Brownsville, TX": 1,
+    "Street Doral, FL": 1,
+    "Lane Ashland, OR": 1,
+    "Drive Charlotte, NC": 1,
+    "Santa Ysabel, CA": 1,
+    "Court Miami, FL": 1,
+    "Road Marietta, GA": 1,
+    "Street Hubbard, TX": 1,
+    "Road Crawford, TX": 1,
+    "fort Dix, NJ": 1,
+    "Place Phoenix, AZ": 1,
+    "Lake Placid, FL": 1,
+    "Lane Prairieville, LA": 1,
+    "East Nisku, AB": 1,
+    "Road Benton, AR": 1,
+    "Unit Toronto, ON": 1,
+    "del rey, CA": 1,
+    "Road Toledo, OH": 1,
+    "East Berlin, PA": 1,
+    "East Hamilton, ON": 1,
+    "Avenue Denver, CO": 1,
+    "Road Hernando, MS": 1,
+    "Cedar Hill, TX": 1,
+    "Avenue Linden, NJ": 1,
+    "Santa Fe, NM": 1,
+    "Lane Beaumont, TX": 1,
+    "Road Toronto, ON": 1,
+    "Way Phoenix, AZ": 1,
+    "Lane Austin, TX": 1,
+    "Road Scottsdale, AZ": 1,
+    "Road Garland, TX": 1,
+    "Road Cambridge, ON": 1,
+    "Avenue Queens, NY": 1,
+    "Southeast Salem, OR": 1,
+    "South Uxbridge, ON": 1,
+    "Parkway Mesa, AZ": 1,
+    "Street Berkeley, CA": 1,
+    "Oak Brook, IL": 1,
+    "Boulevard Kathleen, FL": 1,
+    "Road Windham, CT": 1,
+    "Geraldine Avenue, OK": 1,
+    "Avenue Phoenix, AZ": 1,
+    "Drive Fairfield, AL": 1,
+    "Street Phoenix, AZ": 1,
+    "U.S. Bridgewater, NJ": 1,
+    "Street Newark, NJ": 1,
+    "Unknown, NJ": 1,
+    "Street Roseville, CA": 1,
+    "Plaza Brooklyn, NY": 1,
+    "Boulevard Woodmere, OH": 1,
+    "Road Mesa, AZ": 1,
+    "Road Richmond, VA": 1,
+    "East Bradenton, FL": 1,
+    "Palm Beach, FL": 1,
+    "Drive Bolton, ON": 1,
+    "Great Falls, MT": 1,
+    "Way Missoula, MT": 1,
+    "Highway, MO": 1,
+    "Road Spring, TX": 1,
+    "Street Altadena, CA": 1,
+    "Way Novato, CA": 1,
+    "Stone Mountain, GA": 1,
+    "St. Louis, MO": 1,
+    "Drive Tulsa, OK": 1,
+    "MS Gulfport, MS": 1,
+    "Indian Land, SC": 1,
+    "Longboat Key, FL": 1,
+    "Fruitland Park, FL": 1,
+    "St. Petersburg, FL": 1,
+    "Road Putnam, TX": 1,
+    "ter Aventura, FL": 1,
+    "Lafayette Street, NY": 1,
+    "Jersey City, NJ": 1,
+    "Loop Oxford, MS": 1,
+    "Avenue Fontana, CA": 1,
+    "Rancho Dominguez, CA": 1,
+    "Unknown, ON": 1,
+    "Road Orlando, FL": 1,
+    "Road White, GA": 1,
+    "Los Angeles, CA": 1,
+    "Road Greenville, SC": 1,
+    "Road Hutchins, TX": 1,
+    "Street Sarasota, FL": 1,
+    "Corpus Christi, TX": 1,
+    "Dade City, FL": 1,
+    "Place Walton, NY": 1,
+    "Unknown, CA": 1,
+    "Road Pembroke, NC": 1,
+    "Northwest Atlanta, GA": 1,
+    "Road Abbotsford, BC": 1,
+    "Drive Sterling, VA": 1,
+    "Flower Mound, TX": 1,
+    "Los Lunas, NM": 1,
+    "Drive Toronto, ON": 1,
+    "Street Brooklyn, NY": 1,
+    "Presque Isle, ME": 1,
+    "Trail Sherman, CT": 1,
+    "Lake Forest, CA": 1,
+    "Cape Coral, FL": 1,
+    "Drive Pleasanton, CA": 1,
+    "91st St, NY": 1,
+    "Lake City, UT": 1,
+    "Way Irvine, CA": 1,
+    "Road Plano, TX": 1,
+    "Northeast Aiken, SC": 1,
+    "Lane Towson, MD": 1,
+    "New Boston, TX": 1,
+    "Road Dallas, TX": 1,
+    "Langley Township, BC": 1,
+    "Pl Mims, FL": 1,
+    "Southwest Seattle, WA": 1,
+    "Avenue Baltimore, MD": 1,
+    "Avenue Dallas, TX": 1,
+    "Palm Springs, CA": 1,
+    "Rocky Top, TN": 1,
+    "Laguna Hills, CA": 1,
+    "West Oakville, ON": 1,
+    "Queen Creek, AZ": 1,
+    "Street Franklin, IN": 1,
+    "Avenue Opa-locka, FL": 1,
+    "San Antonio, TX": 1,
+    "Street Wichita, KS": 1
+  },
+  "by_equipment": {
+    "Scissor Lift": 45,
+    "Forklift": 29,
+    "Articulating Boom Lift": 24,
+    "Telehandler": 22,
+    "Excavator": 11,
+    "Skid Steer": 9,
+    "Backhoe": 6,
+    "Manlift": 2,
+    "Dozer": 2,
+    "Dump Truck": 1,
+    "Material Lift": 1,
+    "Loader": 1,
+    "Other": 1,
+    "Crane": 1
+  },
+  "by_state_equipment": {
+    "CO": {
+      "Scissor Lift": 2,
+      "Telehandler": 1
+    },
+    "MS": {
+      "Telehandler": 2,
+      "Excavator": 1,
+      "Articulating Boom Lift": 1
+    },
+    "TX": {
+      "Scissor Lift": 6,
+      "Telehandler": 5,
+      "Forklift": 4,
+      "Dozer": 2,
+      "Backhoe": 1,
+      "Articulating Boom Lift": 3,
+      "Skid Steer": 1,
+      "Excavator": 1,
+      "Crane": 1
+    },
+    "PA": {
+      "Telehandler": 1,
+      "Articulating Boom Lift": 1
+    },
+    "UT": {
+      "Scissor Lift": 2
+    },
+    "NY": {
+      "Manlift": 1,
+      "Scissor Lift": 3,
+      "Forklift": 1,
+      "Articulating Boom Lift": 1,
+      "Excavator": 1,
+      "Skid Steer": 1
+    },
+    "FL": {
+      "Excavator": 4,
+      "Scissor Lift": 3,
+      "Forklift": 5,
+      "Backhoe": 2,
+      "Articulating Boom Lift": 4,
+      "Telehandler": 1
+    },
+    "NV": {
+      "Scissor Lift": 1,
+      "Forklift": 1
+    },
+    "IL": {
+      "Forklift": 1,
+      "Scissor Lift": 1
+    },
+    "AZ": {
+      "Forklift": 4,
+      "Scissor Lift": 3,
+      "Backhoe": 1,
+      "Telehandler": 1,
+      "Articulating Boom Lift": 1
+    },
+    "CA": {
+      "Forklift": 3,
+      "Backhoe": 1,
+      "Material Lift": 1,
+      "Scissor Lift": 4,
+      "Telehandler": 2,
+      "Articulating Boom Lift": 5
+    },
+    "ON": {
+      "Scissor Lift": 5,
+      "Articulating Boom Lift": 3,
+      "Forklift": 2,
+      "Telehandler": 3,
+      "Manlift": 1,
+      "Excavator": 1
+    },
+    "SC": {
+      "Forklift": 2,
+      "Scissor Lift": 1,
+      "Telehandler": 1
+    },
+    "NC": {
+      "Dump Truck": 1,
+      "Scissor Lift": 1,
+      "Excavator": 1
+    },
+    "WI": {
+      "Articulating Boom Lift": 1
+    },
+    "QC": {
+      "Scissor Lift": 1
+    },
+    "OR": {
+      "Telehandler": 1,
+      "Scissor Lift": 1
+    },
+    "GA": {
+      "Telehandler": 1,
+      "Excavator": 1,
+      "Scissor Lift": 1,
+      "Forklift": 1
+    },
+    "NJ": {
+      "Scissor Lift": 2,
+      "Loader": 1,
+      "Skid Steer": 3
+    },
+    "LA": {
+      "Telehandler": 1
+    },
+    "AB": {
+      "Forklift": 1
+    },
+    "AR": {
+      "Scissor Lift": 1
+    },
+    "OH": {
+      "Scissor Lift": 2
+    },
+    "NM": {
+      "Skid Steer": 1,
+      "Forklift": 1
+    },
+    "CT": {
+      "Telehandler": 1,
+      "Excavator": 1
+    },
+    "OK": {
+      "Scissor Lift": 1,
+      "Articulating Boom Lift": 1
+    },
+    "AL": {
+      "Articulating Boom Lift": 1
+    },
+    "VA": {
+      "Skid Steer": 2
+    },
+    "MT": {
+      "Scissor Lift": 2
+    },
+    "MO": {
+      "Telehandler": 1,
+      "Backhoe": 1
+    },
+    "BC": {
+      "Forklift": 1,
+      "Articulating Boom Lift": 1
+    },
+    "ME": {
+      "Forklift": 1
+    },
+    "MD": {
+      "Other": 1,
+      "Skid Steer": 1
+    },
+    "WA": {
+      "Scissor Lift": 1
+    },
+    "TN": {
+      "Articulating Boom Lift": 1
+    },
+    "IN": {
+      "Scissor Lift": 1
+    },
+    "KS": {
+      "Forklift": 1
+    }
+  },
+  "by_country_state": {
+    "US": {
+      "CO": 3,
+      "MS": 4,
+      "TX": 24,
+      "PA": 2,
+      "UT": 2,
+      "NY": 8,
+      "FL": 19,
+      "NV": 2,
+      "IL": 2,
+      "AZ": 10,
+      "CA": 16,
+      "SC": 4,
+      "NC": 3,
+      "WI": 1,
+      "OR": 2,
+      "GA": 4,
+      "NJ": 6,
+      "LA": 1,
+      "AR": 1,
+      "OH": 2,
+      "NM": 2,
+      "CT": 2,
+      "OK": 2,
+      "AL": 1,
+      "VA": 2,
+      "MT": 2,
+      "MO": 2,
+      "ME": 1,
+      "MD": 2,
+      "WA": 1,
+      "TN": 1,
+      "IN": 1,
+      "KS": 1
+    },
+    "CA": {
+      "ON": 15,
+      "QC": 1,
+      "AB": 1,
+      "BC": 2
+    }
+  },
+  "orders": [
+    {
+      "address": "3900 South Lima Street Denver Colorado 80239",
+      "city": "Street Denver",
+      "state": "CO",
+      "country": "US",
+      "equipment_raw": "32ft scissor",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "306 North Farish Street Jackson Mississippi 39202-3226 United States",
+      "city": "Street Jackson",
+      "state": "MS",
+      "country": "US",
+      "equipment_raw": "6k Telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "7120 Brittmoore Road Houston Texas 77041",
+      "city": "Road Houston",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "16 Trinity Point Drive Washington Pennsylvania 15301",
+      "city": "Drive Washington",
+      "state": "PA",
+      "country": "US",
+      "equipment_raw": "10K tele",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "769 Ctc Boulevard Louisville Colorado 80027 United States",
+      "city": "Boulevard Louisville",
+      "state": "CO",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "7220 South Union Park Center Midvale Utah 84047 United States",
+      "city": "Center Midvale",
+      "state": "UT",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "80 8th Avenue New York New York 10011-",
+      "city": "8th Avenue",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "20ft vertical man lift",
+      "equipment_type": "Manlift"
+    },
+    {
+      "address": "9292 Florida 228 Macclenny Florida 32063-4738 United States",
+      "city": "",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Mini Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "820 South Rampart Boulevard Las Vegas Nevada 89145-4825 United States",
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "8641 West 95th Street, Hickory Hills, Illinois 60457",
+      "city": "Hickory Hills",
+      "state": "IL",
+      "country": "US",
+      "equipment_raw": "5,000 lbs pneumatic tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "750 Spice Islands Drive Sparks, Nevada, 89431-7101",
+      "city": "Drive Sparks",
+      "state": "NV",
+      "country": "US",
+      "equipment_raw": "Cushion Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "18206 West Tina Lane Surprise Arizona 85387-1513 United States",
+      "city": "Lane Surprise",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "5K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "17150 Smoke Tree Street Hesperia California 92345",
+      "city": "Street Hesperia",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "10k pneumatic forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "1650 East Freeway Service Road Baytown Texas 77521",
+      "city": "Road Baytown",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "32ft electric scissor",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "370 South Main Street Yuma Arizona 85364 United States",
+      "city": "Street Yuma",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "32ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "7595 Markham Road Unit #5 Markham Ontario L3S 0B6 Canada",
+      "city": "#5 Markham",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "128 Crews Drive Columbia South Carolina 29210-7202 United States",
+      "city": "Drive Columbia",
+      "state": "SC",
+      "country": "US",
+      "equipment_raw": "Cushion Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "4000 Northeast Loop 820 Haltom City Texas 76117",
+      "city": "Haltom City",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "26ft scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "302 South Howard Avenue Tampa Florida 33606-1729 United States",
+      "city": "Avenue Tampa",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1057 Fisherman Drive North Crystal Beach Texas 77650 United States",
+      "city": "Crystal Beach",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "100 Gwynns Chapel Road Pelham North Carolina 27311 United States",
+      "city": "Road Pelham",
+      "state": "NC",
+      "country": "US",
+      "equipment_raw": "Articulated Dump Truck",
+      "equipment_type": "Dump Truck"
+    },
+    {
+      "address": "201 Clay Road Suite 100 Sunnyvale Texas 75182",
+      "city": "Suite Sunnyvale",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "5k cushion tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "7601 Riviera Boulevard Miramar Florida 33023-6574 United States",
+      "city": "Boulevard Miramar",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1314 South Grand Avenue Waukesha Wisconsin 53186-6623 United States",
+      "city": "Avenue Waukesha",
+      "state": "WI",
+      "country": "US",
+      "equipment_raw": "30ft Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "500 Hamilton Avenue Brooklyn NY 11232",
+      "city": null,
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "32ft RT Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "595 Route 131 Notre-Dame-des-Prairies Quebec J6E 0M1 Canada",
+      "city": "Route Notre-Dame-des-Prairies",
+      "state": "QC",
+      "country": "CA",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "2401 East University Boulevard Brownsville Texas 78521 United States",
+      "city": "Boulevard Brownsville",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "15K Dozer",
+      "equipment_type": "Dozer"
+    },
+    {
+      "address": "7840 Northwest 57th Street Doral Florida 33166 United States",
+      "city": "Street Doral",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "15K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "500 West Butler Lane Ashland Oregon 97520",
+      "city": "Lane Ashland",
+      "state": "OR",
+      "country": "US",
+      "equipment_raw": "6k telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "9641 Brookdale Drive Charlotte North Carolina 28215",
+      "city": "Drive Charlotte",
+      "state": "NC",
+      "country": "US",
+      "equipment_raw": "2x 19ft scissor lifts",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1440 Springview Road Santa Ysabel California 92070-9700 United States",
+      "city": "Santa Ysabel",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "70HP Backhoe",
+      "equipment_type": "Backhoe"
+    },
+    {
+      "address": "2014 Northwest Miami Court Miami Florida 33127-4920 United States",
+      "city": "Court Miami",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1488 Bells Ferry Road Marietta Georgia 30066",
+      "city": "Road Marietta",
+      "state": "GA",
+      "country": "US",
+      "equipment_raw": "10k 56ft telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "1024 Northeast 4th Street Hubbard Texas 76648 United States",
+      "city": "Street Hubbard",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "70HP Backhoe",
+      "equipment_type": "Backhoe"
+    },
+    {
+      "address": "1421 Orion Road Crawford Texas 76638 United States",
+      "city": "Road Crawford",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "8401 Range Road fort Dix New Jersey 08640 United States",
+      "city": "fort Dix",
+      "state": "NJ",
+      "country": "US",
+      "equipment_raw": "Rough Terrain Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "4610 South 44th Place Phoenix Arizona 85040 United States",
+      "city": "Place Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "Cushion Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "636 N Lake Grove Rd Lake Placid Florida 33852 United States",
+      "city": "Lake Placid",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Backhoe",
+      "equipment_type": "Backhoe"
+    },
+    {
+      "address": "201 Logistics Drive Kyle Texas 78640 United States",
+      "city": "Drive Kyle",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "8k cushion tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "39437 Bradbury Lane Prairieville Louisiana 70769-4973 United States",
+      "city": "Lane Prairieville",
+      "state": "LA",
+      "country": "US",
+      "equipment_raw": "6K Telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "3795 56 Avenue East Nisku Alberta T9E 0V4 Canada",
+      "city": "East Nisku",
+      "state": "AB",
+      "country": "CA",
+      "equipment_raw": "Cushion Tire or Pneumatic Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "83 Heathcote Avenue Toronto Ontario M2L 1Z3",
+      "city": "Avenue Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "80ft art boom diesel",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "1512 Military Road Benton Arkansas 72015 United States",
+      "city": "Road Benton",
+      "state": "AR",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "3791 Victoria Park Avenue Unit 12 Toronto Ontario M1W 3K6 Canada",
+      "city": "Unit Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "19ft scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "330 Fowling Street Playa del rey California 90293-7730 United States",
+      "city": "del rey",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Material lift",
+      "equipment_type": "Material Lift"
+    },
+    {
+      "address": "4042 Bennett Road Toledo Ohio 43612-1981 United States",
+      "city": "Road Toledo",
+      "state": "OH",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "320 West King Street East Berlin Pennsylvania 17316",
+      "city": "East Berlin",
+      "state": "PA",
+      "country": "US",
+      "equipment_raw": "45ft articulating boom",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "14 Garner Road East Hamilton Ontario L9G 3L1 Canada",
+      "city": "East Hamilton",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "5K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "1555 West Maple Avenue Denver Colorado 80223-1737 United States",
+      "city": "Avenue Denver",
+      "state": "CO",
+      "country": "US",
+      "equipment_raw": "5K Telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "5199 Bright Road Hernando Mississippi 38632 United States",
+      "city": "Road Hernando",
+      "state": "MS",
+      "country": "US",
+      "equipment_raw": "Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "621 Uptown Boulevard Cedar Hill Texas 75104-3508 United States",
+      "city": "Cedar Hill",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lifts",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1026 West Elizabeth Avenue Linden New Jersey 07036",
+      "city": "Avenue Linden",
+      "state": "NJ",
+      "country": "US",
+      "equipment_raw": "19ft electric scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1324 Camino De Cruz Blanca, Santa Fe, New Mexico 87505",
+      "city": "Santa Fe",
+      "state": "NM",
+      "country": "US",
+      "equipment_raw": "Wheeled Skid",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "11601 Shady Oaks Lane Beaumont Texas 77705",
+      "city": "Lane Beaumont",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "15k dozer",
+      "equipment_type": "Dozer"
+    },
+    {
+      "address": "120 Disco Road Toronto Ontario M9W 1M4",
+      "city": "Road Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "6k telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "4255 East Constance Way Phoenix Arizona 85042",
+      "city": "Way Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "70hp backhoe",
+      "equipment_type": "Backhoe"
+    },
+    {
+      "address": "800 Linger Lane Austin Texas 78721",
+      "city": "Lane Austin",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "45ft articulating boom & 20K telehandler",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "7425 East Gainey Ranch Road Scottsdale Arizona 85258",
+      "city": "Road Scottsdale",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "10k telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "3536 West Kingsley Road Garland Texas 75041 United States",
+      "city": "Road Garland",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "255 Intermarket Road Cambridge Ontario N3H 4R6 Canada",
+      "city": "Road Cambridge",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "10-37 49th Avenue Queens New York 11101",
+      "city": "Avenue Queens",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "10k pneumatic forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "1264 Lancaster Drive Southeast Salem Oregon 97317 United States",
+      "city": "Southeast Salem",
+      "state": "OR",
+      "country": "US",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "286 Toronto Street South Uxbridge Ontario L9P 0C6 Canada",
+      "city": "South Uxbridge",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1812 West Rio Salado Parkway Mesa Arizona 85201-7662 United States",
+      "city": "Parkway Mesa",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1823 Fourth Street Berkeley California 94710-1910 United States",
+      "city": "Street Berkeley",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "70 Oakbrook Center Oak Brook Illinois 60523 United States",
+      "city": "Oak Brook",
+      "state": "IL",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "13300 Howard Boulevard Kathleen Florida 33849",
+      "city": "Boulevard Kathleen",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "50 ton excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "21 Babcock Hill Road Windham Connecticut 06266",
+      "city": "Road Windham",
+      "state": "CT",
+      "country": "US",
+      "equipment_raw": "6k telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "3511 North Geraldine Avenue Oklahoma City Oklahoma 73112-2807 United States",
+      "city": "Geraldine Avenue",
+      "state": "OK",
+      "country": "US",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "5060 North 19th Avenue Phoenix Arizona 85015",
+      "city": "Avenue Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "7201 Aaron Aronov Drive Fairfield Alabama 35064 United States",
+      "city": "Drive Fairfield",
+      "state": "AL",
+      "country": "US",
+      "equipment_raw": "30ft Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "903 North 2nd Street Phoenix Arizona 85004-1906 United States",
+      "city": "Street Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "5K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "365 U.S. 206 Bridgewater New Jersey 08807",
+      "city": "U.S. Bridgewater",
+      "state": "NJ",
+      "country": "US",
+      "equipment_raw": "3yd wheel loader",
+      "equipment_type": "Loader"
+    },
+    {
+      "address": "125 Newark Street Newark New Jersey 07103",
+      "city": "Street Newark",
+      "state": "NJ",
+      "country": "US",
+      "equipment_raw": "3400lb tracked skidsteer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "505 New Jersey 33 Millstone Township New Jersey 08535-",
+      "city": "",
+      "state": "NJ",
+      "country": "US",
+      "equipment_raw": "3400lb tracked skidsteer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "1090 Main Street Roseville California 95678-2067 United States",
+      "city": "Street Roseville",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "5100 Kings Plaza Brooklyn New York 11234 United States",
+      "city": "Plaza Brooklyn",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "28849 Chagrin Boulevard Woodmere Ohio 44122-4603 United States",
+      "city": "Boulevard Woodmere",
+      "state": "OH",
+      "country": "US",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "2862 South Signal Butte Road Mesa Arizona 85212-2443 United States",
+      "city": "Road Mesa",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "5K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "4701 Commerce Road Richmond Virginia 23234 United States",
+      "city": "Road Richmond",
+      "state": "VA",
+      "country": "US",
+      "equipment_raw": "Tracked Skid Steer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "6164 15th Street East Bradenton Florida 34203 United States",
+      "city": "East Bradenton",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Cushion Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "334 Glenn Road West Palm Beach Florida 33405 United States",
+      "city": "Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "90 HP Backhoe",
+      "equipment_type": "Backhoe"
+    },
+    {
+      "address": "101 Simona Drive Bolton Ontario L7E 4E8",
+      "city": "Drive Bolton",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "8k pneumatic forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "1500 Market Place Drive Great Falls Montana 59404",
+      "city": "Great Falls",
+      "state": "MT",
+      "country": "US",
+      "equipment_raw": "26ft electric scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "2725 Radio Way Missoula Montana 59808",
+      "city": "Way Missoula",
+      "state": "MT",
+      "country": "US",
+      "equipment_raw": "26ft electric scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "4909 Highway 6 Missouri City Texas 77459-4197 United States",
+      "city": "Highway",
+      "state": "MO",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "614 Spring Cypress Road Spring Texas 77373 United States",
+      "city": "Road Spring",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Pneumatic Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "203 Wapello Street Altadena California 91001-4442 United States",
+      "city": "Street Altadena",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "251 Vintage Way Novato California 94945-5004 United States",
+      "city": "Way Novato",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Pneumatic Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "695 Rock Cliff Court Stone Mountain Georgia 30087 United States",
+      "city": "Stone Mountain",
+      "state": "GA",
+      "country": "US",
+      "equipment_raw": "35 Ton Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "133 East Krauss Street St. Louis Missouri 63111-2925 United States",
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "equipment_raw": "70HP Backhoe",
+      "equipment_type": "Backhoe"
+    },
+    {
+      "address": "10035 South Memorial Drive Tulsa Oklahoma 74133-6451 United States",
+      "city": "Drive Tulsa",
+      "state": "OK",
+      "country": "US",
+      "equipment_raw": "30ft Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "28th Street gate 330 11th St, Gulfport, MS, 39501 Gulfport Mississippi 39501 United States",
+      "city": "MS Gulfport",
+      "state": "MS",
+      "country": "US",
+      "equipment_raw": "45ft Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "1150 Sherbrook Avenue Suite B 101 Indian Land South Carolina 29707",
+      "city": "Indian Land",
+      "state": "SC",
+      "country": "US",
+      "equipment_raw": "5k cushion tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "626 Buttonwood Drive Longboat Key Florida 34228",
+      "city": "Longboat Key",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "36349 South Grays Airport Road Fruitland Park Florida 34731 United States",
+      "city": "Fruitland Park",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "1760 62nd Avenue South St. Petersburg Florida 33712-",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "5k pneumatic forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "2860 Farm to Market Road 880 Putnam Texas 76469",
+      "city": "Road Putnam",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "80k dozer & 14k telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "3760 Northeast 199th ter Aventura Florida 33180-3409 United States",
+      "city": "ter Aventura",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "421 Lafayette Street New York New York 10003 United States",
+      "city": "Lafayette Street",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "6 Linden Avenue East Jersey City New Jersey 07305 United States",
+      "city": "Jersey City",
+      "state": "NJ",
+      "country": "US",
+      "equipment_raw": "Tracked Skid Steer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "4996 Yonge Street Toronto Ontario M2N 7J8",
+      "city": "Street Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "vertical manlift",
+      "equipment_type": "Manlift"
+    },
+    {
+      "address": "16 Thacker Loop Oxford Mississippi 38655-8541 United States",
+      "city": "Loop Oxford",
+      "state": "MS",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "16276 Slover Avenue Fontana California 92337",
+      "city": "Avenue Fontana",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "32ft electric scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "2310 East Gladwick Street Rancho Dominguez California 90220",
+      "city": "Rancho Dominguez",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "45ft articulating boom",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "40 Larkfield Dr, North York, ON",
+      "city": null,
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "8 k telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "5358 Old Winter Garden Road Orlando Florida 32811-1521 United States",
+      "city": "Road Orlando",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Pneumatic Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "188 Macedonia Road White Georgia 30184",
+      "city": "Road White",
+      "state": "GA",
+      "country": "US",
+      "equipment_raw": "19ft scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "70 University Avenue Toronto Ontario M5J 2M4 Canada",
+      "city": "Avenue Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "19ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1153 West 37th Drive Los Angeles California 90007",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "2721 White Horse Road Greenville South Carolina 29611-6132 United States",
+      "city": "Road Greenville",
+      "state": "SC",
+      "country": "US",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "3501 Lancaster Hutchins Road Hutchins Texas 75141",
+      "city": "Road Hutchins",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "3000lb tracked skidsteer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "4041 Bahia Vista Street Sarasota Florida 34232 United States",
+      "city": "Street Sarasota",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "2 Ton Mini Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "3127 Cabaniss Parkway Corpus Christi Texas 78415-5907 United States",
+      "city": "Corpus Christi",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "20831 Bower Road Dade City Florida 33523 United States",
+      "city": "Dade City",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "45ft Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "1 Titus Place Walton New York 13856",
+      "city": "Place Walton",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "18ton excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "3528 Pasadena dr San Mateo, CA 94403",
+      "city": null,
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "34ft diesel art boom",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "3546 Philadelphus Road Pembroke North Carolina 28372-7384 United States",
+      "city": "Road Pembroke",
+      "state": "NC",
+      "country": "US",
+      "equipment_raw": "13 Ton Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "3141 Parrott Avenue Northwest Atlanta Georgia 30318",
+      "city": "Northwest Atlanta",
+      "state": "GA",
+      "country": "US",
+      "equipment_raw": "5k cushion tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "886 Clearbrook Road Abbotsford British Columbia V2T 5X3 Canada",
+      "city": "Road Abbotsford",
+      "state": "BC",
+      "country": "CA",
+      "equipment_raw": "25K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "22435 Glenn Drive Sterling Virginia 20164 United States",
+      "city": "Drive Sterling",
+      "state": "VA",
+      "country": "US",
+      "equipment_raw": "Tracked Skid Steer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "571 Long Prairie Road suite 200 Flower Mound Texas 75022 United States",
+      "city": "Flower Mound",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Mini Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "1300 Desert Willow Road Northwest Los Lunas New Mexico 87031 United States",
+      "city": "Los Lunas",
+      "state": "NM",
+      "country": "US",
+      "equipment_raw": "Pneumatic Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "29 Charleswood Drive Toronto Ontario M3H 1X3 Canada",
+      "city": "Drive Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "1280 East 92nd Street Brooklyn New York 11236",
+      "city": "Street Brooklyn",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "Wheeled Skid Steer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "345 Wilson Avenue Toronto Ontario M3H 5W1",
+      "city": "Avenue Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "45ft articulating boom",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "1030 Airport Drive Presque Isle Maine 04769-2048 United States",
+      "city": "Presque Isle",
+      "state": "ME",
+      "country": "US",
+      "equipment_raw": "10K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "19 Deer Run Trail Sherman Connecticut 06784-2032 United States",
+      "city": "Trail Sherman",
+      "state": "CT",
+      "country": "US",
+      "equipment_raw": "Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "22921 Ridge Route Drive Lake Forest California 92630 United States",
+      "city": "Lake Forest",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "500 West Lake Kennedy Drive Cape Coral Florida 33991-2061 United States",
+      "city": "Cape Coral",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "60ft Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "3410 Andrews Drive Pleasanton California 94588 United States",
+      "city": "Drive Pleasanton",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "10K 55ft Reach Telehandler",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "E 91st St New York New York 10128 United States",
+      "city": "91st St",
+      "state": "NY",
+      "country": "US",
+      "equipment_raw": "32ft RT Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "2330 East 3300 South Salt Lake City Utah 84109-2766 United States",
+      "city": "Lake City",
+      "state": "UT",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "5 Federation Way Irvine California 92603-0100 United States",
+      "city": "Way Irvine",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "3301 Preston Road Plano Texas 75093-7405 United States",
+      "city": "Road Plano",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Electric Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "156 Williamsburg Street Northeast Aiken South Carolina 29801-4543 United States",
+      "city": "Northeast Aiken",
+      "state": "SC",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "6010 Valley Lane Towson Maryland 21286",
+      "city": "Lane Towson",
+      "state": "MD",
+      "country": "US",
+      "equipment_raw": "",
+      "equipment_type": "Other"
+    },
+    {
+      "address": "1245 Dupont Street Toronto Ontario M6H 0E5",
+      "city": "Street Toronto",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "45ft articulating boom",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "100 Armory Road New Boston Texas 75570",
+      "city": "New Boston",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "5k cushion tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "1805 Record Crossing Road Dallas Texas 75235",
+      "city": "Road Dallas",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "32ft electric scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "10301 201 Street Langley Township British Columbia V1M 3G8",
+      "city": "Langley Township",
+      "state": "BC",
+      "country": "CA",
+      "equipment_raw": "34ft Articulating Boom",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "42 Pinewood Pl Mims Florida United States",
+      "city": "Pl Mims",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "10612 15th Avenue Southwest Seattle Washington 98146-2139 United States",
+      "city": "Southwest Seattle",
+      "state": "WA",
+      "country": "US",
+      "equipment_raw": "26ft scissor lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "2900 Nieman Avenue Baltimore Maryland 21230-2718 United States",
+      "city": "Avenue Baltimore",
+      "state": "MD",
+      "country": "US",
+      "equipment_raw": "Tracked Skid Steer",
+      "equipment_type": "Skid Steer"
+    },
+    {
+      "address": "4420 Holland Avenue Dallas Texas 75219-5746 United States",
+      "city": "Avenue Dallas",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Telehandler Reach Forklift",
+      "equipment_type": "Telehandler"
+    },
+    {
+      "address": "250 North El Cielo Road Palm Springs California 92262 United States",
+      "city": "Palm Springs",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "182 Foust Lane Rocky Top Tennessee 37769-5816 United States",
+      "city": "Rocky Top",
+      "state": "TN",
+      "country": "US",
+      "equipment_raw": "45ft Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "23182 Alcalde Drive Laguna Hills California 92653",
+      "city": "Laguna Hills",
+      "state": "CA",
+      "country": "US",
+      "equipment_raw": "15k cushion tire forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "2280 Chancery Lane West Oakville Ontario L6J 6A3 Canada",
+      "city": "West Oakville",
+      "state": "ON",
+      "country": "CA",
+      "equipment_raw": "35 Ton Excavator",
+      "equipment_type": "Excavator"
+    },
+    {
+      "address": "7225 Power Road Queen Creek Arizona 85142 United States",
+      "city": "Queen Creek",
+      "state": "AZ",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "1172 North Main Street Franklin Indiana 46131-1251 United States",
+      "city": "Street Franklin",
+      "state": "IN",
+      "country": "US",
+      "equipment_raw": "26ft Electric Scissor Lift",
+      "equipment_type": "Scissor Lift"
+    },
+    {
+      "address": "14000 Northwest 37th Avenue Opa-locka Florida 33054-6324 United States",
+      "city": "Avenue Opa-locka",
+      "state": "FL",
+      "country": "US",
+      "equipment_raw": "5K Warehouse Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "6426 Crystal Run San Antonio Texas 78238 United States",
+      "city": "San Antonio",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "Articulating Boom Lift",
+      "equipment_type": "Articulating Boom Lift"
+    },
+    {
+      "address": "500 South Florence Street Wichita Kansas 67209-2501 United States",
+      "city": "Street Wichita",
+      "state": "KS",
+      "country": "US",
+      "equipment_raw": "Cushion Tire Forklift",
+      "equipment_type": "Forklift"
+    },
+    {
+      "address": "201 Logistics Drive Kyle Texas 78640 United States",
+      "city": "Drive Kyle",
+      "state": "TX",
+      "country": "US",
+      "equipment_raw": "CARRY DECK CRANE",
+      "equipment_type": "Crane"
+    }
+  ]
+}

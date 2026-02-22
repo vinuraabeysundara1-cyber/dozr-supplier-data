@@ -1,0 +1,107 @@
+{
+  "CO": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "NV": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "UT": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "MT": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "MD": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "NJ": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "MS": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "WA": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "IN": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "KS": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "ME": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "NM": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "LA": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "WI": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  },
+  "MO": {
+    "has_coverage": false,
+    "num_suppliers": 0,
+    "num_locations": 0,
+    "locations": [],
+    "equipment": []
+  }
+}

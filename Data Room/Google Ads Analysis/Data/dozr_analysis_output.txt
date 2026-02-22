@@ -1,0 +1,475 @@
+==================================================================================================================================
+DOZR CAMPAIGN PERFORMANCE ANALYSIS - WEEKEND EXPERIMENT VALIDATION
+==================================================================================================================================
+Date range: 2025-11-06 to 2026-02-03 (90 days)
+Customer ID: 8531896842
+
+[OK] Google Ads client initialized successfully.
+
+----------------------------------------------------------------------------------------------------------------------------------
+STEP 1: Pulling campaign-level metrics...
+----------------------------------------------------------------------------------------------------------------------------------
+  Found 26 campaigns with data in the period.
+
+----------------------------------------------------------------------------------------------------------------------------------
+STEP 2: Pulling conversion breakdown by conversion action...
+----------------------------------------------------------------------------------------------------------------------------------
+  Found conversion data for 17 campaigns.
+  Unique conversion action names across all campaigns:
+    - AdWords Caller requested a quote May 2025
+    - AdWords Qualified Calls May 2025
+    - Calls from ads
+    - Closed Won Deals From AdWords Caller May 2025
+    - Phone Call
+    - Purchase (Google Analytics event purchase)
+
+  Identifying 'Closed Won' conversion actions...
+    Matched: Closed Won Deals From AdWords Caller May 2025
+
+===========================================================================================================================================================
+CAMPAIGN-LEVEL PERFORMANCE SUMMARY (Last 90 Days)
+===========================================================================================================================================================
+Campaign Name                                 Status    Bidding                  Impr   Clicks         Cost      CPC     CTR    Conv     Conv Val  AllConv   AllConvVal
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Search-Demand-Boom-Lifts                      ENABLED   MAXIMIZE_CONVERSI     110,286    4,707 $ 42,020.77 $  8.93   4.27%   826.0 $197,308.94    826.0 $197,308.94
+DSA-AllPages-Tier1-New-US-2                   ENABLED   MAXIMIZE_CONVERSI      52,697    2,871 $ 25,964.01 $  9.04   5.45%   496.6 $ 73,619.28    496.6 $ 73,619.28
+Search-Forklift-Core-Geos-US                  ENABLED   MAXIMIZE_CONVERSI       4,004      293 $  4,616.27 $ 15.76   7.32%    85.0 $ 21,437.90     85.0 $ 21,437.90
+Search-Scissor-Lift-Core-Geos-US              ENABLED   MAXIMIZE_CONVERSI       6,680      438 $  3,954.14 $  9.03   6.56%    51.0 $  5,331.46     51.0 $  5,331.46
+Search-Demand-Scissor-Lifts                   PAUSED    MAXIMIZE_CONVERSI       4,397      263 $  2,818.46 $ 10.72   5.98%    23.5 $    610.25     23.5 $    610.25
+Search-Excavator-Core-Geos-US                 ENABLED   MAXIMIZE_CONVERSI       6,990      490 $  2,481.09 $  5.06   7.01%    38.5 $ 20,325.99     38.5 $ 20,325.99
+Search-Telehandler-Core-Geos-US               ENABLED   MAXIMIZE_CONVERSI       3,706      164 $  1,862.56 $ 11.36   4.43%    12.0 $  2,034.27     12.0 $  2,034.27
+Search-Loader-Core-Geos-US                    ENABLED   MAXIMIZE_CONVERSI       6,106      360 $  1,755.34 $  4.88   5.90%    56.0 $  8,963.01     56.0 $  8,963.01
+Search-Dozers-Core-Geos-US-V3                 ENABLED   MAXIMIZE_CONVERSI       4,294      401 $  1,657.54 $  4.13   9.34%    64.3 $ 29,235.71     64.3 $ 29,235.71
+Search-Scissor-Lift-Core-Geos-CA              ENABLED   MAXIMIZE_CONVERSI       1,168      113 $  1,456.58 $ 12.89   9.67%    18.0 $    695.78     18.0 $    695.78
+Search-Backhoe-Core-Geos-US                   ENABLED   MAXIMIZE_CONVERSI       3,501      335 $  1,437.57 $  4.29   9.57%    16.5 $  1,492.48     16.5 $  1,492.48
+Search-Excavator-Core-Geos-CA                 ENABLED   MAXIMIZE_CONVERSI       1,234       98 $  1,205.99 $ 12.31   7.94%     6.0 $    844.76      6.0 $    844.76
+Search-Telehandler-Core-Geos-CA               ENABLED   MAXIMIZE_CONVERSI         858       75 $  1,121.06 $ 14.95   8.74%     3.0 $  1,054.26      3.0 $  1,054.26
+Search-Boom-Lift-Core-Geos-CA                 PAUSED    MAXIMIZE_CONVERSI       1,015       82 $  1,043.43 $ 12.72   8.08%     0.0 $      0.00      0.0 $      0.00
+Search-Loader-Core-Geos-CA                    ENABLED   MAXIMIZE_CONVERSI         944      115 $    981.04 $  8.53  12.18%    12.0 $  3,268.57     12.0 $  3,268.57
+Search-Forklift-Core-Geos-CA                  PAUSED    MAXIMIZE_CONVERSI         626       61 $    871.07 $ 14.28   9.74%     1.0 $      0.00      1.0 $      0.00
+Search-Demand-Brand-US                        ENABLED   TARGET_IMPRESSION         457      122 $    573.86 $  4.70  26.70%    24.0 $  3,205.02     24.0 $  3,205.02
+Search-Demand-Brand-CA                        ENABLED   MAXIMIZE_CONVERSI         351       89 $    496.77 $  5.58  25.36%     9.0 $  3,040.23      9.0 $  3,040.23
+Campaign #1                                   PAUSED    MAXIMIZE_CONVERSI         160       27 $      5.31 $  0.20  16.88%     0.0 $      0.00      0.0 $      0.00
+Search-Tractor-Core-Geos-US                   PAUSED    MAXIMIZE_CONVERSI          28        1 $      1.81 $  1.81   3.57%     0.0 $      0.00      0.0 $      0.00
+Performance Max - CA Only - Canada            PAUSED    MAXIMIZE_CONVERSI           0        0 $      0.00 $  0.00   0.00%     0.0 $      0.00      0.0 $      0.00
+Performance Max - New US                      PAUSED    MAXIMIZE_CONVERSI           0        0 $      0.00 $  0.00   0.00%     0.0 $      0.00      0.0 $      0.00
+Search-Boom-Lifts-Core-Geos-US                PAUSED    TARGET_SPEND                0        0 $      0.00 $  0.00   0.00%     0.0 $      0.00      0.0 $      0.00
+Search-Demand-Heavy-dirt                      PAUSED    MAXIMIZE_CONVERSI           0        0 $      0.00 $  0.00   0.00%     0.0 $      0.00      0.0 $      0.00
+Search-Dozers-Core-Geos-CA                    PAUSED    MAXIMIZE_CONVERSI           0        0 $      0.00 $  0.00   0.00%     0.0 $      0.00      0.0 $      0.00
+Search-Tractor-Core-Geos-CA                   PAUSED    MAXIMIZE_CONVERSI           0        0 $      0.00 $  0.00   0.00%     0.0 $      0.00      0.0 $      0.00
+
+TOTALS                                                                        209,502   11,105 $ 96,324.69 $  8.67   5.30%  1742.3 $372,467.91   1742.3 $372,467.91
+
+==================================================================================================================================
+SEARCH IMPRESSION SHARE ANALYSIS
+==================================================================================================================================
+Campaign Name                                  Daily Budget  Search IS  Rank Lost  Budget Lost  Budget Constrained?
+----------------------------------------------------------------------------------------------------------------------------------
+Search-Demand-Boom-Lifts                      $   1,400.00      19.7%      53.8%        26.5%                  YES
+DSA-AllPages-Tier1-New-US-2                   $     350.00      15.5%      11.4%        73.1%                  YES
+Search-Forklift-Core-Geos-US                  $     400.00      36.2%      27.6%        36.2%                  YES
+Search-Scissor-Lift-Core-Geos-US              $     350.00      44.8%      15.4%        39.8%                  YES
+Search-Demand-Scissor-Lifts                   $     400.00      19.0%       6.8%        74.1%                  YES
+Search-Excavator-Core-Geos-US                 $     250.00      30.8%      34.8%        34.4%                  YES
+Search-Telehandler-Core-Geos-US               $     100.00      44.9%      21.3%        33.8%                  YES
+Search-Loader-Core-Geos-US                    $     150.00      34.0%      31.0%        35.0%                  YES
+Search-Dozers-Core-Geos-US-V3                 $     200.00      33.4%      16.3%        50.3%                  YES
+Search-Scissor-Lift-Core-Geos-CA              $     120.00      42.5%       8.5%        49.0%                  YES
+Search-Backhoe-Core-Geos-US                   $     100.00      46.6%      26.9%        26.5%                  YES
+Search-Excavator-Core-Geos-CA                 $     100.00      53.7%      26.6%        19.6%                  YES
+Search-Telehandler-Core-Geos-CA               $     100.00      85.4%      11.7%         2.9%                   No
+Search-Boom-Lift-Core-Geos-CA                 $     150.00      72.7%      26.9%         0.3%                   No
+Search-Loader-Core-Geos-CA                    $      80.00      51.1%       4.2%        44.7%                  YES
+Search-Forklift-Core-Geos-CA                  $     150.00      79.2%      20.8%         0.0%                   No
+Search-Demand-Brand-US                        $     100.00      84.7%      15.3%         0.0%                   No
+Search-Demand-Brand-CA                        $      50.00      93.9%       5.6%         0.4%                   No
+Campaign #1                                   $       1.00      10.0%      34.0%        61.2%                  YES
+Search-Tractor-Core-Geos-US                   $     150.00      10.0%      90.0%         0.0%                   No
+Performance Max - CA Only - Canada            $     980.00       0.0%       0.0%         0.0%                   No
+Performance Max - New US                      $   1,400.00       0.0%       0.0%         0.0%                   No
+Search-Boom-Lifts-Core-Geos-US                $      50.00       0.0%       0.0%         0.0%                   No
+Search-Demand-Heavy-dirt                      $   1,060.00       0.0%       0.0%         0.0%                   No
+Search-Dozers-Core-Geos-CA                    $      50.00       0.0%       0.0%         0.0%                   No
+Search-Tractor-Core-Geos-CA                   $      80.00       0.0%       0.0%         0.0%                   No
+
+==================================================================================================================================
+CLOSED WON DEAL ANALYSIS & WINNER IDENTIFICATION
+==================================================================================================================================
+Campaign Name                                         Cost  CW Deals       CW Value  True ROAS      Winner?
+----------------------------------------------------------------------------------------------------------------------------------
+Search-Demand-Boom-Lifts                      $ 42,020.77      40.0 $  117,553.60      2.80x  *** YES ***
+DSA-AllPages-Tier1-New-US-2                   $ 25,964.01      17.0 $   41,693.54      1.61x  *** YES ***
+Search-Dozers-Core-Geos-US-V3                 $  1,657.54       3.0 $   24,902.02     15.02x  *** YES ***
+Search-Forklift-Core-Geos-US                  $  4,616.27       5.0 $   13,551.41      2.94x  *** YES ***
+Search-Excavator-Core-Geos-US                 $  2,481.09       2.7 $   13,470.16      5.43x  *** YES ***
+Search-Loader-Core-Geos-US                    $  1,755.34       1.0 $    2,964.68      1.69x  *** YES ***
+Search-Demand-Brand-CA                        $    496.77       1.0 $    1,128.19      2.27x  *** YES ***
+Search-Scissor-Lift-Core-Geos-US              $  3,954.14       1.0 $      623.02      0.16x  *** YES ***
+Search-Backhoe-Core-Geos-US                   $  1,437.57       0.3 $      443.84      0.31x  *** YES ***
+Campaign #1                                   $      5.31       0.0 $        0.00      0.00x           No
+Performance Max - CA Only - Canada            $      0.00       0.0 $        0.00      0.00x           No
+Performance Max - New US                      $      0.00       0.0 $        0.00      0.00x           No
+Search-Boom-Lift-Core-Geos-CA                 $  1,043.43       0.0 $        0.00      0.00x           No
+Search-Boom-Lifts-Core-Geos-US                $      0.00       0.0 $        0.00      0.00x           No
+Search-Demand-Brand-US                        $    573.86       0.0 $        0.00      0.00x           No
+Search-Demand-Heavy-dirt                      $      0.00       0.0 $        0.00      0.00x           No
+Search-Demand-Scissor-Lifts                   $  2,818.46       0.0 $        0.00      0.00x           No
+Search-Dozers-Core-Geos-CA                    $      0.00       0.0 $        0.00      0.00x           No
+Search-Excavator-Core-Geos-CA                 $  1,205.99       0.0 $        0.00      0.00x           No
+Search-Forklift-Core-Geos-CA                  $    871.07       0.0 $        0.00      0.00x           No
+Search-Loader-Core-Geos-CA                    $    981.04       0.0 $        0.00      0.00x           No
+Search-Scissor-Lift-Core-Geos-CA              $  1,456.58       0.0 $        0.00      0.00x           No
+Search-Telehandler-Core-Geos-CA               $  1,121.06       0.0 $        0.00      0.00x           No
+Search-Telehandler-Core-Geos-US               $  1,862.56       0.0 $        0.00      0.00x           No
+Search-Tractor-Core-Geos-CA                   $      0.00       0.0 $        0.00      0.00x           No
+Search-Tractor-Core-Geos-US                   $      1.81       0.0 $        0.00      0.00x           No
+
+==================================================================================================================================
+RANKING 1: By Total Closed Won Deal Revenue (Descending)
+==================================================================================================================================
+  #1   Search-Demand-Boom-Lifts                         CW Revenue: $  117,553.60   ROAS:    2.80x   Cost: $ 42,020.77
+  #2   DSA-AllPages-Tier1-New-US-2                      CW Revenue: $   41,693.54   ROAS:    1.61x   Cost: $ 25,964.01
+  #3   Search-Dozers-Core-Geos-US-V3                    CW Revenue: $   24,902.02   ROAS:   15.02x   Cost: $  1,657.54
+  #4   Search-Forklift-Core-Geos-US                     CW Revenue: $   13,551.41   ROAS:    2.94x   Cost: $  4,616.27
+  #5   Search-Excavator-Core-Geos-US                    CW Revenue: $   13,470.16   ROAS:    5.43x   Cost: $  2,481.09 <-- EXCAVATOR US
+  #6   Search-Loader-Core-Geos-US                       CW Revenue: $    2,964.68   ROAS:    1.69x   Cost: $  1,755.34
+  #7   Search-Demand-Brand-CA                           CW Revenue: $    1,128.19   ROAS:    2.27x   Cost: $    496.77
+  #8   Search-Scissor-Lift-Core-Geos-US                 CW Revenue: $      623.02   ROAS:    0.16x   Cost: $  3,954.14
+  #9   Search-Backhoe-Core-Geos-US                      CW Revenue: $      443.84   ROAS:    0.31x   Cost: $  1,437.57
+  #10  Campaign #1                                      CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      5.31
+  #11  Performance Max - CA Only - Canada               CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      0.00
+  #12  Performance Max - New US                         CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      0.00
+  #13  Search-Boom-Lift-Core-Geos-CA                    CW Revenue: $        0.00   ROAS:    0.00x   Cost: $  1,043.43
+  #14  Search-Boom-Lifts-Core-Geos-US                   CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      0.00 <-- BOOM LIFTS US
+  #15  Search-Demand-Brand-US                           CW Revenue: $        0.00   ROAS:    0.00x   Cost: $    573.86
+  #16  Search-Demand-Heavy-dirt                         CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      0.00
+  #17  Search-Demand-Scissor-Lifts                      CW Revenue: $        0.00   ROAS:    0.00x   Cost: $  2,818.46
+  #18  Search-Dozers-Core-Geos-CA                       CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      0.00
+  #19  Search-Excavator-Core-Geos-CA                    CW Revenue: $        0.00   ROAS:    0.00x   Cost: $  1,205.99
+  #20  Search-Forklift-Core-Geos-CA                     CW Revenue: $        0.00   ROAS:    0.00x   Cost: $    871.07
+  #21  Search-Loader-Core-Geos-CA                       CW Revenue: $        0.00   ROAS:    0.00x   Cost: $    981.04
+  #22  Search-Scissor-Lift-Core-Geos-CA                 CW Revenue: $        0.00   ROAS:    0.00x   Cost: $  1,456.58
+  #23  Search-Telehandler-Core-Geos-CA                  CW Revenue: $        0.00   ROAS:    0.00x   Cost: $  1,121.06
+  #24  Search-Telehandler-Core-Geos-US                  CW Revenue: $        0.00   ROAS:    0.00x   Cost: $  1,862.56
+  #25  Search-Tractor-Core-Geos-CA                      CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      0.00
+  #26  Search-Tractor-Core-Geos-US                      CW Revenue: $        0.00   ROAS:    0.00x   Cost: $      1.81
+
+==================================================================================================================================
+RANKING 2: By True ROAS (Descending)
+==================================================================================================================================
+  #1   Search-Dozers-Core-Geos-US-V3                    ROAS:   15.02x   CW Revenue: $   24,902.02   Cost: $  1,657.54
+  #2   Search-Excavator-Core-Geos-US                    ROAS:    5.43x   CW Revenue: $   13,470.16   Cost: $  2,481.09 <-- EXCAVATOR US
+  #3   Search-Forklift-Core-Geos-US                     ROAS:    2.94x   CW Revenue: $   13,551.41   Cost: $  4,616.27
+  #4   Search-Demand-Boom-Lifts                         ROAS:    2.80x   CW Revenue: $  117,553.60   Cost: $ 42,020.77
+  #5   Search-Demand-Brand-CA                           ROAS:    2.27x   CW Revenue: $    1,128.19   Cost: $    496.77
+  #6   Search-Loader-Core-Geos-US                       ROAS:    1.69x   CW Revenue: $    2,964.68   Cost: $  1,755.34
+  #7   DSA-AllPages-Tier1-New-US-2                      ROAS:    1.61x   CW Revenue: $   41,693.54   Cost: $ 25,964.01
+  #8   Search-Backhoe-Core-Geos-US                      ROAS:    0.31x   CW Revenue: $      443.84   Cost: $  1,437.57
+  #9   Search-Scissor-Lift-Core-Geos-US                 ROAS:    0.16x   CW Revenue: $      623.02   Cost: $  3,954.14
+  #10  Campaign #1                                      ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      5.31
+  #11  Performance Max - CA Only - Canada               ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      0.00
+  #12  Performance Max - New US                         ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      0.00
+  #13  Search-Boom-Lift-Core-Geos-CA                    ROAS:    0.00x   CW Revenue: $        0.00   Cost: $  1,043.43
+  #14  Search-Boom-Lifts-Core-Geos-US                   ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      0.00 <-- BOOM LIFTS US
+  #15  Search-Demand-Brand-US                           ROAS:    0.00x   CW Revenue: $        0.00   Cost: $    573.86
+  #16  Search-Demand-Heavy-dirt                         ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      0.00
+  #17  Search-Demand-Scissor-Lifts                      ROAS:    0.00x   CW Revenue: $        0.00   Cost: $  2,818.46
+  #18  Search-Dozers-Core-Geos-CA                       ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      0.00
+  #19  Search-Excavator-Core-Geos-CA                    ROAS:    0.00x   CW Revenue: $        0.00   Cost: $  1,205.99
+  #20  Search-Forklift-Core-Geos-CA                     ROAS:    0.00x   CW Revenue: $        0.00   Cost: $    871.07
+  #21  Search-Loader-Core-Geos-CA                       ROAS:    0.00x   CW Revenue: $        0.00   Cost: $    981.04
+  #22  Search-Scissor-Lift-Core-Geos-CA                 ROAS:    0.00x   CW Revenue: $        0.00   Cost: $  1,456.58
+  #23  Search-Telehandler-Core-Geos-CA                  ROAS:    0.00x   CW Revenue: $        0.00   Cost: $  1,121.06
+  #24  Search-Telehandler-Core-Geos-US                  ROAS:    0.00x   CW Revenue: $        0.00   Cost: $  1,862.56
+  #25  Search-Tractor-Core-Geos-CA                      ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      0.00
+  #26  Search-Tractor-Core-Geos-US                      ROAS:    0.00x   CW Revenue: $        0.00   Cost: $      1.81
+
+==================================================================================================================================
+RANKING 3: By Total Impression Volume (Descending)
+==================================================================================================================================
+  #1   Search-Demand-Boom-Lifts                         Impressions:    110,286   Clicks:   4,707   CTR:   4.27%
+  #2   DSA-AllPages-Tier1-New-US-2                      Impressions:     52,697   Clicks:   2,871   CTR:   5.45%
+  #3   Search-Excavator-Core-Geos-US                    Impressions:      6,990   Clicks:     490   CTR:   7.01% <-- EXCAVATOR US
+  #4   Search-Scissor-Lift-Core-Geos-US                 Impressions:      6,680   Clicks:     438   CTR:   6.56%
+  #5   Search-Loader-Core-Geos-US                       Impressions:      6,106   Clicks:     360   CTR:   5.90%
+  #6   Search-Demand-Scissor-Lifts                      Impressions:      4,397   Clicks:     263   CTR:   5.98%
+  #7   Search-Dozers-Core-Geos-US-V3                    Impressions:      4,294   Clicks:     401   CTR:   9.34%
+  #8   Search-Forklift-Core-Geos-US                     Impressions:      4,004   Clicks:     293   CTR:   7.32%
+  #9   Search-Telehandler-Core-Geos-US                  Impressions:      3,706   Clicks:     164   CTR:   4.43%
+  #10  Search-Backhoe-Core-Geos-US                      Impressions:      3,501   Clicks:     335   CTR:   9.57%
+  #11  Search-Excavator-Core-Geos-CA                    Impressions:      1,234   Clicks:      98   CTR:   7.94%
+  #12  Search-Scissor-Lift-Core-Geos-CA                 Impressions:      1,168   Clicks:     113   CTR:   9.67%
+  #13  Search-Boom-Lift-Core-Geos-CA                    Impressions:      1,015   Clicks:      82   CTR:   8.08%
+  #14  Search-Loader-Core-Geos-CA                       Impressions:        944   Clicks:     115   CTR:  12.18%
+  #15  Search-Telehandler-Core-Geos-CA                  Impressions:        858   Clicks:      75   CTR:   8.74%
+  #16  Search-Forklift-Core-Geos-CA                     Impressions:        626   Clicks:      61   CTR:   9.74%
+  #17  Search-Demand-Brand-US                           Impressions:        457   Clicks:     122   CTR:  26.70%
+  #18  Search-Demand-Brand-CA                           Impressions:        351   Clicks:      89   CTR:  25.36%
+  #19  Campaign #1                                      Impressions:        160   Clicks:      27   CTR:  16.88%
+  #20  Search-Tractor-Core-Geos-US                      Impressions:         28   Clicks:       1   CTR:   3.57%
+  #21  Performance Max - CA Only - Canada               Impressions:          0   Clicks:       0   CTR:   0.00%
+  #22  Performance Max - New US                         Impressions:          0   Clicks:       0   CTR:   0.00%
+  #23  Search-Boom-Lifts-Core-Geos-US                   Impressions:          0   Clicks:       0   CTR:   0.00% <-- BOOM LIFTS US
+  #24  Search-Demand-Heavy-dirt                         Impressions:          0   Clicks:       0   CTR:   0.00%
+  #25  Search-Dozers-Core-Geos-CA                       Impressions:          0   Clicks:       0   CTR:   0.00%
+  #26  Search-Tractor-Core-Geos-CA                      Impressions:          0   Clicks:       0   CTR:   0.00%
+
+==================================================================================================================================
+DEEP DIVE: TOP CANDIDATE CAMPAIGNS (Boom Lifts US & Excavator US)
+==================================================================================================================================
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CAMPAIGN: Search-Excavator-Core-Geos-US
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Status:                ENABLED
+  Bidding Strategy:      MAXIMIZE_CONVERSIONS
+  Daily Budget:          $250.00
+  Days with Data:        1
+
+  --- Traffic Metrics ---
+  Impressions:           6,990
+  Clicks:                490
+  Cost:                  $2,481.09
+  CPC:                   $5.06
+  CTR:                   7.01%
+
+  --- Impression Share ---
+  Search Impression Share:          30.8%
+  Search Rank Lost IS:              34.8%
+  Search Budget Lost IS:            34.4%
+  Budget Constraint:                BUDGET CONSTRAINED - high potential for weekend budget increase
+
+  --- Conversion Summary ---
+  Total Conversions:     38.5
+  Total Conv Value:      $20,325.99
+  All Conversions:       38.5
+  All Conv Value:        $20,325.99
+
+  --- Closed Won Deals ---
+  Closed Won Count:      2.7
+  Closed Won Value:      $13,470.16
+  True ROAS:             5.43x
+  Winner Status:         YES - Positive ROAS with Closed Won Deals
+
+  --- Conversion Action Breakdown ---
+    Conversion Action                                        Conversions          Value
+    ---------------------------------------------------------------------------------
+    Closed Won Deals From AdWords Caller May 2025                    2.7 $   13,470.16 <<< CLOSED WON
+    AdWords Caller requested a quote May 2025                       11.0 $    6,366.33
+    AdWords Qualified Calls May 2025                                 1.0 $      489.50
+    Phone Call                                                      23.8 $        0.00
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  CAMPAIGN: Search-Boom-Lifts-Core-Geos-US
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  Status:                PAUSED
+  Bidding Strategy:      TARGET_SPEND
+  Daily Budget:          $50.00
+  Days with Data:        1
+
+  --- Traffic Metrics ---
+  Impressions:           0
+  Clicks:                0
+  Cost:                  $0.00
+  CPC:                   $0.00
+  CTR:                   0.00%
+
+  --- Impression Share ---
+  Search Impression Share:          0.0%
+  Search Rank Lost IS:              0.0%
+  Search Budget Lost IS:            0.0%
+  Budget Constraint:                Not significantly budget constrained - may need bid/targeting changes
+
+  --- Conversion Summary ---
+  Total Conversions:     0.0
+  Total Conv Value:      $0.00
+  All Conversions:       0.0
+  All Conv Value:        $0.00
+
+  --- Closed Won Deals ---
+  Closed Won Count:      0.0
+  Closed Won Value:      $0.00
+  True ROAS:             0.00x
+  Winner Status:         NO - Does not meet winner criteria
+
+  --- Conversion Action Breakdown ---
+    (No conversion data found for this campaign)
+
+==================================================================================================================================
+FULL CONVERSION BREAKDOWN BY CAMPAIGN
+==================================================================================================================================
+
+  Search-Demand-Boom-Lifts (Cost: $42,020.77 | CW Value: $117,553.60 | ROAS: 2.80x)
+    Closed Won Deals From AdWords Caller May 2025           Conv:    40.0  Value: $  117,553.60 *** CLOSED WON ***
+    AdWords Caller requested a quote May 2025               Conv:   131.0  Value: $   49,884.85
+    Purchase (Google Analytics event purchase)              Conv:     9.0  Value: $   27,200.07
+    AdWords Qualified Calls May 2025                        Conv:    23.0  Value: $    2,436.42
+    Calls from ads                                          Conv:   234.0  Value: $      234.00
+    Phone Call                                              Conv:   388.9  Value: $        0.00
+
+  DSA-AllPages-Tier1-New-US-2 (Cost: $25,964.01 | CW Value: $41,693.54 | ROAS: 1.61x)
+    Closed Won Deals From AdWords Caller May 2025           Conv:    17.0  Value: $   41,693.54 *** CLOSED WON ***
+    AdWords Caller requested a quote May 2025               Conv:    74.0  Value: $   24,053.21
+    Purchase (Google Analytics event purchase)              Conv:     3.0  Value: $    5,631.20
+    AdWords Qualified Calls May 2025                        Conv:    15.0  Value: $    2,100.33
+    Calls from ads                                          Conv:   141.0  Value: $      141.00
+    Phone Call                                              Conv:   246.6  Value: $        0.00
+
+  Search-Dozers-Core-Geos-US-V3 (Cost: $1,657.54 | CW Value: $24,902.02 | ROAS: 15.02x)
+    Closed Won Deals From AdWords Caller May 2025           Conv:     3.0  Value: $   24,902.02 *** CLOSED WON ***
+    AdWords Caller requested a quote May 2025               Conv:     8.0  Value: $    4,060.22
+    AdWords Qualified Calls May 2025                        Conv:     5.0  Value: $      262.46
+    Calls from ads                                          Conv:    11.0  Value: $       11.00
+    Phone Call                                              Conv:    37.3  Value: $        0.00
+
+  Search-Forklift-Core-Geos-US (Cost: $4,616.27 | CW Value: $13,551.41 | ROAS: 2.94x)
+    Closed Won Deals From AdWords Caller May 2025           Conv:     5.0  Value: $   13,551.41 *** CLOSED WON ***
+    AdWords Caller requested a quote May 2025               Conv:    25.0  Value: $    7,498.27
+    AdWords Qualified Calls May 2025                        Conv:     5.0  Value: $      385.21
+    Calls from ads                                          Conv:     3.0  Value: $        3.00
+    Phone Call                                              Conv:    47.0  Value: $        0.00
+
+  Search-Excavator-Core-Geos-US (Cost: $2,481.09 | CW Value: $13,470.16 | ROAS: 5.43x)
+    Closed Won Deals From AdWords Caller May 2025           Conv:     2.7  Value: $   13,470.16 *** CLOSED WON ***
+    AdWords Caller requested a quote May 2025               Conv:    11.0  Value: $    6,366.33
+    AdWords Qualified Calls May 2025                        Conv:     1.0  Value: $      489.50
+    Phone Call                                              Conv:    23.8  Value: $        0.00
+
+  Search-Loader-Core-Geos-US (Cost: $1,755.34 | CW Value: $2,964.68 | ROAS: 1.69x)
+    AdWords Caller requested a quote May 2025               Conv:    12.0  Value: $    3,530.64
+    Closed Won Deals From AdWords Caller May 2025           Conv:     1.0  Value: $    2,964.68 *** CLOSED WON ***
+    Purchase (Google Analytics event purchase)              Conv:     1.0  Value: $    2,311.69
+    AdWords Qualified Calls May 2025                        Conv:     3.0  Value: $      150.00
+    Calls from ads                                          Conv:     6.0  Value: $        6.00
+    Phone Call                                              Conv:    33.0  Value: $        0.00
+
+  Search-Demand-Brand-CA (Cost: $496.77 | CW Value: $1,128.19 | ROAS: 2.27x)
+    Purchase (Google Analytics event purchase)              Conv:     1.0  Value: $    1,912.04
+    Closed Won Deals From AdWords Caller May 2025           Conv:     1.0  Value: $    1,128.19 *** CLOSED WON ***
+    Phone Call                                              Conv:     7.0  Value: $        0.00
+
+  Search-Scissor-Lift-Core-Geos-US (Cost: $3,954.14 | CW Value: $623.02 | ROAS: 0.16x)
+    Purchase (Google Analytics event purchase)              Conv:     1.0  Value: $    2,425.28
+    AdWords Caller requested a quote May 2025               Conv:    13.0  Value: $    2,128.71
+    Closed Won Deals From AdWords Caller May 2025           Conv:     1.0  Value: $      623.02 *** CLOSED WON ***
+    AdWords Qualified Calls May 2025                        Conv:     3.0  Value: $      150.45
+    Calls from ads                                          Conv:     4.0  Value: $        4.00
+    Phone Call                                              Conv:    29.0  Value: $        0.00
+
+  Search-Backhoe-Core-Geos-US (Cost: $1,437.57 | CW Value: $443.84 | ROAS: 0.31x)
+    AdWords Caller requested a quote May 2025               Conv:     3.0  Value: $      947.64
+    Closed Won Deals From AdWords Caller May 2025           Conv:     0.3  Value: $      443.84 *** CLOSED WON ***
+    AdWords Qualified Calls May 2025                        Conv:     2.0  Value: $      100.00
+    Calls from ads                                          Conv:     1.0  Value: $        1.00
+    Phone Call                                              Conv:    10.2  Value: $        0.00
+
+  Campaign #1 (Cost: $5.31 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Performance Max - CA Only - Canada (Cost: $0.00 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Performance Max - New US (Cost: $0.00 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Search-Boom-Lift-Core-Geos-CA (Cost: $1,043.43 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Search-Boom-Lifts-Core-Geos-US (Cost: $0.00 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Search-Demand-Brand-US (Cost: $573.86 | CW Value: $0.00 | ROAS: 0.00x)
+    AdWords Caller requested a quote May 2025               Conv:     5.0  Value: $    3,196.02
+    Calls from ads                                          Conv:     9.0  Value: $        9.00
+    Phone Call                                              Conv:    10.0  Value: $        0.00
+
+  Search-Demand-Heavy-dirt (Cost: $0.00 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Search-Demand-Scissor-Lifts (Cost: $2,818.46 | CW Value: $0.00 | ROAS: 0.00x)
+    AdWords Caller requested a quote May 2025               Conv:     2.0  Value: $      598.25
+    Calls from ads                                          Conv:    12.0  Value: $       12.00
+    Phone Call                                              Conv:     9.5  Value: $        0.00
+
+  Search-Dozers-Core-Geos-CA (Cost: $0.00 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Search-Excavator-Core-Geos-CA (Cost: $1,205.99 | CW Value: $0.00 | ROAS: 0.00x)
+    AdWords Caller requested a quote May 2025               Conv:     2.0  Value: $      844.76
+    Phone Call                                              Conv:     4.0  Value: $        0.00
+
+  Search-Forklift-Core-Geos-CA (Cost: $871.07 | CW Value: $0.00 | ROAS: 0.00x)
+    Phone Call                                              Conv:     1.0  Value: $        0.00
+
+  Search-Loader-Core-Geos-CA (Cost: $981.04 | CW Value: $0.00 | ROAS: 0.00x)
+    Purchase (Google Analytics event purchase)              Conv:     2.0  Value: $    3,218.57
+    AdWords Qualified Calls May 2025                        Conv:     1.0  Value: $       50.00
+    Phone Call                                              Conv:     9.0  Value: $        0.00
+
+  Search-Scissor-Lift-Core-Geos-CA (Cost: $1,456.58 | CW Value: $0.00 | ROAS: 0.00x)
+    AdWords Caller requested a quote May 2025               Conv:     6.0  Value: $      695.78
+    Phone Call                                              Conv:    12.0  Value: $        0.00
+
+  Search-Telehandler-Core-Geos-CA (Cost: $1,121.06 | CW Value: $0.00 | ROAS: 0.00x)
+    AdWords Caller requested a quote May 2025               Conv:     2.0  Value: $    1,054.26
+    Phone Call                                              Conv:     1.0  Value: $        0.00
+
+  Search-Telehandler-Core-Geos-US (Cost: $1,862.56 | CW Value: $0.00 | ROAS: 0.00x)
+    AdWords Caller requested a quote May 2025               Conv:     3.0  Value: $    1,961.55
+    AdWords Qualified Calls May 2025                        Conv:     1.0  Value: $       71.73
+    Calls from ads                                          Conv:     1.0  Value: $        1.00
+    Phone Call                                              Conv:     7.0  Value: $        0.00
+
+  Search-Tractor-Core-Geos-CA (Cost: $0.00 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+  Search-Tractor-Core-Geos-US (Cost: $1.81 | CW Value: $0.00 | ROAS: 0.00x)
+    (No conversions)
+
+==================================================================================================================================
+WEEKEND EXPERIMENT VALIDATION SUMMARY
+==================================================================================================================================
+
+  Total campaigns analyzed: 26
+  Winners (Closed Won + positive ROAS): 9
+  Non-winners: 17
+
+  All Winner campaigns (ranked by True ROAS):
+    - Search-Dozers-Core-Geos-US-V3                    ROAS:   15.02x  CW Rev: $   24,902.02  Budget: $200.00/day  IS: 33%  Budget Lost IS: 50.3% (BUDGET-CONSTRAINED)
+    - Search-Excavator-Core-Geos-US                    ROAS:    5.43x  CW Rev: $   13,470.16  Budget: $250.00/day  IS: 31%  Budget Lost IS: 34.4% (BUDGET-CONSTRAINED)
+    - Search-Forklift-Core-Geos-US                     ROAS:    2.94x  CW Rev: $   13,551.41  Budget: $400.00/day  IS: 36%  Budget Lost IS: 36.2% (BUDGET-CONSTRAINED)
+    - Search-Demand-Boom-Lifts                         ROAS:    2.80x  CW Rev: $  117,553.60  Budget: $1,400.00/day  IS: 20%  Budget Lost IS: 26.5% (BUDGET-CONSTRAINED)
+    - Search-Demand-Brand-CA                           ROAS:    2.27x  CW Rev: $    1,128.19  Budget: $50.00/day  IS: 94%  Budget Lost IS: 0.4% (not constrained)
+    - Search-Loader-Core-Geos-US                       ROAS:    1.69x  CW Rev: $    2,964.68  Budget: $150.00/day  IS: 34%  Budget Lost IS: 35.0% (BUDGET-CONSTRAINED)
+    - DSA-AllPages-Tier1-New-US-2                      ROAS:    1.61x  CW Rev: $   41,693.54  Budget: $350.00/day  IS: 15%  Budget Lost IS: 73.1% (BUDGET-CONSTRAINED)
+    - Search-Backhoe-Core-Geos-US                      ROAS:    0.31x  CW Rev: $      443.84  Budget: $100.00/day  IS: 47%  Budget Lost IS: 26.5% (BUDGET-CONSTRAINED)
+    - Search-Scissor-Lift-Core-Geos-US                 ROAS:    0.16x  CW Rev: $      623.02  Budget: $350.00/day  IS: 45%  Budget Lost IS: 39.8% (BUDGET-CONSTRAINED)
+
+  ================================================================================
+  VALIDATION: Boom Lifts US & Excavator US as Weekend Test Candidates
+  ================================================================================
+
+  [BOOM LIFTS US] Search-Boom-Lifts-Core-Geos-US:
+    STATUS: NOT VALIDATED as winner
+    No conversions in the period.
+    VERDICT: WEAK candidate for weekend test. Consider alternatives.
+
+  [EXCAVATOR US] Search-Excavator-Core-Geos-US:
+    STATUS: VALIDATED as winner
+    True ROAS:            5.43x
+    Closed Won Revenue:   $13,470.16 over 90 days
+    Daily Budget:         $250.00
+    Search IS:            30.8%
+    Budget Lost IS:       34.4%
+    VERDICT: STRONG candidate. Campaign IS budget-constrained (34% lost to budget).
+             Increasing weekend budget should directly capture additional impressions and conversions.
+
+  ────────────────────────────────────────────────────────────────────────────────
+  OVERALL RECOMMENDATION:
+  ────────────────────────────────────────────────────────────────────────────────
+  Only Search-Excavator-Core-Geos-US is validated. Consider it as the primary weekend test candidate.
+  Search-Boom-Lifts-Core-Geos-US is NOT validated - look for a better second candidate from the winner list above.
+
+==================================================================================================================================
+END OF ANALYSIS
+==================================================================================================================================

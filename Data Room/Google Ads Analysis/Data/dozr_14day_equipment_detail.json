@@ -1,0 +1,436 @@
+{
+  "state_equipment": {
+    "CA": {
+      "Unknown": 17
+    },
+    "MT": {
+      "Unknown": 2
+    },
+    "ON": {
+      "Unknown": 11
+    },
+    "TX": {
+      "Unknown": 24
+    },
+    "SC": {
+      "Unknown": 7
+    },
+    "FL": {
+      "Unknown": 11
+    },
+    "MS": {
+      "Unknown": 2
+    },
+    "GA": {
+      "Unknown": 4
+    },
+    "CO": {
+      "Unknown": 9
+    },
+    "NJ": {
+      "Unknown": 1
+    },
+    "NY": {
+      "Unknown": 4
+    },
+    "IL": {
+      "Unknown": 1
+    },
+    "NM": {
+      "Unknown": 1
+    },
+    "ME": {
+      "Unknown": 1
+    },
+    "UT": {
+      "Unknown": 1
+    },
+    "BC": {
+      "Unknown": 2
+    },
+    "VA": {
+      "Unknown": 1
+    },
+    "NV": {
+      "Unknown": 1
+    },
+    "CT": {
+      "Unknown": 1
+    },
+    "PA": {
+      "Unknown": 2
+    },
+    "MD": {
+      "Unknown": 2
+    },
+    "AZ": {
+      "Unknown": 4
+    },
+    "WA": {
+      "Unknown": 1
+    },
+    "TN": {
+      "Unknown": 2
+    },
+    "IN": {
+      "Unknown": 1
+    },
+    "AR": {
+      "Unknown": 1
+    },
+    "MI": {
+      "Unknown": 1
+    },
+    "KS": {
+      "Unknown": 1
+    },
+    "IA": {
+      "Unknown": 1
+    },
+    "AL": {
+      "Unknown": 1
+    }
+  },
+  "equipment_locations": {
+    "Unknown": {
+      "CA": 17,
+      "MT": 2,
+      "ON": 11,
+      "TX": 24,
+      "SC": 7,
+      "FL": 11,
+      "MS": 2,
+      "GA": 4,
+      "CO": 9,
+      "NJ": 1,
+      "NY": 4,
+      "IL": 1,
+      "NM": 1,
+      "ME": 1,
+      "UT": 1,
+      "BC": 2,
+      "VA": 1,
+      "NV": 1,
+      "CT": 1,
+      "PA": 2,
+      "MD": 2,
+      "AZ": 4,
+      "WA": 1,
+      "TN": 2,
+      "IN": 1,
+      "AR": 1,
+      "MI": 1,
+      "KS": 1,
+      "IA": 1,
+      "AL": 1
+    }
+  },
+  "location_equipment": {
+    "Placentia, CA": {
+      "Unknown": 1
+    },
+    "Altadena, CA": {
+      "Unknown": 1
+    },
+    "Great Falls, MT": {
+      "Unknown": 1
+    },
+    "Missoula, MT": {
+      "Unknown": 1
+    },
+    "Kleinburg Station, ON": {
+      "Unknown": 1
+    },
+    "Spring, TX": {
+      "Unknown": 1
+    },
+    "Putnam, TX": {
+      "Unknown": 1
+    },
+    "Greenville, SC": {
+      "Unknown": 1
+    },
+    "St. Petersburg, FL": {
+      "Unknown": 1
+    },
+    "Gulfport, MS": {
+      "Unknown": 1
+    },
+    "Stone Mountain, GA": {
+      "Unknown": 1
+    },
+    "Missouri City, TX": {
+      "Unknown": 1
+    },
+    "Brighton, CO": {
+      "Unknown": 2
+    },
+    "Fruitland Park, FL": {
+      "Unknown": 1
+    },
+    "Atlanta, GA": {
+      "Unknown": 2
+    },
+    "Jersey City, NJ": {
+      "Unknown": 1
+    },
+    "Indian Land, SC": {
+      "Unknown": 1
+    },
+    "Los Angeles, CA": {
+      "Unknown": 2
+    },
+    "Aventura, FL": {
+      "Unknown": 1
+    },
+    "Aurora, CO": {
+      "Unknown": 2
+    },
+    "Longboat Key, FL": {
+      "Unknown": 1
+    },
+    "New York, NY": {
+      "Unknown": 2
+    },
+    "Elgin, TX": {
+      "Unknown": 1
+    },
+    "Toronto, ON": {
+      "Unknown": 6
+    },
+    "Lombard, IL": {
+      "Unknown": 1
+    },
+    "Sarasota, FL": {
+      "Unknown": 1
+    },
+    "San Bruno, CA": {
+      "Unknown": 1
+    },
+    "Oxford, MS": {
+      "Unknown": 1
+    },
+    "Irving, TX": {
+      "Unknown": 1
+    },
+    "Flower Mound, TX": {
+      "Unknown": 1
+    },
+    "Fontana, CA": {
+      "Unknown": 1
+    },
+    "White, GA": {
+      "Unknown": 1
+    },
+    "Rancho Dominguez, CA": {
+      "Unknown": 1
+    },
+    "Brooklyn, NY": {
+      "Unknown": 1
+    },
+    "Corpus Christi, TX": {
+      "Unknown": 1
+    },
+    "Los Lunas, NM": {
+      "Unknown": 1
+    },
+    "Dade City, FL": {
+      "Unknown": 1
+    },
+    "Oakville, ON": {
+      "Unknown": 1
+    },
+    "Presque Isle, ME": {
+      "Unknown": 1
+    },
+    "Salt Lake City, UT": {
+      "Unknown": 1
+    },
+    "Rockport, TX": {
+      "Unknown": 1
+    },
+    "Myrtle Beach, SC": {
+      "Unknown": 2
+    },
+    "St. Catharines, ON": {
+      "Unknown": 1
+    },
+    "Abbotsford, BC": {
+      "Unknown": 1
+    },
+    "Greeley, CO": {
+      "Unknown": 1
+    },
+    "Erie, CO": {
+      "Unknown": 1
+    },
+    "Sterling, VA": {
+      "Unknown": 1
+    },
+    "Tonopah, NV": {
+      "Unknown": 1
+    },
+    "Lake Forest, CA": {
+      "Unknown": 1
+    },
+    "Coconut Creek, FL": {
+      "Unknown": 1
+    },
+    "Sherman, CT": {
+      "Unknown": 1
+    },
+    "Langley Township, BC": {
+      "Unknown": 1
+    },
+    "Fresno, CA": {
+      "Unknown": 1
+    },
+    "Saint Davids, PA": {
+      "Unknown": 1
+    },
+    "Baltimore, MD": {
+      "Unknown": 1
+    },
+    "Cape Coral, FL": {
+      "Unknown": 1
+    },
+    "Pleasanton, CA": {
+      "Unknown": 1
+    },
+    "New Boston, TX": {
+      "Unknown": 1
+    },
+    "Dallas, TX": {
+      "Unknown": 3
+    },
+    "Queen Creek, AZ": {
+      "Unknown": 1
+    },
+    "Seattle, WA": {
+      "Unknown": 1
+    },
+    "Aiken, SC": {
+      "Unknown": 1
+    },
+    "Towson, MD": {
+      "Unknown": 1
+    },
+    "Conroe, TX": {
+      "Unknown": 2
+    },
+    "Plano, TX": {
+      "Unknown": 1
+    },
+    "Tahoe Vista, CA": {
+      "Unknown": 1
+    },
+    "Rocky Top, TN": {
+      "Unknown": 1
+    },
+    "Northlake, TX": {
+      "Unknown": 1
+    },
+    "Leesburg, FL": {
+      "Unknown": 1
+    },
+    "Fountain Inn, SC": {
+      "Unknown": 1
+    },
+    "Mims, FL": {
+      "Unknown": 1
+    },
+    "Palm Springs, CA": {
+      "Unknown": 1
+    },
+    "Costa Mesa, CA": {
+      "Unknown": 1
+    },
+    "Laguna Hills, CA": {
+      "Unknown": 1
+    },
+    "Kyle, TX": {
+      "Unknown": 1
+    },
+    "Rancho Santa Fe, CA": {
+      "Unknown": 1
+    },
+    "North Charleston, SC": {
+      "Unknown": 1
+    },
+    "Franklin, IN": {
+      "Unknown": 1
+    },
+    "Centerton, AR": {
+      "Unknown": 1
+    },
+    "Breckenridge, TX": {
+      "Unknown": 1
+    },
+    "Clifton, TX": {
+      "Unknown": 1
+    },
+    "Dumas, TX": {
+      "Unknown": 1
+    },
+    "Marion Heights, PA": {
+      "Unknown": 1
+    },
+    "Mississauga, ON": {
+      "Unknown": 2
+    },
+    "Bangor, MI": {
+      "Unknown": 1
+    },
+    "Elizabeth, CO": {
+      "Unknown": 1
+    },
+    "San Antonio, TX": {
+      "Unknown": 2
+    },
+    "Mesa, AZ": {
+      "Unknown": 1
+    },
+    "Wichita, KS": {
+      "Unknown": 1
+    },
+    "Sunnyvale, CA": {
+      "Unknown": 1
+    },
+    "Opa-locka, FL": {
+      "Unknown": 1
+    },
+    "Central Square, NY": {
+      "Unknown": 1
+    },
+    "Fort Collins, CO": {
+      "Unknown": 2
+    },
+    "Tucson, AZ": {
+      "Unknown": 1
+    },
+    "Laredo, TX": {
+      "Unknown": 1
+    },
+    "Phoenix, AZ": {
+      "Unknown": 1
+    },
+    "New Braunfels, TX": {
+      "Unknown": 1
+    },
+    "Marshalltown, IA": {
+      "Unknown": 1
+    },
+    "Arcadia, CA": {
+      "Unknown": 1
+    },
+    "Opelika, AL": {
+      "Unknown": 1
+    },
+    "Hendersonville, TN": {
+      "Unknown": 1
+    }
+  },
+  "equipment_totals": {
+    "Unknown": 118
+  }
+}

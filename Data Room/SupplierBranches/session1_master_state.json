@@ -1,0 +1,47 @@
+{
+  "current_task": 4,
+  "current_supplier": "EquipmentShare",
+  "tasks_completed": ["Sunstate Equipment", "Herc Rentals", "Sunbelt Rentals", "EquipmentShare"],
+  "tasks_remaining": [],
+  "last_updated": "2026-02-19",
+  "session_started": "2026-02-19",
+  "session_status": "COMPLETED",
+  "task_results": {
+    "Sunstate Equipment": {
+      "status": "COMPLETED",
+      "oms_branches": 84,
+      "oms_enabled": 84,
+      "website_branches": 109,
+      "new_branches_found": 4,
+      "new_branches": ["Greensboro NC", "Conroe TX", "La Porte TX", "Rosenberg TX"]
+    },
+    "Herc Rentals": {
+      "status": "COMPLETED",
+      "oms_branches": 316,
+      "oms_enabled": 3,
+      "website_branches_est": 822,
+      "new_branches_est": 506,
+      "dozr_relevant_pct": 65
+    },
+    "Sunbelt Rentals": {
+      "status": "PARTIAL - Website errors persist",
+      "oms_branches": 707,
+      "oms_enabled": 0,
+      "oms_states": 49,
+      "missing_states": ["AK", "VT"],
+      "website_total_est": 1260,
+      "new_branches_est": 553,
+      "notes": "Best OMS coverage. Website errors persist. Enable 707 branches. ~553 new branches available."
+    },
+    "EquipmentShare": {
+      "status": "COMPLETED",
+      "oms_branches": 193,
+      "oms_enabled": 0,
+      "website_branches": 373,
+      "website_states": 45,
+      "new_branches_est": 180,
+      "new_states": ["WV", "WY", "ME", "NE"],
+      "top_expansion": {"TX": 29, "CA": 13, "FL": 9, "WA": 7}
+    }
+  }
+}

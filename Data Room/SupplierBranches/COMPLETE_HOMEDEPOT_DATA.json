@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Aerial & Lifting Equipment",
+    "equipment_type": "Scissor Lifts",
+    "model_name": "19 ft. Scissor Lift",
+    "model_details": "Genie GS1930",
+    "price_4hr": 199,
+    "price_daily": 199,
+    "price_weekly": 398,
+    "price_monthly": 597,
+    "specs": "Max platform height: 19', Max platform lift weight: 500 lbs, Overall width: 30\"",
+    "url": "https://www.homedepot.com/p/rental/Genie-19-Scissor-Lift-Rental-GS1930/316821847"
+  },
+  {
+    "category": "Aerial & Lifting Equipment",
+    "equipment_type": "Scissor Lifts",
+    "model_name": "19 ft. Scissor Lift on Trailer",
+    "model_details": "Genie PX-15",
+    "price_4hr": 239,
+    "price_daily": 239,
+    "price_weekly": 717,
+    "price_monthly": 1793,
+    "specs": "Max platform height: 19', Max platform lift weight: 500 lbs, Overall width: 30\", Towing: 4480 lbs",
+    "url": "https://www.homedepot.com/p/rental/Genie-19-Scissor-Lift-Rental-PX-15/316821424"
+  },
+  {
+    "category": "Aerial & Lifting Equipment",
+    "equipment_type": "Scissor Lifts",
+    "model_name": "26 ft. Scissor Lift",
+    "model_details": "Genie GS2632",
+    "price_4hr": 259,
+    "price_daily": 259,
+    "price_weekly": 518,
+    "price_monthly": 932,
+    "specs": "Max platform height: 26', Max platform lift weight (unextended): 500 lbs, Overall width: 46\"",
+    "url": "https://www.homedepot.com/p/rental/26-Scissor-Lift-Rental-GS2632/316821928"
+  },
+  {
+    "category": "Aerial & Lifting Equipment",
+    "equipment_type": "Scissor Lifts",
+    "model_name": "26 ft. Scissor Lift on Trailer",
+    "model_details": "Genie 700",
+    "price_4hr": 299,
+    "price_daily": 299,
+    "price_weekly": 897,
+    "price_monthly": 2243,
+    "specs": "Max platform height: 26', Max platform lift weight: 500 lbs, Towing: requires 2\" hitch",
+    "url": "https://www.homedepot.com/p/rental/Genie-26-Scissor-Lift-Rental-700/316821471"
+  },
+  {
+    "category": "Aerial & Lifting Equipment",
+    "equipment_type": "Scissor Lifts",
+    "model_name": "20 ft. Single Man Lift",
+    "model_details": "Genie CH1200",
+    "price_4hr": 229,
+    "price_daily": 229,
+    "price_weekly": 435,
+    "price_monthly": 870,
+    "specs": "Max platform height: 20', Single person operation, Compact design",
+    "url": "https://www.homedepot.com/p/rental/Genie-20-Single-Man-Lift-Rental-CH1200/316821455"
+  },
+  {
+    "category": "Aerial & Lifting Equipment",
+    "equipment_type": "Scissor Lifts",
+    "model_name": "32 ft. Scissor Lift",
+    "model_details": "Genie GS3246",
+    "price_4hr": 309,
+    "price_daily": 309,
+    "price_weekly": 649,
+    "price_monthly": 1298,
+    "specs": "Max platform height: 32', Max platform lift weight: 500 lbs",
+    "url": "https://www.homedepot.com/p/rental/32-Scissor-Lift-Rental-GS3246/315183107"
+  }
+]

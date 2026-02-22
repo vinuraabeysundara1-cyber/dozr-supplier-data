@@ -1,0 +1,353 @@
+{
+  "targeted_states": [
+    [
+      "TX",
+      24,
+      "Texas"
+    ],
+    [
+      "FL",
+      18,
+      "Florida"
+    ],
+    [
+      "CA",
+      16,
+      "California"
+    ],
+    [
+      "ON",
+      14,
+      "Ontario"
+    ],
+    [
+      "AZ",
+      10,
+      "Arizona"
+    ],
+    [
+      "NY",
+      8,
+      "New York"
+    ],
+    [
+      "SC",
+      4,
+      "South Carolina"
+    ],
+    [
+      "GA",
+      4,
+      "Georgia"
+    ],
+    [
+      "CO",
+      3,
+      "Colorado"
+    ],
+    [
+      "IL",
+      3,
+      "Illinois"
+    ],
+    [
+      "NC",
+      3,
+      "North Carolina"
+    ],
+    [
+      "PA",
+      2,
+      "Pennsylvania"
+    ],
+    [
+      "UT",
+      2,
+      "Utah"
+    ],
+    [
+      "NV",
+      2,
+      "Nevada"
+    ],
+    [
+      "OR",
+      2,
+      "Oregon"
+    ],
+    [
+      "OH",
+      2,
+      "Ohio"
+    ],
+    [
+      "CT",
+      2,
+      "Connecticut"
+    ],
+    [
+      "VA",
+      2,
+      "Virginia"
+    ],
+    [
+      "MO",
+      2,
+      "Missouri"
+    ],
+    [
+      "BC",
+      2,
+      "British Columbia"
+    ],
+    [
+      "WI",
+      1,
+      "Wisconsin"
+    ],
+    [
+      "LA",
+      1,
+      "Louisiana"
+    ],
+    [
+      "AR",
+      1,
+      "Arkansas"
+    ],
+    [
+      "AL",
+      1,
+      "Alabama"
+    ],
+    [
+      "ME",
+      1,
+      "Maine"
+    ],
+    [
+      "WA",
+      1,
+      "Washington"
+    ],
+    [
+      "TN",
+      1,
+      "Tennessee"
+    ],
+    [
+      "IN",
+      1,
+      "Indiana"
+    ]
+  ],
+  "not_targeted_states": [
+    [
+      "NJ",
+      5,
+      "New Jersey"
+    ],
+    [
+      "MS",
+      4,
+      "Mississippi"
+    ],
+    [
+      "NM",
+      2,
+      "New Mexico"
+    ],
+    [
+      "OK",
+      2,
+      "Oklahoma"
+    ],
+    [
+      "MT",
+      2,
+      "Montana"
+    ],
+    [
+      "MD",
+      2,
+      "Maryland"
+    ],
+    [
+      "QC",
+      1,
+      "Quebec"
+    ],
+    [
+      "AB",
+      1,
+      "Alberta"
+    ],
+    [
+      "KS",
+      1,
+      "Kansas"
+    ]
+  ],
+  "targeted_geo_names": [
+    "miami-ft. lauderdale, fl",
+    "kitchener,ontario,canada",
+    "kitchener",
+    "greensboro-high point-winston salem, nc",
+    "charleston, sc",
+    "richmond-petersburg, va",
+    "guelph",
+    "collingwood,ontario,canada",
+    "north dakota,united states",
+    "burlington,ontario,canada",
+    "kingston",
+    "connecticut",
+    "niagara falls",
+    "rochester, ny",
+    "florida,united states",
+    "fort erie,ontario,canada",
+    "atlanta, ga,united states",
+    "texas",
+    "nashville, tn",
+    "bowmanville",
+    "arizona",
+    "st. catharines",
+    "oregon",
+    "los angeles, ca",
+    "atlanta, ga",
+    "milton,milton,ontario,canada",
+    "elberton",
+    "port elgin",
+    "arizona,united states",
+    "miami-ft. lauderdale, fl,florida,united states",
+    "illinois",
+    "georgia",
+    "hamilton,ontario,canada",
+    "london,ontario,canada",
+    "collingwood",
+    "stonecrest",
+    "aurora",
+    "west palm beach-ft. pierce, fl,florida,united states",
+    "north vancouver,british columbia,canada",
+    "memphis, tn,united states",
+    "london",
+    "tri-cities, tn-va",
+    "ramara,ontario,canada",
+    "buffalo, ny,united states",
+    "bolton",
+    "loma linda,california,united states",
+    "georgia,united states",
+    "cambridge,ontario,canada",
+    "california",
+    "burlington",
+    "brampton",
+    "albany-schenectady-troy, ny,united states",
+    "north carolina,united states",
+    "mississauga",
+    "oakville",
+    "essex,ontario,canada",
+    "mississauga,ontario,canada",
+    "waco-temple-bryan, tx,texas,united states",
+    "san diego, ca",
+    "ohio",
+    "tennessee",
+    "phoenix,arizona,united states",
+    "norfolk-portsmouth-newport news, va",
+    "innisfil",
+    "san diego, ca,california,united states",
+    "new hampshire",
+    "ramara",
+    "connecticut,united states",
+    "north vancouver",
+    "stonecrest,georgia,united states",
+    "austin, tx",
+    "california,united states",
+    "vaughan,vaughan,ontario,canada",
+    "north dakota",
+    "pinal county,arizona,united states",
+    "tampa-st petersburg (sarasota), fl,florida,united states",
+    "brampton,ontario,canada",
+    "san francisco bay area",
+    "caledon,ontario,canada",
+    "richmond-petersburg, va,virginia,united states",
+    "lambton shores",
+    "hamilton",
+    "orlando-daytona beach-melbourne, fl,florida,united states",
+    "san francisco bay area,california,united states",
+    "greenville-spartanburg, sc-asheville, nc-anderson, sc",
+    "kingston,ontario,canada",
+    "niagara falls,ontario,canada",
+    "hesperia,california,united states",
+    "austin, tx,texas,united states",
+    "oregon,united states",
+    "virginia,united states",
+    "savannah, ga",
+    "ayr",
+    "newmarket",
+    "tri-cities, tn-va,united states",
+    "milton",
+    "pinal county",
+    "caledon",
+    "bolton,ontario,canada",
+    "coquitlam"
+  ],
+  "us_states_targeted": [
+    "Tennessee",
+    "North Dakota",
+    "New York",
+    "Idaho",
+    "Arizona",
+    "Illinois",
+    "Georgia",
+    "Florida",
+    "Connecticut",
+    "Virginia",
+    "Vermont",
+    "California",
+    "Ohio",
+    "Oregon",
+    "Pennsylvania",
+    "South Carolina",
+    "North Carolina",
+    "New Hampshire",
+    "Texas"
+  ],
+  "ca_provinces_targeted": [
+    "Cambridge",
+    "Brampton",
+    "Ramara",
+    "Waterloo",
+    "Markham",
+    "Innisfil",
+    "Coquitlam",
+    "Mississauga",
+    "Lambton Shores",
+    "Ayr",
+    "Brant",
+    "Newmarket",
+    "Guelph",
+    "Kingston",
+    "Cobourg",
+    "Caledon",
+    "Burlington",
+    "Milton",
+    "North Vancouver",
+    "Aurora",
+    "Kitchener",
+    "Niagara Falls",
+    "Oakville",
+    "Bowmanville",
+    "St. Catharines",
+    "Vaughan",
+    "Renfrew County",
+    "Ottawa",
+    "Collingwood",
+    "Bolton",
+    "London",
+    "Hamilton",
+    "Severn",
+    "Fort Erie",
+    "Toronto",
+    "Port Elgin",
+    "Essex"
+  ]
+}

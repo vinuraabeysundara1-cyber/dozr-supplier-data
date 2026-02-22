@@ -1,0 +1,73 @@
+{
+  "task": "Herc Rentals Data Gap Fill",
+  "started": "2026-02-21",
+  "completed": "2026-02-21",
+  "status": "COMPLETE_PARTIAL",
+  "gaps": {
+    "missing_emails": 196,
+    "missing_zips": 34,
+    "missing_addresses": 1
+  },
+  "zip_fills": [
+    {"row": 33, "branch_name": "Herc Rentals (9449) - Midland TX", "address": "8282 Interstate 20", "city": "Midland", "state": "TX", "zip_filled": "79706", "source": "USPS"},
+    {"row": 52, "branch_name": "Herc Rentals (9601) - Cheyenne WY", "address": "707 East Fox Farm Road", "city": "Cheyenne", "state": "WY", "zip_filled": "82007", "source": "USPS"},
+    {"row": 152, "branch_name": "Herc Rentals (9169) - Washington DC", "address": "8400 Westphalia Road", "city": "Upper Marlboro", "state": "MD", "zip_filled": "20774", "source": "USPS"},
+    {"row": 205, "branch_name": "Herc Rentals (9314) - Clayton NC", "address": "7950 US Highway 70", "city": "Clayton", "state": "NC", "zip_filled": "27520", "source": "Reference Data"},
+    {"row": 244, "branch_name": "Herc Rentals (9404) - Houston TX", "address": "3920 North Freeway", "city": "Houston", "state": "TX", "zip_filled": "77022", "source": "Reference Data"},
+    {"row": 255, "branch_name": "Herc Rentals 9953 - Hasbrouck Heights NJ", "address": "50-54 New Jersey 17", "city": "Hasbrouck Heights", "state": "NJ", "zip_filled": "07604", "source": "Reference Data"},
+    {"row": 257, "branch_name": "Herc Rentals (9570) - Houston TX", "address": "6903 North Shepherd Drive", "city": "Houston", "state": "TX", "zip_filled": "77091", "source": "Reference Data"},
+    {"row": 258, "branch_name": "Herc Rentals (9216) - Daytona Beach FL", "address": "874 South Nova Road", "city": "Ormond Beach", "state": "FL", "zip_filled": "32174", "source": "Reference Data"},
+    {"row": 259, "branch_name": "Herc Rentals - San Diego CA", "address": "1596 Radar Rd", "city": "San Diego", "state": "CA", "zip_filled": "92154", "source": "Reference Data"},
+    {"row": 260, "branch_name": "Herc Rentals (9555) - Bryan TX", "address": "2787 N Earl Rudder Fwy", "city": "Bryan", "state": "TX", "zip_filled": "77803", "source": "Reference Data"},
+    {"row": 261, "branch_name": "Herc Rentals (9488) - Grand Prairie TX", "address": "3606 E Jefferson St", "city": "Grand Prairie", "state": "TX", "zip_filled": "75050", "source": "Reference Data"},
+    {"row": 262, "branch_name": "Herc Rentals - Denver CO", "address": "220 E 56th Ave", "city": "Denver", "state": "CO", "zip_filled": "80216", "source": "Reference Data"},
+    {"row": 263, "branch_name": "Herc Rentals (9364) - Tampa FL", "address": "6515 N 50th St", "city": "Tampa", "state": "FL", "zip_filled": "33617", "source": "Reference Data"},
+    {"row": 264, "branch_name": "Herc Rentals (9186) - Londonderry NH", "address": "3 Symmes Dr", "city": "Londonderry", "state": "NH", "zip_filled": "03053", "source": "Reference Data"},
+    {"row": 265, "branch_name": "HERC (MAC Equipment) - Albany NY", "address": "120 Watervliet Ave", "city": "Albany", "state": "NY", "zip_filled": "12206", "source": "Reference Data"},
+    {"row": 266, "branch_name": "Herc Rentals - Ocala FL", "address": "512 N Magnolia Ave", "city": "Ocala", "state": "FL", "zip_filled": "34475", "source": "Reference Data"},
+    {"row": 267, "branch_name": "Herc Rentals - Phoenix AZ", "address": "1649 S 59th Ave", "city": "Phoenix", "state": "AZ", "zip_filled": "85043", "source": "Reference Data"},
+    {"row": 268, "branch_name": "Herc Rentals - Yuma AZ", "address": "2632 E 16th St", "city": "Yuma", "state": "AZ", "zip_filled": "85365", "source": "Reference Data"},
+    {"row": 269, "branch_name": "Herc Rentals (9563) - Berea OH", "address": "1004 W Bagley Rd", "city": "Berea", "state": "OH", "zip_filled": "44017", "source": "Reference Data"},
+    {"row": 270, "branch_name": "Herc Rentals (9263) - Streamwood IL", "address": "1339 Yorkshire Dr", "city": "Streamwood", "state": "IL", "zip_filled": "60107", "source": "Reference Data"},
+    {"row": 271, "branch_name": "Herc Rentals (9129) - Pontiac MI", "address": "959 Cesar E Chavez Ave", "city": "Pontiac", "state": "MI", "zip_filled": "48340", "source": "Reference Data"},
+    {"row": 272, "branch_name": "Herc Rentals - Columbus MS", "address": "4335 Motley Rd", "city": "Columbus", "state": "MS", "zip_filled": "39701", "source": "Reference Data"},
+    {"row": 273, "branch_name": "Herc Rentals (9187) - Dover NH", "address": "349 Mast Rd", "city": "Dover", "state": "NH", "zip_filled": "03820", "source": "Reference Data"},
+    {"row": 274, "branch_name": "Herc Rentals (9923) - Chandler AZ", "address": "331 S Price Rd", "city": "Chandler", "state": "AZ", "zip_filled": "85225", "source": "Reference Data"},
+    {"row": 275, "branch_name": "Herc Rentals (9564) - Bridgeville PA", "address": "1889 Mayview Rd", "city": "Bridgeville", "state": "PA", "zip_filled": "15017", "source": "Reference Data"},
+    {"row": 276, "branch_name": "Herc Rentals 9717 - Des Moines WA", "address": "22868 Pacific Hwy S", "city": "Des Moines", "state": "WA", "zip_filled": "98198", "source": "Reference Data"},
+    {"row": 277, "branch_name": "Herc Rentals (9110) - Brockton MA", "address": "1675 Main St", "city": "Brockton", "state": "MA", "zip_filled": "02301", "source": "Reference Data"},
+    {"row": 278, "branch_name": "Herc Rentals (9548) - Austin TX", "address": "10926 South Highway 183", "city": "Austin", "state": "TX", "zip_filled": "78747", "source": "Reference Data"},
+    {"row": 279, "branch_name": "Herc Rentals (3545) - Tyler TX", "address": "401 N NE Loop 323", "city": "Tyler", "state": "TX", "zip_filled": "75702", "source": "Reference Data"},
+    {"row": 280, "branch_name": "Herc Rentals (9669) - Littleton CO", "address": "9791 Titan Park Cir", "city": "Littleton", "state": "CO", "zip_filled": "80124", "source": "Reference Data"},
+    {"row": 281, "branch_name": "Herc Rentals (9543) - Houston TX", "address": "8660 S Loop E", "city": "Houston", "state": "TX", "zip_filled": "77017", "source": "Reference Data"}
+  ],
+  "canadian_postal_codes": [
+    {"row": 8, "branch_name": "Herc Rentals (8225) - Etobicoke ON", "address": "35 Clairville Road", "city": "Etobicoke", "state": "ON", "postal_code": "M9W 5Z7", "source": "Google Maps"},
+    {"row": 85, "branch_name": "Herc Rentals (8203) - Toronto ON", "address": "6900 Finch Avenue West", "city": "Toronto", "state": "ON", "postal_code": "M9W 0A8", "source": "Google Maps"},
+    {"row": 256, "branch_name": "Herc (formerly Alltrade) - Brampton ON", "address": "89 Heart Lake Road South", "city": "Brampton", "state": "ON", "postal_code": "L6W 3K1", "source": "Google Maps"}
+  ],
+  "address_fills": [
+    {"row": 6, "branch_name": "Herc Rentals (9328) - Winterville NC", "city": "Winterville", "state": "NC", "address_filled": "531 W Fire Tower Rd", "zip_filled": "28590", "phone_confirmed": "(252) 746-8911", "source": "Google Maps"}
+  ],
+  "email_fills": [],
+  "email_fill_status": {
+    "status": "BLOCKED",
+    "reason": "Branch-specific email addresses are not publicly available on Herc Rentals website",
+    "investigation": {
+      "website_checked": "https://www.hercrentals.com/locations.html",
+      "branch_detail_page": "https://www.hercrentals.com/locations/washington/bellevue/bellevue.html",
+      "fields_displayed": ["address", "phone", "services", "hours"],
+      "email_displayed": false,
+      "google_search_confirmed": true
+    },
+    "general_email_available": "CustomerSolutions@HercRentals.com",
+    "missing_count": 196,
+    "recommendation": "Contact Herc corporate for branch-specific emails or use general customer support email"
+  },
+  "summary": {
+    "task1_zips": {"target": 34, "filled": 34, "status": "COMPLETE"},
+    "task2_addresses": {"target": 1, "filled": 1, "status": "COMPLETE"},
+    "task3_emails": {"target": 196, "filled": 0, "status": "BLOCKED - Not publicly available"}
+  },
+  "not_found": []
+}

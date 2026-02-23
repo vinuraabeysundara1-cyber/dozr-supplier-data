@@ -1,0 +1,8 @@
+EquipmentShare Scraping Progress
+==================================================
+
+Aerial Work Platforms: 21 items ✓
+Earthmoving: 49 items ✓
+Forklifts & Material Handling: 51 items ✓
+
+Total: 121 items

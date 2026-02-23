@@ -1,0 +1,22 @@
+[
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 19' Narrow", "price_daily": 222, "price_weekly": 443, "price_monthly": 886},
+  {"category": "Aerial Work Platforms", "equipment_type": "Vertical Mast Lift", "name": "Vertical Mast Lift Single Operator, 20'", "price_daily": 342, "price_weekly": 685, "price_monthly": 1370},
+  {"category": "Aerial Work Platforms", "equipment_type": "Telescopic Boom Lift", "name": "Telescopic Boom Lift, 65' - 67' IC", "price_daily": 833, "price_weekly": 1875, "price_monthly": 3750},
+  {"category": "Aerial Work Platforms", "equipment_type": "Articulating Boom Lift", "name": "Articulating Boom Lift, 125' IC", "price_daily": 2076, "price_weekly": 5189, "price_monthly": 11675},
+  {"category": "Aerial Work Platforms", "equipment_type": "Articulating Boom Lift", "name": "Articulating Boom Lift, 135' IC", "price_daily": 2230, "price_weekly": 5017, "price_monthly": 12541},
+  {"category": "Aerial Work Platforms", "equipment_type": "Articulating Boom Lift", "name": "Articulating Boom Lift, 30' - 35' IC", "price_daily": 545, "price_weekly": 1362, "price_monthly": 2724},
+  {"category": "Aerial Work Platforms", "equipment_type": "Articulating Boom Lift", "name": "Articulating Boom Lift, 40' - 45' IC", "price_daily": 703, "price_weekly": 1581, "price_monthly": 3162},
+  {"category": "Aerial Work Platforms", "equipment_type": "Articulating Boom Lift", "name": "Articulating Boom Lift, 60' - 65' IC", "price_daily": 945, "price_weekly": 2127, "price_monthly": 4254},
+  {"category": "Aerial Work Platforms", "equipment_type": "Articulating Boom Lift", "name": "Articulating Boom Lift, 80' - 85' IC", "price_daily": 1220, "price_weekly": 3051, "price_monthly": 6102},
+  {"category": "Aerial Work Platforms", "equipment_type": "Atrium Lift", "name": "Atrium Lift, 60' - 65'", "price_daily": 2403, "price_weekly": 5406, "price_monthly": 12164},
+  {"category": "Aerial Work Platforms", "equipment_type": "Atrium Lift", "name": "Atrium Lift, 70' - 80'", "price_daily": 2784, "price_weekly": 6960, "price_monthly": 15661},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Boom Lift", "name": "Electric Articulating Boom Lift, 30' - 34'", "price_daily": 649, "price_weekly": 1622, "price_monthly": 3244},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Boom Lift", "name": "Electric Articulating Boom Lift, 40' Narrow", "price_daily": 528, "price_weekly": 1319, "price_monthly": 2639},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Boom Lift", "name": "Electric Articulating Boom Lift, 45' Wide", "price_daily": 668, "price_weekly": 1671, "price_monthly": 3342},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 10' - 12'", "price_daily": 127, "price_weekly": 254, "price_monthly": 508},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 13' - 14'", "price_daily": 171, "price_weekly": 342, "price_monthly": 683},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 19' Micro", "price_daily": 222, "price_weekly": 443, "price_monthly": 886},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 19' Micro with Step-up Platform", "price_daily": 159, "price_weekly": 316, "price_monthly": 632},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 20' Narrow", "price_daily": 216, "price_weekly": 431, "price_monthly": 862},
+  {"category": "Aerial Work Platforms", "equipment_type": "Electric Scissor Lift", "name": "Electric Scissor Lift, 26' Micro", "price_daily": 272, "price_weekly": 544, "price_monthly": 1087}
+]

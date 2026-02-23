@@ -8,7 +8,7 @@
 
 ### Google Ads API
 
-**Config File:** `Config/google-ads.yaml` (relative to DOZR folder)
+**Config File:** `Data Room/Config/google-ads.yaml` (relative to DOZR folder)
 
 **How to Connect:**
 ```python
@@ -16,9 +16,9 @@ from google.ads.googleads.client import GoogleAdsClient
 import os
 
 # Get the config path relative to DOZR folder
-config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Config/google-ads.yaml")
+config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Data Room/Config/google-ads.yaml")
 # Or use absolute path:
-# config_path = "/Users/vinuraabeysundara/Desktop/ICG/DOZR/Config/google-ads.yaml"
+# config_path = "/Users/vinuraabeysundara/Desktop/DOZR/Data Room/Config/google-ads.yaml"
 
 client = GoogleAdsClient.load_from_storage(config_path)
 ```
@@ -26,7 +26,7 @@ client = GoogleAdsClient.load_from_storage(config_path)
 **Simple Connection (use this):**
 ```python
 from google.ads.googleads.client import GoogleAdsClient
-client = GoogleAdsClient.load_from_storage("/Users/vinuraabeysundara/Desktop/ICG/DOZR/Config/google-ads.yaml")
+client = GoogleAdsClient.load_from_storage("/Users/vinuraabeysundara/Desktop/DOZR/Data Room/Config/google-ads.yaml")
 ```
 
 **DOZR Account ID:** `8531896842` (use this for all queries)
@@ -44,7 +44,7 @@ client = GoogleAdsClient.load_from_storage("/Users/vinuraabeysundara/Desktop/ICG
 from google.ads.googleads.client import GoogleAdsClient
 from datetime import datetime, timedelta
 
-client = GoogleAdsClient.load_from_storage("/Users/vinuraabeysundara/Desktop/ICG/DOZR/Config/google-ads.yaml")
+client = GoogleAdsClient.load_from_storage("/Users/vinuraabeysundara/Desktop/DOZR/Data Room/Config/google-ads.yaml")
 ga_service = client.get_service("GoogleAdsService")
 customer_id = "8531896842"
 

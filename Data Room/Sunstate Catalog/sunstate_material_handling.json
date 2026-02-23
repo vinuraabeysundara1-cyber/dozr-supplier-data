@@ -1,0 +1,946 @@
+[
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "55-Foot 4WD Telehandler - 12,000 Pounds",
+    "brand_model": "",
+    "specs": "55-foot lift height, 12,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-55'-12%2C000%23-4wd-telehandler/0573800"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "75-Foot 4WD Telehandler - 10,000 Pounds",
+    "brand_model": "",
+    "specs": "75-foot lift height, 10,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-75'-10%2C000%23-4wd-telehandler/0573550"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "54-Foot 4WD Telehandler - 10,000 Pounds",
+    "brand_model": "",
+    "specs": "54-foot lift height, 10,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-54'-10%2C000%23-4wd-telehandler/0573500"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "42-Foot 4WD Telehandler - 8,000 Pounds",
+    "brand_model": "",
+    "specs": "42-foot lift height, 8,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-42'-8%2C000%23-4wd-telehandler/0573400"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "21-Foot Straight Mast Forklift 4WD - 6,000 Pounds",
+    "brand_model": "",
+    "specs": "21-foot lift height, 6,000 lb capacity, 4WD rough terrain",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-21'-6%2C000%23-4wd-rough-terrain/0562300"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "18-Foot 4WD Telehandler - 4,400 Pounds",
+    "brand_model": "",
+    "specs": "18-foot lift height, 4,400 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-18'-5%2C500%23-4wd-telehandler/0561950"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "34-Foot 4WD Telehandler - 6,000 Pounds",
+    "brand_model": "",
+    "specs": "34-foot lift height, 6,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-34'-6%2C000%23-4wd-telehandler/0561900"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "42-Foot 4WD Telehandler - 6,000 Pounds",
+    "brand_model": "",
+    "specs": "42-foot lift height, 6,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-42'-6%2C000%23-4wd-telehandler/0561750"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "36-Foot 4WD Telehandler - 6,000 Pounds",
+    "brand_model": "",
+    "specs": "36-foot lift height, 6,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-36'-6%2C000%23-4wd-telehandler/0561700"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "14-Foot Straight Mast Forklift 2WD - 8,000 Pounds",
+    "brand_model": "",
+    "specs": "14-foot lift height, 8,000 lb capacity, 2WD industrial",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-14'-8%2C000%23-2wd-industrial/0561410"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "20-Foot Straight Mast Forklift 2WD - 4,500 Pounds",
+    "brand_model": "",
+    "specs": "20-foot lift height, 4,500 lb capacity, 2WD warehouse",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-20'-4%2C500%23-2wd-warehouse/0561360"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "14-Foot Straight Mast Diesel Forklift - 5,500 Pounds",
+    "brand_model": "",
+    "specs": "14-foot lift height, 5,500 lb capacity, diesel, 2WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-14'-5%2C500%23-2wd-dsl-warehouse/0561350"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "14-Foot Straight Mast Forklift - 4,000 Pounds",
+    "brand_model": "",
+    "specs": "14-foot lift height, 4,000 lb capacity, 2WD warehouse",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-14'-4%2C000%23-2wd-warehouse/0561300"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "Straight Mast Forklifts 2WD - 10,000 Pounds",
+    "brand_model": "",
+    "specs": "10,000 lb capacity, 2WD industrial",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-10%2C000%23-2wd-industrial/0561430"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "Low-Profile 2WD Straight Mast Forklift",
+    "brand_model": "",
+    "specs": "73\" overall height, 2WD warehouse",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-73%22oah-2wdlowpro-warehouse/0561345"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "42-Foot 4WD Telehandler - 9,000 Pounds",
+    "brand_model": "",
+    "specs": "42-foot lift height, 9,000 lb capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-42'-9%2C000%23-4wd-telehandl/0573415"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "18-Foot 4WD Cabbed Telehandler - 4,400 Pounds",
+    "brand_model": "",
+    "specs": "18-foot lift height, 4,400-pound capacity, 4WD cabbed model",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-18'-5%2C500%23-cabbed-4wd-telehandl/0561952"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "14-Foot Straight Mast Electric Forklift - 5,000 Pounds",
+    "brand_model": "",
+    "specs": "14-foot lift height, 5,000-pound capacity, electric powered",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-14'-5%2C000%23-elec-warehouse/0561275"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "55-Foot 4WD Cabbed Telehandler - 12,000 Pounds",
+    "brand_model": "",
+    "specs": "55-foot reach, 12,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-55'-12%2C000%23-cabbed-4wd-telehand/0573810"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "14-Foot Straight Mast Forklift - 5,000 Pounds",
+    "brand_model": "",
+    "specs": "14-foot lift height, 5,000-pound capacity, 2WD warehouse model",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-14'-5%2C000%23-2wd-warehouse/0561200"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "42-Foot 4WD Cabbed Telehandler - 6,000 Pounds",
+    "brand_model": "",
+    "specs": "42-foot reach, 6,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-42'-6%2C000%23-cabbed-4wd-telehandl/0561800"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "42-Foot 4WD Cabbed Telehandler - 8,000 Pounds",
+    "brand_model": "",
+    "specs": "42-foot reach, 8,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-42'-8%2C000%23-cabbed-4wd-telehandl/0573410"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "11-15-Foot Straight Mast Forklift - 36,000 Pounds",
+    "brand_model": "",
+    "specs": "11-15 foot lift height, 36,000-pound capacity, 2WD industrial",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-11'-15'-36k-2wd-industrial/0564200"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "Straight-Mast Forklift with Scale System",
+    "brand_model": "",
+    "specs": "Includes integrated scale system, warehouse convention model",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/fork-warehouse-convention-wscale-system/0561320"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "12-Foot Straight Mast Forklift - 5,600 Pounds",
+    "brand_model": "",
+    "specs": "12-foot lift height, 5,600-pound capacity, 2WD warehouse",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-12'-5%2C600%23-2wd-warehouse/0561340"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "76\" OAH 6,000# Low-Profile Straight Forklift",
+    "brand_model": "",
+    "specs": "76-inch overall height, 6,000-pound capacity, low-profile design",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-76%22oah-6%2C000%23-lowpro-warehouse/0561346"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "54-Foot 4WD Cabbed Telehandler - 10,000 Pounds",
+    "brand_model": "",
+    "specs": "54-foot reach, 10,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-54'-10%2C000%23-cabbed-4wd-telehand/0573510"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "34-Foot 4WD Cabbed Telehandler - 6,000 Pounds",
+    "brand_model": "",
+    "specs": "34-foot reach, 6,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-34'-6%2C000%23-cabbed-4wd-telehandl/0561925"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "42-Foot 4WD Cabbed Telehandler - 9,000 Pounds",
+    "brand_model": "",
+    "specs": "42-foot reach, 9,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-42'-9%2C000%23-cabbed-4wd-telehandl/0573420"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "36-Foot 6,000# Cabbed 4WD Telehandler",
+    "brand_model": "",
+    "specs": "36-foot reach, 6,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-36'-6%2C000%23-cabbed-4wd-telehandl/0561710"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "15-Foot, 9-Inch Straight Mast Forklift 2WD - 3,000 Pounds",
+    "brand_model": "",
+    "specs": "15'9\" lift height, 3,000-pound capacity, 2WD warehouse",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-15'9%22-3%2C000%23-2wd-warehouse/0561225"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "66-Foot 4WD Cabbed Telehandler - 8,000 Pounds",
+    "brand_model": "",
+    "specs": "66-foot reach, 8,000-pound capacity, 4WD cabbed",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-66'-8%2C000%23-cabbed-4wd-telehandl/0573460"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-32' 44,000# 4WD",
+    "brand_model": "",
+    "specs": "32-foot reach, 44,000-pound capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-32'-44%2C000%23-4wd/0573910"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "16-Foot Straight Mast Forklift 2WD - 8,000 Pounds",
+    "brand_model": "",
+    "specs": "16-foot lift height, 8,000-pound capacity, 2WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-16'-8%2C000%23-2wd-industrial/0561400"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "22-Foot Straight Mast Forklift 4WD - 8,000 Pounds",
+    "brand_model": "",
+    "specs": "22-foot lift height, 8,000-pound capacity, 4WD, rough terrain",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-22'-8%2C000%23-4wd-rough-terrain/0562325"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-81' 13,000# 4WD ROTATING",
+    "brand_model": "",
+    "specs": "81-foot reach, 13,000-pound capacity, 4WD, rotating",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-81'-13%2C000%23-4wd-rotating/0573920"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-115' 17,000# 4WD ROTATING",
+    "brand_model": "",
+    "specs": "115-foot reach, 17,000-pound capacity, 4WD, rotating",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-115'-17%2C000%23-4wd-rotating/0573925"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-115' 13,000# 4WD ROTATING",
+    "brand_model": "",
+    "specs": "115-foot reach, 13,000-pound capacity, 4WD, rotating",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-115'-13%2C000%23-4wd-rotating/0573916"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-72' 13,000# 4WD ROTATING",
+    "brand_model": "",
+    "specs": "72-foot reach, 13,000-pound capacity, 4WD, rotating",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-72'-13%2C000%23-4wd-rotating/0573915"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "FORKLIFT-22' 8,000# CABBED 4WD STRAIGHT",
+    "brand_model": "",
+    "specs": "22-foot lift height, 8,000-pound capacity, 4WD, enclosed cab, rough terrain",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/forklift-22'8%2C000%23-cab-4wd-rough-terrain/0562328"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-32' 35,000# 4WD",
+    "brand_model": "",
+    "specs": "32-foot reach, 35,000-pound capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-32'-35%2C000%23-4wd/0573905"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklifts",
+    "name": "TELEHANDLER-31' 26,000# 4WD",
+    "brand_model": "",
+    "specs": "31-foot reach, 26,000-pound capacity, 4WD",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklifts/telehandler-31'-26%2C000%23-4wd/0573900"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-DOOSAN",
+    "brand_model": "Doosan",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-doosan/0569914"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-TOYOTA",
+    "brand_model": "Toyota",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-toyota/0569913"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "LIGHT-STROBE",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/light-strobe/0569912"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "SAFETY-BEACON",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/safety-beacon/0569910"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "PROPANE-PROPANE ONLY",
+    "brand_model": "",
+    "specs": "Propane fuel",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/propane-propane-only/0569909"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "GASOLINE ONLY",
+    "brand_model": "",
+    "specs": "Gasoline fuel",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/gasoline-only/0569908"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-MITSUBISHI",
+    "brand_model": "Mitsubishi",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-mitsubishi/0569907"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-KOMATSU",
+    "brand_model": "Komatsu",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-komatsu/0569906"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-NISSAN",
+    "brand_model": "Nissan",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-nissan/0569905"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-JCB",
+    "brand_model": "JCB",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-jcb/0569904"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-IR/SKYJACK",
+    "brand_model": "IR/Skyjack",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-irskyjack/0569903"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-GEHL",
+    "brand_model": "Gehl",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-gehl/0569902"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-SKYTRAK",
+    "brand_model": "Skytrak",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-skytrak/0569901"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "FORK STRAIGHT-LUMBER FORKS 4'",
+    "brand_model": "",
+    "specs": "4-foot lumber forks",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-lumber-forks-4'/0567055"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom: 12 ft. (IR/Skyjack)",
+    "brand_model": "IR/Skyjack",
+    "specs": "12-foot truss boom",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-12'-truss-boom-irskyjack/0566810"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom: 15 ft.",
+    "brand_model": "",
+    "specs": "15-foot truss boom",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-truss-boom-15'/0566805"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom: 12 ft.",
+    "brand_model": "",
+    "specs": "12 foot length",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-truss-boom-12'/0566800"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler 8' Forks",
+    "brand_model": "",
+    "specs": "8 foot forks",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-8'-forks/0566570"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler 6' Forks",
+    "brand_model": "",
+    "specs": "6 foot forks",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-6'-forks/0566560"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler 4' Forks",
+    "brand_model": "",
+    "specs": "4 foot forks",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-4'-forks/0566555"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Fork Straight: 6' Forks Warehouse",
+    "brand_model": "",
+    "specs": "6 foot warehouse forks",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-6'-forks-warehouse/0566550"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Fork Straight: 5' Forks Warehouse",
+    "brand_model": "",
+    "specs": "5 foot warehouse forks",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-5'-forks-warehouse/0566540"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Forks - No Preference",
+    "brand_model": "",
+    "specs": "Standard forks without size specification",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/forks---no-preference/0566501"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Forklift Carpet Pole",
+    "brand_model": "",
+    "specs": "Carpet handling attachment",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-carpet-pole/0566200"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "12k Telehandler Lift Hook (JLG Fork-Mount)",
+    "brand_model": "JLG",
+    "specs": "12,000 lb capacity, JLG compatible",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-12k-lift-hook-jlgfork-mount/0566100"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Work Basket",
+    "brand_model": "",
+    "specs": "Work platform basket",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-work-basket/0566000"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 1 yd.",
+    "brand_model": "",
+    "specs": "1 cubic yard capacity",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-yd--util.-bkt/0565820"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 1 1/2 yd. (Trak/JLG)",
+    "brand_model": "Trak/JLG",
+    "specs": "1.5 cubic yard, Trak/JLG compatible",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-12-yd-util.-bkt-trak%2Fjlg/0565802"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Self-Dumping Hopper: 4 yd.",
+    "brand_model": "",
+    "specs": "4 cubic yard self-dumping hopper",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-4-yd-self-dump-hopper/0565650"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Forklift Self-Dumping Hopper: 2 yd.",
+    "brand_model": "",
+    "specs": "2 cubic yard self-dumping hopper",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/forklift-2-yd-self-dump-hopper/0565600"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Integrated Lifting Point",
+    "brand_model": "",
+    "specs": "Integrated lifting attachment",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-integrated-lifting-point/0561705"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Fork Straight: Non Marking Tires Warehouse",
+    "brand_model": "",
+    "specs": "Straight forks with non-marking warehouse tires",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-non-marking-tires-warehous/0561305"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "TELEHANDLER-72\" STANDARD CARRIAGE",
+    "brand_model": "",
+    "specs": "72\" standard carriage",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-72%22-standard-carriage/0561125"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Swing Carriage",
+    "brand_model": "",
+    "specs": "Telehandler swing carriage",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-swing-carriage/0561000"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "TELEHANDLER-NON MARKING TIRE SOLID",
+    "brand_model": "",
+    "specs": "Non-marking solid tire option",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-non-marking-tire-solid/0560455"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "TELEHANDLER-TIRE CHAIN",
+    "brand_model": "",
+    "specs": "Tire chain attachment",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-tire-chain/0560400"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "PREFERENCE-LIGHT KIT",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/preference-light-kit/0559907"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "DUAL FUEL",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/dual-fuel/0559905"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "ENGINE PREFERENCE-TIER 4F",
+    "brand_model": "",
+    "specs": "Tier 4F engine option",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/engine-preference-tier-4f/0556604"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "ENGINE PREFERENCE-TIER 4I OR BETTER",
+    "brand_model": "",
+    "specs": "Tier 4I or better engine",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/engine-preference-tier-4i-or-better/0556603"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "BRAND PREFERENCE-UNICARRIER",
+    "brand_model": "Unicarrier",
+    "specs": "Unicarrier brand option",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/brand-preference-unicarrier/0569900"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "FORK STRAIGHT-LUMBER FORKS",
+    "brand_model": "",
+    "specs": "Straight lumber fork attachment",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-lumber-forks/0567050"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "FORK STRAIGHT-6' WH FORKS WITH HOLE",
+    "brand_model": "",
+    "specs": "6-foot warehouse forks with hole",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/fork-straight-6'-wh-forks-whole/0566551"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Material Handling Arm (JLG)",
+    "brand_model": "JLG",
+    "specs": "JLG material handling arm",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-material-handling-arm-jlg/0566845"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "TELEHANDLER-1 1/4 YD UTIL. BKT TRAK/JLG",
+    "brand_model": "Trak/JLG",
+    "specs": "1.25-yard utility bucket for Trak/JLG",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-14-yd-util.-bkt-trak%2Fjlg/0565800"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "TELEHANDLER-SOFT CAB SKYTRAK",
+    "brand_model": "Skytrak",
+    "specs": "Soft cab for Skytrak equipment",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-soft-cab-skytrak/0573405"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "TELEHANDLER-PALLET PULLER WITH CHAIN",
+    "brand_model": "",
+    "specs": "Pallet puller with chain mechanism",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-pallet-puller-w-chain/0451500"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Extendable Truss Boom: 12 ft.",
+    "brand_model": "",
+    "specs": "12-foot extendable truss boom",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-extendable-truss-boom-12'/0566850"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Forklift Self-Dumping Hopper: 1 yd. to 1 1/2 yd.",
+    "brand_model": "",
+    "specs": "1 to 1 1/2 yard capacity",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/forklift-1-to-1-12-yd-self-dump-hopper/0565500"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom 12' JCB",
+    "brand_model": "JCB",
+    "specs": "12 feet length for JCB models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-truss-boom-12'-jcb/0566802"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Compact Truss Boom (Genie)",
+    "brand_model": "Genie",
+    "specs": "Compact design for Genie telehandlers",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-truss-boom-genie-compact/0566825"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Open-Faced Dumping Hopper: 5 yd.",
+    "brand_model": "",
+    "specs": "5 yard capacity, open-faced design",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-5-yd-open-faced-dump-hopper/0565660"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom: 8 ft. (RS634)",
+    "brand_model": "RS634",
+    "specs": "8 feet length for RS634 model",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-8'-truss-boom-rs634/0566840"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom: 5 ft. (Gehl)",
+    "brand_model": "Gehl",
+    "specs": "5 feet length for Gehl models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-5'-truss-boom-for-gehl-rs519/0566835"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Truss Boom: 12 ft. (Gehl)",
+    "brand_model": "Gehl",
+    "specs": "12 feet length for Gehl models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-12'-truss-boom-gehl/0566811"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "10k Telehandler Lift Hook (IR/Skyjack)",
+    "brand_model": "IR/Skyjack",
+    "specs": "10,000 pound capacity for IR and Skyjack models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-10k-lift-hook-irskyjack/0566110"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 3/4 yd. (Genie)",
+    "brand_model": "Genie",
+    "specs": "3/4 yard capacity for Genie telehandlers",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-34-yd-util-bkt-genie/0565830"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 1 3/4 yd. (Skyjack)",
+    "brand_model": "Skyjack",
+    "specs": "1 3/4 yard capacity for Skyjack models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-34-yd-util.-bkt-skyjack/0565810"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 1 1/4 yd. (IR)",
+    "brand_model": "IR",
+    "specs": "1 1/4 yard capacity for IR models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-14-yd-util.-bkt-i%2Fr/0565805"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "12k Telehandler Lift Hook (JLG Pin-Mount)",
+    "brand_model": "JLG",
+    "specs": "12,000 pound capacity with JLG pin-mount design",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-12k-lift-hook-jlgpin-mount/0566105"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 1 1/3 yd. (RS6-34)",
+    "brand_model": "RS6-34",
+    "specs": "1 1/3 yard capacity for RS6-34 model",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-13-yd-util-bkt-rs6-34/0565811"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Utility Bucket: 1 1/2 yd. (Gehl)",
+    "brand_model": "Gehl",
+    "specs": "1 1/2 yard capacity for Gehl models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-12-yd--util.-bkt-gehl/0565809"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "8k/10k Telehandler Utility Bucket: 1 1/4 yd. (Gehl)",
+    "brand_model": "Gehl",
+    "specs": "1 1/4 yard capacity for Gehl 8k/10k models",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-14yd-util-bkt-gehl-8k%2F10k/0565808"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Carriage for Gehl: 48 in.",
+    "brand_model": "Gehl",
+    "specs": "48 inch width for Gehl telehandlers",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-48%22-carriage-gehl/0561120"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "180-Degree Carriage-Swing Telehandler",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-180%C2%B0-swing-carriage/0561010"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "120V Battery Charger",
+    "brand_model": "",
+    "specs": "48V output",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/forklift-120v-battery-charger-48v-output/0573815"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Carriage for SkyTrak: 48 in.",
+    "brand_model": "SkyTrak",
+    "specs": "48 inches",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-48%22-carriage-skytrak/0561100"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Forklift Skip Pan: 5,000 lb.",
+    "brand_model": "",
+    "specs": "5,000 lb capacity",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/forklift-5000%23-cap-skip-pan/0565645"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "480V Battery Charger",
+    "brand_model": "",
+    "specs": "48V output",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/forklift-480v-battery-charger-48v-output/0573816"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "10k Telehandler Utility Bucket: 1 3/4 yd. (Trak)",
+    "brand_model": "Trak",
+    "specs": "1 3/4 yard capacity, 10k rated",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-1-34-yd-util.-bkt-trak-10k/0565815"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Pipe Grapple",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-pipe-grapple/0561130"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Jib Attach Magni Rotating",
+    "brand_model": "Magni",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-jib-attach-magni-rotating/0566798"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Forklift Accessories",
+    "name": "Telehandler Lifting Hook Magni HTH",
+    "brand_model": "Magni",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/forklift-accessories/telehandler-lifting-hook-magni-hth/0566799"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Cranes",
+    "name": "CRANE-OUTRIGGER PADS",
+    "brand_model": "",
+    "specs": "",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/cranes/crane-outrigger-pads/0584000"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Cranes",
+    "name": "Carry Deck Crane: 9 Ton",
+    "brand_model": "",
+    "specs": "9-ton lift capacity",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/cranes/crane-carry-deck-9-ton/0581000"
+  },
+  {
+    "category": "Forklifts & Material Handling",
+    "equipment_type": "Cranes",
+    "name": "Carry Deck Crane: 15 Ton",
+    "brand_model": "",
+    "specs": "15-ton lift capacity",
+    "url": "https://www.sunstateequip.com/rental-equipment/material-handling/cranes/crane-carry-deck-15-ton/0582000"
+  }
+]

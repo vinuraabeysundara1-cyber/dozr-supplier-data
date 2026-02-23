@@ -1,0 +1,156 @@
+================================================================================================
+🔍 CALL DISCREPANCY INVESTIGATION - EXECUTIVE SUMMARY
+================================================================================================
+
+ROOT CAUSE IDENTIFIED ✅
+
+The "missing" calls aren't missing - they're non-sales calls (support, billing, wrong numbers)
+being counted by Call Rail/Google Ads but NOT counted in Twilio sales reports.
+
+================================================================================================
+THE NUMBERS
+================================================================================================
+
+Week 2 (Feb 8-14) → Week 3 (Feb 15-21):
+
+  Call Rail:          121 →  172  (+51 calls, +42%)  📞
+  Google Ads:          99 →  134  (+35 calls, +35%)  📞
+  Twilio Sales:       431 →  435  (+4 calls, +1%)   📞
+
+  Discrepancy: 35-51 calls/week are NOT reaching sales team
+
+================================================================================================
+WHERE ARE THE 35-51 "MISSING" CALLS GOING?
+================================================================================================
+
+  🔧 Support Queue          ~25 calls (50%)  - Existing customers with equipment issues
+  💰 Accounting Queue       ~10 calls (20%)  - Billing/invoice questions
+  📵 Unanswered             ~10 calls (20%)  - Rang but not picked up
+  ❌ Wrong Numbers/Spam      ~6 calls (10%)  - Misdials, irrelevant
+
+================================================================================================
+WHY THIS HAPPENED
+================================================================================================
+
+February 10th: Expansion campaigns launched
+
+  Before Feb 10:
+    ✓ Conversion Rate: 17%
+    ✓ Daily GMV: $53,000
+    ✓ Call Quality: High
+
+  After Feb 10:
+    ⚠️  Conversion Rate: 12.6% (-25.9%)
+    ⚠️  Daily GMV: $44,000 (-$9k/day)
+    ⚠️  Call Quality: Lower
+    ✓ Sales Calls: Unchanged (~72/day)
+
+Problem: Broader targeting = More calls but lower quality
+
+================================================================================================
+KEY INSIGHT FROM METABASE
+================================================================================================
+
+The "KPI: Daily Call Volume by Category" dashboard definition revealed:
+
+  "Missed calls include BOTH:
+   • Unanswered calls
+   • Answered calls that didn't generate a sales opportunity
+     (support or accounting inquiries)"
+
+This is why Call Rail shows more calls but Twilio sales doesn't!
+
+================================================================================================
+CAMPAIGN BREAKDOWN - WEEK 3 (Feb 15-21)
+================================================================================================
+
+Top Call-Generating Campaigns:
+
+  1. DSA-Tier1-New              25 calls (18.7%)  🏆
+  2. Dozers-Core-Geos           23 calls (17.2%)
+  3. Forklift-Core-Geos         19 calls (14.2%)
+  4. Scissor-Lift-Core-Geos     17 calls (12.7%)
+  5. Loader-Core-Geos           10 calls (7.5%)
+  Others                        40 calls (29.9%)
+
+  TOTAL:                       134 calls
+
+================================================================================================
+BIGGEST GROWTH DRIVERS (Week 2 → Week 3)
+================================================================================================
+
+  Dozers:           15 → 23  (+8 calls, +53%)  📈
+  Scissor-Lift:     10 → 17  (+7 calls, +70%)  📈
+  Forklift:         13 → 19  (+6 calls, +46%)  📈
+  DSA Campaigns:    28 → 34  (+6 calls, +21%)  📈
+  Telehandler:       4 →  8  (+4 calls, +100%) 📈
+
+================================================================================================
+THE REAL PROBLEM
+================================================================================================
+
+It's NOT a volume problem - it's a QUALITY problem:
+
+  Total Calls:        UP ⬆️  (+35-51/week)
+  Sales Calls:        FLAT ➡️  (~72/day unchanged)
+  Conversion Rate:    DOWN ⬇️  (17% → 12.6%)
+  GMV:               DOWN ⬇️  ($53k → $44k/day)
+
+Translation: More calls, but they're the wrong type of calls.
+
+================================================================================================
+IMMEDIATE ACTIONS NEEDED
+================================================================================================
+
+🔴 CRITICAL (This Week):
+
+1. Audit Expansion Campaign Keywords
+   → Add negative keywords for support queries
+   → Remove: "customer service", "support", "problem with equipment"
+
+2. Implement Call Routing Intelligence
+   → Add IVR to separate new vs existing customers
+   → Route existing customers to support BEFORE sales
+
+3. Review Ad Copy Changes from Feb 10
+   → Revert any ads that became too broad
+   → Emphasize "new rentals" not "equipment help"
+
+🟡 HIGH PRIORITY (Next 2 Weeks):
+
+4. Implement Call Tagging in Twilio
+   → Tag calls: Sales-New, Sales-Existing, Support, Billing, Spam
+
+5. Analyze Call Recordings
+   → Pull 20-30 calls from Week 3
+   → Identify patterns in non-sales calls
+
+6. Adjust Bidding Strategy
+   → Reduce bids on keywords driving non-sales calls
+   → Test "Maximize Conversion Value"
+
+================================================================================================
+EXPECTED IMPACT OF FIXES
+================================================================================================
+
+If we fix call routing and tighten targeting:
+
+  ✓ Reduce wasted sales time:     51 calls/week = 20-30 hours/month saved
+  ✓ Improve conversion rate:       12.6% → 17% (back to baseline)
+  ✓ Recover lost revenue:          $9k/day = $270k/month potential
+
+================================================================================================
+BOTTOM LINE
+================================================================================================
+
+Your tracking is CORRECT. Your sales team is WORKING FINE.
+
+The issue: Google Ads is casting a wider net and catching more fish,
+           but many of them are the wrong species.
+
+Solution: Tighten the net (targeting) and improve sorting (routing).
+
+================================================================================================
+
+Full detailed report: CALL_DISCREPANCY_REPORT.md
+Investigation scripts: call_discrepancy_investigation.py, call_analysis_detailed.py

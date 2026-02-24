@@ -1,0 +1,274 @@
+Campaign,Keyword,Match Type,Type
+Dozers,large dozer rental,Phrase,Positive
+Dozers,heavy dozer rental,Phrase,Positive
+Dozers,d8 dozer rental,Phrase,Positive
+Dozers,d9 dozer rental,Phrase,Positive
+Dozers,d6 dozer rental,Phrase,Positive
+Dozers,cat d8 rental,Phrase,Positive
+Dozers,cat d9 rental,Phrase,Positive
+Dozers,80000 lb dozer,Phrase,Positive
+Dozers,100000 lb dozer,Phrase,Positive
+Dozers,50000 lb dozer,Phrase,Positive
+Dozers,dozer rental texas,Phrase,Positive
+Dozers,dozer rental kentucky,Phrase,Positive
+Dozers,bulldozer rental texas,Phrase,Positive
+Dozers,bulldozer rental kentucky,Phrase,Positive
+Dozers,dozer rental near me,Phrase,Positive
+Dozers,bulldozer rental near me,Phrase,Positive
+Dozers,dozer for rent,Phrase,Positive
+Dozers,bulldozer for rent,Phrase,Positive
+Dozers,rent a dozer,Phrase,Positive
+Dozers,rent a bulldozer,Phrase,Positive
+Dozers,dozer hire,Phrase,Positive
+Dozers,bulldozer hire,Phrase,Positive
+Dozers,land clearing dozer,Phrase,Positive
+Dozers,construction dozer rental,Phrase,Positive
+Dozers,grading dozer rental,Phrase,Positive
+Dozers,site prep dozer,Phrase,Positive
+Dozers,demolition dozer rental,Phrase,Positive
+Dozers,farm dozer rental,Phrase,Positive
+Dozers,dozer rental,Phrase,Positive
+Dozers,bulldozer rental,Phrase,Positive
+Dozers,rent dozer,Phrase,Positive
+Dozers,rent bulldozer,Phrase,Positive
+Dozers,-canada,Negative,Negative
+Dozers,-canadian,Negative,Negative
+Dozers,-jobs,Negative,Negative
+Dozers,-hiring,Negative,Negative
+Dozers,-career,Negative,Negative
+Dozers,-employment,Negative,Negative
+Dozers,-parts,Negative,Negative
+Dozers,-for sale,Negative,Negative
+Dozers,-buy,Negative,Negative
+Dozers,-purchase,Negative,Negative
+Dozers,-toy,Negative,Negative
+Dozers,-model,Negative,Negative
+Dozers,-miniature,Negative,Negative
+Dozers,-blade only,Negative,Negative
+Dozers,-attachments only,Negative,Negative
+Dozers,-training,Negative,Negative
+Dozers,-operator,Negative,Negative
+Dozers,-certification,Negative,Negative
+Dozers,-swamp dozer,Negative,Negative
+Dozers,-forestry dozer,Negative,Negative
+Dozers,-used equipment,Negative,Negative
+Dozers,-equipment sales,Negative,Negative
+Forklift,warehouse forklift rental,Phrase,Positive
+Forklift,indoor forklift rental,Phrase,Positive
+Forklift,electric forklift rental,Phrase,Positive
+Forklift,pneumatic tire forklift,Phrase,Positive
+Forklift,cushion tire forklift,Phrase,Positive
+Forklift,outdoor forklift rental,Phrase,Positive
+Forklift,rough terrain forklift,Phrase,Positive
+Forklift,35000 lb forklift,Phrase,Positive
+Forklift,35k forklift rental,Phrase,Positive
+Forklift,20000 lb forklift,Phrase,Positive
+Forklift,20k forklift rental,Phrase,Positive
+Forklift,15000 lb forklift,Phrase,Positive
+Forklift,15k forklift rental,Phrase,Positive
+Forklift,large forklift rental,Phrase,Positive
+Forklift,small forklift rental,Phrase,Positive
+Forklift,forklift rental kansas,Phrase,Positive
+Forklift,forklift rental utah,Phrase,Positive
+Forklift,forklift rental indiana,Phrase,Positive
+Forklift,forklift rental near me,Phrase,Positive
+Forklift,forklift for rent,Phrase,Positive
+Forklift,rent a forklift,Phrase,Positive
+Forklift,forklift hire,Phrase,Positive
+Forklift,rent forklift,Phrase,Positive
+Forklift,construction forklift rental,Phrase,Positive
+Forklift,industrial forklift rental,Phrase,Positive
+Forklift,forklift rental,Phrase,Positive
+Forklift,-canada,Negative,Negative
+Forklift,-jobs,Negative,Negative
+Forklift,-training,Negative,Negative
+Forklift,-certification,Negative,Negative
+Forklift,-operator,Negative,Negative
+Forklift,-parts,Negative,Negative
+Forklift,-for sale,Negative,Negative
+Forklift,-buy forklift,Negative,Negative
+Forklift,-used forklift,Negative,Negative
+Forklift,-toy,Negative,Negative
+Forklift,-pallet jack,Negative,Negative
+Forklift,-hand truck,Negative,Negative
+Forklift,-hand pallet,Negative,Negative
+Forklift,-manual,Negative,Negative
+Forklift,-attachments only,Negative,Negative
+Telehandler,telehandler rental,Phrase,Positive
+Telehandler,lull rental,Phrase,Positive
+Telehandler,reach forklift rental,Phrase,Positive
+Telehandler,zoom boom rental,Phrase,Positive
+Telehandler,telescopic handler rental,Phrase,Positive
+Telehandler,telehandler forklift rental,Phrase,Positive
+Telehandler,14000 lb telehandler,Phrase,Positive
+Telehandler,14k telehandler rental,Phrase,Positive
+Telehandler,15000 lb telehandler,Phrase,Positive
+Telehandler,15k telehandler rental,Phrase,Positive
+Telehandler,10000 lb telehandler,Phrase,Positive
+Telehandler,44 ft reach forklift,Phrase,Positive
+Telehandler,56 ft telehandler,Phrase,Positive
+Telehandler,high reach forklift,Phrase,Positive
+Telehandler,tall telehandler rental,Phrase,Positive
+Telehandler,telehandler rental texas,Phrase,Positive
+Telehandler,telehandler rental kansas,Phrase,Positive
+Telehandler,telehandler rental near me,Phrase,Positive
+Telehandler,telehandler for rent,Phrase,Positive
+Telehandler,rent telehandler,Phrase,Positive
+Telehandler,telehandler hire,Phrase,Positive
+Telehandler,rent a telehandler,Phrase,Positive
+Telehandler,construction telehandler rental,Phrase,Positive
+Telehandler,-canada,Negative,Negative
+Telehandler,-jobs,Negative,Negative
+Telehandler,-operator,Negative,Negative
+Telehandler,-parts,Negative,Negative
+Telehandler,-for sale,Negative,Negative
+Telehandler,-training,Negative,Negative
+Telehandler,-certification,Negative,Negative
+Telehandler,-forklift attachments,Negative,Negative
+Telehandler,-attachments only,Negative,Negative
+Telehandler,-toy,Negative,Negative
+Loader,wheel loader rental,Phrase,Positive
+Loader,front end loader rental,Phrase,Positive
+Loader,payloader rental,Phrase,Positive
+Loader,skid steer rental,Phrase,Positive
+Loader,compact loader rental,Phrase,Positive
+Loader,track loader rental,Phrase,Positive
+Loader,compact track loader,Phrase,Positive
+Loader,bobcat rental,Phrase,Positive
+Loader,skid loader rental,Phrase,Positive
+Loader,loader rental near me,Phrase,Positive
+Loader,skid steer rental near me,Phrase,Positive
+Loader,wheel loader rental texas,Phrase,Positive
+Loader,loader for rent,Phrase,Positive
+Loader,rent wheel loader,Phrase,Positive
+Loader,rent skid steer,Phrase,Positive
+Loader,construction loader rental,Phrase,Positive
+Loader,farm loader rental,Phrase,Positive
+Loader,loader rental,Phrase,Positive
+Loader,-canada,Negative,Negative
+Loader,-jobs,Negative,Negative
+Loader,-operator,Negative,Negative
+Loader,-attachments only,Negative,Negative
+Loader,-bucket only,Negative,Negative
+Loader,-parts,Negative,Negative
+Loader,-for sale,Negative,Negative
+Loader,-training,Negative,Negative
+Loader,-certification,Negative,Negative
+Scissor-Lift,scissor lift rental,Phrase,Positive
+Scissor-Lift,rough terrain scissor lift,Phrase,Positive
+Scissor-Lift,electric scissor lift rental,Phrase,Positive
+Scissor-Lift,narrow scissor lift,Phrase,Positive
+Scissor-Lift,indoor scissor lift,Phrase,Positive
+Scissor-Lift,outdoor scissor lift,Phrase,Positive
+Scissor-Lift,tall scissor lift rental,Phrase,Positive
+Scissor-Lift,low scissor lift rental,Phrase,Positive
+Scissor-Lift,20 ft scissor lift,Phrase,Positive
+Scissor-Lift,25 ft scissor lift,Phrase,Positive
+Scissor-Lift,30 ft scissor lift,Phrase,Positive
+Scissor-Lift,scissor lift rental near me,Phrase,Positive
+Scissor-Lift,scissor lift for rent,Phrase,Positive
+Scissor-Lift,rent scissor lift,Phrase,Positive
+Scissor-Lift,scissor lift hire,Phrase,Positive
+Scissor-Lift,scissor lift rental,Phrase,Positive
+Scissor-Lift,-canada,Negative,Negative
+Scissor-Lift,-jobs,Negative,Negative
+Scissor-Lift,-training,Negative,Negative
+Scissor-Lift,-certification,Negative,Negative
+Scissor-Lift,-parts,Negative,Negative
+Scissor-Lift,-for sale,Negative,Negative
+Scissor-Lift,-boom lift,Negative,Negative
+Scissor-Lift,-aerial lift,Negative,Negative
+Scissor-Lift,-cherry picker,Negative,Negative
+Scissor-Lift,-operator,Negative,Negative
+Backhoe,backhoe rental,Phrase,Positive
+Backhoe,backhoe rental near me,Phrase,Positive
+Backhoe,backhoe rental cost,Phrase,Positive
+Backhoe,backhoe loader rental,Phrase,Positive
+Backhoe,construction backhoe rental,Phrase,Positive
+Backhoe,rent backhoe,Phrase,Positive
+Backhoe,backhoe for rent,Phrase,Positive
+Backhoe,backhoe hire,Phrase,Positive
+Backhoe,rent a backhoe,Phrase,Positive
+Backhoe,-canada,Negative,Negative
+Backhoe,-jobs,Negative,Negative
+Backhoe,-operator,Negative,Negative
+Backhoe,-parts,Negative,Negative
+Backhoe,-for sale,Negative,Negative
+Backhoe,-training,Negative,Negative
+Backhoe,-certification,Negative,Negative
+Excavator,excavator rental,Phrase,Positive
+Excavator,mini excavator rental,Phrase,Positive
+Excavator,compact excavator rental,Phrase,Positive
+Excavator,large excavator rental,Phrase,Positive
+Excavator,50 ton excavator,Phrase,Positive
+Excavator,excavator rental near me,Phrase,Positive
+Excavator,excavator for rent,Phrase,Positive
+Excavator,rent excavator,Phrase,Positive
+Excavator,rent mini excavator,Phrase,Positive
+Excavator,small excavator rental,Phrase,Positive
+Excavator,-canada,Negative,Negative
+Excavator,-jobs,Negative,Negative
+Excavator,-operator,Negative,Negative
+Excavator,-parts,Negative,Negative
+Excavator,-for sale,Negative,Negative
+Excavator,-training,Negative,Negative
+Excavator,-certification,Negative,Negative
+Excavator,-toy,Negative,Negative
+DSA,-canada,Negative,Negative
+DSA,-canadian,Negative,Negative
+DSA,-toronto,Negative,Negative
+DSA,-vancouver,Negative,Negative
+DSA,-montreal,Negative,Negative
+DSA,-quebec,Negative,Negative
+DSA,-alberta,Negative,Negative
+DSA,-ontario,Negative,Negative
+DSA,-british columbia,Negative,Negative
+DSA,-trailer,Negative,Negative
+DSA,-truck rental,Negative,Negative
+DSA,-car rental,Negative,Negative
+DSA,-suv rental,Negative,Negative
+DSA,-motorcycle,Negative,Negative
+DSA,-van rental,Negative,Negative
+DSA,-jobs,Negative,Negative
+DSA,-hiring,Negative,Negative
+DSA,-employment,Negative,Negative
+DSA,-career,Negative,Negative
+DSA,-resume,Negative,Negative
+DSA,-apply,Negative,Negative
+DSA,-parts,Negative,Negative
+DSA,-for sale,Negative,Negative
+DSA,-buy,Negative,Negative
+DSA,-purchase equipment,Negative,Negative
+DSA,-used equipment,Negative,Negative
+DSA,-equipment sales,Negative,Negative
+DSA,-toy,Negative,Negative
+DSA,-model,Negative,Negative
+DSA,-miniature,Negative,Negative
+DSA,-rc,Negative,Negative
+DSA,-remote control,Negative,Negative
+DSA,-video game,Negative,Negative
+DSA,-game,Negative,Negative
+DSA,-uk,Negative,Negative
+DSA,-europe,Negative,Negative
+DSA,-asia,Negative,Negative
+DSA,-australia,Negative,Negative
+DSA,-mexico,Negative,Negative
+DSA,-training,Negative,Negative
+DSA,-certification,Negative,Negative
+DSA,-operator,Negative,Negative
+DSA,-license,Negative,Negative
+DSA,-school,Negative,Negative
+Brand,dozr,Exact,Positive
+Brand,dozr rental,Exact,Positive
+Brand,dozr.com,Exact,Positive
+Brand,dozr equipment,Phrase,Positive
+Brand,dozr equipment rental,Phrase,Positive
+Brand,-united rentals,Negative,Negative
+Brand,-sunbelt,Negative,Negative
+Brand,-herc,Negative,Negative
+Brand,-home depot,Negative,Negative
+Brand,-lowes,Negative,Negative
+Brand,-cat rental,Negative,Negative
+Brand,-caterpillar rental store,Negative,Negative
+Brand,-sunbelt rentals,Negative,Negative
+Brand,-united rentals near me,Negative,Negative

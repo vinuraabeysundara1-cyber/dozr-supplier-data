@@ -1,0 +1,28 @@
+Keyword,Match Type,Type
+wheel loader rental,Phrase,Positive
+front end loader rental,Phrase,Positive
+payloader rental,Phrase,Positive
+skid steer rental,Phrase,Positive
+compact loader rental,Phrase,Positive
+track loader rental,Phrase,Positive
+compact track loader,Phrase,Positive
+bobcat rental,Phrase,Positive
+skid loader rental,Phrase,Positive
+loader rental near me,Phrase,Positive
+skid steer rental near me,Phrase,Positive
+wheel loader rental texas,Phrase,Positive
+loader for rent,Phrase,Positive
+rent wheel loader,Phrase,Positive
+rent skid steer,Phrase,Positive
+construction loader rental,Phrase,Positive
+farm loader rental,Phrase,Positive
+loader rental,Phrase,Positive
+-canada,Negative,Negative
+-jobs,Negative,Negative
+-operator,Negative,Negative
+-attachments only,Negative,Negative
+-bucket only,Negative,Negative
+-parts,Negative,Negative
+-for sale,Negative,Negative
+-training,Negative,Negative
+-certification,Negative,Negative

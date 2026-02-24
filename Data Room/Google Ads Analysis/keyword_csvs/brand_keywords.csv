@@ -1,0 +1,15 @@
+Keyword,Match Type,Type
+dozr,Exact,Positive
+dozr rental,Exact,Positive
+dozr.com,Exact,Positive
+dozr equipment,Phrase,Positive
+dozr equipment rental,Phrase,Positive
+-united rentals,Negative,Negative
+-sunbelt,Negative,Negative
+-herc,Negative,Negative
+-home depot,Negative,Negative
+-lowes,Negative,Negative
+-cat rental,Negative,Negative
+-caterpillar rental store,Negative,Negative
+-sunbelt rentals,Negative,Negative
+-united rentals near me,Negative,Negative

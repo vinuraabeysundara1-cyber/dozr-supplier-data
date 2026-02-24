@@ -1,0 +1,17 @@
+Keyword,Match Type,Type
+backhoe rental,Phrase,Positive
+backhoe rental near me,Phrase,Positive
+backhoe rental cost,Phrase,Positive
+backhoe loader rental,Phrase,Positive
+construction backhoe rental,Phrase,Positive
+rent backhoe,Phrase,Positive
+backhoe for rent,Phrase,Positive
+backhoe hire,Phrase,Positive
+rent a backhoe,Phrase,Positive
+-canada,Negative,Negative
+-jobs,Negative,Negative
+-operator,Negative,Negative
+-parts,Negative,Negative
+-for sale,Negative,Negative
+-training,Negative,Negative
+-certification,Negative,Negative

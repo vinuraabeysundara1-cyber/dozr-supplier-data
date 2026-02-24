@@ -1,0 +1,19 @@
+Keyword,Match Type,Type
+excavator rental,Phrase,Positive
+mini excavator rental,Phrase,Positive
+compact excavator rental,Phrase,Positive
+large excavator rental,Phrase,Positive
+50 ton excavator,Phrase,Positive
+excavator rental near me,Phrase,Positive
+excavator for rent,Phrase,Positive
+rent excavator,Phrase,Positive
+rent mini excavator,Phrase,Positive
+small excavator rental,Phrase,Positive
+-canada,Negative,Negative
+-jobs,Negative,Negative
+-operator,Negative,Negative
+-parts,Negative,Negative
+-for sale,Negative,Negative
+-training,Negative,Negative
+-certification,Negative,Negative
+-toy,Negative,Negative
